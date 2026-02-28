@@ -1,0 +1,2950 @@
+{
+  "number": "54",
+  "name": "National Park Service And Related Programs",
+  "identifier": "/us/usc/t54",
+  "version": "Online@119-73not60",
+  "updated": "2025-12-03",
+  "children": [
+    {
+      "type": "subtitle",
+      "number": "I",
+      "heading": "National Park System",
+      "identifier": "/us/usc/t54/stI",
+      "children": [
+        {
+          "type": "division",
+          "number": "A",
+          "heading": "ESTABLISHMENT AND GENERAL ADMINISTRATION",
+          "identifier": "/us/usc/t54/stI/dA",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "1001",
+              "heading": "GENERAL PROVISIONS",
+              "identifier": "/us/usc/t54/stI/dA/ch1001",
+              "children": [
+                {
+                  "number": "100101",
+                  "numText": "§ 100101.",
+                  "heading": "Promotion and regulation",
+                  "identifier": "/us/usc/t54/s100101"
+                },
+                {
+                  "number": "100102",
+                  "numText": "§ 100102.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t54/s100102"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1003",
+              "heading": "ESTABLISHMENT, DIRECTORS, AND OTHER EMPLOYEES",
+              "identifier": "/us/usc/t54/stI/dA/ch1003",
+              "children": [
+                {
+                  "number": "100301",
+                  "numText": "§ 100301.",
+                  "heading": "Establishment",
+                  "identifier": "/us/usc/t54/s100301"
+                },
+                {
+                  "number": "100302",
+                  "numText": "§ 100302.",
+                  "heading": "Directors and other employees",
+                  "identifier": "/us/usc/t54/s100302"
+                },
+                {
+                  "number": "100303",
+                  "numText": "§ 100303.",
+                  "heading": "Effect on other laws",
+                  "identifier": "/us/usc/t54/s100303"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1005",
+              "heading": "AREAS OF NATIONAL PARK SYSTEM",
+              "identifier": "/us/usc/t54/stI/dA/ch1005",
+              "children": [
+                {
+                  "number": "100501",
+                  "numText": "§ 100501.",
+                  "heading": "Areas included in System",
+                  "identifier": "/us/usc/t54/s100501"
+                },
+                {
+                  "number": "100502",
+                  "numText": "§ 100502.",
+                  "heading": "General management plans",
+                  "identifier": "/us/usc/t54/s100502"
+                },
+                {
+                  "number": "100503",
+                  "numText": "§ 100503.",
+                  "heading": "Five-year strategic plans",
+                  "identifier": "/us/usc/t54/s100503"
+                },
+                {
+                  "number": "100504",
+                  "numText": "§ 100504.",
+                  "heading": "Study and planning of park, parkway, and recreational-area facilities",
+                  "identifier": "/us/usc/t54/s100504"
+                },
+                {
+                  "number": "100505",
+                  "numText": "§ 100505.",
+                  "heading": "Periodic review of System",
+                  "identifier": "/us/usc/t54/s100505"
+                },
+                {
+                  "number": "100506",
+                  "numText": "§ 100506.",
+                  "heading": "Boundary changes to System units",
+                  "identifier": "/us/usc/t54/s100506"
+                },
+                {
+                  "number": "100507",
+                  "numText": "§ 100507.",
+                  "heading": "Additional areas for System",
+                  "identifier": "/us/usc/t54/s100507"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1007",
+              "heading": "RESOURCE MANAGEMENT",
+              "identifier": "/us/usc/t54/stI/dA/ch1007",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "SYSTEM RESOURCE INVENTORY AND MANAGEMENT",
+                  "identifier": "/us/usc/t54/stI/dA/ch1007/schI",
+                  "children": [
+                    {
+                      "number": "100701",
+                      "numText": "§ 100701.",
+                      "heading": "Protection, interpretation, and research in System",
+                      "identifier": "/us/usc/t54/s100701"
+                    },
+                    {
+                      "number": "100702",
+                      "numText": "§ 100702.",
+                      "heading": "Research mandate",
+                      "identifier": "/us/usc/t54/s100702"
+                    },
+                    {
+                      "number": "100703",
+                      "numText": "§ 100703.",
+                      "heading": "Cooperative study units",
+                      "identifier": "/us/usc/t54/s100703"
+                    },
+                    {
+                      "number": "100704",
+                      "numText": "§ 100704.",
+                      "heading": "Inventory and monitoring program",
+                      "identifier": "/us/usc/t54/s100704"
+                    },
+                    {
+                      "number": "100705",
+                      "numText": "§ 100705.",
+                      "heading": "Availability of System units for scientific study",
+                      "identifier": "/us/usc/t54/s100705"
+                    },
+                    {
+                      "number": "100706",
+                      "numText": "§ 100706.",
+                      "heading": "Integration of study results into management decisions",
+                      "identifier": "/us/usc/t54/s100706"
+                    },
+                    {
+                      "number": "100707",
+                      "numText": "§ 100707.",
+                      "heading": "Confidentiality of information",
+                      "identifier": "/us/usc/t54/s100707"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "SYSTEM UNIT RESOURCE PROTECTION",
+                  "identifier": "/us/usc/t54/stI/dA/ch1007/schII",
+                  "children": [
+                    {
+                      "number": "100721",
+                      "numText": "§ 100721.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s100721"
+                    },
+                    {
+                      "number": "100722",
+                      "numText": "§ 100722.",
+                      "heading": "Liability",
+                      "identifier": "/us/usc/t54/s100722"
+                    },
+                    {
+                      "number": "100723",
+                      "numText": "§ 100723.",
+                      "heading": "Actions",
+                      "identifier": "/us/usc/t54/s100723"
+                    },
+                    {
+                      "number": "100724",
+                      "numText": "§ 100724.",
+                      "heading": "Use of recovered amounts",
+                      "identifier": "/us/usc/t54/s100724"
+                    },
+                    {
+                      "number": "100725",
+                      "numText": "§ 100725.",
+                      "heading": "Donations",
+                      "identifier": "/us/usc/t54/s100725"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "MINING ACTIVITY WITHIN SYSTEM UNITS",
+                  "identifier": "/us/usc/t54/stI/dA/ch1007/schIII",
+                  "children": [
+                    {
+                      "number": "100731",
+                      "numText": "§ 100731.",
+                      "heading": "Findings and declaration",
+                      "identifier": "/us/usc/t54/s100731"
+                    },
+                    {
+                      "number": "100732",
+                      "numText": "§ 100732.",
+                      "heading": "Preservation and management of System units by Secretary; promulgation of regulations",
+                      "identifier": "/us/usc/t54/s100732"
+                    },
+                    {
+                      "number": "100733",
+                      "numText": "§ 100733.",
+                      "heading": "Recordation of mining claims; publication of notice",
+                      "identifier": "/us/usc/t54/s100733"
+                    },
+                    {
+                      "number": "100734",
+                      "numText": "§ 100734.",
+                      "heading": "Report on finding or notification of potential damage to natural and historical landmarks",
+                      "identifier": "/us/usc/t54/s100734"
+                    },
+                    {
+                      "number": "100735",
+                      "numText": "§ 100735.",
+                      "heading": "Civil actions for just compensation by mining claim holders",
+                      "identifier": "/us/usc/t54/s100735"
+                    },
+                    {
+                      "number": "100736",
+                      "numText": "§ 100736.",
+                      "heading": "Acquisition of land by Secretary",
+                      "identifier": "/us/usc/t54/s100736"
+                    },
+                    {
+                      "number": "100737",
+                      "numText": "§ 100737.",
+                      "heading": "Financial disclosure by officer or employee of Secretary",
+                      "identifier": "/us/usc/t54/s100737"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "IV",
+                  "heading": "ADMINISTRATION",
+                  "identifier": "/us/usc/t54/stI/dA/ch1007/schIV",
+                  "children": [
+                    {
+                      "number": "100751",
+                      "numText": "§ 100751.",
+                      "heading": "Regulations",
+                      "identifier": "/us/usc/t54/s100751"
+                    },
+                    {
+                      "number": "100752",
+                      "numText": "§ 100752.",
+                      "heading": "Destruction of animals and plant life",
+                      "identifier": "/us/usc/t54/s100752"
+                    },
+                    {
+                      "number": "100753",
+                      "numText": "§ 100753.",
+                      "heading": "Disposal of timber",
+                      "identifier": "/us/usc/t54/s100753"
+                    },
+                    {
+                      "number": "100754",
+                      "numText": "§ 100754.",
+                      "heading": "Relinquishment of legislative jurisdiction",
+                      "identifier": "/us/usc/t54/s100754"
+                    },
+                    {
+                      "number": "100755",
+                      "numText": "§ 100755.",
+                      "heading": "Applicability of other laws",
+                      "identifier": "/us/usc/t54/s100755"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1008",
+              "heading": "EDUCATION AND INTERPRETATION",
+              "identifier": "/us/usc/t54/stI/dA/ch1008",
+              "children": [
+                {
+                  "number": "100801",
+                  "numText": "§ 100801.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t54/s100801"
+                },
+                {
+                  "number": "100802",
+                  "numText": "§ 100802.",
+                  "heading": "Interpretation and education authority",
+                  "identifier": "/us/usc/t54/s100802"
+                },
+                {
+                  "number": "100803",
+                  "numText": "§ 100803.",
+                  "heading": "Interpretation and education evaluation and quality improvement",
+                  "identifier": "/us/usc/t54/s100803"
+                },
+                {
+                  "number": "100804",
+                  "numText": "§ 100804.",
+                  "heading": "Improved use of partners and volunteers in interpretation and education",
+                  "identifier": "/us/usc/t54/s100804"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1009",
+              "heading": "ADMINISTRATION",
+              "identifier": "/us/usc/t54/stI/dA/ch1009",
+              "children": [
+                {
+                  "number": "100901",
+                  "numText": "§ 100901.",
+                  "heading": "Authority of Secretary to carry out certain activities",
+                  "identifier": "/us/usc/t54/s100901"
+                },
+                {
+                  "number": "100902",
+                  "numText": "§ 100902.",
+                  "heading": "Rights of way for public utilities and power and communication facilities",
+                  "identifier": "/us/usc/t54/s100902"
+                },
+                {
+                  "number": "100903",
+                  "numText": "§ 100903.",
+                  "heading": "Solid waste disposal operations",
+                  "identifier": "/us/usc/t54/s100903"
+                },
+                {
+                  "number": "100904",
+                  "numText": "§ 100904.",
+                  "heading": "Admission and special recreation use fees",
+                  "identifier": "/us/usc/t54/s100904"
+                },
+                {
+                  "number": "100905",
+                  "numText": "§ 100905.",
+                  "heading": "Filming and still photography in System units",
+                  "identifier": "/us/usc/t54/s100905"
+                },
+                {
+                  "number": "100906",
+                  "numText": "§ 100906.",
+                  "heading": "Advisory committees",
+                  "identifier": "/us/usc/t54/s100906"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1011",
+              "heading": "DONATIONS",
+              "identifier": "/us/usc/t54/stI/dA/ch1011",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "AUTHORITY OF SECRETARY",
+                  "identifier": "/us/usc/t54/stI/dA/ch1011/schI",
+                  "children": [
+                    {
+                      "number": "101101",
+                      "numText": "§ 101101.",
+                      "heading": "Authority to accept land, rights-of-way, buildings, other property, and money",
+                      "identifier": "/us/usc/t54/s101101"
+                    },
+                    {
+                      "number": "101102",
+                      "numText": "§ 101102.",
+                      "heading": "Authority to accept and use funds to consolidate Federal land ownership",
+                      "identifier": "/us/usc/t54/s101102"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "NATIONAL PARK FOUNDATION",
+                  "identifier": "/us/usc/t54/stI/dA/ch1011/schII",
+                  "children": [
+                    {
+                      "number": "101111",
+                      "numText": "§ 101111.",
+                      "heading": "Purpose and establishment of Foundation",
+                      "identifier": "/us/usc/t54/s101111"
+                    },
+                    {
+                      "number": "101112",
+                      "numText": "§ 101112.",
+                      "heading": "Board",
+                      "identifier": "/us/usc/t54/s101112"
+                    },
+                    {
+                      "number": "101113",
+                      "numText": "§ 101113.",
+                      "heading": "Gifts, devises, or bequests",
+                      "identifier": "/us/usc/t54/s101113"
+                    },
+                    {
+                      "number": "101114",
+                      "numText": "§ 101114.",
+                      "heading": "Disposition of property or income",
+                      "identifier": "/us/usc/t54/s101114"
+                    },
+                    {
+                      "number": "101115",
+                      "numText": "§ 101115.",
+                      "heading": "Corporate succession and powers and duties acting as trustee; personal liability for malfeasance",
+                      "identifier": "/us/usc/t54/s101115"
+                    },
+                    {
+                      "number": "101116",
+                      "numText": "§ 101116.",
+                      "heading": "Corporate powers",
+                      "identifier": "/us/usc/t54/s101116"
+                    },
+                    {
+                      "number": "101117",
+                      "numText": "§ 101117.",
+                      "heading": "Authority of Board",
+                      "identifier": "/us/usc/t54/s101117"
+                    },
+                    {
+                      "number": "101118",
+                      "numText": "§ 101118.",
+                      "heading": "Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States",
+                      "identifier": "/us/usc/t54/s101118"
+                    },
+                    {
+                      "number": "101119",
+                      "numText": "§ 101119.",
+                      "heading": "Liability of United States",
+                      "identifier": "/us/usc/t54/s101119"
+                    },
+                    {
+                      "number": "101120",
+                      "numText": "§ 101120.",
+                      "heading": "Promotion of local fundraising support",
+                      "identifier": "/us/usc/t54/s101120"
+                    },
+                    {
+                      "number": "101121",
+                      "numText": "§ 101121.",
+                      "heading": "Second Century Endowment for the National Park Service",
+                      "identifier": "/us/usc/t54/s101121"
+                    },
+                    {
+                      "number": "101122",
+                      "numText": "§ 101122.",
+                      "heading": "Authorization of appropriations; use of funds",
+                      "identifier": "/us/usc/t54/s101122"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1013",
+              "heading": "EMPLOYEES",
+              "identifier": "/us/usc/t54/stI/dA/ch1013",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "GENERAL PROVISIONS",
+                  "identifier": "/us/usc/t54/stI/dA/ch1013/schI",
+                  "children": [
+                    {
+                      "number": "101301",
+                      "numText": "§ 101301.",
+                      "heading": "Maintenance management system",
+                      "identifier": "/us/usc/t54/s101301"
+                    },
+                    {
+                      "number": "101302",
+                      "numText": "§ 101302.",
+                      "heading": "Authority of Secretary to carry out certain activities",
+                      "identifier": "/us/usc/t54/s101302"
+                    },
+                    {
+                      "number": "101303",
+                      "numText": "§ 101303.",
+                      "heading": "Medical attention for employees",
+                      "identifier": "/us/usc/t54/s101303"
+                    },
+                    {
+                      "number": "101304",
+                      "numText": "§ 101304.",
+                      "heading": "Personal equipment and property",
+                      "identifier": "/us/usc/t54/s101304"
+                    },
+                    {
+                      "number": "101305",
+                      "numText": "§ 101305.",
+                      "heading": "Travel expenses of System employees and dependents of deceased employees",
+                      "identifier": "/us/usc/t54/s101305"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "SERVICE CAREER DEVELOPMENT, TRAINING, AND MANAGEMENT",
+                  "identifier": "/us/usc/t54/stI/dA/ch1013/schII",
+                  "children": [
+                    {
+                      "number": "101321",
+                      "numText": "§ 101321.",
+                      "heading": "Service employee training",
+                      "identifier": "/us/usc/t54/s101321"
+                    },
+                    {
+                      "number": "101322",
+                      "numText": "§ 101322.",
+                      "heading": "Management development and training",
+                      "identifier": "/us/usc/t54/s101322"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "HOUSING IMPROVEMENT",
+                  "identifier": "/us/usc/t54/stI/dA/ch1013/schIII",
+                  "children": [
+                    {
+                      "number": "101331",
+                      "numText": "§ 101331.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s101331"
+                    },
+                    {
+                      "number": "101332",
+                      "numText": "§ 101332.",
+                      "heading": "General authority of Secretary",
+                      "identifier": "/us/usc/t54/s101332"
+                    },
+                    {
+                      "number": "101333",
+                      "numText": "§ 101333.",
+                      "heading": "Criteria for providing housing",
+                      "identifier": "/us/usc/t54/s101333"
+                    },
+                    {
+                      "number": "101334",
+                      "numText": "§ 101334.",
+                      "heading": "Authorization for housing agreements",
+                      "identifier": "/us/usc/t54/s101334"
+                    },
+                    {
+                      "number": "101335",
+                      "numText": "§ 101335.",
+                      "heading": "Housing programs",
+                      "identifier": "/us/usc/t54/s101335"
+                    },
+                    {
+                      "number": "101336",
+                      "numText": "§ 101336.",
+                      "heading": "Contracts for the management of field employee quarters",
+                      "identifier": "/us/usc/t54/s101336"
+                    },
+                    {
+                      "number": "101337",
+                      "numText": "§ 101337.",
+                      "heading": "Leasing of seasonal employee quarters",
+                      "identifier": "/us/usc/t54/s101337"
+                    },
+                    {
+                      "number": "101338",
+                      "numText": "§ 101338.",
+                      "heading": "General leasing provisions",
+                      "identifier": "/us/usc/t54/s101338"
+                    },
+                    {
+                      "number": "101339",
+                      "numText": "§ 101339.",
+                      "heading": "Assessment and priority listing",
+                      "identifier": "/us/usc/t54/s101339"
+                    },
+                    {
+                      "number": "101340",
+                      "numText": "§ 101340.",
+                      "heading": "Use of funds",
+                      "identifier": "/us/usc/t54/s101340"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1015",
+              "heading": "TRANSPORTATION",
+              "identifier": "/us/usc/t54/stI/dA/ch1015",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "AIRPORTS",
+                  "identifier": "/us/usc/t54/stI/dA/ch1015/schI",
+                  "children": [
+                    {
+                      "number": "101501",
+                      "numText": "§ 101501.",
+                      "heading": "Airports in or near System units",
+                      "identifier": "/us/usc/t54/s101501"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "ROADS AND TRAILS",
+                  "identifier": "/us/usc/t54/stI/dA/ch1015/schII",
+                  "children": [
+                    {
+                      "number": "101511",
+                      "numText": "§ 101511.",
+                      "heading": "Authority of Secretary",
+                      "identifier": "/us/usc/t54/s101511"
+                    },
+                    {
+                      "number": "101512",
+                      "numText": "§ 101512.",
+                      "heading": "Conveyance to States of roads leading to certain historical areas",
+                      "identifier": "/us/usc/t54/s101512"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "PUBLIC TRANSPORTATION PROGRAMS FOR SYSTEM UNITS",
+                  "identifier": "/us/usc/t54/stI/dA/ch1015/schIII",
+                  "children": [
+                    {
+                      "number": "101521",
+                      "numText": "§ 101521.",
+                      "heading": "Transportation service and facility programs",
+                      "identifier": "/us/usc/t54/s101521"
+                    },
+                    {
+                      "number": "101522",
+                      "numText": "§ 101522.",
+                      "heading": "Transportation projects",
+                      "identifier": "/us/usc/t54/s101522"
+                    },
+                    {
+                      "number": "101523",
+                      "numText": "§ 101523.",
+                      "heading": "Procedures applicable to transportation plans and projects",
+                      "identifier": "/us/usc/t54/s101523"
+                    },
+                    {
+                      "number": "101524",
+                      "numText": "§ 101524.",
+                      "heading": "Special rule for service contract to provide transportation services",
+                      "identifier": "/us/usc/t54/s101524"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "IV",
+                  "heading": "FEES",
+                  "identifier": "/us/usc/t54/stI/dA/ch1015/schIV",
+                  "children": [
+                    {
+                      "number": "101531",
+                      "numText": "§ 101531.",
+                      "heading": "Fee for use of transportation services",
+                      "identifier": "/us/usc/t54/s101531"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1017",
+              "heading": "FINANCIAL AGREEMENTS",
+              "identifier": "/us/usc/t54/stI/dA/ch1017",
+              "children": [
+                {
+                  "number": "101701",
+                  "numText": "§ 101701.",
+                  "heading": "Challenge cost-share agreement authority",
+                  "identifier": "/us/usc/t54/s101701"
+                },
+                {
+                  "number": "101702",
+                  "numText": "§ 101702.",
+                  "heading": "Cooperative agreements",
+                  "identifier": "/us/usc/t54/s101702"
+                },
+                {
+                  "number": "101703",
+                  "numText": "§ 101703.",
+                  "heading": "Cooperative management agreements",
+                  "identifier": "/us/usc/t54/s101703"
+                },
+                {
+                  "number": "101704",
+                  "numText": "§ 101704.",
+                  "heading": "Reimbursable agreements",
+                  "identifier": "/us/usc/t54/s101704"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1019",
+              "heading": "CONCESSIONS AND COMMERCIAL USE AUTHORIZATIONS",
+              "identifier": "/us/usc/t54/stI/dA/ch1019",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "AUTHORITY OF SECRETARY",
+                  "identifier": "/us/usc/t54/stI/dA/ch1019/schI",
+                  "children": [
+                    {
+                      "number": "101901",
+                      "numText": "§ 101901.",
+                      "heading": "Utility services",
+                      "identifier": "/us/usc/t54/s101901"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "COMMERCIAL VISITOR SERVICES",
+                  "identifier": "/us/usc/t54/stI/dA/ch1019/schII",
+                  "children": [
+                    {
+                      "number": "101911",
+                      "numText": "§ 101911.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s101911"
+                    },
+                    {
+                      "number": "101912",
+                      "numText": "§ 101912.",
+                      "heading": "Findings and declaration of policy",
+                      "identifier": "/us/usc/t54/s101912"
+                    },
+                    {
+                      "number": "101913",
+                      "numText": "§ 101913.",
+                      "heading": "Award of concession contracts",
+                      "identifier": "/us/usc/t54/s101913"
+                    },
+                    {
+                      "number": "101914",
+                      "numText": "§ 101914.",
+                      "heading": "Term of concession contracts",
+                      "identifier": "/us/usc/t54/s101914"
+                    },
+                    {
+                      "number": "101915",
+                      "numText": "§ 101915.",
+                      "heading": "Protection of concessioner investment",
+                      "identifier": "/us/usc/t54/s101915"
+                    },
+                    {
+                      "number": "101916",
+                      "numText": "§ 101916.",
+                      "heading": "Reasonableness of rates and charges",
+                      "identifier": "/us/usc/t54/s101916"
+                    },
+                    {
+                      "number": "101917",
+                      "numText": "§ 101917.",
+                      "heading": "Franchise fees",
+                      "identifier": "/us/usc/t54/s101917"
+                    },
+                    {
+                      "number": "101918",
+                      "numText": "§ 101918.",
+                      "heading": "Transfer or conveyance of concession contracts or leasehold surrender interests",
+                      "identifier": "/us/usc/t54/s101918"
+                    },
+                    {
+                      "number": "101919",
+                      "numText": "§ 101919.",
+                      "heading": "National Park Service Concessions Management Advisory Board",
+                      "identifier": "/us/usc/t54/s101919"
+                    },
+                    {
+                      "number": "101920",
+                      "numText": "§ 101920.",
+                      "heading": "Contracting for services",
+                      "identifier": "/us/usc/t54/s101920"
+                    },
+                    {
+                      "number": "101921",
+                      "numText": "§ 101921.",
+                      "heading": "Multiple contracts within a System unit",
+                      "identifier": "/us/usc/t54/s101921"
+                    },
+                    {
+                      "number": "101922",
+                      "numText": "§ 101922.",
+                      "heading": "Use of nonmonetary consideration in concession contracts",
+                      "identifier": "/us/usc/t54/s101922"
+                    },
+                    {
+                      "number": "101923",
+                      "numText": "§ 101923.",
+                      "heading": "Recordkeeping requirements",
+                      "identifier": "/us/usc/t54/s101923"
+                    },
+                    {
+                      "number": "101924",
+                      "numText": "§ 101924.",
+                      "heading": "Promotion of sale of Indian, Alaska Native, Native Samoan, and Native Hawaiian handicrafts",
+                      "identifier": "/us/usc/t54/s101924"
+                    },
+                    {
+                      "number": "101925",
+                      "numText": "§ 101925.",
+                      "heading": "Commercial use authorizations",
+                      "identifier": "/us/usc/t54/s101925"
+                    },
+                    {
+                      "number": "101926",
+                      "numText": "§ 101926.",
+                      "heading": "Regulations",
+                      "identifier": "/us/usc/t54/s101926"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "COMMERCIAL SERVICES AUTHORIZATION",
+                  "identifier": "/us/usc/t54/stI/dA/ch1019/schIII",
+                  "children": [
+                    {
+                      "number": "101931",
+                      "numText": "§ 101931.",
+                      "heading": "Contract authority",
+                      "identifier": "/us/usc/t54/s101931"
+                    },
+                    {
+                      "number": "101932",
+                      "numText": "§ 101932.",
+                      "heading": "Award of commercial services contracts",
+                      "identifier": "/us/usc/t54/s101932"
+                    },
+                    {
+                      "number": "101933",
+                      "numText": "§ 101933.",
+                      "heading": "Term of commercial services contracts",
+                      "identifier": "/us/usc/t54/s101933"
+                    },
+                    {
+                      "number": "101934",
+                      "numText": "§ 101934.",
+                      "heading": "Capital improvements",
+                      "identifier": "/us/usc/t54/s101934"
+                    },
+                    {
+                      "number": "101935",
+                      "numText": "§ 101935.",
+                      "heading": "Financial management",
+                      "identifier": "/us/usc/t54/s101935"
+                    },
+                    {
+                      "number": "101936",
+                      "numText": "§ 101936.",
+                      "heading": "Regulations",
+                      "identifier": "/us/usc/t54/s101936"
+                    },
+                    {
+                      "number": "101937",
+                      "numText": "§ 101937.",
+                      "heading": "Savings provision",
+                      "identifier": "/us/usc/t54/s101937"
+                    },
+                    {
+                      "number": "101938",
+                      "numText": "§ 101938.",
+                      "heading": "Sunset",
+                      "identifier": "/us/usc/t54/s101938"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1021",
+              "heading": "PRIVILEGES AND LEASES",
+              "identifier": "/us/usc/t54/stI/dA/ch1021",
+              "children": [
+                {
+                  "number": "102101",
+                  "numText": "§ 102101.",
+                  "heading": "General provisions",
+                  "identifier": "/us/usc/t54/s102101"
+                },
+                {
+                  "number": "102102",
+                  "numText": "§ 102102.",
+                  "heading": "Authority of Secretary to enter into lease for buildings and associated property",
+                  "identifier": "/us/usc/t54/s102102"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1023",
+              "heading": "PROGRAMS AND ORGANIZATIONS",
+              "identifier": "/us/usc/t54/stI/dA/ch1023",
+              "children": [
+                {
+                  "number": "102301",
+                  "numText": "§ 102301.",
+                  "heading": "Volunteers in parks program",
+                  "identifier": "/us/usc/t54/s102301"
+                },
+                {
+                  "number": "102302",
+                  "numText": "§ 102302.",
+                  "heading": "National Capital region arts and cultural affairs",
+                  "identifier": "/us/usc/t54/s102302"
+                },
+                {
+                  "number": "102303",
+                  "numText": "§ 102303.",
+                  "heading": "National Park System Advisory Board",
+                  "identifier": "/us/usc/t54/s102303"
+                },
+                {
+                  "number": "102304",
+                  "numText": "§ 102304.",
+                  "heading": "National Park Service Advisory Council",
+                  "identifier": "/us/usc/t54/s102304"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1025",
+              "heading": "MUSEUMS",
+              "identifier": "/us/usc/t54/stI/dA/ch1025",
+              "children": [
+                {
+                  "number": "102501",
+                  "numText": "§ 102501.",
+                  "heading": "Purpose",
+                  "identifier": "/us/usc/t54/s102501"
+                },
+                {
+                  "number": "102502",
+                  "numText": "§ 102502.",
+                  "heading": "Definition of museum object",
+                  "identifier": "/us/usc/t54/s102502"
+                },
+                {
+                  "number": "102503",
+                  "numText": "§ 102503.",
+                  "heading": "Authority of Secretary",
+                  "identifier": "/us/usc/t54/s102503"
+                },
+                {
+                  "number": "102504",
+                  "numText": "§ 102504.",
+                  "heading": "Review and approval",
+                  "identifier": "/us/usc/t54/s102504"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1027",
+              "heading": "LAW ENFORCEMENT AND EMERGENCY ASSISTANCE",
+              "identifier": "/us/usc/t54/stI/dA/ch1027",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "LAW ENFORCEMENT",
+                  "identifier": "/us/usc/t54/stI/dA/ch1027/schI",
+                  "children": [
+                    {
+                      "number": "102701",
+                      "numText": "§ 102701.",
+                      "heading": "Law enforcement personnel within System",
+                      "identifier": "/us/usc/t54/s102701"
+                    },
+                    {
+                      "number": "102702",
+                      "numText": "§ 102702.",
+                      "heading": "Crime prevention assistance",
+                      "identifier": "/us/usc/t54/s102702"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "EMERGENCY ASSISTANCE",
+                  "identifier": "/us/usc/t54/stI/dA/ch1027/schII",
+                  "children": [
+                    {
+                      "number": "102711",
+                      "numText": "§ 102711.",
+                      "heading": "Authority of Secretary to use applicable appropriations for the System to render assistance to nearby law enforcement and fire prevention agencies and for related activities outside the System",
+                      "identifier": "/us/usc/t54/s102711"
+                    },
+                    {
+                      "number": "102712",
+                      "numText": "§ 102712.",
+                      "heading": "Aid to visitors, grantees, permittees, or licensees in emergencies",
+                      "identifier": "/us/usc/t54/s102712"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1029",
+              "heading": "LAND TRANSFERS",
+              "identifier": "/us/usc/t54/stI/dA/ch1029",
+              "children": [
+                {
+                  "number": "102901",
+                  "numText": "§ 102901.",
+                  "heading": "Conveyance of property and interests in property in System units or related areas",
+                  "identifier": "/us/usc/t54/s102901"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1031",
+              "heading": "APPROPRIATIONS AND ACCOUNTING",
+              "identifier": "/us/usc/t54/stI/dA/ch1031",
+              "children": [
+                {
+                  "number": "103101",
+                  "numText": "§ 103101.",
+                  "heading": "Availability and use of appropriations",
+                  "identifier": "/us/usc/t54/s103101"
+                },
+                {
+                  "number": "103102",
+                  "numText": "§ 103102.",
+                  "heading": "Appropriations authorized and available for certain purposes",
+                  "identifier": "/us/usc/t54/s103102"
+                },
+                {
+                  "number": "103103",
+                  "numText": "§ 103103.",
+                  "heading": "Amounts provided by private entities for utility services",
+                  "identifier": "/us/usc/t54/s103103"
+                },
+                {
+                  "number": "103104",
+                  "numText": "§ 103104.",
+                  "heading": "Recovery of costs associated with special use permits",
+                  "identifier": "/us/usc/t54/s103104"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1033",
+              "heading": "NATIONAL MILITARY PARKS",
+              "identifier": "/us/usc/t54/stI/dA/ch1033",
+              "children": [
+                {
+                  "number": "103301",
+                  "numText": "§ 103301.",
+                  "heading": "Military maneuvers",
+                  "identifier": "/us/usc/t54/s103301"
+                },
+                {
+                  "number": "103302",
+                  "numText": "§ 103302.",
+                  "heading": "Camps for military instruction",
+                  "identifier": "/us/usc/t54/s103302"
+                },
+                {
+                  "number": "103303",
+                  "numText": "§ 103303.",
+                  "heading": "Performance of duties of commissions",
+                  "identifier": "/us/usc/t54/s103303"
+                },
+                {
+                  "number": "103304",
+                  "numText": "§ 103304.",
+                  "heading": "Recovery of land withheld",
+                  "identifier": "/us/usc/t54/s103304"
+                },
+                {
+                  "number": "103305",
+                  "numText": "§ 103305.",
+                  "heading": "Travel expenses incident to study of battlefields",
+                  "identifier": "/us/usc/t54/s103305"
+                },
+                {
+                  "number": "103306",
+                  "numText": "§ 103306.",
+                  "heading": "Studies",
+                  "identifier": "/us/usc/t54/s103306"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "1035",
+              "heading": "NATIONAL PARK CENTENNIAL CHALLENGE FUND",
+              "identifier": "/us/usc/t54/stI/dA/ch1035",
+              "children": [
+                {
+                  "number": "103501",
+                  "numText": "§ 103501.",
+                  "heading": "Establishment",
+                  "identifier": "/us/usc/t54/s103501"
+                },
+                {
+                  "number": "103502",
+                  "numText": "§ 103502.",
+                  "heading": "Signature projects and programs",
+                  "identifier": "/us/usc/t54/s103502"
+                },
+                {
+                  "number": "103503",
+                  "numText": "§ 103503.",
+                  "heading": "Summary to Congress",
+                  "identifier": "/us/usc/t54/s103503"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "C",
+              "heading": "RESERVED",
+              "identifier": "",
+              "children": []
+            },
+            {
+              "type": "chapter",
+              "number": "1049",
+              "heading": "MISCELLANEOUS",
+              "identifier": "/us/usc/t54/stI/dA/ch1049",
+              "children": [
+                {
+                  "number": "104901",
+                  "numText": "§ 104901.",
+                  "heading": "Central warehouses at System units",
+                  "identifier": "/us/usc/t54/s104901"
+                },
+                {
+                  "number": "104902",
+                  "numText": "§ 104902.",
+                  "heading": "Services or other accommodations for public",
+                  "identifier": "/us/usc/t54/s104902"
+                },
+                {
+                  "number": "104903",
+                  "numText": "§ 104903.",
+                  "heading": "Care, removal, and burial of indigents",
+                  "identifier": "/us/usc/t54/s104903"
+                },
+                {
+                  "number": "104904",
+                  "numText": "§ 104904.",
+                  "heading": "Hire of work animals, vehicles, and equipment with or without personal services",
+                  "identifier": "/us/usc/t54/s104904"
+                },
+                {
+                  "number": "104905",
+                  "numText": "§ 104905.",
+                  "heading": "Preparation of mats for reproduction of photographs",
+                  "identifier": "/us/usc/t54/s104905"
+                },
+                {
+                  "number": "104906",
+                  "numText": "§ 104906.",
+                  "heading": "Protection of right of individuals to bear arms",
+                  "identifier": "/us/usc/t54/s104906"
+                },
+                {
+                  "number": "104907",
+                  "numText": "§ 104907.",
+                  "heading": "Limitation on extension or establishment of national parks in Wyoming",
+                  "identifier": "/us/usc/t54/s104907"
+                },
+                {
+                  "number": "104908",
+                  "numText": "§ 104908.",
+                  "heading": "Bows in parks",
+                  "identifier": "/us/usc/t54/s104908"
+                },
+                {
+                  "number": "104909",
+                  "numText": "§ 104909.",
+                  "heading": "Wildlife management in parks",
+                  "identifier": "/us/usc/t54/s104909"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "division",
+          "number": "B",
+          "heading": "SYSTEM UNITS AND RELATED AREAS—RESERVED",
+          "identifier": "/us/usc/t54/stI/dB",
+          "children": []
+        },
+        {
+          "type": "division",
+          "number": "C",
+          "heading": "NATIONAL HERITAGE AREAS",
+          "identifier": "/us/usc/t54/stI/dC",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "1201",
+              "heading": "NATIONAL HERITAGE AREA SYSTEM",
+              "identifier": "/us/usc/t54/stI/dC/ch1201",
+              "children": [
+                {
+                  "number": "120101",
+                  "numText": "§ 120101.",
+                  "heading": "Definition of National Heritage Area",
+                  "identifier": "/us/usc/t54/s120101"
+                },
+                {
+                  "number": "120102",
+                  "numText": "§ 120102.",
+                  "heading": "Establishment of National Heritage Area System",
+                  "identifier": "/us/usc/t54/s120102"
+                },
+                {
+                  "number": "120103",
+                  "numText": "§ 120103.",
+                  "heading": "National Heritage Area studies and designation",
+                  "identifier": "/us/usc/t54/s120103"
+                },
+                {
+                  "number": "120104",
+                  "numText": "§ 120104.",
+                  "heading": "Evaluation",
+                  "identifier": "/us/usc/t54/s120104"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "II",
+      "heading": "Outdoor Recreation Programs",
+      "identifier": "/us/usc/t54/stII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "2001",
+          "heading": "COORDINATION OF PROGRAMS",
+          "identifier": "/us/usc/t54/stII/ch2001",
+          "children": [
+            {
+              "number": "200101",
+              "numText": "§ 200101.",
+              "heading": "Findings and declaration of policy",
+              "identifier": "/us/usc/t54/s200101"
+            },
+            {
+              "number": "200102",
+              "numText": "§ 200102.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t54/s200102"
+            },
+            {
+              "number": "200103",
+              "numText": "§ 200103.",
+              "heading": "Authority of Secretary to carry out certain functions and activities",
+              "identifier": "/us/usc/t54/s200103"
+            },
+            {
+              "number": "200104",
+              "numText": "§ 200104.",
+              "heading": "Federal interagency council on outdoor recreation 11 So in original. Probably should be capitalized as “Federal Interagency Council on Outdoor Recreation”.",
+              "identifier": "/us/usc/t54/s200104"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "2003",
+          "heading": "LAND AND WATER CONSERVATION FUND",
+          "identifier": "/us/usc/t54/stII/ch2003",
+          "children": [
+            {
+              "number": "200301",
+              "numText": "§ 200301.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t54/s200301"
+            },
+            {
+              "number": "200302",
+              "numText": "§ 200302.",
+              "heading": "Establishment of Land and Water Conservation Fund",
+              "identifier": "/us/usc/t54/s200302"
+            },
+            {
+              "number": "200303",
+              "numText": "§ 200303.",
+              "heading": "Availability of funds",
+              "identifier": "/us/usc/t54/s200303"
+            },
+            {
+              "number": "200304",
+              "numText": "§ 200304.",
+              "heading": "Statement of estimated requirements",
+              "identifier": "/us/usc/t54/s200304"
+            },
+            {
+              "number": "200305",
+              "numText": "§ 200305.",
+              "heading": "Financial assistance to States",
+              "identifier": "/us/usc/t54/s200305"
+            },
+            {
+              "number": "200306",
+              "numText": "§ 200306.",
+              "heading": "Allocation of Fund amounts for Federal purposes",
+              "identifier": "/us/usc/t54/s200306"
+            },
+            {
+              "number": "200307",
+              "numText": "§ 200307.",
+              "heading": "Availability of Fund amounts for publicity purposes",
+              "identifier": "/us/usc/t54/s200307"
+            },
+            {
+              "number": "200308",
+              "numText": "§ 200308.",
+              "heading": "Contracts for acquisition of land and water",
+              "identifier": "/us/usc/t54/s200308"
+            },
+            {
+              "number": "200309",
+              "numText": "§ 200309.",
+              "heading": "Contracts for options to acquire land and water in System",
+              "identifier": "/us/usc/t54/s200309"
+            },
+            {
+              "number": "200310",
+              "numText": "§ 200310.",
+              "heading": "Transfers to and from Fund",
+              "identifier": "/us/usc/t54/s200310"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "2004",
+          "heading": "NATIONAL PARKS AND PUBLIC LAND LEGACY RESTORATION FUND",
+          "identifier": "/us/usc/t54/stII/ch2004",
+          "children": [
+            {
+              "number": "200401",
+              "numText": "§ 200401.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t54/s200401"
+            },
+            {
+              "number": "200402",
+              "numText": "§ 200402.",
+              "heading": "National Parks and Public Land Legacy Restoration Fund",
+              "identifier": "/us/usc/t54/s200402"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "2005",
+          "heading": "URBAN PARK AND RECREATION RECOVERY PROGRAM",
+          "identifier": "/us/usc/t54/stII/ch2005",
+          "children": [
+            {
+              "number": "200501",
+              "numText": "§ 200501.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t54/s200501"
+            },
+            {
+              "number": "200502",
+              "numText": "§ 200502.",
+              "heading": "Federal assistance",
+              "identifier": "/us/usc/t54/s200502"
+            },
+            {
+              "number": "200503",
+              "numText": "§ 200503.",
+              "heading": "Rehabilitation grants and innovation grants",
+              "identifier": "/us/usc/t54/s200503"
+            },
+            {
+              "number": "200504",
+              "numText": "§ 200504.",
+              "heading": "Recovery action programs",
+              "identifier": "/us/usc/t54/s200504"
+            },
+            {
+              "number": "200505",
+              "numText": "§ 200505.",
+              "heading": "State action",
+              "identifier": "/us/usc/t54/s200505"
+            },
+            {
+              "number": "200506",
+              "numText": "§ 200506.",
+              "heading": "Non-Federal share of project costs",
+              "identifier": "/us/usc/t54/s200506"
+            },
+            {
+              "number": "200507",
+              "numText": "§ 200507.",
+              "heading": "Conversion of recreation property",
+              "identifier": "/us/usc/t54/s200507"
+            },
+            {
+              "number": "200508",
+              "numText": "§ 200508.",
+              "heading": "Coordination of program",
+              "identifier": "/us/usc/t54/s200508"
+            },
+            {
+              "number": "200509",
+              "numText": "§ 200509.",
+              "heading": "Recordkeeping",
+              "identifier": "/us/usc/t54/s200509"
+            },
+            {
+              "number": "200510",
+              "numText": "§ 200510.",
+              "heading": "Inapplicability of matching provisions",
+              "identifier": "/us/usc/t54/s200510"
+            },
+            {
+              "number": "200511",
+              "numText": "§ 200511.",
+              "heading": "Funding limitations",
+              "identifier": "/us/usc/t54/s200511"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "III",
+      "heading": "National Preservation Programs",
+      "identifier": "/us/usc/t54/stIII",
+      "children": [
+        {
+          "type": "division",
+          "number": "A",
+          "heading": "HISTORIC PRESERVATION",
+          "identifier": "/us/usc/t54/stIII/dA",
+          "children": [
+            {
+              "type": "subdivision",
+              "number": "1",
+              "heading": "General Provisions",
+              "identifier": "/us/usc/t54/stIII/dA/sd1",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3001",
+                  "heading": "POLICY",
+                  "identifier": "/us/usc/t54/stIII/dA/sd1/ch3001",
+                  "children": [
+                    {
+                      "number": "300101",
+                      "numText": "§ 300101.",
+                      "heading": "Policy",
+                      "identifier": "/us/usc/t54/s300101"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3003",
+                  "heading": "DEFINITIONS",
+                  "identifier": "/us/usc/t54/stIII/dA/sd1/ch3003",
+                  "children": [
+                    {
+                      "number": "300301",
+                      "numText": "§ 300301.",
+                      "heading": "Agency",
+                      "identifier": "/us/usc/t54/s300301"
+                    },
+                    {
+                      "number": "300302",
+                      "numText": "§ 300302.",
+                      "heading": "Certified local government",
+                      "identifier": "/us/usc/t54/s300302"
+                    },
+                    {
+                      "number": "300303",
+                      "numText": "§ 300303.",
+                      "heading": "Council",
+                      "identifier": "/us/usc/t54/s300303"
+                    },
+                    {
+                      "number": "300304",
+                      "numText": "§ 300304.",
+                      "heading": "Cultural park",
+                      "identifier": "/us/usc/t54/s300304"
+                    },
+                    {
+                      "number": "300305",
+                      "numText": "§ 300305.",
+                      "heading": "Historic conservation district",
+                      "identifier": "/us/usc/t54/s300305"
+                    },
+                    {
+                      "number": "300306",
+                      "numText": "§ 300306.",
+                      "heading": "Historic Preservation Fund",
+                      "identifier": "/us/usc/t54/s300306"
+                    },
+                    {
+                      "number": "300307",
+                      "numText": "§ 300307.",
+                      "heading": "Historic preservation review commission",
+                      "identifier": "/us/usc/t54/s300307"
+                    },
+                    {
+                      "number": "300308",
+                      "numText": "§ 300308.",
+                      "heading": "Historic property",
+                      "identifier": "/us/usc/t54/s300308"
+                    },
+                    {
+                      "number": "300309",
+                      "numText": "§ 300309.",
+                      "heading": "Indian tribe",
+                      "identifier": "/us/usc/t54/s300309"
+                    },
+                    {
+                      "number": "300310",
+                      "numText": "§ 300310.",
+                      "heading": "Local government",
+                      "identifier": "/us/usc/t54/s300310"
+                    },
+                    {
+                      "number": "300311",
+                      "numText": "§ 300311.",
+                      "heading": "National Register",
+                      "identifier": "/us/usc/t54/s300311"
+                    },
+                    {
+                      "number": "300312",
+                      "numText": "§ 300312.",
+                      "heading": "National Trust",
+                      "identifier": "/us/usc/t54/s300312"
+                    },
+                    {
+                      "number": "300313",
+                      "numText": "§ 300313.",
+                      "heading": "Native Hawaiian",
+                      "identifier": "/us/usc/t54/s300313"
+                    },
+                    {
+                      "number": "300314",
+                      "numText": "§ 300314.",
+                      "heading": "Native Hawaiian organization",
+                      "identifier": "/us/usc/t54/s300314"
+                    },
+                    {
+                      "number": "300315",
+                      "numText": "§ 300315.",
+                      "heading": "Preservation or historic preservation",
+                      "identifier": "/us/usc/t54/s300315"
+                    },
+                    {
+                      "number": "300316",
+                      "numText": "§ 300316.",
+                      "heading": "Secretary",
+                      "identifier": "/us/usc/t54/s300316"
+                    },
+                    {
+                      "number": "300317",
+                      "numText": "§ 300317.",
+                      "heading": "State",
+                      "identifier": "/us/usc/t54/s300317"
+                    },
+                    {
+                      "number": "300318",
+                      "numText": "§ 300318.",
+                      "heading": "State historic preservation review board",
+                      "identifier": "/us/usc/t54/s300318"
+                    },
+                    {
+                      "number": "300319",
+                      "numText": "§ 300319.",
+                      "heading": "Tribal land",
+                      "identifier": "/us/usc/t54/s300319"
+                    },
+                    {
+                      "number": "300320",
+                      "numText": "§ 300320.",
+                      "heading": "Undertaking",
+                      "identifier": "/us/usc/t54/s300320"
+                    },
+                    {
+                      "number": "300321",
+                      "numText": "§ 300321.",
+                      "heading": "World Heritage Convention",
+                      "identifier": "/us/usc/t54/s300321"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subdivision",
+              "number": "2",
+              "heading": "Historic Preservation Program",
+              "identifier": "/us/usc/t54/stIII/dA/sd2",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3021",
+                  "heading": "NATIONAL REGISTER OF HISTORIC PLACES",
+                  "identifier": "/us/usc/t54/stIII/dA/sd2/ch3021",
+                  "children": [
+                    {
+                      "number": "302101",
+                      "numText": "§ 302101.",
+                      "heading": "Maintenance by Secretary",
+                      "identifier": "/us/usc/t54/s302101"
+                    },
+                    {
+                      "number": "302102",
+                      "numText": "§ 302102.",
+                      "heading": "Inclusion of properties on National Register",
+                      "identifier": "/us/usc/t54/s302102"
+                    },
+                    {
+                      "number": "302103",
+                      "numText": "§ 302103.",
+                      "heading": "Criteria and regulations relating to National Register, National Historic Landmarks, and World Heritage List",
+                      "identifier": "/us/usc/t54/s302103"
+                    },
+                    {
+                      "number": "302104",
+                      "numText": "§ 302104.",
+                      "heading": "Nominations for inclusion on National Register",
+                      "identifier": "/us/usc/t54/s302104"
+                    },
+                    {
+                      "number": "302105",
+                      "numText": "§ 302105.",
+                      "heading": "Owner participation in nomination process",
+                      "identifier": "/us/usc/t54/s302105"
+                    },
+                    {
+                      "number": "302106",
+                      "numText": "§ 302106.",
+                      "heading": "Retention of name",
+                      "identifier": "/us/usc/t54/s302106"
+                    },
+                    {
+                      "number": "302107",
+                      "numText": "§ 302107.",
+                      "heading": "Regulations",
+                      "identifier": "/us/usc/t54/s302107"
+                    },
+                    {
+                      "number": "302108",
+                      "numText": "§ 302108.",
+                      "heading": "Review of threats to historic property",
+                      "identifier": "/us/usc/t54/s302108"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3023",
+                  "heading": "STATE HISTORIC PRESERVATION PROGRAMS",
+                  "identifier": "/us/usc/t54/stIII/dA/sd2/ch3023",
+                  "children": [
+                    {
+                      "number": "302301",
+                      "numText": "§ 302301.",
+                      "heading": "Regulations",
+                      "identifier": "/us/usc/t54/s302301"
+                    },
+                    {
+                      "number": "302302",
+                      "numText": "§ 302302.",
+                      "heading": "Program evaluation",
+                      "identifier": "/us/usc/t54/s302302"
+                    },
+                    {
+                      "number": "302303",
+                      "numText": "§ 302303.",
+                      "heading": "Responsibilities of State Historic Preservation Officer",
+                      "identifier": "/us/usc/t54/s302303"
+                    },
+                    {
+                      "number": "302304",
+                      "numText": "§ 302304.",
+                      "heading": "Contracts and cooperative agreements",
+                      "identifier": "/us/usc/t54/s302304"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3025",
+                  "heading": "CERTIFICATION OF LOCAL GOVERNMENTS",
+                  "identifier": "/us/usc/t54/stIII/dA/sd2/ch3025",
+                  "children": [
+                    {
+                      "number": "302501",
+                      "numText": "§ 302501.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s302501"
+                    },
+                    {
+                      "number": "302502",
+                      "numText": "§ 302502.",
+                      "heading": "Certification as part of State program",
+                      "identifier": "/us/usc/t54/s302502"
+                    },
+                    {
+                      "number": "302503",
+                      "numText": "§ 302503.",
+                      "heading": "Requirements for certification",
+                      "identifier": "/us/usc/t54/s302503"
+                    },
+                    {
+                      "number": "302504",
+                      "numText": "§ 302504.",
+                      "heading": "Participation of certified local governments in National Register nominations",
+                      "identifier": "/us/usc/t54/s302504"
+                    },
+                    {
+                      "number": "302505",
+                      "numText": "§ 302505.",
+                      "heading": "Eligibility and responsibility of certified local government",
+                      "identifier": "/us/usc/t54/s302505"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3027",
+                  "heading": "HISTORIC PRESERVATION PROGRAMS AND AUTHORITIES FOR INDIAN TRIBES AND NATIVE HAWAIIAN ORGANIZATIONS",
+                  "identifier": "/us/usc/t54/stIII/dA/sd2/ch3027",
+                  "children": [
+                    {
+                      "number": "302701",
+                      "numText": "§ 302701.",
+                      "heading": "Program to assist Indian tribes in preserving historic property",
+                      "identifier": "/us/usc/t54/s302701"
+                    },
+                    {
+                      "number": "302702",
+                      "numText": "§ 302702.",
+                      "heading": "Indian tribe to assume functions of State Historic Preservation Officer",
+                      "identifier": "/us/usc/t54/s302702"
+                    },
+                    {
+                      "number": "302703",
+                      "numText": "§ 302703.",
+                      "heading": "Apportionment of grant funds",
+                      "identifier": "/us/usc/t54/s302703"
+                    },
+                    {
+                      "number": "302704",
+                      "numText": "§ 302704.",
+                      "heading": "Contracts and cooperative agreements",
+                      "identifier": "/us/usc/t54/s302704"
+                    },
+                    {
+                      "number": "302705",
+                      "numText": "§ 302705.",
+                      "heading": "Agreement for review under tribal historic preservation regulations",
+                      "identifier": "/us/usc/t54/s302705"
+                    },
+                    {
+                      "number": "302706",
+                      "numText": "§ 302706.",
+                      "heading": "Eligibility for inclusion on National Register",
+                      "identifier": "/us/usc/t54/s302706"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3029",
+                  "heading": "GRANTS",
+                  "identifier": "/us/usc/t54/stIII/dA/sd2/ch3029",
+                  "children": [
+                    {
+                      "number": "302901",
+                      "numText": "§ 302901.",
+                      "heading": "Awarding of grants and availability of grant funds",
+                      "identifier": "/us/usc/t54/s302901"
+                    },
+                    {
+                      "number": "302902",
+                      "numText": "§ 302902.",
+                      "heading": "Grants to States",
+                      "identifier": "/us/usc/t54/s302902"
+                    },
+                    {
+                      "number": "302903",
+                      "numText": "§ 302903.",
+                      "heading": "Grants to National Trust",
+                      "identifier": "/us/usc/t54/s302903"
+                    },
+                    {
+                      "number": "302904",
+                      "numText": "§ 302904.",
+                      "heading": "Direct grants for the preservation of properties included on National Register",
+                      "identifier": "/us/usc/t54/s302904"
+                    },
+                    {
+                      "number": "302905",
+                      "numText": "§ 302905.",
+                      "heading": "Religious property",
+                      "identifier": "/us/usc/t54/s302905"
+                    },
+                    {
+                      "number": "302906",
+                      "numText": "§ 302906.",
+                      "heading": "Grants and loans to Indian tribes and nonprofit organizations representing ethnic or minority groups",
+                      "identifier": "/us/usc/t54/s302906"
+                    },
+                    {
+                      "number": "302907",
+                      "numText": "§ 302907.",
+                      "heading": "Grants to Indian tribes and Native Hawaiian organizations",
+                      "identifier": "/us/usc/t54/s302907"
+                    },
+                    {
+                      "number": "302908",
+                      "numText": "§ 302908.",
+                      "heading": "Grants to the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau",
+                      "identifier": "/us/usc/t54/s302908"
+                    },
+                    {
+                      "number": "302909",
+                      "numText": "§ 302909.",
+                      "heading": "Prohibited use of grant amounts",
+                      "identifier": "/us/usc/t54/s302909"
+                    },
+                    {
+                      "number": "302910",
+                      "numText": "§ 302910.",
+                      "heading": "Recordkeeping",
+                      "identifier": "/us/usc/t54/s302910"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3031",
+                  "heading": "HISTORIC PRESERVATION FUND",
+                  "identifier": "/us/usc/t54/stIII/dA/sd2/ch3031",
+                  "children": [
+                    {
+                      "number": "303101",
+                      "numText": "§ 303101.",
+                      "heading": "Establishment",
+                      "identifier": "/us/usc/t54/s303101"
+                    },
+                    {
+                      "number": "303102",
+                      "numText": "§ 303102.",
+                      "heading": "Funding",
+                      "identifier": "/us/usc/t54/s303102"
+                    },
+                    {
+                      "number": "303103",
+                      "numText": "§ 303103.",
+                      "heading": "Use and availability",
+                      "identifier": "/us/usc/t54/s303103"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "C",
+                  "heading": "RESERVED",
+                  "identifier": "",
+                  "children": []
+                },
+                {
+                  "type": "chapter",
+                  "number": "3039",
+                  "heading": "MISCELLANEOUS",
+                  "identifier": "/us/usc/t54/stIII/dA/sd2/ch3039",
+                  "children": [
+                    {
+                      "number": "303901",
+                      "numText": "§ 303901.",
+                      "heading": "Loan insurance program for preservation of property included on National Register",
+                      "identifier": "/us/usc/t54/s303901"
+                    },
+                    {
+                      "number": "303902",
+                      "numText": "§ 303902.",
+                      "heading": "Training in, and dissemination of information concerning, professional methods and techniques for preservation of historic property",
+                      "identifier": "/us/usc/t54/s303902"
+                    },
+                    {
+                      "number": "303903",
+                      "numText": "§ 303903.",
+                      "heading": "Preservation education and training program",
+                      "identifier": "/us/usc/t54/s303903"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subdivision",
+              "number": "3",
+              "heading": "Advisory Council on Historic Preservation",
+              "identifier": "/us/usc/t54/stIII/dA/sd3",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3041",
+                  "heading": "ADVISORY COUNCIL ON HISTORIC PRESERVATION",
+                  "identifier": "/us/usc/t54/stIII/dA/sd3/ch3041",
+                  "children": [
+                    {
+                      "number": "304101",
+                      "numText": "§ 304101.",
+                      "heading": "Establishment; vacancies",
+                      "identifier": "/us/usc/t54/s304101"
+                    },
+                    {
+                      "number": "304102",
+                      "numText": "§ 304102.",
+                      "heading": "Duties of Council",
+                      "identifier": "/us/usc/t54/s304102"
+                    },
+                    {
+                      "number": "304103",
+                      "numText": "§ 304103.",
+                      "heading": "Cooperation between Council and instrumentalities of executive branch of Federal Government",
+                      "identifier": "/us/usc/t54/s304103"
+                    },
+                    {
+                      "number": "304104",
+                      "numText": "§ 304104.",
+                      "heading": "Compensation of members of Council",
+                      "identifier": "/us/usc/t54/s304104"
+                    },
+                    {
+                      "number": "304105",
+                      "numText": "§ 304105.",
+                      "heading": "Administration",
+                      "identifier": "/us/usc/t54/s304105"
+                    },
+                    {
+                      "number": "304106",
+                      "numText": "§ 304106.",
+                      "heading": "International Centre for the Study of the Preservation and Restoration of Cultural Property",
+                      "identifier": "/us/usc/t54/s304106"
+                    },
+                    {
+                      "number": "304107",
+                      "numText": "§ 304107.",
+                      "heading": "Transmittal of legislative recommendations, testimony, or comments to any officer or agency of the United States prior to submission to Congress",
+                      "identifier": "/us/usc/t54/s304107"
+                    },
+                    {
+                      "number": "304108",
+                      "numText": "§ 304108.",
+                      "heading": "Regulations, procedures, and guidelines",
+                      "identifier": "/us/usc/t54/s304108"
+                    },
+                    {
+                      "number": "304109",
+                      "numText": "§ 304109.",
+                      "heading": "Budget submission",
+                      "identifier": "/us/usc/t54/s304109"
+                    },
+                    {
+                      "number": "304110",
+                      "numText": "§ 304110.",
+                      "heading": "Report by Secretary to Council",
+                      "identifier": "/us/usc/t54/s304110"
+                    },
+                    {
+                      "number": "304111",
+                      "numText": "§ 304111.",
+                      "heading": "Reimbursements from State and local agencies",
+                      "identifier": "/us/usc/t54/s304111"
+                    },
+                    {
+                      "number": "304112",
+                      "numText": "§ 304112.",
+                      "heading": "Effectiveness of Federal grant and assistance programs",
+                      "identifier": "/us/usc/t54/s304112"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subdivision",
+              "number": "4",
+              "heading": "Other Organizations and Programs",
+              "identifier": "/us/usc/t54/stIII/dA/sd4",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3051",
+                  "heading": "HISTORIC LIGHT STATION PRESERVATION",
+                  "identifier": "/us/usc/t54/stIII/dA/sd4/ch3051",
+                  "children": [
+                    {
+                      "number": "305101",
+                      "numText": "§ 305101.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s305101"
+                    },
+                    {
+                      "number": "305102",
+                      "numText": "§ 305102.",
+                      "heading": "Duties of Secretary in providing a national historic light station program",
+                      "identifier": "/us/usc/t54/s305102"
+                    },
+                    {
+                      "number": "305103",
+                      "numText": "§ 305103.",
+                      "heading": "Selection of eligible entity and conveyance of historic light stations",
+                      "identifier": "/us/usc/t54/s305103"
+                    },
+                    {
+                      "number": "305104",
+                      "numText": "§ 305104.",
+                      "heading": "Terms of conveyance",
+                      "identifier": "/us/usc/t54/s305104"
+                    },
+                    {
+                      "number": "305105",
+                      "numText": "§ 305105.",
+                      "heading": "Description of property",
+                      "identifier": "/us/usc/t54/s305105"
+                    },
+                    {
+                      "number": "305106",
+                      "numText": "§ 305106.",
+                      "heading": "Historic light station sales",
+                      "identifier": "/us/usc/t54/s305106"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3053",
+                  "heading": "NATIONAL CENTER FOR PRESERVATION TECHNOLOGY AND TRAINING",
+                  "identifier": "/us/usc/t54/stIII/dA/sd4/ch3053",
+                  "children": [
+                    {
+                      "number": "305301",
+                      "numText": "§ 305301.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s305301"
+                    },
+                    {
+                      "number": "305302",
+                      "numText": "§ 305302.",
+                      "heading": "National Center for Preservation Technology and Training",
+                      "identifier": "/us/usc/t54/s305302"
+                    },
+                    {
+                      "number": "305303",
+                      "numText": "§ 305303.",
+                      "heading": "Preservation Technology and Training Board",
+                      "identifier": "/us/usc/t54/s305303"
+                    },
+                    {
+                      "number": "305304",
+                      "numText": "§ 305304.",
+                      "heading": "Preservation grants",
+                      "identifier": "/us/usc/t54/s305304"
+                    },
+                    {
+                      "number": "305305",
+                      "numText": "§ 305305.",
+                      "heading": "General provisions",
+                      "identifier": "/us/usc/t54/s305305"
+                    },
+                    {
+                      "number": "305306",
+                      "numText": "§ 305306.",
+                      "heading": "Service preservation centers and offices",
+                      "identifier": "/us/usc/t54/s305306"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3055",
+                  "heading": "NATIONAL BUILDING MUSEUM",
+                  "identifier": "/us/usc/t54/stIII/dA/sd4/ch3055",
+                  "children": [
+                    {
+                      "number": "305501",
+                      "numText": "§ 305501.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s305501"
+                    },
+                    {
+                      "number": "305502",
+                      "numText": "§ 305502.",
+                      "heading": "Cooperative agreement to operate museum",
+                      "identifier": "/us/usc/t54/s305502"
+                    },
+                    {
+                      "number": "305503",
+                      "numText": "§ 305503.",
+                      "heading": "Activities and functions",
+                      "identifier": "/us/usc/t54/s305503"
+                    },
+                    {
+                      "number": "305504",
+                      "numText": "§ 305504.",
+                      "heading": "Matching grants to Committee",
+                      "identifier": "/us/usc/t54/s305504"
+                    },
+                    {
+                      "number": "305505",
+                      "numText": "§ 305505.",
+                      "heading": "Annual report",
+                      "identifier": "/us/usc/t54/s305505"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subdivision",
+              "number": "5",
+              "heading": "Federal Agency Historic Preservation Responsibilities",
+              "identifier": "/us/usc/t54/stIII/dA/sd5",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3061",
+                  "heading": "PROGRAM RESPONSIBILITIES AND AUTHORITIES",
+                  "identifier": "/us/usc/t54/stIII/dA/sd5/ch3061",
+                  "children": [
+                    {
+                      "type": "subchapter",
+                      "number": "I",
+                      "heading": "IN GENERAL",
+                      "identifier": "/us/usc/t54/stIII/dA/sd5/ch3061/schI",
+                      "children": [
+                        {
+                          "number": "306101",
+                          "numText": "§ 306101.",
+                          "heading": "Assumption of responsibility for preservation of historic property",
+                          "identifier": "/us/usc/t54/s306101"
+                        },
+                        {
+                          "number": "306102",
+                          "numText": "§ 306102.",
+                          "heading": "Preservation program",
+                          "identifier": "/us/usc/t54/s306102"
+                        },
+                        {
+                          "number": "306103",
+                          "numText": "§ 306103.",
+                          "heading": "Recordation of historic property prior to alteration or demolition",
+                          "identifier": "/us/usc/t54/s306103"
+                        },
+                        {
+                          "number": "306104",
+                          "numText": "§ 306104.",
+                          "heading": "Agency Preservation Officer",
+                          "identifier": "/us/usc/t54/s306104"
+                        },
+                        {
+                          "number": "306105",
+                          "numText": "§ 306105.",
+                          "heading": "Agency programs and projects",
+                          "identifier": "/us/usc/t54/s306105"
+                        },
+                        {
+                          "number": "306106",
+                          "numText": "§ 306106.",
+                          "heading": "Review of plans of transferees of surplus federally owned historic property",
+                          "identifier": "/us/usc/t54/s306106"
+                        },
+                        {
+                          "number": "306107",
+                          "numText": "§ 306107.",
+                          "heading": "Planning and actions to minimize harm to National Historic Landmarks",
+                          "identifier": "/us/usc/t54/s306107"
+                        },
+                        {
+                          "number": "306108",
+                          "numText": "§ 306108.",
+                          "heading": "Effect of undertaking on historic property",
+                          "identifier": "/us/usc/t54/s306108"
+                        },
+                        {
+                          "number": "306109",
+                          "numText": "§ 306109.",
+                          "heading": "Costs of preservation as eligible project costs",
+                          "identifier": "/us/usc/t54/s306109"
+                        },
+                        {
+                          "number": "306110",
+                          "numText": "§ 306110.",
+                          "heading": "Annual preservation awards program",
+                          "identifier": "/us/usc/t54/s306110"
+                        },
+                        {
+                          "number": "306111",
+                          "numText": "§ 306111.",
+                          "heading": "Environmental impact statement",
+                          "identifier": "/us/usc/t54/s306111"
+                        },
+                        {
+                          "number": "306112",
+                          "numText": "§ 306112.",
+                          "heading": "Waiver of provisions in event of natural disaster or imminent threat to national security",
+                          "identifier": "/us/usc/t54/s306112"
+                        },
+                        {
+                          "number": "306113",
+                          "numText": "§ 306113.",
+                          "heading": "Anticipatory demolition",
+                          "identifier": "/us/usc/t54/s306113"
+                        },
+                        {
+                          "number": "306114",
+                          "numText": "§ 306114.",
+                          "heading": "Documentation of decisions respecting undertakings",
+                          "identifier": "/us/usc/t54/s306114"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "II",
+                      "heading": "LEASE, EXCHANGE, OR MANAGEMENT OF HISTORIC PROPERTY",
+                      "identifier": "/us/usc/t54/stIII/dA/sd5/ch3061/schII",
+                      "children": [
+                        {
+                          "number": "306121",
+                          "numText": "§ 306121.",
+                          "heading": "Lease or exchange",
+                          "identifier": "/us/usc/t54/s306121"
+                        },
+                        {
+                          "number": "306122",
+                          "numText": "§ 306122.",
+                          "heading": "Contracts for management of historic property",
+                          "identifier": "/us/usc/t54/s306122"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "III",
+                      "heading": "PROTECTION AND PRESERVATION OF RESOURCES",
+                      "identifier": "/us/usc/t54/stIII/dA/sd5/ch3061/schIII",
+                      "children": [
+                        {
+                          "number": "306131",
+                          "numText": "§ 306131.",
+                          "heading": "Standards and guidelines",
+                          "identifier": "/us/usc/t54/s306131"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subdivision",
+              "number": "6",
+              "heading": "Miscellaneous",
+              "identifier": "/us/usc/t54/stIII/dA/sd6",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3071",
+                  "heading": "MISCELLANEOUS",
+                  "identifier": "/us/usc/t54/stIII/dA/sd6/ch3071",
+                  "children": [
+                    {
+                      "number": "307101",
+                      "numText": "§ 307101.",
+                      "heading": "World Heritage Convention",
+                      "identifier": "/us/usc/t54/s307101"
+                    },
+                    {
+                      "number": "307102",
+                      "numText": "§ 307102.",
+                      "heading": "Effective date of regulations",
+                      "identifier": "/us/usc/t54/s307102"
+                    },
+                    {
+                      "number": "307103",
+                      "numText": "§ 307103.",
+                      "heading": "Access to information",
+                      "identifier": "/us/usc/t54/s307103"
+                    },
+                    {
+                      "number": "307104",
+                      "numText": "§ 307104.",
+                      "heading": "Inapplicability of division to White House, Supreme Court building, or United States Capitol",
+                      "identifier": "/us/usc/t54/s307104"
+                    },
+                    {
+                      "number": "307105",
+                      "numText": "§ 307105.",
+                      "heading": "Attorney’s fees and costs to prevailing parties in civil actions",
+                      "identifier": "/us/usc/t54/s307105"
+                    },
+                    {
+                      "number": "307106",
+                      "numText": "§ 307106.",
+                      "heading": "Authorization for expenditure of appropriated funds",
+                      "identifier": "/us/usc/t54/s307106"
+                    },
+                    {
+                      "number": "307107",
+                      "numText": "§ 307107.",
+                      "heading": "Donations and bequests of money, personal property, and less than fee interests in historic property",
+                      "identifier": "/us/usc/t54/s307107"
+                    },
+                    {
+                      "number": "307108",
+                      "numText": "§ 307108.",
+                      "heading": "Privately donated funds",
+                      "identifier": "/us/usc/t54/s307108"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "division",
+          "number": "B",
+          "heading": "ORGANIZATIONS AND PROGRAMS",
+          "identifier": "/us/usc/t54/stIII/dB",
+          "children": [
+            {
+              "type": "subdivision",
+              "number": "1",
+              "heading": "Administered by National Park Service",
+              "identifier": "/us/usc/t54/stIII/dB/sd1",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3081",
+                  "heading": "AMERICAN BATTLEFIELD PROTECTION PROGRAM",
+                  "identifier": "/us/usc/t54/stIII/dB/sd1/ch3081",
+                  "children": [
+                    {
+                      "number": "308101",
+                      "numText": "§ 308101.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s308101"
+                    },
+                    {
+                      "number": "308102",
+                      "numText": "§ 308102.",
+                      "heading": "Preservation assistance",
+                      "identifier": "/us/usc/t54/s308102"
+                    },
+                    {
+                      "number": "308103",
+                      "numText": "§ 308103.",
+                      "heading": "Battlefield acquisition grant program",
+                      "identifier": "/us/usc/t54/s308103"
+                    },
+                    {
+                      "number": "308104",
+                      "numText": "§ 308104.",
+                      "heading": "Battlefield interpretation modernization grant program",
+                      "identifier": "/us/usc/t54/s308104"
+                    },
+                    {
+                      "number": "308105",
+                      "numText": "§ 308105.",
+                      "heading": "Battlefield restoration grant program",
+                      "identifier": "/us/usc/t54/s308105"
+                    },
+                    {
+                      "number": "308106",
+                      "numText": "§ 308106.",
+                      "heading": "Updates and improvements to Battlefield Reports",
+                      "identifier": "/us/usc/t54/s308106"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3083",
+                  "heading": "NATIONAL UNDERGROUND RAILROAD NETWORK TO FREEDOM",
+                  "identifier": "/us/usc/t54/stIII/dB/sd1/ch3083",
+                  "children": [
+                    {
+                      "number": "308301",
+                      "numText": "§ 308301.",
+                      "heading": "Definition",
+                      "identifier": "/us/usc/t54/s308301"
+                    },
+                    {
+                      "number": "308302",
+                      "numText": "§ 308302.",
+                      "heading": "Program",
+                      "identifier": "/us/usc/t54/s308302"
+                    },
+                    {
+                      "number": "308303",
+                      "numText": "§ 308303.",
+                      "heading": "Preservation and interpretation of Underground Railroad history, historic sites, and structures",
+                      "identifier": "/us/usc/t54/s308303"
+                    },
+                    {
+                      "number": "308304",
+                      "numText": "§ 308304.",
+                      "heading": "Authorization of appropriations",
+                      "identifier": "/us/usc/t54/s308304"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3084",
+                  "heading": "AFRICAN AMERICAN CIVIL RIGHTS NETWORK",
+                  "identifier": "/us/usc/t54/stIII/dB/sd1/ch3084",
+                  "children": [
+                    {
+                      "number": "308401",
+                      "numText": "§ 308401.",
+                      "heading": "Definition of network 11 So in original. Probably should be capitalized.",
+                      "identifier": "/us/usc/t54/s308401"
+                    },
+                    {
+                      "number": "308402",
+                      "numText": "§ 308402.",
+                      "heading": "African American Civil Rights Network",
+                      "identifier": "/us/usc/t54/s308402"
+                    },
+                    {
+                      "number": "308403",
+                      "numText": "§ 308403.",
+                      "heading": "Cooperative agreements and memoranda of understanding",
+                      "identifier": "/us/usc/t54/s308403"
+                    },
+                    {
+                      "number": "308404",
+                      "numText": "§ 308404.",
+                      "heading": "Sunset",
+                      "identifier": "/us/usc/t54/s308404"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3085",
+                  "heading": "NATIONAL WOMEN’S RIGHTS HISTORY PROJECT",
+                  "identifier": "/us/usc/t54/stIII/dB/sd1/ch3085",
+                  "children": [
+                    {
+                      "number": "308501",
+                      "numText": "§ 308501.",
+                      "heading": "National women’s rights history project national registry",
+                      "identifier": "/us/usc/t54/s308501"
+                    },
+                    {
+                      "number": "308502",
+                      "numText": "§ 308502.",
+                      "heading": "National women’s rights history project partnerships network",
+                      "identifier": "/us/usc/t54/s308502"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3086",
+                  "heading": "UNITED STATES AFRICAN-AMERICAN BURIAL GROUNDS PRESERVATION PROGRAM",
+                  "identifier": "/us/usc/t54/stIII/dB/sd1/ch3086",
+                  "children": [
+                    {
+                      "number": "308601",
+                      "numText": "§ 308601.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s308601"
+                    },
+                    {
+                      "number": "308602",
+                      "numText": "§ 308602.",
+                      "heading": "United States African-American Burial Grounds Preservation Program",
+                      "identifier": "/us/usc/t54/s308602"
+                    },
+                    {
+                      "number": "308603",
+                      "numText": "§ 308603.",
+                      "heading": "Authority to make grants",
+                      "identifier": "/us/usc/t54/s308603"
+                    },
+                    {
+                      "number": "308604",
+                      "numText": "§ 308604.",
+                      "heading": "Cooperative agreements and memoranda of understanding",
+                      "identifier": "/us/usc/t54/s308604"
+                    },
+                    {
+                      "number": "308605",
+                      "numText": "§ 308605.",
+                      "heading": "Private property protection",
+                      "identifier": "/us/usc/t54/s308605"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3087",
+                  "heading": "NATIONAL MARITIME HERITAGE",
+                  "identifier": "/us/usc/t54/stIII/dB/sd1/ch3087",
+                  "children": [
+                    {
+                      "number": "308701",
+                      "numText": "§ 308701.",
+                      "heading": "Policy",
+                      "identifier": "/us/usc/t54/s308701"
+                    },
+                    {
+                      "number": "308702",
+                      "numText": "§ 308702.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s308702"
+                    },
+                    {
+                      "number": "308703",
+                      "numText": "§ 308703.",
+                      "heading": "National Maritime Heritage Grants Program",
+                      "identifier": "/us/usc/t54/s308703"
+                    },
+                    {
+                      "number": "308704",
+                      "numText": "§ 308704.",
+                      "heading": "Funding",
+                      "identifier": "/us/usc/t54/s308704"
+                    },
+                    {
+                      "number": "308705",
+                      "numText": "§ 308705.",
+                      "heading": "Designation of America’s National Maritime Museum",
+                      "identifier": "/us/usc/t54/s308705"
+                    },
+                    {
+                      "number": "308706",
+                      "numText": "§ 308706.",
+                      "heading": "Regulations",
+                      "identifier": "/us/usc/t54/s308706"
+                    },
+                    {
+                      "number": "308707",
+                      "numText": "§ 308707.",
+                      "heading": "Applicability of other authorities",
+                      "identifier": "/us/usc/t54/s308707"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3089",
+                  "heading": "SAVE AMERICA’S TREASURES PROGRAM",
+                  "identifier": "/us/usc/t54/stIII/dB/sd1/ch3089",
+                  "children": [
+                    {
+                      "number": "308901",
+                      "numText": "§ 308901.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s308901"
+                    },
+                    {
+                      "number": "308902",
+                      "numText": "§ 308902.",
+                      "heading": "Establishment",
+                      "identifier": "/us/usc/t54/s308902"
+                    },
+                    {
+                      "number": "308903",
+                      "numText": "§ 308903.",
+                      "heading": "Grants",
+                      "identifier": "/us/usc/t54/s308903"
+                    },
+                    {
+                      "number": "308904",
+                      "numText": "§ 308904.",
+                      "heading": "Guidelines and regulations",
+                      "identifier": "/us/usc/t54/s308904"
+                    },
+                    {
+                      "number": "308905",
+                      "numText": "§ 308905.",
+                      "heading": "Authorization of appropriations",
+                      "identifier": "/us/usc/t54/s308905"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3091",
+                  "heading": "COMMEMORATION OF FORMER PRESIDENTS",
+                  "identifier": "/us/usc/t54/stIII/dB/sd1/ch3091",
+                  "children": [
+                    {
+                      "number": "309101",
+                      "numText": "§ 309101.",
+                      "heading": "Sites and structures that commemorate former Presidents",
+                      "identifier": "/us/usc/t54/s309101"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subdivision",
+              "number": "2",
+              "heading": "Administered Jointly With National Park Service",
+              "identifier": "/us/usc/t54/stIII/dB/sd2",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3111",
+                  "heading": "PRESERVE AMERICA PROGRAM",
+                  "identifier": "/us/usc/t54/stIII/dB/sd2/ch3111",
+                  "children": [
+                    {
+                      "number": "311101",
+                      "numText": "§ 311101.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s311101"
+                    },
+                    {
+                      "number": "311102",
+                      "numText": "§ 311102.",
+                      "heading": "Establishment",
+                      "identifier": "/us/usc/t54/s311102"
+                    },
+                    {
+                      "number": "311103",
+                      "numText": "§ 311103.",
+                      "heading": "Designation of Preserve America Communities",
+                      "identifier": "/us/usc/t54/s311103"
+                    },
+                    {
+                      "number": "311104",
+                      "numText": "§ 311104.",
+                      "heading": "Regulations",
+                      "identifier": "/us/usc/t54/s311104"
+                    },
+                    {
+                      "number": "311105",
+                      "numText": "§ 311105.",
+                      "heading": "Authorization of appropriations",
+                      "identifier": "/us/usc/t54/s311105"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subdivision",
+              "number": "3",
+              "heading": "Administered by Other Than National Park Service",
+              "identifier": "/us/usc/t54/stIII/dB/sd3",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "3121",
+                  "heading": "NATIONAL TRUST FOR HISTORIC PRESERVATION IN THE UNITED STATES",
+                  "identifier": "/us/usc/t54/stIII/dB/sd3/ch3121",
+                  "children": [
+                    {
+                      "number": "312101",
+                      "numText": "§ 312101.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t54/s312101"
+                    },
+                    {
+                      "number": "312102",
+                      "numText": "§ 312102.",
+                      "heading": "Establishment and purposes",
+                      "identifier": "/us/usc/t54/s312102"
+                    },
+                    {
+                      "number": "312103",
+                      "numText": "§ 312103.",
+                      "heading": "Principal office",
+                      "identifier": "/us/usc/t54/s312103"
+                    },
+                    {
+                      "number": "312104",
+                      "numText": "§ 312104.",
+                      "heading": "Board of trustees",
+                      "identifier": "/us/usc/t54/s312104"
+                    },
+                    {
+                      "number": "312105",
+                      "numText": "§ 312105.",
+                      "heading": "Powers",
+                      "identifier": "/us/usc/t54/s312105"
+                    },
+                    {
+                      "number": "312106",
+                      "numText": "§ 312106.",
+                      "heading": "Consultation with National Park System Advisory Board",
+                      "identifier": "/us/usc/t54/s312106"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3123",
+                  "heading": "COMMISSION FOR THE PRESERVATION OF AMERICA’S HERITAGE ABROAD",
+                  "identifier": "/us/usc/t54/stIII/dB/sd3/ch3123",
+                  "children": [
+                    {
+                      "number": "312301",
+                      "numText": "§ 312301.",
+                      "heading": "Definition",
+                      "identifier": "/us/usc/t54/s312301"
+                    },
+                    {
+                      "number": "312302",
+                      "numText": "§ 312302.",
+                      "heading": "Declaration of national interest",
+                      "identifier": "/us/usc/t54/s312302"
+                    },
+                    {
+                      "number": "312303",
+                      "numText": "§ 312303.",
+                      "heading": "Establishment",
+                      "identifier": "/us/usc/t54/s312303"
+                    },
+                    {
+                      "number": "312304",
+                      "numText": "§ 312304.",
+                      "heading": "Duties and powers; administrative support",
+                      "identifier": "/us/usc/t54/s312304"
+                    },
+                    {
+                      "number": "312305",
+                      "numText": "§ 312305.",
+                      "heading": "Reports",
+                      "identifier": "/us/usc/t54/s312305"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "3125",
+                  "heading": "PRESERVATION OF HISTORICAL AND ARCHEOLOGICAL DATA",
+                  "identifier": "/us/usc/t54/stIII/dB/sd3/ch3125",
+                  "children": [
+                    {
+                      "number": "312501",
+                      "numText": "§ 312501.",
+                      "heading": "Definition",
+                      "identifier": "/us/usc/t54/s312501"
+                    },
+                    {
+                      "number": "312502",
+                      "numText": "§ 312502.",
+                      "heading": "Threat of irreparable loss or destruction of significant scientific, prehistorical, historical, or archeological data by Federal construction projects",
+                      "identifier": "/us/usc/t54/s312502"
+                    },
+                    {
+                      "number": "312503",
+                      "numText": "§ 312503.",
+                      "heading": "Survey and recovery by Secretary",
+                      "identifier": "/us/usc/t54/s312503"
+                    },
+                    {
+                      "number": "312504",
+                      "numText": "§ 312504.",
+                      "heading": "Progress reports by Secretary on surveys and work undertaken as result of surveys",
+                      "identifier": "/us/usc/t54/s312504"
+                    },
+                    {
+                      "number": "312505",
+                      "numText": "§ 312505.",
+                      "heading": "Notice of dam construction",
+                      "identifier": "/us/usc/t54/s312505"
+                    },
+                    {
+                      "number": "312506",
+                      "numText": "§ 312506.",
+                      "heading": "Administration",
+                      "identifier": "/us/usc/t54/s312506"
+                    },
+                    {
+                      "number": "312507",
+                      "numText": "§ 312507.",
+                      "heading": "Assistance to Secretary by Federal agencies responsible for construction projects",
+                      "identifier": "/us/usc/t54/s312507"
+                    },
+                    {
+                      "number": "312508",
+                      "numText": "§ 312508.",
+                      "heading": "Costs for identification, surveys, evaluation, and data recovery with respect to historic property",
+                      "identifier": "/us/usc/t54/s312508"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "division",
+          "number": "C",
+          "heading": "AMERICAN ANTIQUITIES",
+          "identifier": "/us/usc/t54/stIII/dC",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "3201",
+              "heading": "POLICY AND ADMINISTRATIVE PROVISIONS",
+              "identifier": "/us/usc/t54/stIII/dC/ch3201",
+              "children": [
+                {
+                  "number": "320101",
+                  "numText": "§ 320101.",
+                  "heading": "Declaration of national policy",
+                  "identifier": "/us/usc/t54/s320101"
+                },
+                {
+                  "number": "320102",
+                  "numText": "§ 320102.",
+                  "heading": "Powers and duties of Secretary",
+                  "identifier": "/us/usc/t54/s320102"
+                },
+                {
+                  "number": "320103",
+                  "numText": "§ 320103.",
+                  "heading": "Cooperation with governmental and private agencies and individuals",
+                  "identifier": "/us/usc/t54/s320103"
+                },
+                {
+                  "number": "320104",
+                  "numText": "§ 320104.",
+                  "heading": "Jurisdiction of States in acquired land",
+                  "identifier": "/us/usc/t54/s320104"
+                },
+                {
+                  "number": "320105",
+                  "numText": "§ 320105.",
+                  "heading": "Criminal penalties",
+                  "identifier": "/us/usc/t54/s320105"
+                },
+                {
+                  "number": "320106",
+                  "numText": "§ 320106.",
+                  "heading": "Limitation on obligation or expenditure of appropriated amounts",
+                  "identifier": "/us/usc/t54/s320106"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "3203",
+              "heading": "MONUMENTS, RUINS, SITES, AND OBJECTS OF ANTIQUITY",
+              "identifier": "/us/usc/t54/stIII/dC/ch3203",
+              "children": [
+                {
+                  "number": "320301",
+                  "numText": "§ 320301.",
+                  "heading": "National monuments",
+                  "identifier": "/us/usc/t54/s320301"
+                },
+                {
+                  "number": "320302",
+                  "numText": "§ 320302.",
+                  "heading": "Permits",
+                  "identifier": "/us/usc/t54/s320302"
+                },
+                {
+                  "number": "320303",
+                  "numText": "§ 320303.",
+                  "heading": "Regulations",
+                  "identifier": "/us/usc/t54/s320303"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

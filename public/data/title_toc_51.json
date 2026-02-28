@@ -1,0 +1,1975 @@
+{
+  "number": "51",
+  "name": "National And Commercial Space Programs",
+  "identifier": "/us/usc/t51",
+  "version": "Online@119-73not60",
+  "updated": "2025-08-11",
+  "children": [
+    {
+      "type": "subtitle",
+      "number": "I",
+      "heading": "General",
+      "identifier": "/us/usc/t51/stI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "101",
+          "heading": "DEFINITIONS",
+          "identifier": "/us/usc/t51/stI/ch101",
+          "children": [
+            {
+              "number": "10101",
+              "numText": "§ 10101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s10101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "II",
+      "heading": "General Program and Policy Provisions",
+      "identifier": "/us/usc/t51/stII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "201",
+          "heading": "NATIONAL AERONAUTICS AND SPACE PROGRAM",
+          "identifier": "/us/usc/t51/stII/ch201",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "SHORT TITLE, DECLARATION OF POLICY, AND DEFINITIONS",
+              "identifier": "/us/usc/t51/stII/ch201/schI",
+              "children": [
+                {
+                  "number": "20101",
+                  "numText": "§ 20101.",
+                  "heading": "Short title",
+                  "identifier": "/us/usc/t51/s20101"
+                },
+                {
+                  "number": "20102",
+                  "numText": "§ 20102.",
+                  "heading": "Congressional declaration of policy and purpose",
+                  "identifier": "/us/usc/t51/s20102"
+                },
+                {
+                  "number": "20103",
+                  "numText": "§ 20103.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t51/s20103"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "COORDINATION OF AERONAUTICAL AND SPACE ACTIVITIES",
+              "identifier": "/us/usc/t51/stII/ch201/schII",
+              "children": [
+                {
+                  "number": "20111",
+                  "numText": "§ 20111.",
+                  "heading": "National Aeronautics and Space Administration",
+                  "identifier": "/us/usc/t51/s20111"
+                },
+                {
+                  "number": "20112",
+                  "numText": "§ 20112.",
+                  "heading": "Functions of the Administration",
+                  "identifier": "/us/usc/t51/s20112"
+                },
+                {
+                  "number": "20113",
+                  "numText": "§ 20113.",
+                  "heading": "Powers of the Administration in performance of functions",
+                  "identifier": "/us/usc/t51/s20113"
+                },
+                {
+                  "number": "20114",
+                  "numText": "§ 20114.",
+                  "heading": "Administration and Department of Defense coordination",
+                  "identifier": "/us/usc/t51/s20114"
+                },
+                {
+                  "number": "20115",
+                  "numText": "§ 20115.",
+                  "heading": "International cooperation",
+                  "identifier": "/us/usc/t51/s20115"
+                },
+                {
+                  "number": "20116",
+                  "numText": "§ 20116.",
+                  "heading": "Reports to Congress",
+                  "identifier": "/us/usc/t51/s20116"
+                },
+                {
+                  "number": "20117",
+                  "numText": "§ 20117.",
+                  "heading": "Disposal of excess land",
+                  "identifier": "/us/usc/t51/s20117"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "GENERAL ADMINISTRATIVE PROVISIONS",
+              "identifier": "/us/usc/t51/stII/ch201/schIII",
+              "children": [
+                {
+                  "number": "20131",
+                  "numText": "§ 20131.",
+                  "heading": "Public access to information",
+                  "identifier": "/us/usc/t51/s20131"
+                },
+                {
+                  "number": "20132",
+                  "numText": "§ 20132.",
+                  "heading": "Security requirements",
+                  "identifier": "/us/usc/t51/s20132"
+                },
+                {
+                  "number": "20133",
+                  "numText": "§ 20133.",
+                  "heading": "Permission to carry firearms",
+                  "identifier": "/us/usc/t51/s20133"
+                },
+                {
+                  "number": "20134",
+                  "numText": "§ 20134.",
+                  "heading": "Arrest authority",
+                  "identifier": "/us/usc/t51/s20134"
+                },
+                {
+                  "number": "20135",
+                  "numText": "§ 20135.",
+                  "heading": "Property rights in inventions",
+                  "identifier": "/us/usc/t51/s20135"
+                },
+                {
+                  "number": "20136",
+                  "numText": "§ 20136.",
+                  "heading": "Contributions awards",
+                  "identifier": "/us/usc/t51/s20136"
+                },
+                {
+                  "number": "20137",
+                  "numText": "§ 20137.",
+                  "heading": "Malpractice and negligence suits against United States",
+                  "identifier": "/us/usc/t51/s20137"
+                },
+                {
+                  "number": "20138",
+                  "numText": "§ 20138.",
+                  "heading": "Insurance and indemnification",
+                  "identifier": "/us/usc/t51/s20138"
+                },
+                {
+                  "number": "20139",
+                  "numText": "§ 20139.",
+                  "heading": "Insurance for experimental aerospace vehicles",
+                  "identifier": "/us/usc/t51/s20139"
+                },
+                {
+                  "number": "20140",
+                  "numText": "§ 20140.",
+                  "heading": "Appropriations",
+                  "identifier": "/us/usc/t51/s20140"
+                },
+                {
+                  "number": "20141",
+                  "numText": "§ 20141.",
+                  "heading": "Misuse of agency name and initials",
+                  "identifier": "/us/usc/t51/s20141"
+                },
+                {
+                  "number": "20142",
+                  "numText": "§ 20142.",
+                  "heading": "Contracts regarding expendable launch vehicles",
+                  "identifier": "/us/usc/t51/s20142"
+                },
+                {
+                  "number": "20143",
+                  "numText": "§ 20143.",
+                  "heading": "Full cost appropriations account structure",
+                  "identifier": "/us/usc/t51/s20143"
+                },
+                {
+                  "number": "20144",
+                  "numText": "§ 20144.",
+                  "heading": "Prize authority",
+                  "identifier": "/us/usc/t51/s20144"
+                },
+                {
+                  "number": "20145",
+                  "numText": "§ 20145.",
+                  "heading": "Lease of non-excess property",
+                  "identifier": "/us/usc/t51/s20145"
+                },
+                {
+                  "number": "20146",
+                  "numText": "§ 20146.",
+                  "heading": "Retrocession of jurisdiction",
+                  "identifier": "/us/usc/t51/s20146"
+                },
+                {
+                  "number": "20147",
+                  "numText": "§ 20147.",
+                  "heading": "Recovery and disposition authority",
+                  "identifier": "/us/usc/t51/s20147"
+                },
+                {
+                  "number": "20148",
+                  "numText": "§ 20148.",
+                  "heading": "Indemnification; NASA launch services and reentry services",
+                  "identifier": "/us/usc/t51/s20148"
+                },
+                {
+                  "number": "20149",
+                  "numText": "§ 20149.",
+                  "heading": "Medical monitoring and research relating to human space flight",
+                  "identifier": "/us/usc/t51/s20149"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "UPPER ATMOSPHERE RESEARCH",
+              "identifier": "/us/usc/t51/stII/ch201/schIV",
+              "children": [
+                {
+                  "number": "20161",
+                  "numText": "§ 20161.",
+                  "heading": "Congressional declaration of purpose and policy",
+                  "identifier": "/us/usc/t51/s20161"
+                },
+                {
+                  "number": "20162",
+                  "numText": "§ 20162.",
+                  "heading": "Definition of upper atmosphere",
+                  "identifier": "/us/usc/t51/s20162"
+                },
+                {
+                  "number": "20163",
+                  "numText": "§ 20163.",
+                  "heading": "Program authorized",
+                  "identifier": "/us/usc/t51/s20163"
+                },
+                {
+                  "number": "20164",
+                  "numText": "§ 20164.",
+                  "heading": "International cooperation",
+                  "identifier": "/us/usc/t51/s20164"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "203",
+          "heading": "RESPONSIBILITIES AND VISION",
+          "identifier": "/us/usc/t51/stII/ch203",
+          "children": [
+            {
+              "number": "20301",
+              "numText": "§ 20301.",
+              "heading": "General responsibilities",
+              "identifier": "/us/usc/t51/s20301"
+            },
+            {
+              "number": "20302",
+              "numText": "§ 20302.",
+              "heading": "Vision for space exploration",
+              "identifier": "/us/usc/t51/s20302"
+            },
+            {
+              "number": "20303",
+              "numText": "§ 20303.",
+              "heading": "Contribution to innovation",
+              "identifier": "/us/usc/t51/s20303"
+            },
+            {
+              "number": "20304",
+              "numText": "§ 20304.",
+              "heading": "Basic research enhancement",
+              "identifier": "/us/usc/t51/s20304"
+            },
+            {
+              "number": "20305",
+              "numText": "§ 20305.",
+              "heading": "National Academies decadal surveys",
+              "identifier": "/us/usc/t51/s20305"
+            },
+            {
+              "number": "20306",
+              "numText": "§ 20306.",
+              "heading": "Special appropriations for Mars missions, Artemis missions, and Moon to Mars program",
+              "identifier": "/us/usc/t51/s20306"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "III",
+      "heading": "Administrative Provisions",
+      "identifier": "/us/usc/t51/stIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "301",
+          "heading": "APPROPRIATIONS, BUDGETS, AND ACCOUNTING",
+          "identifier": "/us/usc/t51/stIII/ch301",
+          "children": [
+            {
+              "number": "30101",
+              "numText": "§ 30101.",
+              "heading": "Prior authorization of appropriations required",
+              "identifier": "/us/usc/t51/s30101"
+            },
+            {
+              "number": "30102",
+              "numText": "§ 30102.",
+              "heading": "Working capital fund",
+              "identifier": "/us/usc/t51/s30102"
+            },
+            {
+              "number": "30103",
+              "numText": "§ 30103.",
+              "heading": "Budgets",
+              "identifier": "/us/usc/t51/s30103"
+            },
+            {
+              "number": "30104",
+              "numText": "§ 30104.",
+              "heading": "Baselines and cost controls",
+              "identifier": "/us/usc/t51/s30104"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "303",
+          "heading": "CONTRACTING AND PROCUREMENT",
+          "identifier": "/us/usc/t51/stIII/ch303",
+          "children": [
+            {
+              "number": "30301",
+              "numText": "§ 30301.",
+              "heading": "Guaranteed customer base",
+              "identifier": "/us/usc/t51/s30301"
+            },
+            {
+              "number": "30302",
+              "numText": "§ 30302.",
+              "heading": "Quality assurance personnel",
+              "identifier": "/us/usc/t51/s30302"
+            },
+            {
+              "number": "30303",
+              "numText": "§ 30303.",
+              "heading": "Tracking and data relay satellite services",
+              "identifier": "/us/usc/t51/s30303"
+            },
+            {
+              "number": "30304",
+              "numText": "§ 30304.",
+              "heading": "Award of contracts to small businesses and disadvantaged individuals",
+              "identifier": "/us/usc/t51/s30304"
+            },
+            {
+              "number": "30305",
+              "numText": "§ 30305.",
+              "heading": "Outreach program",
+              "identifier": "/us/usc/t51/s30305"
+            },
+            {
+              "number": "30306",
+              "numText": "§ 30306.",
+              "heading": "Small business contracting",
+              "identifier": "/us/usc/t51/s30306"
+            },
+            {
+              "number": "30307",
+              "numText": "§ 30307.",
+              "heading": "Requirement for independent cost analysis",
+              "identifier": "/us/usc/t51/s30307"
+            },
+            {
+              "number": "30308",
+              "numText": "§ 30308.",
+              "heading": "Cost effectiveness calculations",
+              "identifier": "/us/usc/t51/s30308"
+            },
+            {
+              "number": "30309",
+              "numText": "§ 30309.",
+              "heading": "Use of abandoned and underutilized buildings, grounds, and facilities",
+              "identifier": "/us/usc/t51/s30309"
+            },
+            {
+              "number": "30310",
+              "numText": "§ 30310.",
+              "heading": "Exception to alternative fuel procurement requirement",
+              "identifier": "/us/usc/t51/s30310"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "305",
+          "heading": "MANAGEMENT AND REVIEW",
+          "identifier": "/us/usc/t51/stIII/ch305",
+          "children": [
+            {
+              "number": "30501",
+              "numText": "§ 30501.",
+              "heading": "Lessons learned and best practices",
+              "identifier": "/us/usc/t51/s30501"
+            },
+            {
+              "number": "30502",
+              "numText": "§ 30502.",
+              "heading": "Whistleblower protection",
+              "identifier": "/us/usc/t51/s30502"
+            },
+            {
+              "number": "30503",
+              "numText": "§ 30503.",
+              "heading": "Performance assessments",
+              "identifier": "/us/usc/t51/s30503"
+            },
+            {
+              "number": "30504",
+              "numText": "§ 30504.",
+              "heading": "Assessment of science mission extensions",
+              "identifier": "/us/usc/t51/s30504"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "307",
+          "heading": "INTERNATIONAL COOPERATION AND COMPETITION",
+          "identifier": "/us/usc/t51/stIII/ch307",
+          "children": [
+            {
+              "number": "30701",
+              "numText": "§ 30701.",
+              "heading": "Competitiveness and international cooperation",
+              "identifier": "/us/usc/t51/s30701"
+            },
+            {
+              "number": "30702",
+              "numText": "§ 30702.",
+              "heading": "Foreign contract limitation",
+              "identifier": "/us/usc/t51/s30702"
+            },
+            {
+              "number": "30703",
+              "numText": "§ 30703.",
+              "heading": "Foreign launch vehicles",
+              "identifier": "/us/usc/t51/s30703"
+            },
+            {
+              "number": "30704",
+              "numText": "§ 30704.",
+              "heading": "Offshore performance of contracts for the procurement of goods and services",
+              "identifier": "/us/usc/t51/s30704"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "309",
+          "heading": "AWARDS",
+          "identifier": "/us/usc/t51/stIII/ch309",
+          "children": [
+            {
+              "number": "30901",
+              "numText": "§ 30901.",
+              "heading": "Congressional Space Medal of Honor",
+              "identifier": "/us/usc/t51/s30901"
+            },
+            {
+              "number": "30902",
+              "numText": "§ 30902.",
+              "heading": "Charles “Pete” Conrad Astronomy Awards",
+              "identifier": "/us/usc/t51/s30902"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "311",
+          "heading": "SAFETY",
+          "identifier": "/us/usc/t51/stIII/ch311",
+          "children": [
+            {
+              "number": "31101",
+              "numText": "§ 31101.",
+              "heading": "Aerospace Safety Advisory Panel",
+              "identifier": "/us/usc/t51/s31101"
+            },
+            {
+              "number": "31102",
+              "numText": "§ 31102.",
+              "heading": "Drug and alcohol testing",
+              "identifier": "/us/usc/t51/s31102"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "313",
+          "heading": "HEALTHCARE",
+          "identifier": "/us/usc/t51/stIII/ch313",
+          "children": [
+            {
+              "number": "31301",
+              "numText": "§ 31301.",
+              "heading": "Healthcare program",
+              "identifier": "/us/usc/t51/s31301"
+            },
+            {
+              "number": "31302",
+              "numText": "§ 31302.",
+              "heading": "Astronaut healthcare survey",
+              "identifier": "/us/usc/t51/s31302"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "315",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t51/stIII/ch315",
+          "children": [
+            {
+              "number": "31501",
+              "numText": "§ 31501.",
+              "heading": "Orbital debris",
+              "identifier": "/us/usc/t51/s31501"
+            },
+            {
+              "number": "31502",
+              "numText": "§ 31502.",
+              "heading": "Maintenance of facilities",
+              "identifier": "/us/usc/t51/s31502"
+            },
+            {
+              "number": "31503",
+              "numText": "§ 31503.",
+              "heading": "Laboratory productivity",
+              "identifier": "/us/usc/t51/s31503"
+            },
+            {
+              "number": "31504",
+              "numText": "§ 31504.",
+              "heading": "Cooperative unmanned aerial vehicle activities",
+              "identifier": "/us/usc/t51/s31504"
+            },
+            {
+              "number": "31505",
+              "numText": "§ 31505.",
+              "heading": "Development of enhanced-use lease policy",
+              "identifier": "/us/usc/t51/s31505"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "IV",
+      "heading": "Aeronautics and Space Research and Education",
+      "identifier": "/us/usc/t51/stIV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "401",
+          "heading": "AERONAUTICS",
+          "identifier": "/us/usc/t51/stIV/ch401",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t51/stIV/ch401/schI",
+              "children": [
+                {
+                  "number": "40101",
+                  "numText": "§ 40101.",
+                  "heading": "Definition of institution of higher education",
+                  "identifier": "/us/usc/t51/s40101"
+                },
+                {
+                  "number": "40102",
+                  "numText": "§ 40102.",
+                  "heading": "Governmental interest in aeronautics research and development",
+                  "identifier": "/us/usc/t51/s40102"
+                },
+                {
+                  "number": "40103",
+                  "numText": "§ 40103.",
+                  "heading": "Cooperation with other agencies on aeronautics activities",
+                  "identifier": "/us/usc/t51/s40103"
+                },
+                {
+                  "number": "40104",
+                  "numText": "§ 40104.",
+                  "heading": "Cooperation among Mission Directorates",
+                  "identifier": "/us/usc/t51/s40104"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "HIGH PRIORITY AERONAUTICS RESEARCH AND DEVELOPMENT PROGRAMS",
+              "identifier": "/us/usc/t51/stIV/ch401/schII",
+              "children": [
+                {
+                  "number": "40111",
+                  "numText": "§ 40111.",
+                  "heading": "Fundamental research program",
+                  "identifier": "/us/usc/t51/s40111"
+                },
+                {
+                  "number": "40112",
+                  "numText": "§ 40112.",
+                  "heading": "Research and technology programs",
+                  "identifier": "/us/usc/t51/s40112"
+                },
+                {
+                  "number": "40113",
+                  "numText": "§ 40113.",
+                  "heading": "Airspace systems research",
+                  "identifier": "/us/usc/t51/s40113"
+                },
+                {
+                  "number": "40114",
+                  "numText": "§ 40114.",
+                  "heading": "Aviation safety and security research",
+                  "identifier": "/us/usc/t51/s40114"
+                },
+                {
+                  "number": "40115",
+                  "numText": "§ 40115.",
+                  "heading": "Aviation weather research",
+                  "identifier": "/us/usc/t51/s40115"
+                },
+                {
+                  "number": "40116",
+                  "numText": "§ 40116.",
+                  "heading": "University-based Centers for Research on Aviation Training",
+                  "identifier": "/us/usc/t51/s40116"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "SCHOLARSHIPS",
+              "identifier": "/us/usc/t51/stIV/ch401/schIII",
+              "children": [
+                {
+                  "number": "40131",
+                  "numText": "§ 40131.",
+                  "heading": "Aeronautics scholarships",
+                  "identifier": "/us/usc/t51/s40131"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "DATA REQUESTS",
+              "identifier": "/us/usc/t51/stIV/ch401/schIV",
+              "children": [
+                {
+                  "number": "40141",
+                  "numText": "§ 40141.",
+                  "heading": "Aviation data requests",
+                  "identifier": "/us/usc/t51/s40141"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "403",
+          "heading": "NATIONAL SPACE GRANT COLLEGE AND FELLOWSHIP PROGRAM",
+          "identifier": "/us/usc/t51/stIV/ch403",
+          "children": [
+            {
+              "number": "40301",
+              "numText": "§ 40301.",
+              "heading": "Purposes",
+              "identifier": "/us/usc/t51/s40301"
+            },
+            {
+              "number": "40302",
+              "numText": "§ 40302.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s40302"
+            },
+            {
+              "number": "40303",
+              "numText": "§ 40303.",
+              "heading": "National space grant college and fellowship program",
+              "identifier": "/us/usc/t51/s40303"
+            },
+            {
+              "number": "40304",
+              "numText": "§ 40304.",
+              "heading": "Grants or contracts",
+              "identifier": "/us/usc/t51/s40304"
+            },
+            {
+              "number": "40305",
+              "numText": "§ 40305.",
+              "heading": "Specific national needs",
+              "identifier": "/us/usc/t51/s40305"
+            },
+            {
+              "number": "40306",
+              "numText": "§ 40306.",
+              "heading": "Space grant college and space grant regional consortium",
+              "identifier": "/us/usc/t51/s40306"
+            },
+            {
+              "number": "40307",
+              "numText": "§ 40307.",
+              "heading": "Space grant fellowship program",
+              "identifier": "/us/usc/t51/s40307"
+            },
+            {
+              "number": "40308",
+              "numText": "§ 40308.",
+              "heading": "Space grant review panel",
+              "identifier": "/us/usc/t51/s40308"
+            },
+            {
+              "number": "40309",
+              "numText": "§ 40309.",
+              "heading": "Availability of other Federal personnel and data",
+              "identifier": "/us/usc/t51/s40309"
+            },
+            {
+              "number": "40310",
+              "numText": "§ 40310.",
+              "heading": "Designation or award to be on competitive basis",
+              "identifier": "/us/usc/t51/s40310"
+            },
+            {
+              "number": "40311",
+              "numText": "§ 40311.",
+              "heading": "Continuing emphasis",
+              "identifier": "/us/usc/t51/s40311"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "405",
+          "heading": "BIOMEDICAL RESEARCH IN SPACE",
+          "identifier": "/us/usc/t51/stIV/ch405",
+          "children": [
+            {
+              "number": "40501",
+              "numText": "§ 40501.",
+              "heading": "Biomedical research joint working group",
+              "identifier": "/us/usc/t51/s40501"
+            },
+            {
+              "number": "40502",
+              "numText": "§ 40502.",
+              "heading": "Biomedical research grants",
+              "identifier": "/us/usc/t51/s40502"
+            },
+            {
+              "number": "40503",
+              "numText": "§ 40503.",
+              "heading": "Biomedical research fellowships",
+              "identifier": "/us/usc/t51/s40503"
+            },
+            {
+              "number": "40504",
+              "numText": "§ 40504.",
+              "heading": "Establishment of electronic data archive",
+              "identifier": "/us/usc/t51/s40504"
+            },
+            {
+              "number": "40505",
+              "numText": "§ 40505.",
+              "heading": "Establishment of emergency medical service telemedicine capability",
+              "identifier": "/us/usc/t51/s40505"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "407",
+          "heading": "ENVIRONMENTALLY FRIENDLY AIRCRAFT",
+          "identifier": "/us/usc/t51/stIV/ch407",
+          "children": [
+            {
+              "number": "40701",
+              "numText": "§ 40701.",
+              "heading": "Research and development initiative",
+              "identifier": "/us/usc/t51/s40701"
+            },
+            {
+              "number": "40702",
+              "numText": "§ 40702.",
+              "heading": "Additional research and development initiative",
+              "identifier": "/us/usc/t51/s40702"
+            },
+            {
+              "number": "40703",
+              "numText": "§ 40703.",
+              "heading": "Research alignment",
+              "identifier": "/us/usc/t51/s40703"
+            },
+            {
+              "number": "40704",
+              "numText": "§ 40704.",
+              "heading": "Research program on perceived impact of sonic booms",
+              "identifier": "/us/usc/t51/s40704"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "409",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t51/stIV/ch409",
+          "children": [
+            {
+              "number": "40901",
+              "numText": "§ 40901.",
+              "heading": "Science, Space, and Technology Education Trust Fund",
+              "identifier": "/us/usc/t51/s40901"
+            },
+            {
+              "number": "40902",
+              "numText": "§ 40902.",
+              "heading": "National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund",
+              "identifier": "/us/usc/t51/s40902"
+            },
+            {
+              "number": "40903",
+              "numText": "§ 40903.",
+              "heading": "Established Program to Stimulate Competitive Research—merit grant competition requirements",
+              "identifier": "/us/usc/t51/s40903"
+            },
+            {
+              "number": "40904",
+              "numText": "§ 40904.",
+              "heading": "Microgravity research",
+              "identifier": "/us/usc/t51/s40904"
+            },
+            {
+              "number": "40905",
+              "numText": "§ 40905.",
+              "heading": "Program to expand distance learning in rural underserved areas",
+              "identifier": "/us/usc/t51/s40905"
+            },
+            {
+              "number": "40906",
+              "numText": "§ 40906.",
+              "heading": "Equal access to the Administration’s education programs",
+              "identifier": "/us/usc/t51/s40906"
+            },
+            {
+              "number": "40907",
+              "numText": "§ 40907.",
+              "heading": "Museums",
+              "identifier": "/us/usc/t51/s40907"
+            },
+            {
+              "number": "40908",
+              "numText": "§ 40908.",
+              "heading": "Continuation of certain education programs",
+              "identifier": "/us/usc/t51/s40908"
+            },
+            {
+              "number": "40909",
+              "numText": "§ 40909.",
+              "heading": "Compliance with title IX of Education Amendments of 1972",
+              "identifier": "/us/usc/t51/s40909"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "V",
+      "heading": "Programs Targeting Commercial Opportunities",
+      "identifier": "/us/usc/t51/stV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "501",
+          "heading": "SPACE COMMERCE",
+          "identifier": "/us/usc/t51/stV/ch501",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t51/stV/ch501/schI",
+              "children": [
+                {
+                  "number": "50101",
+                  "numText": "§ 50101.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t51/s50101"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "PROMOTION OF COMMERCIAL SPACE OPPORTUNITIES",
+              "identifier": "/us/usc/t51/stV/ch501/schII",
+              "children": [
+                {
+                  "number": "50111",
+                  "numText": "§ 50111.",
+                  "heading": "Commercialization of Space Station",
+                  "identifier": "/us/usc/t51/s50111"
+                },
+                {
+                  "number": "50112",
+                  "numText": "§ 50112.",
+                  "heading": "Promotion of United States Global Positioning System standards",
+                  "identifier": "/us/usc/t51/s50112"
+                },
+                {
+                  "number": "50113",
+                  "numText": "§ 50113.",
+                  "heading": "Acquisition of space science data",
+                  "identifier": "/us/usc/t51/s50113"
+                },
+                {
+                  "number": "50114",
+                  "numText": "§ 50114.",
+                  "heading": "Administration of commercial space centers",
+                  "identifier": "/us/usc/t51/s50114"
+                },
+                {
+                  "number": "50115",
+                  "numText": "§ 50115.",
+                  "heading": "Sources of Earth science data",
+                  "identifier": "/us/usc/t51/s50115"
+                },
+                {
+                  "number": "50116",
+                  "numText": "§ 50116.",
+                  "heading": "Commercial technology transfer program",
+                  "identifier": "/us/usc/t51/s50116"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES",
+              "identifier": "/us/usc/t51/stV/ch501/schIII",
+              "children": [
+                {
+                  "number": "50131",
+                  "numText": "§ 50131.",
+                  "heading": "Requirement to procure commercial space transportation services",
+                  "identifier": "/us/usc/t51/s50131"
+                },
+                {
+                  "number": "50132",
+                  "numText": "§ 50132.",
+                  "heading": "Acquisition of commercial space transportation services",
+                  "identifier": "/us/usc/t51/s50132"
+                },
+                {
+                  "number": "50133",
+                  "numText": "[§ 50133.",
+                  "heading": "Repealed. Pub. L. 115–10, title IV, § 416(c), Mar. 21, 2017, 131 Stat. 35]",
+                  "identifier": "/us/usc/t51/s50133"
+                },
+                {
+                  "number": "50134",
+                  "numText": "§ 50134.",
+                  "heading": "Use of excess intercontinental ballistic missiles",
+                  "identifier": "/us/usc/t51/s50134"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "503",
+          "heading": "COMMERCIAL REUSABLE IN-SPACE TRANSPORTATION",
+          "identifier": "/us/usc/t51/stV/ch503",
+          "children": [
+            {
+              "number": "50301",
+              "numText": "§ 50301.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s50301"
+            },
+            {
+              "number": "50302",
+              "numText": "§ 50302.",
+              "heading": "Loan guarantees for production of commercial reusable in-space transportation",
+              "identifier": "/us/usc/t51/s50302"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "505",
+          "heading": "COMMERCIAL SPACE COMPETITIVENESS",
+          "identifier": "/us/usc/t51/stV/ch505",
+          "children": [
+            {
+              "number": "50501",
+              "numText": "§ 50501.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s50501"
+            },
+            {
+              "number": "50502",
+              "numText": "§ 50502.",
+              "heading": "Launch voucher demonstration program",
+              "identifier": "/us/usc/t51/s50502"
+            },
+            {
+              "number": "50503",
+              "numText": "§ 50503.",
+              "heading": "Anchor tenancy and termination liability",
+              "identifier": "/us/usc/t51/s50503"
+            },
+            {
+              "number": "50504",
+              "numText": "§ 50504.",
+              "heading": "Use of Government facilities",
+              "identifier": "/us/usc/t51/s50504"
+            },
+            {
+              "number": "50505",
+              "numText": "§ 50505.",
+              "heading": "Test facilities",
+              "identifier": "/us/usc/t51/s50505"
+            },
+            {
+              "number": "50506",
+              "numText": "§ 50506.",
+              "heading": "Commercial Space Achievement Award",
+              "identifier": "/us/usc/t51/s50506"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "507",
+          "heading": "OFFICE OF SPACE COMMERCE",
+          "identifier": "/us/usc/t51/stV/ch507",
+          "children": [
+            {
+              "number": "50701",
+              "numText": "§ 50701.",
+              "heading": "Definition of Office",
+              "identifier": "/us/usc/t51/s50701"
+            },
+            {
+              "number": "50702",
+              "numText": "§ 50702.",
+              "heading": "Establishment",
+              "identifier": "/us/usc/t51/s50702"
+            },
+            {
+              "number": "50703",
+              "numText": "§ 50703.",
+              "heading": "Annual report",
+              "identifier": "/us/usc/t51/s50703"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "509",
+          "heading": "COMMERCIAL SPACE LAUNCH ACTIVITIES",
+          "identifier": "/us/usc/t51/stV/ch509",
+          "children": [
+            {
+              "number": "50901",
+              "numText": "§ 50901.",
+              "heading": "Findings and purposes",
+              "identifier": "/us/usc/t51/s50901"
+            },
+            {
+              "number": "50902",
+              "numText": "§ 50902.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s50902"
+            },
+            {
+              "number": "50903",
+              "numText": "§ 50903.",
+              "heading": "General authority",
+              "identifier": "/us/usc/t51/s50903"
+            },
+            {
+              "number": "50904",
+              "numText": "§ 50904.",
+              "heading": "Restrictions on launches, operations, and reentries",
+              "identifier": "/us/usc/t51/s50904"
+            },
+            {
+              "number": "50905",
+              "numText": "§ 50905.",
+              "heading": "License applications and requirements",
+              "identifier": "/us/usc/t51/s50905"
+            },
+            {
+              "number": "50906",
+              "numText": "§ 50906.",
+              "heading": "Experimental permits",
+              "identifier": "/us/usc/t51/s50906"
+            },
+            {
+              "number": "50907",
+              "numText": "§ 50907.",
+              "heading": "Monitoring activities",
+              "identifier": "/us/usc/t51/s50907"
+            },
+            {
+              "number": "50908",
+              "numText": "§ 50908.",
+              "heading": "Effective periods, and modifications, suspensions, and revocations, of licenses",
+              "identifier": "/us/usc/t51/s50908"
+            },
+            {
+              "number": "50909",
+              "numText": "§ 50909.",
+              "heading": "Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries",
+              "identifier": "/us/usc/t51/s50909"
+            },
+            {
+              "number": "50910",
+              "numText": "§ 50910.",
+              "heading": "Preemption of scheduled launches or reentries",
+              "identifier": "/us/usc/t51/s50910"
+            },
+            {
+              "number": "50911",
+              "numText": "§ 50911.",
+              "heading": "Space advertising",
+              "identifier": "/us/usc/t51/s50911"
+            },
+            {
+              "number": "50912",
+              "numText": "§ 50912.",
+              "heading": "Administrative hearings and judicial review",
+              "identifier": "/us/usc/t51/s50912"
+            },
+            {
+              "number": "50913",
+              "numText": "§ 50913.",
+              "heading": "Acquiring United States Government property and services",
+              "identifier": "/us/usc/t51/s50913"
+            },
+            {
+              "number": "50914",
+              "numText": "§ 50914.",
+              "heading": "Liability insurance and financial responsibility requirements",
+              "identifier": "/us/usc/t51/s50914"
+            },
+            {
+              "number": "50915",
+              "numText": "§ 50915.",
+              "heading": "Paying claims exceeding liability insurance and financial responsibility requirements",
+              "identifier": "/us/usc/t51/s50915"
+            },
+            {
+              "number": "50916",
+              "numText": "§ 50916.",
+              "heading": "Disclosing information",
+              "identifier": "/us/usc/t51/s50916"
+            },
+            {
+              "number": "50917",
+              "numText": "§ 50917.",
+              "heading": "Enforcement and penalty",
+              "identifier": "/us/usc/t51/s50917"
+            },
+            {
+              "number": "50918",
+              "numText": "§ 50918.",
+              "heading": "Consultation",
+              "identifier": "/us/usc/t51/s50918"
+            },
+            {
+              "number": "50919",
+              "numText": "§ 50919.",
+              "heading": "Relationship to other executive agencies, laws, and international obligations",
+              "identifier": "/us/usc/t51/s50919"
+            },
+            {
+              "number": "50920",
+              "numText": "§ 50920.",
+              "heading": "User fees",
+              "identifier": "/us/usc/t51/s50920"
+            },
+            {
+              "number": "50921",
+              "numText": "§ 50921.",
+              "heading": "Office of Commercial Space Transportation",
+              "identifier": "/us/usc/t51/s50921"
+            },
+            {
+              "number": "50922",
+              "numText": "§ 50922.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t51/s50922"
+            },
+            {
+              "number": "50923",
+              "numText": "§ 50923.",
+              "heading": "Report to Congress",
+              "identifier": "/us/usc/t51/s50923"
+            },
+            {
+              "number": "50924",
+              "numText": "§ 50924.",
+              "heading": "Space launch and reentry licensing and permitting user fees",
+              "identifier": "/us/usc/t51/s50924"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "511",
+          "heading": "SPACE TRANSPORTATION INFRASTRUCTURE MATCHING GRANTS",
+          "identifier": "/us/usc/t51/stV/ch511",
+          "children": [
+            {
+              "number": "51101",
+              "numText": "§ 51101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s51101"
+            },
+            {
+              "number": "51102",
+              "numText": "§ 51102.",
+              "heading": "Grant authority",
+              "identifier": "/us/usc/t51/s51102"
+            },
+            {
+              "number": "51103",
+              "numText": "§ 51103.",
+              "heading": "Grant applications",
+              "identifier": "/us/usc/t51/s51103"
+            },
+            {
+              "number": "51104",
+              "numText": "§ 51104.",
+              "heading": "Environmental requirements",
+              "identifier": "/us/usc/t51/s51104"
+            },
+            {
+              "number": "51105",
+              "numText": "§ 51105.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t51/s51105"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "513",
+          "heading": "SPACE RESOURCE COMMERCIAL EXPLORATION AND UTILIZATION",
+          "identifier": "/us/usc/t51/stV/ch513",
+          "children": [
+            {
+              "number": "51301",
+              "numText": "§ 51301.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s51301"
+            },
+            {
+              "number": "51302",
+              "numText": "§ 51302.",
+              "heading": "Commercial exploration and commercial recovery",
+              "identifier": "/us/usc/t51/s51302"
+            },
+            {
+              "number": "51303",
+              "numText": "§ 51303.",
+              "heading": "Asteroid resource and space resource rights",
+              "identifier": "/us/usc/t51/s51303"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "515",
+          "heading": "OFFICE OF SPACEPORTS",
+          "identifier": "/us/usc/t51/stV/ch515",
+          "children": [
+            {
+              "number": "51501",
+              "numText": "§ 51501.",
+              "heading": "Establishment of Office of Spaceports",
+              "identifier": "/us/usc/t51/s51501"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "VI",
+      "heading": "Earth Observations",
+      "identifier": "/us/usc/t51/stVI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "601",
+          "heading": "LAND REMOTE SENSING POLICY",
+          "identifier": "/us/usc/t51/stVI/ch601",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t51/stVI/ch601/schI",
+              "children": [
+                {
+                  "number": "60101",
+                  "numText": "§ 60101.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t51/s60101"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "LANDSAT",
+              "identifier": "/us/usc/t51/stVI/ch601/schII",
+              "children": [
+                {
+                  "number": "60111",
+                  "numText": "§ 60111.",
+                  "heading": "Landsat Program Management",
+                  "identifier": "/us/usc/t51/s60111"
+                },
+                {
+                  "number": "60112",
+                  "numText": "§ 60112.",
+                  "heading": "Transfer of Landsat 6 program responsibilities",
+                  "identifier": "/us/usc/t51/s60112"
+                },
+                {
+                  "number": "60113",
+                  "numText": "§ 60113.",
+                  "heading": "Data policy for Landsat 7",
+                  "identifier": "/us/usc/t51/s60113"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS",
+              "identifier": "/us/usc/t51/stVI/ch601/schIII",
+              "children": [
+                {
+                  "number": "60121",
+                  "numText": "§ 60121.",
+                  "heading": "General licensing authority",
+                  "identifier": "/us/usc/t51/s60121"
+                },
+                {
+                  "number": "60122",
+                  "numText": "§ 60122.",
+                  "heading": "Conditions for operation",
+                  "identifier": "/us/usc/t51/s60122"
+                },
+                {
+                  "number": "60123",
+                  "numText": "§ 60123.",
+                  "heading": "Administrative authority of Secretary",
+                  "identifier": "/us/usc/t51/s60123"
+                },
+                {
+                  "number": "60124",
+                  "numText": "§ 60124.",
+                  "heading": "Regulatory authority of Secretary",
+                  "identifier": "/us/usc/t51/s60124"
+                },
+                {
+                  "number": "60125",
+                  "numText": "§ 60125.",
+                  "heading": "Agency activities",
+                  "identifier": "/us/usc/t51/s60125"
+                },
+                {
+                  "number": "60126",
+                  "numText": "§ 60126.",
+                  "heading": "Annual reports",
+                  "identifier": "/us/usc/t51/s60126"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+              "identifier": "/us/usc/t51/stVI/ch601/schIV",
+              "children": [
+                {
+                  "number": "60131",
+                  "numText": "§ 60131.",
+                  "heading": "Continued Federal research and development",
+                  "identifier": "/us/usc/t51/s60131"
+                },
+                {
+                  "number": "60132",
+                  "numText": "§ 60132.",
+                  "heading": "Availability of federally gathered unenhanced data",
+                  "identifier": "/us/usc/t51/s60132"
+                },
+                {
+                  "number": "60133",
+                  "numText": "§ 60133.",
+                  "heading": "Technology demonstration program",
+                  "identifier": "/us/usc/t51/s60133"
+                },
+                {
+                  "number": "60134",
+                  "numText": "§ 60134.",
+                  "heading": "Preference for private sector land remote sensing system",
+                  "identifier": "/us/usc/t51/s60134"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "V",
+              "heading": "GENERAL PROVISIONS",
+              "identifier": "/us/usc/t51/stVI/ch601/schV",
+              "children": [
+                {
+                  "number": "60141",
+                  "numText": "§ 60141.",
+                  "heading": "Nondiscriminatory data availability",
+                  "identifier": "/us/usc/t51/s60141"
+                },
+                {
+                  "number": "60142",
+                  "numText": "§ 60142.",
+                  "heading": "Archiving of data",
+                  "identifier": "/us/usc/t51/s60142"
+                },
+                {
+                  "number": "60143",
+                  "numText": "§ 60143.",
+                  "heading": "Nonreproduction",
+                  "identifier": "/us/usc/t51/s60143"
+                },
+                {
+                  "number": "60144",
+                  "numText": "§ 60144.",
+                  "heading": "Reimbursement for assistance",
+                  "identifier": "/us/usc/t51/s60144"
+                },
+                {
+                  "number": "60145",
+                  "numText": "§ 60145.",
+                  "heading": "Acquisition of equipment",
+                  "identifier": "/us/usc/t51/s60145"
+                },
+                {
+                  "number": "60146",
+                  "numText": "§ 60146.",
+                  "heading": "Radio frequency allocation",
+                  "identifier": "/us/usc/t51/s60146"
+                },
+                {
+                  "number": "60147",
+                  "numText": "§ 60147.",
+                  "heading": "Consultation",
+                  "identifier": "/us/usc/t51/s60147"
+                },
+                {
+                  "number": "60148",
+                  "numText": "§ 60148.",
+                  "heading": "Enforcement",
+                  "identifier": "/us/usc/t51/s60148"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VI",
+              "heading": "PROHIBITION OF COMMERCIALIZATION OF WEATHER SATELLITES",
+              "identifier": "/us/usc/t51/stVI/ch601/schVI",
+              "children": [
+                {
+                  "number": "60161",
+                  "numText": "§ 60161.",
+                  "heading": "Prohibition",
+                  "identifier": "/us/usc/t51/s60161"
+                },
+                {
+                  "number": "60162",
+                  "numText": "§ 60162.",
+                  "heading": "Future considerations",
+                  "identifier": "/us/usc/t51/s60162"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "603",
+          "heading": "REMOTE SENSING",
+          "identifier": "/us/usc/t51/stVI/ch603",
+          "children": [
+            {
+              "number": "60301",
+              "numText": "§ 60301.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s60301"
+            },
+            {
+              "number": "60302",
+              "numText": "§ 60302.",
+              "heading": "General responsibilities",
+              "identifier": "/us/usc/t51/s60302"
+            },
+            {
+              "number": "60303",
+              "numText": "§ 60303.",
+              "heading": "Pilot projects to encourage public sector applications",
+              "identifier": "/us/usc/t51/s60303"
+            },
+            {
+              "number": "60304",
+              "numText": "§ 60304.",
+              "heading": "Program evaluation",
+              "identifier": "/us/usc/t51/s60304"
+            },
+            {
+              "number": "60305",
+              "numText": "§ 60305.",
+              "heading": "Data availability",
+              "identifier": "/us/usc/t51/s60305"
+            },
+            {
+              "number": "60306",
+              "numText": "§ 60306.",
+              "heading": "Education",
+              "identifier": "/us/usc/t51/s60306"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "605",
+          "heading": "EARTH SCIENCE",
+          "identifier": "/us/usc/t51/stVI/ch605",
+          "children": [
+            {
+              "number": "60501",
+              "numText": "§ 60501.",
+              "heading": "Goal",
+              "identifier": "/us/usc/t51/s60501"
+            },
+            {
+              "number": "60502",
+              "numText": "§ 60502.",
+              "heading": "Transitioning experimental research into operational services",
+              "identifier": "/us/usc/t51/s60502"
+            },
+            {
+              "number": "60503",
+              "numText": "§ 60503.",
+              "heading": "Reauthorization of Glory Mission",
+              "identifier": "/us/usc/t51/s60503"
+            },
+            {
+              "number": "60504",
+              "numText": "§ 60504.",
+              "heading": "Tornadoes and other severe storms",
+              "identifier": "/us/usc/t51/s60504"
+            },
+            {
+              "number": "60505",
+              "numText": "§ 60505.",
+              "heading": "Coordination with the National Oceanic and Atmospheric Administration",
+              "identifier": "/us/usc/t51/s60505"
+            },
+            {
+              "number": "60506",
+              "numText": "§ 60506.",
+              "heading": "Sharing of climate related data",
+              "identifier": "/us/usc/t51/s60506"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "606",
+          "heading": "SPACE WEATHER",
+          "identifier": "/us/usc/t51/stVI/ch606",
+          "children": [
+            {
+              "number": "60601",
+              "numText": "§ 60601.",
+              "heading": "Space weather",
+              "identifier": "/us/usc/t51/s60601"
+            },
+            {
+              "number": "60602",
+              "numText": "§ 60602.",
+              "heading": "Integrated strategy",
+              "identifier": "/us/usc/t51/s60602"
+            },
+            {
+              "number": "60603",
+              "numText": "§ 60603.",
+              "heading": "Sustaining and advancing critical space weather observations",
+              "identifier": "/us/usc/t51/s60603"
+            },
+            {
+              "number": "60604",
+              "numText": "§ 60604.",
+              "heading": "Research activities",
+              "identifier": "/us/usc/t51/s60604"
+            },
+            {
+              "number": "60605",
+              "numText": "§ 60605.",
+              "heading": "Space weather data",
+              "identifier": "/us/usc/t51/s60605"
+            },
+            {
+              "number": "60606",
+              "numText": "§ 60606.",
+              "heading": "Space weather knowledge transfer and information exchange",
+              "identifier": "/us/usc/t51/s60606"
+            },
+            {
+              "number": "60607",
+              "numText": "§ 60607.",
+              "heading": "Pilot program for obtaining commercial sector space weather data",
+              "identifier": "/us/usc/t51/s60607"
+            },
+            {
+              "number": "60608",
+              "numText": "§ 60608.",
+              "heading": "Space weather benchmarks",
+              "identifier": "/us/usc/t51/s60608"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "VII",
+      "heading": "Access to Space",
+      "identifier": "/us/usc/t51/stVII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "701",
+          "heading": "USE OF SPACE LAUNCH SYSTEM OR ALTERNATIVES",
+          "identifier": "/us/usc/t51/stVII/ch701",
+          "children": [
+            {
+              "number": "70101",
+              "numText": "§ 70101.",
+              "heading": "Recovery of fair value of placing Department of Defense payloads in orbit with space launch system",
+              "identifier": "/us/usc/t51/s70101"
+            },
+            {
+              "number": "70102",
+              "numText": "§ 70102.",
+              "heading": "Space launch system use policy",
+              "identifier": "/us/usc/t51/s70102"
+            },
+            {
+              "number": "70103",
+              "numText": "§ 70103.",
+              "heading": "Commercial payloads on space launch system",
+              "identifier": "/us/usc/t51/s70103"
+            },
+            {
+              "number": "70104",
+              "numText": "§ 70104.",
+              "heading": "Definition of Space Launch System",
+              "identifier": "/us/usc/t51/s70104"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "703",
+          "heading": "REPEALED]",
+          "identifier": "/us/usc/t51/stVII/ch703",
+          "children": [
+            {
+              "number": "70301 to 70304",
+              "numText": "[§§ 70301 to 70304.",
+              "heading": "Repealed. Pub. L. 115–10, title IV, § 416(b), Mar. 21, 2017, 131 Stat. 35]",
+              "identifier": "/us/usc/t51/s70301...70304"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "705",
+          "heading": "EXPLORATION INITIATIVES",
+          "identifier": "/us/usc/t51/stVII/ch705",
+          "children": [
+            {
+              "number": "70501",
+              "numText": "§ 70501.",
+              "heading": "Space shuttle follow-on",
+              "identifier": "/us/usc/t51/s70501"
+            },
+            {
+              "number": "70502",
+              "numText": "§ 70502.",
+              "heading": "Exploration plan and programs",
+              "identifier": "/us/usc/t51/s70502"
+            },
+            {
+              "number": "70503",
+              "numText": "§ 70503.",
+              "heading": "Ground-based analog capabilities",
+              "identifier": "/us/usc/t51/s70503"
+            },
+            {
+              "number": "70504",
+              "numText": "§ 70504.",
+              "heading": "Stepping stone approach to exploration",
+              "identifier": "/us/usc/t51/s70504"
+            },
+            {
+              "number": "70505",
+              "numText": "§ 70505.",
+              "heading": "Lunar outpost",
+              "identifier": "/us/usc/t51/s70505"
+            },
+            {
+              "number": "70506",
+              "numText": "§ 70506.",
+              "heading": "Exploration technology research",
+              "identifier": "/us/usc/t51/s70506"
+            },
+            {
+              "number": "70507",
+              "numText": "§ 70507.",
+              "heading": "Technology development",
+              "identifier": "/us/usc/t51/s70507"
+            },
+            {
+              "number": "70508",
+              "numText": "§ 70508.",
+              "heading": "Robotic or human servicing of spacecraft",
+              "identifier": "/us/usc/t51/s70508"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "707",
+          "heading": "HUMAN SPACE FLIGHT INDEPENDENT INVESTIGATION COMMISSION",
+          "identifier": "/us/usc/t51/stVII/ch707",
+          "children": [
+            {
+              "number": "70701",
+              "numText": "§ 70701.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t51/s70701"
+            },
+            {
+              "number": "70702",
+              "numText": "§ 70702.",
+              "heading": "Establishment of Commission",
+              "identifier": "/us/usc/t51/s70702"
+            },
+            {
+              "number": "70703",
+              "numText": "§ 70703.",
+              "heading": "Tasks of Commission",
+              "identifier": "/us/usc/t51/s70703"
+            },
+            {
+              "number": "70704",
+              "numText": "§ 70704.",
+              "heading": "Composition of Commission",
+              "identifier": "/us/usc/t51/s70704"
+            },
+            {
+              "number": "70705",
+              "numText": "§ 70705.",
+              "heading": "Powers of Commission",
+              "identifier": "/us/usc/t51/s70705"
+            },
+            {
+              "number": "70706",
+              "numText": "§ 70706.",
+              "heading": "Public meetings, information, and hearings",
+              "identifier": "/us/usc/t51/s70706"
+            },
+            {
+              "number": "70707",
+              "numText": "§ 70707.",
+              "heading": "Staff of Commission",
+              "identifier": "/us/usc/t51/s70707"
+            },
+            {
+              "number": "70708",
+              "numText": "§ 70708.",
+              "heading": "Compensation and travel expenses",
+              "identifier": "/us/usc/t51/s70708"
+            },
+            {
+              "number": "70709",
+              "numText": "§ 70709.",
+              "heading": "Security clearances for Commission members and staff",
+              "identifier": "/us/usc/t51/s70709"
+            },
+            {
+              "number": "70710",
+              "numText": "§ 70710.",
+              "heading": "Reporting requirements and termination",
+              "identifier": "/us/usc/t51/s70710"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "709",
+          "heading": "INTERNATIONAL SPACE STATION",
+          "identifier": "/us/usc/t51/stVII/ch709",
+          "children": [
+            {
+              "number": "70901",
+              "numText": "§ 70901.",
+              "heading": "Peaceful uses of space station",
+              "identifier": "/us/usc/t51/s70901"
+            },
+            {
+              "number": "70902",
+              "numText": "§ 70902.",
+              "heading": "Allocation of International Space Station research budget",
+              "identifier": "/us/usc/t51/s70902"
+            },
+            {
+              "number": "70903",
+              "numText": "§ 70903.",
+              "heading": "International Space Station research",
+              "identifier": "/us/usc/t51/s70903"
+            },
+            {
+              "number": "70904",
+              "numText": "§ 70904.",
+              "heading": "International Space Station completion",
+              "identifier": "/us/usc/t51/s70904"
+            },
+            {
+              "number": "70905",
+              "numText": "§ 70905.",
+              "heading": "National laboratory designation",
+              "identifier": "/us/usc/t51/s70905"
+            },
+            {
+              "number": "70906",
+              "numText": "§ 70906.",
+              "heading": "International Space Station National Laboratory Advisory Committee",
+              "identifier": "/us/usc/t51/s70906"
+            },
+            {
+              "number": "70907",
+              "numText": "§ 70907.",
+              "heading": "Maintaining use through at least 2030",
+              "identifier": "/us/usc/t51/s70907"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "711",
+          "heading": "NEAR-EARTH OBJECTS",
+          "identifier": "/us/usc/t51/stVII/ch711",
+          "children": [
+            {
+              "number": "71101",
+              "numText": "§ 71101.",
+              "heading": "Reaffirmation of policy",
+              "identifier": "/us/usc/t51/s71101"
+            },
+            {
+              "number": "71102",
+              "numText": "§ 71102.",
+              "heading": "Requests for information",
+              "identifier": "/us/usc/t51/s71102"
+            },
+            {
+              "number": "71103",
+              "numText": "§ 71103.",
+              "heading": "Developing policy and recommending responsible Federal agency",
+              "identifier": "/us/usc/t51/s71103"
+            },
+            {
+              "number": "71104",
+              "numText": "§ 71104.",
+              "heading": "Planetary radar",
+              "identifier": "/us/usc/t51/s71104"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "713",
+          "heading": "COOPERATION FOR SAFETY AMONG SPACEFARING NATIONS",
+          "identifier": "/us/usc/t51/stVII/ch713",
+          "children": [
+            {
+              "number": "71301",
+              "numText": "§ 71301.",
+              "heading": "Common docking system standard to enable rescue",
+              "identifier": "/us/usc/t51/s71301"
+            },
+            {
+              "number": "71302",
+              "numText": "§ 71302.",
+              "heading": "Information sharing to avoid physical or radio-frequency interference",
+              "identifier": "/us/usc/t51/s71302"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

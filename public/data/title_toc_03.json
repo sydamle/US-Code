@@ -1,0 +1,505 @@
+{
+  "number": "3",
+  "name": "The President",
+  "identifier": "/us/usc/t3",
+  "version": "Online@119-73not60",
+  "updated": "2024-04-17",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "PRESIDENTIAL ELECTIONS AND VACANCIES",
+      "identifier": "/us/usc/t3/ch1",
+      "children": [
+        {
+          "number": "1",
+          "numText": "§ 1.",
+          "heading": "Time of appointing electors",
+          "identifier": "/us/usc/t3/s1"
+        },
+        {
+          "number": "2",
+          "numText": "[§ 2.",
+          "heading": "Repealed. Pub. L. 117–328, div. P, title I, § 102(a), Dec. 29, 2022, 136 Stat. 5233]",
+          "identifier": "/us/usc/t3/s2"
+        },
+        {
+          "number": "3",
+          "numText": "§ 3.",
+          "heading": "Number of electors",
+          "identifier": "/us/usc/t3/s3"
+        },
+        {
+          "number": "4",
+          "numText": "§ 4.",
+          "heading": "Vacancies in electoral college",
+          "identifier": "/us/usc/t3/s4"
+        },
+        {
+          "number": "5",
+          "numText": "§ 5.",
+          "heading": "Certificate of ascertainment of appointment of electors",
+          "identifier": "/us/usc/t3/s5"
+        },
+        {
+          "number": "6",
+          "numText": "§ 6.",
+          "heading": "Duties of Archivist",
+          "identifier": "/us/usc/t3/s6"
+        },
+        {
+          "number": "7",
+          "numText": "§ 7.",
+          "heading": "Meeting and vote of electors",
+          "identifier": "/us/usc/t3/s7"
+        },
+        {
+          "number": "8",
+          "numText": "§ 8.",
+          "heading": "Manner of voting",
+          "identifier": "/us/usc/t3/s8"
+        },
+        {
+          "number": "9",
+          "numText": "§ 9.",
+          "heading": "Certificates of votes for President and Vice President",
+          "identifier": "/us/usc/t3/s9"
+        },
+        {
+          "number": "10",
+          "numText": "§ 10.",
+          "heading": "Sealing and endorsing certificates",
+          "identifier": "/us/usc/t3/s10"
+        },
+        {
+          "number": "11",
+          "numText": "§ 11.",
+          "heading": "Transmission of certificates by electors",
+          "identifier": "/us/usc/t3/s11"
+        },
+        {
+          "number": "12",
+          "numText": "§ 12.",
+          "heading": "Failure of certificates of electors to reach President of the Senate or Archivist of the United States; demand on State for certificate",
+          "identifier": "/us/usc/t3/s12"
+        },
+        {
+          "number": "13",
+          "numText": "§ 13.",
+          "heading": "Same; demand on district judge for certificate",
+          "identifier": "/us/usc/t3/s13"
+        },
+        {
+          "number": "14",
+          "numText": "[§ 14.",
+          "heading": "Repealed. Pub. L. 117–328, div. P, title I, § 108(c)(1), Dec. 29, 2022, 136 Stat. 5237]",
+          "identifier": "/us/usc/t3/s14"
+        },
+        {
+          "number": "15",
+          "numText": "§ 15.",
+          "heading": "Counting electoral votes in Congress",
+          "identifier": "/us/usc/t3/s15"
+        },
+        {
+          "number": "16",
+          "numText": "§ 16.",
+          "heading": "Same; seats for officers and Members of two Houses in joint session",
+          "identifier": "/us/usc/t3/s16"
+        },
+        {
+          "number": "17",
+          "numText": "§ 17.",
+          "heading": "Same; limit of debate in each House",
+          "identifier": "/us/usc/t3/s17"
+        },
+        {
+          "number": "18",
+          "numText": "§ 18.",
+          "heading": "Same; parliamentary procedure at joint session",
+          "identifier": "/us/usc/t3/s18"
+        },
+        {
+          "number": "19",
+          "numText": "§ 19.",
+          "heading": "Vacancy in offices of both President and Vice President; officers eligible to act",
+          "identifier": "/us/usc/t3/s19"
+        },
+        {
+          "number": "20",
+          "numText": "§ 20.",
+          "heading": "Resignation or refusal of office",
+          "identifier": "/us/usc/t3/s20"
+        },
+        {
+          "number": "21",
+          "numText": "§ 21.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t3/s21"
+        },
+        {
+          "number": "22",
+          "numText": "§ 22.",
+          "heading": "Severability",
+          "identifier": "/us/usc/t3/s22"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "OFFICE AND COMPENSATION OF PRESIDENT",
+      "identifier": "/us/usc/t3/ch2",
+      "children": [
+        {
+          "number": "101",
+          "numText": "§ 101.",
+          "heading": "Commencement of term of office",
+          "identifier": "/us/usc/t3/s101"
+        },
+        {
+          "number": "102",
+          "numText": "§ 102.",
+          "heading": "Compensation of the President",
+          "identifier": "/us/usc/t3/s102"
+        },
+        {
+          "number": "103",
+          "numText": "§ 103.",
+          "heading": "Traveling expenses",
+          "identifier": "/us/usc/t3/s103"
+        },
+        {
+          "number": "104",
+          "numText": "§ 104.",
+          "heading": "Salary of the Vice President",
+          "identifier": "/us/usc/t3/s104"
+        },
+        {
+          "number": "105",
+          "numText": "§ 105.",
+          "heading": "Assistance and services for the President",
+          "identifier": "/us/usc/t3/s105"
+        },
+        {
+          "number": "106",
+          "numText": "§ 106.",
+          "heading": "Assistance and services for the Vice President",
+          "identifier": "/us/usc/t3/s106"
+        },
+        {
+          "number": "107",
+          "numText": "§ 107.",
+          "heading": "Domestic Policy Staff and Office of Administration; personnel",
+          "identifier": "/us/usc/t3/s107"
+        },
+        {
+          "number": "108",
+          "numText": "§ 108.",
+          "heading": "Assistance to the President for unanticipated needs",
+          "identifier": "/us/usc/t3/s108"
+        },
+        {
+          "number": "109",
+          "numText": "§ 109.",
+          "heading": "Public property in and belonging to the Executive Residence at the White House",
+          "identifier": "/us/usc/t3/s109"
+        },
+        {
+          "number": "110",
+          "numText": "§ 110.",
+          "heading": "Furniture for the Executive Residence at the White House",
+          "identifier": "/us/usc/t3/s110"
+        },
+        {
+          "number": "111",
+          "numText": "§ 111.",
+          "heading": "Expense allowance of Vice President",
+          "identifier": "/us/usc/t3/s111"
+        },
+        {
+          "number": "112",
+          "numText": "§ 112.",
+          "heading": "Detail of employees of executive departments",
+          "identifier": "/us/usc/t3/s112"
+        },
+        {
+          "number": "113",
+          "numText": "§ 113.",
+          "heading": "Personnel report",
+          "identifier": "/us/usc/t3/s113"
+        },
+        {
+          "number": "114",
+          "numText": "§ 114.",
+          "heading": "General pay limitation",
+          "identifier": "/us/usc/t3/s114"
+        },
+        {
+          "number": "115",
+          "numText": "§ 115.",
+          "heading": "Veterans’ preference",
+          "identifier": "/us/usc/t3/s115"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "REPEALED]",
+      "identifier": "/us/usc/t3/ch3",
+      "children": [
+        {
+          "number": "201",
+          "numText": "[§ 201.",
+          "heading": "Repealed. July 16, 1951, ch. 226, § 5(a), 65 Stat. 122]",
+          "identifier": "/us/usc/t3/s201"
+        },
+        {
+          "number": "202 to 204",
+          "numText": "[§§ 202 to 204.",
+          "heading": "Repealed. Pub. L. 109–177, title VI, § 605(c), Mar. 9, 2006, 120 Stat. 255]",
+          "identifier": "/us/usc/t3/s202...204"
+        },
+        {
+          "number": "205",
+          "numText": "[§ 205.",
+          "heading": "Repealed. Pub. L. 91–217, § 1(7), Mar. 19, 1970, 84 Stat. 75]",
+          "identifier": "/us/usc/t3/s205"
+        },
+        {
+          "number": "206 to 209",
+          "numText": "[§§ 206 to 209.",
+          "heading": "Repealed. Pub. L. 109–177, title VI, § 605(c), Mar. 9, 2006, 120 Stat. 255]",
+          "identifier": "/us/usc/t3/s206...209"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "DELEGATION OF FUNCTIONS",
+      "identifier": "/us/usc/t3/ch4",
+      "children": [
+        {
+          "number": "301",
+          "numText": "§ 301.",
+          "heading": "General authorization to delegate functions; publication of delegations",
+          "identifier": "/us/usc/t3/s301"
+        },
+        {
+          "number": "302",
+          "numText": "§ 302.",
+          "heading": "Scope of delegation of functions",
+          "identifier": "/us/usc/t3/s302"
+        },
+        {
+          "number": "303",
+          "numText": "§ 303.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t3/s303"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "EXTENSION OF CERTAIN RIGHTS AND PROTECTIONS TO PRESIDENTIAL OFFICES",
+      "identifier": "/us/usc/t3/ch5",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t3/ch5/schI",
+          "children": [
+            {
+              "number": "401",
+              "numText": "§ 401.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t3/s401"
+            },
+            {
+              "number": "402",
+              "numText": "§ 402.",
+              "heading": "Application of laws",
+              "identifier": "/us/usc/t3/s402"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "EXTENSION OF RIGHTS AND PROTECTIONS",
+          "identifier": "/us/usc/t3/ch5/schII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining, Employment and Reemployment of Veterans, and Intimidation",
+              "identifier": "/us/usc/t3/ch5/schII/ptA",
+              "children": [
+                {
+                  "number": "411",
+                  "numText": "§ 411.",
+                  "heading": "Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Rehabilitation Act of 1973, and title I of the Americans with Disabilities Act of 1990",
+                  "identifier": "/us/usc/t3/s411"
+                },
+                {
+                  "number": "412",
+                  "numText": "§ 412.",
+                  "heading": "Rights and protections under the Family and Medical Leave Act of 1993",
+                  "identifier": "/us/usc/t3/s412"
+                },
+                {
+                  "number": "413",
+                  "numText": "§ 413.",
+                  "heading": "Rights and protections under the Fair Labor Standards Act of 1938",
+                  "identifier": "/us/usc/t3/s413"
+                },
+                {
+                  "number": "414",
+                  "numText": "§ 414.",
+                  "heading": "Rights and protections under the Employee Polygraph Protection Act of 1988",
+                  "identifier": "/us/usc/t3/s414"
+                },
+                {
+                  "number": "415",
+                  "numText": "§ 415.",
+                  "heading": "Rights and protections under the Worker Adjustment and Retraining Notification Act",
+                  "identifier": "/us/usc/t3/s415"
+                },
+                {
+                  "number": "416",
+                  "numText": "§ 416.",
+                  "heading": "Rights and protections relating to veterans’ employment and reemployment",
+                  "identifier": "/us/usc/t3/s416"
+                },
+                {
+                  "number": "417",
+                  "numText": "§ 417.",
+                  "heading": "Prohibition of intimidation or reprisal",
+                  "identifier": "/us/usc/t3/s417"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Public Access Provisions Under the Americans With Disabilities Act of 1990",
+              "identifier": "/us/usc/t3/ch5/schII/ptB",
+              "children": [
+                {
+                  "number": "421",
+                  "numText": "§ 421.",
+                  "heading": "Rights and protections under the Americans with Disabilities Act of 1990",
+                  "identifier": "/us/usc/t3/s421"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Occupational Safety and Health Act of 1970",
+              "identifier": "/us/usc/t3/ch5/schII/ptC",
+              "children": [
+                {
+                  "number": "425",
+                  "numText": "§ 425.",
+                  "heading": "Rights and protections under the Occupational Safety and Health Act of 1970; procedures for remedy of violations",
+                  "identifier": "/us/usc/t3/s425"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Labor-Management Relations",
+              "identifier": "/us/usc/t3/ch5/schII/ptD",
+              "children": [
+                {
+                  "number": "431",
+                  "numText": "§ 431.",
+                  "heading": "Application of chapter 71 of title 5, relating to Federal service labor-management relations; procedures for remedy of violations",
+                  "identifier": "/us/usc/t3/s431"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "E",
+              "heading": "General",
+              "identifier": "/us/usc/t3/ch5/schII/ptE",
+              "children": [
+                {
+                  "number": "435",
+                  "numText": "§ 435.",
+                  "heading": "Generally applicable remedies and limitations",
+                  "identifier": "/us/usc/t3/s435"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "ADMINISTRATIVE AND JUDICIAL DISPUTE RESOLUTION PROCEDURES",
+          "identifier": "/us/usc/t3/ch5/schIII",
+          "children": [
+            {
+              "number": "451",
+              "numText": "§ 451.",
+              "heading": "Procedure for consideration of alleged violations",
+              "identifier": "/us/usc/t3/s451"
+            },
+            {
+              "number": "452",
+              "numText": "§ 452.",
+              "heading": "Counseling and mediation",
+              "identifier": "/us/usc/t3/s452"
+            },
+            {
+              "number": "453",
+              "numText": "§ 453.",
+              "heading": "Election of proceeding",
+              "identifier": "/us/usc/t3/s453"
+            },
+            {
+              "number": "454",
+              "numText": "§ 454.",
+              "heading": "Appropriate agencies",
+              "identifier": "/us/usc/t3/s454"
+            },
+            {
+              "number": "455",
+              "numText": "§ 455.",
+              "heading": "Effect of failure to issue regulations",
+              "identifier": "/us/usc/t3/s455"
+            },
+            {
+              "number": "456",
+              "numText": "§ 456.",
+              "heading": "Confidentiality",
+              "identifier": "/us/usc/t3/s456"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "EFFECTIVE DATE",
+          "identifier": "/us/usc/t3/ch5/schIV",
+          "children": [
+            {
+              "number": "471",
+              "numText": "§ 471.",
+              "heading": "Effective date",
+              "identifier": "/us/usc/t3/s471"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

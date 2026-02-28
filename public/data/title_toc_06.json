@@ -1,0 +1,4137 @@
+{
+  "number": "6",
+  "name": "Domestic Security",
+  "identifier": "/us/usc/t6",
+  "version": "Online@119-73not60",
+  "updated": "2025-03-25",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "HOMELAND SECURITY ORGANIZATION",
+      "identifier": "/us/usc/t6/ch1",
+      "children": [
+        {
+          "number": "101",
+          "numText": "§ 101.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t6/s101"
+        },
+        {
+          "number": "102",
+          "numText": "§ 102.",
+          "heading": "Construction; severability",
+          "identifier": "/us/usc/t6/s102"
+        },
+        {
+          "number": "103",
+          "numText": "§ 103.",
+          "heading": "Use of appropriated funds",
+          "identifier": "/us/usc/t6/s103"
+        },
+        {
+          "number": "103a",
+          "numText": "§ 103a.",
+          "heading": "Department of Homeland Security Nonrecurring Expenses Fund",
+          "identifier": "/us/usc/t6/s103a"
+        },
+        {
+          "number": "104",
+          "numText": "§ 104.",
+          "heading": "National biodefense strategy",
+          "identifier": "/us/usc/t6/s104"
+        },
+        {
+          "number": "105",
+          "numText": "§ 105.",
+          "heading": "Biodefense analysis and budget submission",
+          "identifier": "/us/usc/t6/s105"
+        },
+        {
+          "number": "106",
+          "numText": "§ 106.",
+          "heading": "Update of national biodefense implementation plan",
+          "identifier": "/us/usc/t6/s106"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "DEPARTMENT OF HOMELAND SECURITY",
+          "identifier": "/us/usc/t6/ch1/schI",
+          "children": [
+            {
+              "number": "111",
+              "numText": "§ 111.",
+              "heading": "Executive department; mission",
+              "identifier": "/us/usc/t6/s111"
+            },
+            {
+              "number": "112",
+              "numText": "§ 112.",
+              "heading": "Secretary; functions",
+              "identifier": "/us/usc/t6/s112"
+            },
+            {
+              "number": "113",
+              "numText": "§ 113.",
+              "heading": "Other officers",
+              "identifier": "/us/usc/t6/s113"
+            },
+            {
+              "number": "114",
+              "numText": "§ 114.",
+              "heading": "Sensitive Security Information",
+              "identifier": "/us/usc/t6/s114"
+            },
+            {
+              "number": "115",
+              "numText": "§ 115.",
+              "heading": "Trade and customs revenue functions of the Department",
+              "identifier": "/us/usc/t6/s115"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "INFORMATION ANALYSIS",
+          "identifier": "/us/usc/t6/ch1/schII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Information and Analysis; Access to Information",
+              "identifier": "/us/usc/t6/ch1/schII/ptA",
+              "children": [
+                {
+                  "number": "121",
+                  "numText": "§ 121.",
+                  "heading": "Information and Analysis",
+                  "identifier": "/us/usc/t6/s121"
+                },
+                {
+                  "number": "121a",
+                  "numText": "§ 121a.",
+                  "heading": "Homeland Security Intelligence Program",
+                  "identifier": "/us/usc/t6/s121a"
+                },
+                {
+                  "number": "122",
+                  "numText": "§ 122.",
+                  "heading": "Access to information",
+                  "identifier": "/us/usc/t6/s122"
+                },
+                {
+                  "number": "123",
+                  "numText": "§ 123.",
+                  "heading": "Terrorist travel program",
+                  "identifier": "/us/usc/t6/s123"
+                },
+                {
+                  "number": "124",
+                  "numText": "§ 124.",
+                  "heading": "Homeland Security Advisory System",
+                  "identifier": "/us/usc/t6/s124"
+                },
+                {
+                  "number": "124a",
+                  "numText": "§ 124a.",
+                  "heading": "Homeland security information sharing",
+                  "identifier": "/us/usc/t6/s124a"
+                },
+                {
+                  "number": "124b",
+                  "numText": "§ 124b.",
+                  "heading": "Comprehensive information technology network architecture",
+                  "identifier": "/us/usc/t6/s124b"
+                },
+                {
+                  "number": "124c",
+                  "numText": "§ 124c.",
+                  "heading": "Coordination with information sharing environment",
+                  "identifier": "/us/usc/t6/s124c"
+                },
+                {
+                  "number": "124d",
+                  "numText": "§ 124d.",
+                  "heading": "Intelligence components",
+                  "identifier": "/us/usc/t6/s124d"
+                },
+                {
+                  "number": "124e",
+                  "numText": "§ 124e.",
+                  "heading": "Training for employees of intelligence components",
+                  "identifier": "/us/usc/t6/s124e"
+                },
+                {
+                  "number": "124f",
+                  "numText": "§ 124f.",
+                  "heading": "Intelligence training development for State and local government officials",
+                  "identifier": "/us/usc/t6/s124f"
+                },
+                {
+                  "number": "124g",
+                  "numText": "§ 124g.",
+                  "heading": "Information sharing incentives",
+                  "identifier": "/us/usc/t6/s124g"
+                },
+                {
+                  "number": "124h",
+                  "numText": "§ 124h.",
+                  "heading": "Department of Homeland Security State, Local, and Regional Fusion Center Initiative",
+                  "identifier": "/us/usc/t6/s124h"
+                },
+                {
+                  "number": "124h–1",
+                  "numText": "§ 124h–1.",
+                  "heading": "Threat information sharing",
+                  "identifier": "/us/usc/t6/s124h–1"
+                },
+                {
+                  "number": "124i",
+                  "numText": "§ 124i.",
+                  "heading": "Homeland Security Information Sharing Fellows Program",
+                  "identifier": "/us/usc/t6/s124i"
+                },
+                {
+                  "number": "124j",
+                  "numText": "§ 124j.",
+                  "heading": "Rural Policing Institute",
+                  "identifier": "/us/usc/t6/s124j"
+                },
+                {
+                  "number": "124k",
+                  "numText": "§ 124k.",
+                  "heading": "Interagency Threat Assessment and Coordination Group",
+                  "identifier": "/us/usc/t6/s124k"
+                },
+                {
+                  "number": "124l",
+                  "numText": "§ 124l.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t6/s124l"
+                },
+                {
+                  "number": "124m",
+                  "numText": "§ 124m.",
+                  "heading": "Classified Information Advisory Officer",
+                  "identifier": "/us/usc/t6/s124m"
+                },
+                {
+                  "number": "124m–1",
+                  "numText": "§ 124m–1.",
+                  "heading": "Departmental coordination on counter threats",
+                  "identifier": "/us/usc/t6/s124m–1"
+                },
+                {
+                  "number": "124n",
+                  "numText": "§ 124n.",
+                  "heading": "Protection of certain facilities and assets from unmanned aircraft",
+                  "identifier": "/us/usc/t6/s124n"
+                },
+                {
+                  "number": "125",
+                  "numText": "§ 125.",
+                  "heading": "Annual report on intelligence activities of the Department of Homeland Security",
+                  "identifier": "/us/usc/t6/s125"
+                },
+                {
+                  "number": "126",
+                  "numText": "§ 126.",
+                  "heading": "Department of Homeland Security data framework",
+                  "identifier": "/us/usc/t6/s126"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Information Security",
+              "identifier": "/us/usc/t6/ch1/schII/ptB",
+              "children": [
+                {
+                  "number": "131 to 134",
+                  "numText": "§§ 131 to 134.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t6/s131...134"
+                },
+                {
+                  "number": "141",
+                  "numText": "§ 141.",
+                  "heading": "Procedures for sharing information",
+                  "identifier": "/us/usc/t6/s141"
+                },
+                {
+                  "number": "142",
+                  "numText": "§ 142.",
+                  "heading": "Privacy officer",
+                  "identifier": "/us/usc/t6/s142"
+                },
+                {
+                  "number": "143 to 145",
+                  "numText": "§§ 143 to 145.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t6/s143...145"
+                },
+                {
+                  "number": "146",
+                  "numText": "§ 146.",
+                  "heading": "Cybersecurity workforce assessment and strategy",
+                  "identifier": "/us/usc/t6/s146"
+                },
+                {
+                  "number": "147 to 151",
+                  "numText": "§§ 147 to 151.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t6/s147...151"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Office of Science and Technology",
+              "identifier": "/us/usc/t6/ch1/schII/ptC",
+              "children": [
+                {
+                  "number": "161",
+                  "numText": "§ 161.",
+                  "heading": "Establishment of Office; Director",
+                  "identifier": "/us/usc/t6/s161"
+                },
+                {
+                  "number": "162",
+                  "numText": "§ 162.",
+                  "heading": "Mission of Office; duties",
+                  "identifier": "/us/usc/t6/s162"
+                },
+                {
+                  "number": "163",
+                  "numText": "§ 163.",
+                  "heading": "Definition of law enforcement technology",
+                  "identifier": "/us/usc/t6/s163"
+                },
+                {
+                  "number": "164",
+                  "numText": "§ 164.",
+                  "heading": "Abolishment of Office of Science and Technology of National Institute of Justice; transfer of functions",
+                  "identifier": "/us/usc/t6/s164"
+                },
+                {
+                  "number": "165",
+                  "numText": "§ 165.",
+                  "heading": "National Law Enforcement and Corrections Technology Centers",
+                  "identifier": "/us/usc/t6/s165"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY",
+          "identifier": "/us/usc/t6/ch1/schIII",
+          "children": [
+            {
+              "number": "181",
+              "numText": "§ 181.",
+              "heading": "Under Secretary for Science and Technology",
+              "identifier": "/us/usc/t6/s181"
+            },
+            {
+              "number": "182",
+              "numText": "§ 182.",
+              "heading": "Responsibilities and authorities of the Under Secretary for Science and Technology",
+              "identifier": "/us/usc/t6/s182"
+            },
+            {
+              "number": "183",
+              "numText": "§ 183.",
+              "heading": "Functions transferred",
+              "identifier": "/us/usc/t6/s183"
+            },
+            {
+              "number": "184",
+              "numText": "§ 184.",
+              "heading": "Conduct of certain public health-related activities",
+              "identifier": "/us/usc/t6/s184"
+            },
+            {
+              "number": "185",
+              "numText": "§ 185.",
+              "heading": "Federally funded research and development centers",
+              "identifier": "/us/usc/t6/s185"
+            },
+            {
+              "number": "186",
+              "numText": "§ 186.",
+              "heading": "Miscellaneous provisions",
+              "identifier": "/us/usc/t6/s186"
+            },
+            {
+              "number": "187",
+              "numText": "§ 187.",
+              "heading": "Homeland Security Advanced Research Projects Agency",
+              "identifier": "/us/usc/t6/s187"
+            },
+            {
+              "number": "188",
+              "numText": "§ 188.",
+              "heading": "Conduct of research, development, demonstration, testing and evaluation",
+              "identifier": "/us/usc/t6/s188"
+            },
+            {
+              "number": "189",
+              "numText": "§ 189.",
+              "heading": "Utilization of Department of Energy national laboratories and sites in support of homeland security activities",
+              "identifier": "/us/usc/t6/s189"
+            },
+            {
+              "number": "190",
+              "numText": "§ 190.",
+              "heading": "Transfer of Plum Island Animal Disease Center, Department of Agriculture",
+              "identifier": "/us/usc/t6/s190"
+            },
+            {
+              "number": "191",
+              "numText": "§ 191.",
+              "heading": "Homeland Security Science and Technology Advisory Committee",
+              "identifier": "/us/usc/t6/s191"
+            },
+            {
+              "number": "192",
+              "numText": "§ 192.",
+              "heading": "Homeland Security Institute",
+              "identifier": "/us/usc/t6/s192"
+            },
+            {
+              "number": "193",
+              "numText": "§ 193.",
+              "heading": "Technology clearinghouse to encourage and support innovative solutions to enhance homeland security",
+              "identifier": "/us/usc/t6/s193"
+            },
+            {
+              "number": "194",
+              "numText": "§ 194.",
+              "heading": "Enhancement of public safety communications interoperability",
+              "identifier": "/us/usc/t6/s194"
+            },
+            {
+              "number": "195",
+              "numText": "§ 195.",
+              "heading": "Office for Interoperability and Compatibility",
+              "identifier": "/us/usc/t6/s195"
+            },
+            {
+              "number": "195a",
+              "numText": "§ 195a.",
+              "heading": "Emergency communications interoperability research and development",
+              "identifier": "/us/usc/t6/s195a"
+            },
+            {
+              "number": "195b",
+              "numText": "§ 195b.",
+              "heading": "National Biosurveillance Integration Center",
+              "identifier": "/us/usc/t6/s195b"
+            },
+            {
+              "number": "195c",
+              "numText": "§ 195c.",
+              "heading": "Promoting antiterrorism through international cooperation program",
+              "identifier": "/us/usc/t6/s195c"
+            },
+            {
+              "number": "195d",
+              "numText": "§ 195d.",
+              "heading": "Social media working group",
+              "identifier": "/us/usc/t6/s195d"
+            },
+            {
+              "number": "195e",
+              "numText": "§ 195e.",
+              "heading": "Transparency in research and development",
+              "identifier": "/us/usc/t6/s195e"
+            },
+            {
+              "number": "195f",
+              "numText": "§ 195f.",
+              "heading": "EMP and GMD mitigation research and development and threat assessment, response, and recovery",
+              "identifier": "/us/usc/t6/s195f"
+            },
+            {
+              "number": "195g",
+              "numText": "§ 195g.",
+              "heading": "Countering Unmanned Aircraft Systems Coordinator",
+              "identifier": "/us/usc/t6/s195g"
+            },
+            {
+              "number": "195h",
+              "numText": "§ 195h.",
+              "heading": "National Urban Security Technology Laboratory",
+              "identifier": "/us/usc/t6/s195h"
+            },
+            {
+              "number": "195i",
+              "numText": "§ 195i.",
+              "heading": "Chemical Security Analysis Center",
+              "identifier": "/us/usc/t6/s195i"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "BORDER, MARITIME, AND TRANSPORTATION SECURITY",
+          "identifier": "/us/usc/t6/ch1/schIV",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Border, Maritime, and Transportation Security Responsibilities and Functions",
+              "identifier": "/us/usc/t6/ch1/schIV/ptA",
+              "children": [
+                {
+                  "number": "201",
+                  "numText": "§ 201.",
+                  "heading": "Repealed. Pub. L. 114–125, title VIII, § 802(g)(2), Feb. 24, 2016, 130 Stat. 212",
+                  "identifier": "/us/usc/t6/s201"
+                },
+                {
+                  "number": "202",
+                  "numText": "§ 202.",
+                  "heading": "Border, maritime, and transportation responsibilities",
+                  "identifier": "/us/usc/t6/s202"
+                },
+                {
+                  "number": "203",
+                  "numText": "§ 203.",
+                  "heading": "Functions transferred",
+                  "identifier": "/us/usc/t6/s203"
+                },
+                {
+                  "number": "204",
+                  "numText": "§ 204.",
+                  "heading": "Surface Transportation Security Advisory Committee",
+                  "identifier": "/us/usc/t6/s204"
+                },
+                {
+                  "number": "205",
+                  "numText": "§ 205.",
+                  "heading": "Ombudsman for immigration detention",
+                  "identifier": "/us/usc/t6/s205"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "U.S. Customs and Border Protection",
+              "identifier": "/us/usc/t6/ch1/schIV/ptB",
+              "children": [
+                {
+                  "number": "211",
+                  "numText": "§ 211.",
+                  "heading": "Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices",
+                  "identifier": "/us/usc/t6/s211"
+                },
+                {
+                  "number": "212",
+                  "numText": "§ 212.",
+                  "heading": "Retention of Customs revenue functions by Secretary of the Treasury",
+                  "identifier": "/us/usc/t6/s212"
+                },
+                {
+                  "number": "213",
+                  "numText": "§ 213.",
+                  "heading": "Preservation of Customs funds",
+                  "identifier": "/us/usc/t6/s213"
+                },
+                {
+                  "number": "214",
+                  "numText": "§ 214.",
+                  "heading": "Separate budget request for Customs",
+                  "identifier": "/us/usc/t6/s214"
+                },
+                {
+                  "number": "215",
+                  "numText": "§ 215.",
+                  "heading": "Definition",
+                  "identifier": "/us/usc/t6/s215"
+                },
+                {
+                  "number": "216",
+                  "numText": "§ 216.",
+                  "heading": "Protection against potential synthetic opioid exposure",
+                  "identifier": "/us/usc/t6/s216"
+                },
+                {
+                  "number": "217",
+                  "numText": "§ 217.",
+                  "heading": "Allocation of resources by the Secretary",
+                  "identifier": "/us/usc/t6/s217"
+                },
+                {
+                  "number": "218",
+                  "numText": "§ 218.",
+                  "heading": "Asia-Pacific Economic Cooperation Business Travel Cards",
+                  "identifier": "/us/usc/t6/s218"
+                },
+                {
+                  "number": "220",
+                  "numText": "§ 220.",
+                  "heading": "Methamphetamine and methamphetamine precursor chemicals",
+                  "identifier": "/us/usc/t6/s220"
+                },
+                {
+                  "number": "221",
+                  "numText": "§ 221.",
+                  "heading": "Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection",
+                  "identifier": "/us/usc/t6/s221"
+                },
+                {
+                  "number": "222",
+                  "numText": "§ 222.",
+                  "heading": "Advanced Training Center Revolving Fund",
+                  "identifier": "/us/usc/t6/s222"
+                },
+                {
+                  "number": "223",
+                  "numText": "§ 223.",
+                  "heading": "Border security metrics",
+                  "identifier": "/us/usc/t6/s223"
+                },
+                {
+                  "number": "224",
+                  "numText": "§ 224.",
+                  "heading": "Other reporting requirements",
+                  "identifier": "/us/usc/t6/s224"
+                },
+                {
+                  "number": "225",
+                  "numText": "§ 225.",
+                  "heading": "Reports, evaluations, and research regarding drug interdiction at and between ports of entry",
+                  "identifier": "/us/usc/t6/s225"
+                },
+                {
+                  "number": "226",
+                  "numText": "§ 226.",
+                  "heading": "Ensuring timely updates to U.S. Customs and Border Protection field manuals",
+                  "identifier": "/us/usc/t6/s226"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Miscellaneous Provisions",
+              "identifier": "/us/usc/t6/ch1/schIV/ptC",
+              "children": [
+                {
+                  "number": "231",
+                  "numText": "§ 231.",
+                  "heading": "Transfer of certain agricultural inspection functions of the Department of Agriculture",
+                  "identifier": "/us/usc/t6/s231"
+                },
+                {
+                  "number": "232",
+                  "numText": "§ 232.",
+                  "heading": "Functions of Administrator of General Services",
+                  "identifier": "/us/usc/t6/s232"
+                },
+                {
+                  "number": "233",
+                  "numText": "§ 233.",
+                  "heading": "Functions of Transportation Security Administration",
+                  "identifier": "/us/usc/t6/s233"
+                },
+                {
+                  "number": "234",
+                  "numText": "§ 234.",
+                  "heading": "Preservation of Transportation Security Administration as a distinct entity",
+                  "identifier": "/us/usc/t6/s234"
+                },
+                {
+                  "number": "235",
+                  "numText": "§ 235.",
+                  "heading": "Coordination of information and information technology",
+                  "identifier": "/us/usc/t6/s235"
+                },
+                {
+                  "number": "236",
+                  "numText": "§ 236.",
+                  "heading": "Visa issuance",
+                  "identifier": "/us/usc/t6/s236"
+                },
+                {
+                  "number": "237",
+                  "numText": "§ 237.",
+                  "heading": "Information on visa denials required to be entered into electronic data system",
+                  "identifier": "/us/usc/t6/s237"
+                },
+                {
+                  "number": "238",
+                  "numText": "§ 238.",
+                  "heading": "Office for Domestic Preparedness",
+                  "identifier": "/us/usc/t6/s238"
+                },
+                {
+                  "number": "239",
+                  "numText": "§ 239.",
+                  "heading": "Office of Cargo Security Policy",
+                  "identifier": "/us/usc/t6/s239"
+                },
+                {
+                  "number": "240",
+                  "numText": "§ 240.",
+                  "heading": "Border Enforcement Security Task Force",
+                  "identifier": "/us/usc/t6/s240"
+                },
+                {
+                  "number": "241",
+                  "numText": "§ 241.",
+                  "heading": "Prevention of international child abduction",
+                  "identifier": "/us/usc/t6/s241"
+                },
+                {
+                  "number": "242",
+                  "numText": "§ 242.",
+                  "heading": "Department of Homeland Security Blue Campaign",
+                  "identifier": "/us/usc/t6/s242"
+                },
+                {
+                  "number": "242a",
+                  "numText": "§ 242a.",
+                  "heading": "Department of Homeland Security Center for Countering Human Trafficking",
+                  "identifier": "/us/usc/t6/s242a"
+                },
+                {
+                  "number": "242b",
+                  "numText": "§ 242b.",
+                  "heading": "Reports",
+                  "identifier": "/us/usc/t6/s242b"
+                },
+                {
+                  "number": "243",
+                  "numText": "§ 243.",
+                  "heading": "Maritime operations coordination plan",
+                  "identifier": "/us/usc/t6/s243"
+                },
+                {
+                  "number": "244",
+                  "numText": "§ 244.",
+                  "heading": "Maritime security capabilities assessments",
+                  "identifier": "/us/usc/t6/s244"
+                },
+                {
+                  "number": "245",
+                  "numText": "§ 245.",
+                  "heading": "Operational data sharing capability",
+                  "identifier": "/us/usc/t6/s245"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Immigration Enforcement Functions",
+              "identifier": "/us/usc/t6/ch1/schIV/ptD",
+              "children": [
+                {
+                  "number": "251",
+                  "numText": "§ 251.",
+                  "heading": "Transfer of functions",
+                  "identifier": "/us/usc/t6/s251"
+                },
+                {
+                  "number": "252",
+                  "numText": "§ 252.",
+                  "heading": "U.S. Immigration and Customs Enforcement",
+                  "identifier": "/us/usc/t6/s252"
+                },
+                {
+                  "number": "253",
+                  "numText": "§ 253.",
+                  "heading": "Professional responsibility and quality review",
+                  "identifier": "/us/usc/t6/s253"
+                },
+                {
+                  "number": "254",
+                  "numText": "§ 254.",
+                  "heading": "Employee discipline",
+                  "identifier": "/us/usc/t6/s254"
+                },
+                {
+                  "number": "255",
+                  "numText": "§ 255.",
+                  "heading": "Report on improving enforcement functions",
+                  "identifier": "/us/usc/t6/s255"
+                },
+                {
+                  "number": "256",
+                  "numText": "§ 256.",
+                  "heading": "Sense of Congress regarding construction of fencing near San Diego, California",
+                  "identifier": "/us/usc/t6/s256"
+                },
+                {
+                  "number": "257",
+                  "numText": "§ 257.",
+                  "heading": "Report",
+                  "identifier": "/us/usc/t6/s257"
+                },
+                {
+                  "number": "258",
+                  "numText": "§ 258.",
+                  "heading": "Homeland Security Investigations Victim Assistance Program",
+                  "identifier": "/us/usc/t6/s258"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "E",
+              "heading": "Citizenship and Immigration Services",
+              "identifier": "/us/usc/t6/ch1/schIV/ptE",
+              "children": [
+                {
+                  "number": "271",
+                  "numText": "§ 271.",
+                  "heading": "Establishment of Bureau of Citizenship and Immigration Services",
+                  "identifier": "/us/usc/t6/s271"
+                },
+                {
+                  "number": "272",
+                  "numText": "§ 272.",
+                  "heading": "Citizenship and Immigration Services Ombudsman",
+                  "identifier": "/us/usc/t6/s272"
+                },
+                {
+                  "number": "273",
+                  "numText": "§ 273.",
+                  "heading": "Professional responsibility and quality review",
+                  "identifier": "/us/usc/t6/s273"
+                },
+                {
+                  "number": "274",
+                  "numText": "§ 274.",
+                  "heading": "Employee discipline",
+                  "identifier": "/us/usc/t6/s274"
+                },
+                {
+                  "number": "275",
+                  "numText": "§ 275.",
+                  "heading": "Transition",
+                  "identifier": "/us/usc/t6/s275"
+                },
+                {
+                  "number": "276",
+                  "numText": "§ 276.",
+                  "heading": "Report on improving immigration services",
+                  "identifier": "/us/usc/t6/s276"
+                },
+                {
+                  "number": "277",
+                  "numText": "§ 277.",
+                  "heading": "Report on responding to fluctuating needs",
+                  "identifier": "/us/usc/t6/s277"
+                },
+                {
+                  "number": "278",
+                  "numText": "§ 278.",
+                  "heading": "Application of Internet-based technologies",
+                  "identifier": "/us/usc/t6/s278"
+                },
+                {
+                  "number": "279",
+                  "numText": "§ 279.",
+                  "heading": "Children’s affairs",
+                  "identifier": "/us/usc/t6/s279"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "F",
+              "heading": "General Immigration Provisions",
+              "identifier": "/us/usc/t6/ch1/schIV/ptF",
+              "children": [
+                {
+                  "number": "291",
+                  "numText": "§ 291.",
+                  "heading": "Abolishment of INS",
+                  "identifier": "/us/usc/t6/s291"
+                },
+                {
+                  "number": "292",
+                  "numText": "§ 292.",
+                  "heading": "Voluntary separation incentive payments",
+                  "identifier": "/us/usc/t6/s292"
+                },
+                {
+                  "number": "293",
+                  "numText": "§ 293.",
+                  "heading": "Authority to conduct a demonstration project relating to disciplinary action",
+                  "identifier": "/us/usc/t6/s293"
+                },
+                {
+                  "number": "294",
+                  "numText": "§ 294.",
+                  "heading": "Sense of Congress",
+                  "identifier": "/us/usc/t6/s294"
+                },
+                {
+                  "number": "295",
+                  "numText": "§ 295.",
+                  "heading": "Director of Shared Services",
+                  "identifier": "/us/usc/t6/s295"
+                },
+                {
+                  "number": "296",
+                  "numText": "§ 296.",
+                  "heading": "Separation of funding",
+                  "identifier": "/us/usc/t6/s296"
+                },
+                {
+                  "number": "297",
+                  "numText": "§ 297.",
+                  "heading": "Reports and implementation plans",
+                  "identifier": "/us/usc/t6/s297"
+                },
+                {
+                  "number": "298",
+                  "numText": "§ 298.",
+                  "heading": "Immigration functions",
+                  "identifier": "/us/usc/t6/s298"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "G",
+              "heading": "U.S. Customs and Border Protection Public Private Partnerships",
+              "identifier": "/us/usc/t6/ch1/schIV/ptG",
+              "children": [
+                {
+                  "number": "301",
+                  "numText": "§ 301.",
+                  "heading": "Fee agreements for certain services at ports of entry",
+                  "identifier": "/us/usc/t6/s301"
+                },
+                {
+                  "number": "301a",
+                  "numText": "§ 301a.",
+                  "heading": "Port of entry donation authority",
+                  "identifier": "/us/usc/t6/s301a"
+                },
+                {
+                  "number": "301b",
+                  "numText": "§ 301b.",
+                  "heading": "Current and proposed agreements",
+                  "identifier": "/us/usc/t6/s301b"
+                },
+                {
+                  "number": "301c",
+                  "numText": "§ 301c.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s301c"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "NATIONAL EMERGENCY MANAGEMENT",
+          "identifier": "/us/usc/t6/ch1/schV",
+          "children": [
+            {
+              "number": "311",
+              "numText": "§ 311.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s311"
+            },
+            {
+              "number": "312",
+              "numText": "§ 312.",
+              "heading": "Definition",
+              "identifier": "/us/usc/t6/s312"
+            },
+            {
+              "number": "313",
+              "numText": "§ 313.",
+              "heading": "Federal Emergency Management Agency",
+              "identifier": "/us/usc/t6/s313"
+            },
+            {
+              "number": "314",
+              "numText": "§ 314.",
+              "heading": "Authority and responsibilities",
+              "identifier": "/us/usc/t6/s314"
+            },
+            {
+              "number": "314a",
+              "numText": "§ 314a.",
+              "heading": "FEMA programs",
+              "identifier": "/us/usc/t6/s314a"
+            },
+            {
+              "number": "315",
+              "numText": "§ 315.",
+              "heading": "Functions transferred",
+              "identifier": "/us/usc/t6/s315"
+            },
+            {
+              "number": "316",
+              "numText": "§ 316.",
+              "heading": "Preserving the Federal Emergency Management Agency",
+              "identifier": "/us/usc/t6/s316"
+            },
+            {
+              "number": "317",
+              "numText": "§ 317.",
+              "heading": "Regional offices",
+              "identifier": "/us/usc/t6/s317"
+            },
+            {
+              "number": "318",
+              "numText": "§ 318.",
+              "heading": "National Advisory Council",
+              "identifier": "/us/usc/t6/s318"
+            },
+            {
+              "number": "319",
+              "numText": "§ 319.",
+              "heading": "National Integration Center",
+              "identifier": "/us/usc/t6/s319"
+            },
+            {
+              "number": "320",
+              "numText": "§ 320.",
+              "heading": "Credentialing and typing",
+              "identifier": "/us/usc/t6/s320"
+            },
+            {
+              "number": "321",
+              "numText": "§ 321.",
+              "heading": "The National Infrastructure Simulation and Analysis Center",
+              "identifier": "/us/usc/t6/s321"
+            },
+            {
+              "number": "321a",
+              "numText": "§ 321a.",
+              "heading": "Evacuation plans and exercises",
+              "identifier": "/us/usc/t6/s321a"
+            },
+            {
+              "number": "321b",
+              "numText": "§ 321b.",
+              "heading": "Disability Coordinator",
+              "identifier": "/us/usc/t6/s321b"
+            },
+            {
+              "number": "321c",
+              "numText": "§ 321c.",
+              "heading": "Department and Agency officials",
+              "identifier": "/us/usc/t6/s321c"
+            },
+            {
+              "number": "321d",
+              "numText": "§ 321d.",
+              "heading": "National Operations Center",
+              "identifier": "/us/usc/t6/s321d"
+            },
+            {
+              "number": "321e",
+              "numText": "§ 321e.",
+              "heading": "Repealed. Pub. L. 115–387, § 2(c)(1), Dec. 21, 2018, 132 Stat. 5166",
+              "identifier": "/us/usc/t6/s321e"
+            },
+            {
+              "number": "321f",
+              "numText": "§ 321f.",
+              "heading": "Nuclear incident response",
+              "identifier": "/us/usc/t6/s321f"
+            },
+            {
+              "number": "321g",
+              "numText": "§ 321g.",
+              "heading": "Conduct of certain public health-related activities",
+              "identifier": "/us/usc/t6/s321g"
+            },
+            {
+              "number": "321h",
+              "numText": "§ 321h.",
+              "heading": "Use of national private sector networks in emergency response",
+              "identifier": "/us/usc/t6/s321h"
+            },
+            {
+              "number": "321i",
+              "numText": "§ 321i.",
+              "heading": "Use of commercially available technology, goods, and services",
+              "identifier": "/us/usc/t6/s321i"
+            },
+            {
+              "number": "321j",
+              "numText": "§ 321j.",
+              "heading": "Procurement of security countermeasures for Strategic National Stockpile",
+              "identifier": "/us/usc/t6/s321j"
+            },
+            {
+              "number": "321k",
+              "numText": "§ 321k.",
+              "heading": "Model standards and guidelines for critical infrastructure workers",
+              "identifier": "/us/usc/t6/s321k"
+            },
+            {
+              "number": "321l",
+              "numText": "§ 321l.",
+              "heading": "Guidance and recommendations",
+              "identifier": "/us/usc/t6/s321l"
+            },
+            {
+              "number": "321m",
+              "numText": "§ 321m.",
+              "heading": "Voluntary private sector preparedness accreditation and certification program",
+              "identifier": "/us/usc/t6/s321m"
+            },
+            {
+              "number": "321n",
+              "numText": "§ 321n.",
+              "heading": "Acceptance of gifts",
+              "identifier": "/us/usc/t6/s321n"
+            },
+            {
+              "number": "321o",
+              "numText": "§ 321o.",
+              "heading": "Integrated public alert and warning system modernization",
+              "identifier": "/us/usc/t6/s321o"
+            },
+            {
+              "number": "321o–1",
+              "numText": "§ 321o–1.",
+              "heading": "Integrated public alert and warning system",
+              "identifier": "/us/usc/t6/s321o–1"
+            },
+            {
+              "number": "321p",
+              "numText": "§ 321p.",
+              "heading": "National planning and education",
+              "identifier": "/us/usc/t6/s321p"
+            },
+            {
+              "number": "321q",
+              "numText": "§ 321q.",
+              "heading": "Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism",
+              "identifier": "/us/usc/t6/s321q"
+            },
+            {
+              "number": "321r",
+              "numText": "§ 321r.",
+              "heading": "Transfer of equipment during a public health emergency",
+              "identifier": "/us/usc/t6/s321r"
+            },
+            {
+              "number": "322",
+              "numText": "§ 322.",
+              "heading": "Continuity of the economy plan",
+              "identifier": "/us/usc/t6/s322"
+            },
+            {
+              "number": "323",
+              "numText": "§ 323.",
+              "heading": "Guidance on how to prevent exposure to and release of PFAS",
+              "identifier": "/us/usc/t6/s323"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES OF THE UNITED STATES AND OTHER GOVERNMENTAL ORGANIZATIONS",
+          "identifier": "/us/usc/t6/ch1/schVI",
+          "children": [
+            {
+              "number": "331",
+              "numText": "§ 331.",
+              "heading": "Treatment of charitable trusts for members of the Armed Forces of the United States and other governmental organizations",
+              "identifier": "/us/usc/t6/s331"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "MANAGEMENT",
+          "identifier": "/us/usc/t6/ch1/schVII",
+          "children": [
+            {
+              "number": "341",
+              "numText": "§ 341.",
+              "heading": "Under Secretary for Management",
+              "identifier": "/us/usc/t6/s341"
+            },
+            {
+              "number": "342",
+              "numText": "§ 342.",
+              "heading": "Chief Financial Officer",
+              "identifier": "/us/usc/t6/s342"
+            },
+            {
+              "number": "343",
+              "numText": "§ 343.",
+              "heading": "Chief Information Officer",
+              "identifier": "/us/usc/t6/s343"
+            },
+            {
+              "number": "344",
+              "numText": "§ 344.",
+              "heading": "Chief Human Capital Officer",
+              "identifier": "/us/usc/t6/s344"
+            },
+            {
+              "number": "345",
+              "numText": "§ 345.",
+              "heading": "Establishment of Officer for Civil Rights and Civil Liberties",
+              "identifier": "/us/usc/t6/s345"
+            },
+            {
+              "number": "346",
+              "numText": "§ 346.",
+              "heading": "Consolidation and co-location of offices",
+              "identifier": "/us/usc/t6/s346"
+            },
+            {
+              "number": "347",
+              "numText": "§ 347.",
+              "heading": "Quadrennial homeland security review",
+              "identifier": "/us/usc/t6/s347"
+            },
+            {
+              "number": "348",
+              "numText": "§ 348.",
+              "heading": "Joint task forces",
+              "identifier": "/us/usc/t6/s348"
+            },
+            {
+              "number": "349",
+              "numText": "§ 349.",
+              "heading": "Office of Strategy, Policy, and Plans",
+              "identifier": "/us/usc/t6/s349"
+            },
+            {
+              "number": "350",
+              "numText": "§ 350.",
+              "heading": "Workforce health and medical support",
+              "identifier": "/us/usc/t6/s350"
+            },
+            {
+              "number": "351",
+              "numText": "§ 351.",
+              "heading": "Employee engagement",
+              "identifier": "/us/usc/t6/s351"
+            },
+            {
+              "number": "352",
+              "numText": "§ 352.",
+              "heading": "Annual employee award program",
+              "identifier": "/us/usc/t6/s352"
+            },
+            {
+              "number": "353",
+              "numText": "§ 353.",
+              "heading": "Acquisition professional career program",
+              "identifier": "/us/usc/t6/s353"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VIII",
+          "heading": "COORDINATION WITH NON-FEDERAL ENTITIES; INSPECTOR GENERAL; UNITED STATES SECRET SERVICE; COAST GUARD; GENERAL PROVISIONS",
+          "identifier": "/us/usc/t6/ch1/schVIII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Coordination With Non-Federal Entities",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptA",
+              "children": [
+                {
+                  "number": "361",
+                  "numText": "§ 361.",
+                  "heading": "Office for State and Local Government Coordination",
+                  "identifier": "/us/usc/t6/s361"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Inspector General",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptB",
+              "children": [
+                {
+                  "number": "371",
+                  "numText": "§ 371.",
+                  "heading": "Repealed. Pub. L. 108–7, div. L, § 104(c)(1), Feb. 20, 2003, 117 Stat. 531",
+                  "identifier": "/us/usc/t6/s371"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "United States Secret Service",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptC",
+              "children": [
+                {
+                  "number": "381",
+                  "numText": "§ 381.",
+                  "heading": "Functions transferred",
+                  "identifier": "/us/usc/t6/s381"
+                },
+                {
+                  "number": "382",
+                  "numText": "§ 382.",
+                  "heading": "Use of proceeds derived from criminal investigations",
+                  "identifier": "/us/usc/t6/s382"
+                },
+                {
+                  "number": "383",
+                  "numText": "§ 383.",
+                  "heading": "National Computer Forensics Institute",
+                  "identifier": "/us/usc/t6/s383"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Acquisitions",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptD",
+              "children": [
+                {
+                  "number": "391",
+                  "numText": "§ 391.",
+                  "heading": "Research and development projects",
+                  "identifier": "/us/usc/t6/s391"
+                },
+                {
+                  "number": "392",
+                  "numText": "§ 392.",
+                  "heading": "Personal services",
+                  "identifier": "/us/usc/t6/s392"
+                },
+                {
+                  "number": "393",
+                  "numText": "§ 393.",
+                  "heading": "Special streamlined acquisition authority",
+                  "identifier": "/us/usc/t6/s393"
+                },
+                {
+                  "number": "394",
+                  "numText": "§ 394.",
+                  "heading": "Unsolicited proposals",
+                  "identifier": "/us/usc/t6/s394"
+                },
+                {
+                  "number": "395",
+                  "numText": "§ 395.",
+                  "heading": "Prohibition on contracts with corporate expatriates",
+                  "identifier": "/us/usc/t6/s395"
+                },
+                {
+                  "number": "396",
+                  "numText": "§ 396.",
+                  "heading": "Lead system integrator; financial interests",
+                  "identifier": "/us/usc/t6/s396"
+                },
+                {
+                  "number": "397",
+                  "numText": "§ 397.",
+                  "heading": "Requirements to buy certain items related to national security interests",
+                  "identifier": "/us/usc/t6/s397"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "E",
+              "heading": "Human Resources Management",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptE",
+              "children": [
+                {
+                  "number": "411",
+                  "numText": "§ 411.",
+                  "heading": "Establishment of human resources management system",
+                  "identifier": "/us/usc/t6/s411"
+                },
+                {
+                  "number": "412",
+                  "numText": "§ 412.",
+                  "heading": "Labor-management relations",
+                  "identifier": "/us/usc/t6/s412"
+                },
+                {
+                  "number": "413",
+                  "numText": "§ 413.",
+                  "heading": "Use of counternarcotics enforcement activities in certain employee performance appraisals",
+                  "identifier": "/us/usc/t6/s413"
+                },
+                {
+                  "number": "414",
+                  "numText": "§ 414.",
+                  "heading": "Homeland Security Rotation Program",
+                  "identifier": "/us/usc/t6/s414"
+                },
+                {
+                  "number": "415",
+                  "numText": "§ 415.",
+                  "heading": "Homeland Security Education Program",
+                  "identifier": "/us/usc/t6/s415"
+                },
+                {
+                  "number": "416",
+                  "numText": "§ 416.",
+                  "heading": "Use of protective equipment or measures by employees",
+                  "identifier": "/us/usc/t6/s416"
+                },
+                {
+                  "number": "417",
+                  "numText": "§ 417.",
+                  "heading": "Rotational cybersecurity research program",
+                  "identifier": "/us/usc/t6/s417"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "F",
+              "heading": "Federal Emergency Procurement Flexibility",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptF",
+              "children": [
+                {
+                  "number": "421",
+                  "numText": "§ 421.",
+                  "heading": "Definition",
+                  "identifier": "/us/usc/t6/s421"
+                },
+                {
+                  "number": "422",
+                  "numText": "§ 422.",
+                  "heading": "Procurements for defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack",
+                  "identifier": "/us/usc/t6/s422"
+                },
+                {
+                  "number": "423",
+                  "numText": "§ 423.",
+                  "heading": "Increased simplified acquisition threshold for procurements in support of humanitarian or peacekeeping operations or contingency operations",
+                  "identifier": "/us/usc/t6/s423"
+                },
+                {
+                  "number": "424",
+                  "numText": "§ 424.",
+                  "heading": "Increased micro-purchase threshold for certain procurements",
+                  "identifier": "/us/usc/t6/s424"
+                },
+                {
+                  "number": "425",
+                  "numText": "§ 425.",
+                  "heading": "Application of certain commercial items authorities to certain procurements",
+                  "identifier": "/us/usc/t6/s425"
+                },
+                {
+                  "number": "426",
+                  "numText": "§ 426.",
+                  "heading": "Use of streamlined procedures",
+                  "identifier": "/us/usc/t6/s426"
+                },
+                {
+                  "number": "427",
+                  "numText": "§ 427.",
+                  "heading": "Review and report by Comptroller General",
+                  "identifier": "/us/usc/t6/s427"
+                },
+                {
+                  "number": "428",
+                  "numText": "§ 428.",
+                  "heading": "Identification of new entrants into the Federal marketplace",
+                  "identifier": "/us/usc/t6/s428"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "G",
+              "heading": "Support Anti-Terrorism by Fostering Effective Technologies",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptG",
+              "children": [
+                {
+                  "number": "441",
+                  "numText": "§ 441.",
+                  "heading": "Administration",
+                  "identifier": "/us/usc/t6/s441"
+                },
+                {
+                  "number": "442",
+                  "numText": "§ 442.",
+                  "heading": "Litigation management",
+                  "identifier": "/us/usc/t6/s442"
+                },
+                {
+                  "number": "443",
+                  "numText": "§ 443.",
+                  "heading": "Risk management",
+                  "identifier": "/us/usc/t6/s443"
+                },
+                {
+                  "number": "444",
+                  "numText": "§ 444.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s444"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "H",
+              "heading": "Miscellaneous Provisions",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptH",
+              "children": [
+                {
+                  "number": "451",
+                  "numText": "§ 451.",
+                  "heading": "Advisory committees",
+                  "identifier": "/us/usc/t6/s451"
+                },
+                {
+                  "number": "452",
+                  "numText": "§ 452.",
+                  "heading": "Reorganization",
+                  "identifier": "/us/usc/t6/s452"
+                },
+                {
+                  "number": "453",
+                  "numText": "§ 453.",
+                  "heading": "Use of appropriated funds",
+                  "identifier": "/us/usc/t6/s453"
+                },
+                {
+                  "number": "453a",
+                  "numText": "§ 453a.",
+                  "heading": "Additional uses of appropriated funds",
+                  "identifier": "/us/usc/t6/s453a"
+                },
+                {
+                  "number": "453b",
+                  "numText": "§ 453b.",
+                  "heading": "Requirement to buy certain items related to national security interests from American sources; exceptions",
+                  "identifier": "/us/usc/t6/s453b"
+                },
+                {
+                  "number": "453c",
+                  "numText": "§ 453c.",
+                  "heading": "Disposition of equines unfit for service",
+                  "identifier": "/us/usc/t6/s453c"
+                },
+                {
+                  "number": "454",
+                  "numText": "§ 454.",
+                  "heading": "Future Years Homeland Security Program",
+                  "identifier": "/us/usc/t6/s454"
+                },
+                {
+                  "number": "455",
+                  "numText": "§ 455.",
+                  "heading": "Miscellaneous authorities",
+                  "identifier": "/us/usc/t6/s455"
+                },
+                {
+                  "number": "456",
+                  "numText": "§ 456.",
+                  "heading": "Military activities",
+                  "identifier": "/us/usc/t6/s456"
+                },
+                {
+                  "number": "457",
+                  "numText": "§ 457.",
+                  "heading": "Regulatory authority and preemption",
+                  "identifier": "/us/usc/t6/s457"
+                },
+                {
+                  "number": "458",
+                  "numText": "§ 458.",
+                  "heading": "Office of Counternarcotics Enforcement",
+                  "identifier": "/us/usc/t6/s458"
+                },
+                {
+                  "number": "459",
+                  "numText": "§ 459.",
+                  "heading": "Office of International Affairs",
+                  "identifier": "/us/usc/t6/s459"
+                },
+                {
+                  "number": "460",
+                  "numText": "§ 460.",
+                  "heading": "Prohibition of the Terrorism Information and Prevention System",
+                  "identifier": "/us/usc/t6/s460"
+                },
+                {
+                  "number": "461",
+                  "numText": "§ 461.",
+                  "heading": "Review of pay and benefit plans",
+                  "identifier": "/us/usc/t6/s461"
+                },
+                {
+                  "number": "462",
+                  "numText": "§ 462.",
+                  "heading": "Office of National Capital Region Coordination",
+                  "identifier": "/us/usc/t6/s462"
+                },
+                {
+                  "number": "463",
+                  "numText": "§ 463.",
+                  "heading": "Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections",
+                  "identifier": "/us/usc/t6/s463"
+                },
+                {
+                  "number": "464",
+                  "numText": "§ 464.",
+                  "heading": "Federal Law Enforcement Training Centers",
+                  "identifier": "/us/usc/t6/s464"
+                },
+                {
+                  "number": "464a",
+                  "numText": "§ 464a.",
+                  "heading": "Repealed. Pub. L. 111–245, § 2(b)(2), Sept. 30, 2010, 124 Stat. 2621",
+                  "identifier": "/us/usc/t6/s464a"
+                },
+                {
+                  "number": "464b",
+                  "numText": "§ 464b.",
+                  "heading": "Staffing accreditation function",
+                  "identifier": "/us/usc/t6/s464b"
+                },
+                {
+                  "number": "464c",
+                  "numText": "§ 464c.",
+                  "heading": "Student housing",
+                  "identifier": "/us/usc/t6/s464c"
+                },
+                {
+                  "number": "464d",
+                  "numText": "§ 464d.",
+                  "heading": "Additional funds for training",
+                  "identifier": "/us/usc/t6/s464d"
+                },
+                {
+                  "number": "464e",
+                  "numText": "§ 464e.",
+                  "heading": "Short-term medical services for students",
+                  "identifier": "/us/usc/t6/s464e"
+                },
+                {
+                  "number": "465",
+                  "numText": "§ 465.",
+                  "heading": "Joint Interagency Task Force",
+                  "identifier": "/us/usc/t6/s465"
+                },
+                {
+                  "number": "466",
+                  "numText": "§ 466.",
+                  "heading": "Sense of Congress reaffirming the continued importance and applicability of the Posse Comitatus Act",
+                  "identifier": "/us/usc/t6/s466"
+                },
+                {
+                  "number": "467",
+                  "numText": "§ 467.",
+                  "heading": "Coordination with the Department of Health and Human Services under the Public Health Service Act",
+                  "identifier": "/us/usc/t6/s467"
+                },
+                {
+                  "number": "468",
+                  "numText": "§ 468.",
+                  "heading": "Preserving Coast Guard mission performance",
+                  "identifier": "/us/usc/t6/s468"
+                },
+                {
+                  "number": "469",
+                  "numText": "§ 469.",
+                  "heading": "Fees for credentialing and background investigations in transportation",
+                  "identifier": "/us/usc/t6/s469"
+                },
+                {
+                  "number": "469a",
+                  "numText": "§ 469a.",
+                  "heading": "Collection of fees from non-Federal participants in meetings",
+                  "identifier": "/us/usc/t6/s469a"
+                },
+                {
+                  "number": "470",
+                  "numText": "§ 470.",
+                  "heading": "Disclosures regarding homeland security grants",
+                  "identifier": "/us/usc/t6/s470"
+                },
+                {
+                  "number": "471",
+                  "numText": "§ 471.",
+                  "heading": "Annual ammunition report",
+                  "identifier": "/us/usc/t6/s471"
+                },
+                {
+                  "number": "472",
+                  "numText": "§ 472.",
+                  "heading": "Annual weaponry report",
+                  "identifier": "/us/usc/t6/s472"
+                },
+                {
+                  "number": "473",
+                  "numText": "§ 473.",
+                  "heading": "Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit",
+                  "identifier": "/us/usc/t6/s473"
+                },
+                {
+                  "number": "474",
+                  "numText": "§ 474.",
+                  "heading": "Homeland security critical domain research and development",
+                  "identifier": "/us/usc/t6/s474"
+                },
+                {
+                  "number": "475",
+                  "numText": "§ 475.",
+                  "heading": "Transnational Criminal Investigative Units",
+                  "identifier": "/us/usc/t6/s475"
+                },
+                {
+                  "number": "475a",
+                  "numText": "§ 475a.",
+                  "heading": "Mentor-protégé program",
+                  "identifier": "/us/usc/t6/s475a"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "I",
+              "heading": "Information Sharing",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptI",
+              "children": [
+                {
+                  "number": "481",
+                  "numText": "§ 481.",
+                  "heading": "Short title; findings; and sense of Congress",
+                  "identifier": "/us/usc/t6/s481"
+                },
+                {
+                  "number": "482",
+                  "numText": "§ 482.",
+                  "heading": "Facilitating homeland security information sharing procedures",
+                  "identifier": "/us/usc/t6/s482"
+                },
+                {
+                  "number": "483",
+                  "numText": "§ 483.",
+                  "heading": "Report",
+                  "identifier": "/us/usc/t6/s483"
+                },
+                {
+                  "number": "484",
+                  "numText": "§ 484.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t6/s484"
+                },
+                {
+                  "number": "484a",
+                  "numText": "§ 484a.",
+                  "heading": "Reciprocal information sharing",
+                  "identifier": "/us/usc/t6/s484a"
+                },
+                {
+                  "number": "485",
+                  "numText": "§ 485.",
+                  "heading": "Information sharing",
+                  "identifier": "/us/usc/t6/s485"
+                },
+                {
+                  "number": "486",
+                  "numText": "§ 486.",
+                  "heading": "Limitation of liability",
+                  "identifier": "/us/usc/t6/s486"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "J",
+              "heading": "Secure Handling of Ammonium Nitrate",
+              "identifier": "/us/usc/t6/ch1/schVIII/ptJ",
+              "children": [
+                {
+                  "number": "488",
+                  "numText": "§ 488.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s488"
+                },
+                {
+                  "number": "488a",
+                  "numText": "§ 488a.",
+                  "heading": "Regulation of the sale and transfer of ammonium nitrate",
+                  "identifier": "/us/usc/t6/s488a"
+                },
+                {
+                  "number": "488b",
+                  "numText": "§ 488b.",
+                  "heading": "Inspection and auditing of records",
+                  "identifier": "/us/usc/t6/s488b"
+                },
+                {
+                  "number": "488c",
+                  "numText": "§ 488c.",
+                  "heading": "Administrative provisions",
+                  "identifier": "/us/usc/t6/s488c"
+                },
+                {
+                  "number": "488d",
+                  "numText": "§ 488d.",
+                  "heading": "Theft reporting requirement",
+                  "identifier": "/us/usc/t6/s488d"
+                },
+                {
+                  "number": "488e",
+                  "numText": "§ 488e.",
+                  "heading": "Prohibitions and penalty",
+                  "identifier": "/us/usc/t6/s488e"
+                },
+                {
+                  "number": "488f",
+                  "numText": "§ 488f.",
+                  "heading": "Protection from civil liability",
+                  "identifier": "/us/usc/t6/s488f"
+                },
+                {
+                  "number": "488g",
+                  "numText": "§ 488g.",
+                  "heading": "Preemption of other laws",
+                  "identifier": "/us/usc/t6/s488g"
+                },
+                {
+                  "number": "488h",
+                  "numText": "§ 488h.",
+                  "heading": "Deadlines for regulations",
+                  "identifier": "/us/usc/t6/s488h"
+                },
+                {
+                  "number": "488i",
+                  "numText": "§ 488i.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t6/s488i"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IX",
+          "heading": "NATIONAL HOMELAND SECURITY COUNCIL",
+          "identifier": "/us/usc/t6/ch1/schIX",
+          "children": [
+            {
+              "number": "491",
+              "numText": "§ 491.",
+              "heading": "National Homeland Security Council",
+              "identifier": "/us/usc/t6/s491"
+            },
+            {
+              "number": "492",
+              "numText": "§ 492.",
+              "heading": "Function",
+              "identifier": "/us/usc/t6/s492"
+            },
+            {
+              "number": "493",
+              "numText": "§ 493.",
+              "heading": "Membership",
+              "identifier": "/us/usc/t6/s493"
+            },
+            {
+              "number": "494",
+              "numText": "§ 494.",
+              "heading": "Other functions and activities",
+              "identifier": "/us/usc/t6/s494"
+            },
+            {
+              "number": "495",
+              "numText": "§ 495.",
+              "heading": "Staff composition",
+              "identifier": "/us/usc/t6/s495"
+            },
+            {
+              "number": "496",
+              "numText": "§ 496.",
+              "heading": "Relation to the National Security Council",
+              "identifier": "/us/usc/t6/s496"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "X",
+          "heading": "CONSTRUCTION",
+          "identifier": "/us/usc/t6/ch1/schX",
+          "children": [
+            {
+              "number": "511",
+              "numText": "§ 511.",
+              "heading": "Information security responsibilities of certain agencies",
+              "identifier": "/us/usc/t6/s511"
+            },
+            {
+              "number": "512",
+              "numText": "§ 512.",
+              "heading": "Construction",
+              "identifier": "/us/usc/t6/s512"
+            },
+            {
+              "number": "513",
+              "numText": "§ 513.",
+              "heading": "Federal air marshal program",
+              "identifier": "/us/usc/t6/s513"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XI",
+          "heading": "DEPARTMENT OF JUSTICE DIVISIONS",
+          "identifier": "/us/usc/t6/ch1/schXI",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Executive Office for Immigration Review",
+              "identifier": "/us/usc/t6/ch1/schXI/ptA",
+              "children": [
+                {
+                  "number": "521",
+                  "numText": "§ 521.",
+                  "heading": "Legal status of EOIR",
+                  "identifier": "/us/usc/t6/s521"
+                },
+                {
+                  "number": "522",
+                  "numText": "§ 522.",
+                  "heading": "Statutory construction",
+                  "identifier": "/us/usc/t6/s522"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice",
+              "identifier": "/us/usc/t6/ch1/schXI/ptB",
+              "children": [
+                {
+                  "number": "531",
+                  "numText": "§ 531.",
+                  "heading": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+                  "identifier": "/us/usc/t6/s531"
+                },
+                {
+                  "number": "532",
+                  "numText": "§ 532.",
+                  "heading": "Explosives Training and Research Facility",
+                  "identifier": "/us/usc/t6/s532"
+                },
+                {
+                  "number": "533",
+                  "numText": "§ 533.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t6/s533"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XII",
+          "heading": "TRANSITION",
+          "identifier": "/us/usc/t6/ch1/schXII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Reorganization Plan",
+              "identifier": "/us/usc/t6/ch1/schXII/ptA",
+              "children": [
+                {
+                  "number": "541",
+                  "numText": "§ 541.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s541"
+                },
+                {
+                  "number": "542",
+                  "numText": "§ 542.",
+                  "heading": "Reorganization plan",
+                  "identifier": "/us/usc/t6/s542"
+                },
+                {
+                  "number": "543",
+                  "numText": "§ 543.",
+                  "heading": "Review of congressional committee structures",
+                  "identifier": "/us/usc/t6/s543"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Transitional Provisions",
+              "identifier": "/us/usc/t6/ch1/schXII/ptB",
+              "children": [
+                {
+                  "number": "551",
+                  "numText": "§ 551.",
+                  "heading": "Transitional authorities",
+                  "identifier": "/us/usc/t6/s551"
+                },
+                {
+                  "number": "552",
+                  "numText": "§ 552.",
+                  "heading": "Savings provisions",
+                  "identifier": "/us/usc/t6/s552"
+                },
+                {
+                  "number": "552a",
+                  "numText": "§ 552a.",
+                  "heading": "Savings provision of certain transfers made under the Homeland Security Act of 2002",
+                  "identifier": "/us/usc/t6/s552a"
+                },
+                {
+                  "number": "553",
+                  "numText": "§ 553.",
+                  "heading": "Terminations",
+                  "identifier": "/us/usc/t6/s553"
+                },
+                {
+                  "number": "554",
+                  "numText": "§ 554.",
+                  "heading": "National identification system not authorized",
+                  "identifier": "/us/usc/t6/s554"
+                },
+                {
+                  "number": "555",
+                  "numText": "§ 555.",
+                  "heading": "Continuity of Inspector General oversight",
+                  "identifier": "/us/usc/t6/s555"
+                },
+                {
+                  "number": "556",
+                  "numText": "§ 556.",
+                  "heading": "Incidental transfers",
+                  "identifier": "/us/usc/t6/s556"
+                },
+                {
+                  "number": "557",
+                  "numText": "§ 557.",
+                  "heading": "Reference",
+                  "identifier": "/us/usc/t6/s557"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XII–A",
+          "heading": "TRANSPORTATION SECURITY",
+          "identifier": "/us/usc/t6/ch1/schXII–A",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "General Provisions",
+              "identifier": "/us/usc/t6/ch1/schXII–A/ptA",
+              "children": [
+                {
+                  "number": "561",
+                  "numText": "§ 561.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s561"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Transportation Security Administration Acquisition Improvements",
+              "identifier": "/us/usc/t6/ch1/schXII–A/ptB",
+              "children": [
+                {
+                  "number": "563",
+                  "numText": "§ 563.",
+                  "heading": "5-year technology investment plan",
+                  "identifier": "/us/usc/t6/s563"
+                },
+                {
+                  "number": "563a",
+                  "numText": "§ 563a.",
+                  "heading": "Acquisition justification and reports",
+                  "identifier": "/us/usc/t6/s563a"
+                },
+                {
+                  "number": "563b",
+                  "numText": "§ 563b.",
+                  "heading": "Acquisition baseline establishment and reports",
+                  "identifier": "/us/usc/t6/s563b"
+                },
+                {
+                  "number": "563c",
+                  "numText": "§ 563c.",
+                  "heading": "Inventory utilization",
+                  "identifier": "/us/usc/t6/s563c"
+                },
+                {
+                  "number": "563d",
+                  "numText": "§ 563d.",
+                  "heading": "Small business contracting goals",
+                  "identifier": "/us/usc/t6/s563d"
+                },
+                {
+                  "number": "563e",
+                  "numText": "§ 563e.",
+                  "heading": "Consistency with the Federal Acquisition Regulation and departmental policies and directives",
+                  "identifier": "/us/usc/t6/s563e"
+                },
+                {
+                  "number": "563f",
+                  "numText": "§ 563f.",
+                  "heading": "Diversified security technology industry marketplace",
+                  "identifier": "/us/usc/t6/s563f"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Maintenance of Security-related Technology",
+              "identifier": "/us/usc/t6/ch1/schXII–A/ptC",
+              "children": [
+                {
+                  "number": "565",
+                  "numText": "§ 565.",
+                  "heading": "Maintenance validation and oversight",
+                  "identifier": "/us/usc/t6/s565"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XIII",
+          "heading": "EMERGENCY COMMUNICATIONS",
+          "identifier": "/us/usc/t6/ch1/schXIII",
+          "children": [
+            {
+              "number": "571",
+              "numText": "§ 571.",
+              "heading": "Emergency Communications Division",
+              "identifier": "/us/usc/t6/s571"
+            },
+            {
+              "number": "572",
+              "numText": "§ 572.",
+              "heading": "National Emergency Communications Plan",
+              "identifier": "/us/usc/t6/s572"
+            },
+            {
+              "number": "573",
+              "numText": "§ 573.",
+              "heading": "Assessments and reports",
+              "identifier": "/us/usc/t6/s573"
+            },
+            {
+              "number": "574",
+              "numText": "§ 574.",
+              "heading": "Coordination of Department emergency communications grant programs",
+              "identifier": "/us/usc/t6/s574"
+            },
+            {
+              "number": "575",
+              "numText": "§ 575.",
+              "heading": "Regional emergency communications coordination",
+              "identifier": "/us/usc/t6/s575"
+            },
+            {
+              "number": "576",
+              "numText": "§ 576.",
+              "heading": "Emergency Communications Preparedness Center",
+              "identifier": "/us/usc/t6/s576"
+            },
+            {
+              "number": "577",
+              "numText": "§ 577.",
+              "heading": "Urban and other high risk area communications capabilities",
+              "identifier": "/us/usc/t6/s577"
+            },
+            {
+              "number": "578",
+              "numText": "§ 578.",
+              "heading": "Definition",
+              "identifier": "/us/usc/t6/s578"
+            },
+            {
+              "number": "579",
+              "numText": "§ 579.",
+              "heading": "Interoperable Emergency Communications Grant Program",
+              "identifier": "/us/usc/t6/s579"
+            },
+            {
+              "number": "580",
+              "numText": "§ 580.",
+              "heading": "Border interoperability demonstration project",
+              "identifier": "/us/usc/t6/s580"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XIV",
+          "heading": "COUNTERING WEAPONS OF MASS DESTRUCTION OFFICE",
+          "identifier": "/us/usc/t6/ch1/schXIV",
+          "children": [
+            {
+              "number": "590",
+              "numText": "§ 590.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s590"
+            },
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Countering Weapons of Mass Destruction Office",
+              "identifier": "/us/usc/t6/ch1/schXIV/ptA",
+              "children": [
+                {
+                  "number": "591",
+                  "numText": "§ 591.",
+                  "heading": "Countering Weapons of Mass Destruction Office",
+                  "identifier": "/us/usc/t6/s591"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Mission of the Office",
+              "identifier": "/us/usc/t6/ch1/schXIV/ptB",
+              "children": [
+                {
+                  "number": "591g",
+                  "numText": "§ 591g.",
+                  "heading": "Mission of the Office",
+                  "identifier": "/us/usc/t6/s591g"
+                },
+                {
+                  "number": "591h",
+                  "numText": "§ 591h.",
+                  "heading": "Relationship to other Department components and Federal agencies",
+                  "identifier": "/us/usc/t6/s591h"
+                },
+                {
+                  "number": "592",
+                  "numText": "§ 592.",
+                  "heading": "Responsibilities",
+                  "identifier": "/us/usc/t6/s592"
+                },
+                {
+                  "number": "592a",
+                  "numText": "§ 592a.",
+                  "heading": "Technology research and development investment strategy for nuclear and radiological detection",
+                  "identifier": "/us/usc/t6/s592a"
+                },
+                {
+                  "number": "593",
+                  "numText": "§ 593.",
+                  "heading": "Hiring authority",
+                  "identifier": "/us/usc/t6/s593"
+                },
+                {
+                  "number": "594",
+                  "numText": "§ 594.",
+                  "heading": "Testing authority",
+                  "identifier": "/us/usc/t6/s594"
+                },
+                {
+                  "number": "595",
+                  "numText": "§ 595.",
+                  "heading": "Repealed. Pub. L. 115–387, § 2(a)(4), Dec. 21, 2018, 132 Stat. 5163",
+                  "identifier": "/us/usc/t6/s595"
+                },
+                {
+                  "number": "596",
+                  "numText": "§ 596.",
+                  "heading": "Contracting and grant making authorities",
+                  "identifier": "/us/usc/t6/s596"
+                },
+                {
+                  "number": "596a",
+                  "numText": "§ 596a.",
+                  "heading": "Joint annual interagency review of global nuclear detection architecture",
+                  "identifier": "/us/usc/t6/s596a"
+                },
+                {
+                  "number": "596b",
+                  "numText": "§ 596b.",
+                  "heading": "Securing the Cities program",
+                  "identifier": "/us/usc/t6/s596b"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Chief Medical Officer",
+              "identifier": "/us/usc/t6/ch1/schXIV/ptC",
+              "children": [
+                {
+                  "number": "597",
+                  "numText": "§ 597.",
+                  "heading": "Chief Medical Officer",
+                  "identifier": "/us/usc/t6/s597"
+                },
+                {
+                  "number": "597a",
+                  "numText": "§ 597a.",
+                  "heading": "Medical countermeasures",
+                  "identifier": "/us/usc/t6/s597a"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XV",
+          "heading": "HOMELAND SECURITY GRANTS",
+          "identifier": "/us/usc/t6/ch1/schXV",
+          "children": [
+            {
+              "number": "601",
+              "numText": "§ 601.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s601"
+            },
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Grants to States and High-Risk Urban Areas",
+              "identifier": "/us/usc/t6/ch1/schXV/ptA",
+              "children": [
+                {
+                  "number": "603",
+                  "numText": "§ 603.",
+                  "heading": "Homeland security grant programs",
+                  "identifier": "/us/usc/t6/s603"
+                },
+                {
+                  "number": "604",
+                  "numText": "§ 604.",
+                  "heading": "Urban Area Security Initiative",
+                  "identifier": "/us/usc/t6/s604"
+                },
+                {
+                  "number": "605",
+                  "numText": "§ 605.",
+                  "heading": "State Homeland Security Grant Program",
+                  "identifier": "/us/usc/t6/s605"
+                },
+                {
+                  "number": "606",
+                  "numText": "§ 606.",
+                  "heading": "Grants to directly eligible tribes",
+                  "identifier": "/us/usc/t6/s606"
+                },
+                {
+                  "number": "607",
+                  "numText": "§ 607.",
+                  "heading": "Terrorism prevention",
+                  "identifier": "/us/usc/t6/s607"
+                },
+                {
+                  "number": "608",
+                  "numText": "§ 608.",
+                  "heading": "Prioritization",
+                  "identifier": "/us/usc/t6/s608"
+                },
+                {
+                  "number": "609",
+                  "numText": "§ 609.",
+                  "heading": "Use of funds",
+                  "identifier": "/us/usc/t6/s609"
+                },
+                {
+                  "number": "609a",
+                  "numText": "§ 609a.",
+                  "heading": "Nonprofit Security Grant Program",
+                  "identifier": "/us/usc/t6/s609a"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Grants Administration",
+              "identifier": "/us/usc/t6/ch1/schXV/ptB",
+              "children": [
+                {
+                  "number": "611",
+                  "numText": "§ 611.",
+                  "heading": "Administration and coordination",
+                  "identifier": "/us/usc/t6/s611"
+                },
+                {
+                  "number": "612",
+                  "numText": "§ 612.",
+                  "heading": "Accountability",
+                  "identifier": "/us/usc/t6/s612"
+                },
+                {
+                  "number": "613",
+                  "numText": "§ 613.",
+                  "heading": "Identification of reporting redundancies and development of performance metrics",
+                  "identifier": "/us/usc/t6/s613"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XVI",
+          "heading": "CHEMICAL FACILITY ANTI-TERRORISM STANDARDS",
+          "identifier": "/us/usc/t6/ch1/schXVI",
+          "children": [
+            {
+              "number": "621 to 629",
+              "numText": "§§ 621 to 629.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t6/s621...629"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XVII",
+          "heading": "ANTI-TRAFFICKING TRAINING FOR DEPARTMENT OF HOMELAND SECURITY PERSONNEL",
+          "identifier": "/us/usc/t6/ch1/schXVII",
+          "children": [
+            {
+              "number": "641",
+              "numText": "§ 641.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s641"
+            },
+            {
+              "number": "642",
+              "numText": "§ 642.",
+              "heading": "Training for Department personnel to identify human trafficking",
+              "identifier": "/us/usc/t6/s642"
+            },
+            {
+              "number": "643",
+              "numText": "§ 643.",
+              "heading": "Certification and report to Congress",
+              "identifier": "/us/usc/t6/s643"
+            },
+            {
+              "number": "644",
+              "numText": "§ 644.",
+              "heading": "Assistance to non-Federal entities",
+              "identifier": "/us/usc/t6/s644"
+            },
+            {
+              "number": "645",
+              "numText": "§ 645.",
+              "heading": "Victim protection training for the Department of Homeland Security",
+              "identifier": "/us/usc/t6/s645"
+            },
+            {
+              "number": "645a",
+              "numText": "§ 645a.",
+              "heading": "Human trafficking assessment",
+              "identifier": "/us/usc/t6/s645a"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "XVIII",
+          "heading": "CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY",
+          "identifier": "/us/usc/t6/ch1/schXVIII",
+          "children": [
+            {
+              "number": "650",
+              "numText": "§ 650.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s650"
+            },
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Cybersecurity and Infrastructure Security",
+              "identifier": "/us/usc/t6/ch1/schXVIII/ptA",
+              "children": [
+                {
+                  "number": "651",
+                  "numText": "§ 651.",
+                  "heading": "Definition",
+                  "identifier": "/us/usc/t6/s651"
+                },
+                {
+                  "number": "652",
+                  "numText": "§ 652.",
+                  "heading": "Cybersecurity and Infrastructure Security Agency",
+                  "identifier": "/us/usc/t6/s652"
+                },
+                {
+                  "number": "652a",
+                  "numText": "§ 652a.",
+                  "heading": "Sector Risk Management Agencies",
+                  "identifier": "/us/usc/t6/s652a"
+                },
+                {
+                  "number": "653",
+                  "numText": "§ 653.",
+                  "heading": "Cybersecurity Division",
+                  "identifier": "/us/usc/t6/s653"
+                },
+                {
+                  "number": "654",
+                  "numText": "§ 654.",
+                  "heading": "Infrastructure Security Division",
+                  "identifier": "/us/usc/t6/s654"
+                },
+                {
+                  "number": "655",
+                  "numText": "§ 655.",
+                  "heading": "Enhancement of Federal and non-Federal cybersecurity",
+                  "identifier": "/us/usc/t6/s655"
+                },
+                {
+                  "number": "656",
+                  "numText": "§ 656.",
+                  "heading": "NET Guard",
+                  "identifier": "/us/usc/t6/s656"
+                },
+                {
+                  "number": "657",
+                  "numText": "§ 657.",
+                  "heading": "Cyber Security Enhancement Act of 2002",
+                  "identifier": "/us/usc/t6/s657"
+                },
+                {
+                  "number": "658",
+                  "numText": "§ 658.",
+                  "heading": "Cybersecurity recruitment and retention",
+                  "identifier": "/us/usc/t6/s658"
+                },
+                {
+                  "number": "659",
+                  "numText": "§ 659.",
+                  "heading": "National cybersecurity and communications integration center",
+                  "identifier": "/us/usc/t6/s659"
+                },
+                {
+                  "number": "660",
+                  "numText": "§ 660.",
+                  "heading": "Cybersecurity plans",
+                  "identifier": "/us/usc/t6/s660"
+                },
+                {
+                  "number": "661",
+                  "numText": "§ 661.",
+                  "heading": "Cybersecurity strategy",
+                  "identifier": "/us/usc/t6/s661"
+                },
+                {
+                  "number": "662",
+                  "numText": "§ 662.",
+                  "heading": "Clearances",
+                  "identifier": "/us/usc/t6/s662"
+                },
+                {
+                  "number": "663",
+                  "numText": "§ 663.",
+                  "heading": "Federal intrusion detection and prevention system",
+                  "identifier": "/us/usc/t6/s663"
+                },
+                {
+                  "number": "664",
+                  "numText": "§ 664.",
+                  "heading": "National asset database",
+                  "identifier": "/us/usc/t6/s664"
+                },
+                {
+                  "number": "665",
+                  "numText": "§ 665.",
+                  "heading": "Duties and authorities relating to .gov internet domain",
+                  "identifier": "/us/usc/t6/s665"
+                },
+                {
+                  "number": "665a",
+                  "numText": "§ 665a.",
+                  "heading": "Intelligence and cybersecurity diversity fellowship program",
+                  "identifier": "/us/usc/t6/s665a"
+                },
+                {
+                  "number": "665b",
+                  "numText": "§ 665b.",
+                  "heading": "Joint cyber planning office",
+                  "identifier": "/us/usc/t6/s665b"
+                },
+                {
+                  "number": "665c",
+                  "numText": "§ 665c.",
+                  "heading": "Cybersecurity State Coordinator",
+                  "identifier": "/us/usc/t6/s665c"
+                },
+                {
+                  "number": "665d",
+                  "numText": "§ 665d.",
+                  "heading": "Sector Risk Management Agencies",
+                  "identifier": "/us/usc/t6/s665d"
+                },
+                {
+                  "number": "665e",
+                  "numText": "§ 665e.",
+                  "heading": "Cybersecurity Advisory Committee",
+                  "identifier": "/us/usc/t6/s665e"
+                },
+                {
+                  "number": "665f",
+                  "numText": "§ 665f.",
+                  "heading": "Cybersecurity education and training programs",
+                  "identifier": "/us/usc/t6/s665f"
+                },
+                {
+                  "number": "665g",
+                  "numText": "§ 665g.",
+                  "heading": "State and Local Cybersecurity Grant Program",
+                  "identifier": "/us/usc/t6/s665g"
+                },
+                {
+                  "number": "665h",
+                  "numText": "§ 665h.",
+                  "heading": "National Cyber Exercise Program",
+                  "identifier": "/us/usc/t6/s665h"
+                },
+                {
+                  "number": "665i",
+                  "numText": "§ 665i.",
+                  "heading": "CyberSentry program",
+                  "identifier": "/us/usc/t6/s665i"
+                },
+                {
+                  "number": "665j",
+                  "numText": "§ 665j.",
+                  "heading": "Ransomware threat mitigation activities",
+                  "identifier": "/us/usc/t6/s665j"
+                },
+                {
+                  "number": "665k",
+                  "numText": "§ 665k.",
+                  "heading": "Federal Clearinghouse on School Safety Evidence-based Practices",
+                  "identifier": "/us/usc/t6/s665k"
+                },
+                {
+                  "number": "665l",
+                  "numText": "§ 665l.",
+                  "heading": "School and daycare protection",
+                  "identifier": "/us/usc/t6/s665l"
+                },
+                {
+                  "number": "665m",
+                  "numText": "§ 665m.",
+                  "heading": "President’s Cup Cybersecurity Competition",
+                  "identifier": "/us/usc/t6/s665m"
+                },
+                {
+                  "number": "665n",
+                  "numText": "§ 665n.",
+                  "heading": "Industrial Control Systems Cybersecurity Training Initiative",
+                  "identifier": "/us/usc/t6/s665n"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Critical Infrastructure Information",
+              "identifier": "/us/usc/t6/ch1/schXVIII/ptB",
+              "children": [
+                {
+                  "number": "671",
+                  "numText": "§ 671.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s671"
+                },
+                {
+                  "number": "672",
+                  "numText": "§ 672.",
+                  "heading": "Designation of critical infrastructure protection program",
+                  "identifier": "/us/usc/t6/s672"
+                },
+                {
+                  "number": "673",
+                  "numText": "§ 673.",
+                  "heading": "Protection of voluntarily shared critical infrastructure information",
+                  "identifier": "/us/usc/t6/s673"
+                },
+                {
+                  "number": "674",
+                  "numText": "§ 674.",
+                  "heading": "No private right of action",
+                  "identifier": "/us/usc/t6/s674"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Declaration of a Significant Incident",
+              "identifier": "/us/usc/t6/ch1/schXVIII/ptC",
+              "children": [
+                {
+                  "number": "677",
+                  "numText": "§ 677.",
+                  "heading": "Sense of Congress",
+                  "identifier": "/us/usc/t6/s677"
+                },
+                {
+                  "number": "677a",
+                  "numText": "§ 677a.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s677a"
+                },
+                {
+                  "number": "677b",
+                  "numText": "§ 677b.",
+                  "heading": "Declaration",
+                  "identifier": "/us/usc/t6/s677b"
+                },
+                {
+                  "number": "677c",
+                  "numText": "§ 677c.",
+                  "heading": "Cyber Response and Recovery Fund",
+                  "identifier": "/us/usc/t6/s677c"
+                },
+                {
+                  "number": "677d",
+                  "numText": "§ 677d.",
+                  "heading": "Notification and reporting",
+                  "identifier": "/us/usc/t6/s677d"
+                },
+                {
+                  "number": "677e",
+                  "numText": "§ 677e.",
+                  "heading": "Rule of construction",
+                  "identifier": "/us/usc/t6/s677e"
+                },
+                {
+                  "number": "677f",
+                  "numText": "§ 677f.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t6/s677f"
+                },
+                {
+                  "number": "677g",
+                  "numText": "§ 677g.",
+                  "heading": "Sunset",
+                  "identifier": "/us/usc/t6/s677g"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Cyber Incident Reporting",
+              "identifier": "/us/usc/t6/ch1/schXVIII/ptD",
+              "children": [
+                {
+                  "number": "681",
+                  "numText": "§ 681.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s681"
+                },
+                {
+                  "number": "681a",
+                  "numText": "§ 681a.",
+                  "heading": "Cyber incident review",
+                  "identifier": "/us/usc/t6/s681a"
+                },
+                {
+                  "number": "681b",
+                  "numText": "§ 681b.",
+                  "heading": "Required reporting of certain cyber incidents",
+                  "identifier": "/us/usc/t6/s681b"
+                },
+                {
+                  "number": "681c",
+                  "numText": "§ 681c.",
+                  "heading": "Voluntary reporting of other cyber incidents",
+                  "identifier": "/us/usc/t6/s681c"
+                },
+                {
+                  "number": "681d",
+                  "numText": "§ 681d.",
+                  "heading": "Noncompliance with required reporting",
+                  "identifier": "/us/usc/t6/s681d"
+                },
+                {
+                  "number": "681e",
+                  "numText": "§ 681e.",
+                  "heading": "Information shared with or provided to the Federal Government",
+                  "identifier": "/us/usc/t6/s681e"
+                },
+                {
+                  "number": "681f",
+                  "numText": "§ 681f.",
+                  "heading": "Cyber Incident Reporting Council",
+                  "identifier": "/us/usc/t6/s681f"
+                },
+                {
+                  "number": "681g",
+                  "numText": "§ 681g.",
+                  "heading": "Federal sharing of incident reports",
+                  "identifier": "/us/usc/t6/s681g"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "NATIONAL EMERGENCY MANAGEMENT",
+      "identifier": "/us/usc/t6/ch2",
+      "children": [
+        {
+          "number": "701",
+          "numText": "§ 701.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t6/s701"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "PERSONNEL PROVISIONS",
+          "identifier": "/us/usc/t6/ch2/schI",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Federal Emergency Management Agency Personnel",
+              "identifier": "/us/usc/t6/ch2/schI/ptA",
+              "children": [
+                {
+                  "number": "711",
+                  "numText": "§ 711.",
+                  "heading": "Surge Capacity Force",
+                  "identifier": "/us/usc/t6/s711"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Emergency Management Capabilities",
+              "identifier": "/us/usc/t6/ch2/schI/ptB",
+              "children": [
+                {
+                  "number": "721",
+                  "numText": "§ 721.",
+                  "heading": "Evacuation preparedness technical assistance",
+                  "identifier": "/us/usc/t6/s721"
+                },
+                {
+                  "number": "722",
+                  "numText": "§ 722.",
+                  "heading": "Urban Search and Rescue Response System",
+                  "identifier": "/us/usc/t6/s722"
+                },
+                {
+                  "number": "723",
+                  "numText": "§ 723.",
+                  "heading": "Metropolitan Medical Response Grant Program",
+                  "identifier": "/us/usc/t6/s723"
+                },
+                {
+                  "number": "724",
+                  "numText": "§ 724.",
+                  "heading": "Logistics",
+                  "identifier": "/us/usc/t6/s724"
+                },
+                {
+                  "number": "725",
+                  "numText": "§ 725.",
+                  "heading": "Prepositioned equipment program",
+                  "identifier": "/us/usc/t6/s725"
+                },
+                {
+                  "number": "726",
+                  "numText": "§ 726.",
+                  "heading": "Basic life supporting first aid and education",
+                  "identifier": "/us/usc/t6/s726"
+                },
+                {
+                  "number": "727",
+                  "numText": "§ 727.",
+                  "heading": "Improvements to information technology systems",
+                  "identifier": "/us/usc/t6/s727"
+                },
+                {
+                  "number": "728",
+                  "numText": "§ 728.",
+                  "heading": "Disclosure of certain information to law enforcement agencies",
+                  "identifier": "/us/usc/t6/s728"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "COMPREHENSIVE PREPAREDNESS SYSTEM",
+          "identifier": "/us/usc/t6/ch2/schII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "National Preparedness System",
+              "identifier": "/us/usc/t6/ch2/schII/ptA",
+              "children": [
+                {
+                  "number": "741",
+                  "numText": "§ 741.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s741"
+                },
+                {
+                  "number": "742",
+                  "numText": "§ 742.",
+                  "heading": "National preparedness",
+                  "identifier": "/us/usc/t6/s742"
+                },
+                {
+                  "number": "743",
+                  "numText": "§ 743.",
+                  "heading": "National preparedness goal",
+                  "identifier": "/us/usc/t6/s743"
+                },
+                {
+                  "number": "744",
+                  "numText": "§ 744.",
+                  "heading": "Establishment of national preparedness system",
+                  "identifier": "/us/usc/t6/s744"
+                },
+                {
+                  "number": "745",
+                  "numText": "§ 745.",
+                  "heading": "National planning scenarios",
+                  "identifier": "/us/usc/t6/s745"
+                },
+                {
+                  "number": "746",
+                  "numText": "§ 746.",
+                  "heading": "Target capabilities and preparedness priorities",
+                  "identifier": "/us/usc/t6/s746"
+                },
+                {
+                  "number": "747",
+                  "numText": "§ 747.",
+                  "heading": "Equipment and training standards",
+                  "identifier": "/us/usc/t6/s747"
+                },
+                {
+                  "number": "748",
+                  "numText": "§ 748.",
+                  "heading": "Training and exercises",
+                  "identifier": "/us/usc/t6/s748"
+                },
+                {
+                  "number": "748a",
+                  "numText": "§ 748a.",
+                  "heading": "Prioritization of facilities",
+                  "identifier": "/us/usc/t6/s748a"
+                },
+                {
+                  "number": "749",
+                  "numText": "§ 749.",
+                  "heading": "Comprehensive assessment system",
+                  "identifier": "/us/usc/t6/s749"
+                },
+                {
+                  "number": "750",
+                  "numText": "§ 750.",
+                  "heading": "Remedial action management program",
+                  "identifier": "/us/usc/t6/s750"
+                },
+                {
+                  "number": "751",
+                  "numText": "§ 751.",
+                  "heading": "Federal response capability inventory",
+                  "identifier": "/us/usc/t6/s751"
+                },
+                {
+                  "number": "752",
+                  "numText": "§ 752.",
+                  "heading": "Reporting requirements",
+                  "identifier": "/us/usc/t6/s752"
+                },
+                {
+                  "number": "753",
+                  "numText": "§ 753.",
+                  "heading": "Federal preparedness",
+                  "identifier": "/us/usc/t6/s753"
+                },
+                {
+                  "number": "754",
+                  "numText": "§ 754.",
+                  "heading": "Use of existing resources",
+                  "identifier": "/us/usc/t6/s754"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Additional Preparedness",
+              "identifier": "/us/usc/t6/ch2/schII/ptB",
+              "children": [
+                {
+                  "number": "761",
+                  "numText": "§ 761.",
+                  "heading": "Emergency Management Assistance Compact grants",
+                  "identifier": "/us/usc/t6/s761"
+                },
+                {
+                  "number": "762",
+                  "numText": "§ 762.",
+                  "heading": "Emergency management performance grants program",
+                  "identifier": "/us/usc/t6/s762"
+                },
+                {
+                  "number": "763",
+                  "numText": "§ 763.",
+                  "heading": "Transfer of Noble Training Center",
+                  "identifier": "/us/usc/t6/s763"
+                },
+                {
+                  "number": "763a",
+                  "numText": "§ 763a.",
+                  "heading": "Training for Federal Government, foreign governments, or private entities",
+                  "identifier": "/us/usc/t6/s763a"
+                },
+                {
+                  "number": "764",
+                  "numText": "§ 764.",
+                  "heading": "National exercise simulation center",
+                  "identifier": "/us/usc/t6/s764"
+                },
+                {
+                  "number": "765",
+                  "numText": "§ 765.",
+                  "heading": "Real property transactions",
+                  "identifier": "/us/usc/t6/s765"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Miscellaneous Authorities",
+              "identifier": "/us/usc/t6/ch2/schII/ptC",
+              "children": [
+                {
+                  "number": "771",
+                  "numText": "§ 771.",
+                  "heading": "National Disaster Recovery Strategy",
+                  "identifier": "/us/usc/t6/s771"
+                },
+                {
+                  "number": "772",
+                  "numText": "§ 772.",
+                  "heading": "National Disaster Housing Strategy",
+                  "identifier": "/us/usc/t6/s772"
+                },
+                {
+                  "number": "773",
+                  "numText": "§ 773.",
+                  "heading": "Individuals with disabilities guidelines",
+                  "identifier": "/us/usc/t6/s773"
+                },
+                {
+                  "number": "774",
+                  "numText": "§ 774.",
+                  "heading": "Reunification",
+                  "identifier": "/us/usc/t6/s774"
+                },
+                {
+                  "number": "775",
+                  "numText": "§ 775.",
+                  "heading": "National Emergency Family Registry and Locator System",
+                  "identifier": "/us/usc/t6/s775"
+                },
+                {
+                  "number": "776",
+                  "numText": "§ 776.",
+                  "heading": "Individuals and households pilot program",
+                  "identifier": "/us/usc/t6/s776"
+                },
+                {
+                  "number": "777",
+                  "numText": "§ 777.",
+                  "heading": "Public assistance pilot program",
+                  "identifier": "/us/usc/t6/s777"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Prevention of Fraud, Waste, and Abuse",
+              "identifier": "/us/usc/t6/ch2/schII/ptD",
+              "children": [
+                {
+                  "number": "791",
+                  "numText": "§ 791.",
+                  "heading": "Advance contracting",
+                  "identifier": "/us/usc/t6/s791"
+                },
+                {
+                  "number": "792",
+                  "numText": "§ 792.",
+                  "heading": "Repealed. Pub. L. 117–253, § 1, Dec. 20, 2022, 136 Stat. 2360",
+                  "identifier": "/us/usc/t6/s792"
+                },
+                {
+                  "number": "793",
+                  "numText": "§ 793.",
+                  "heading": "Oversight and accountability of Federal disaster expenditures",
+                  "identifier": "/us/usc/t6/s793"
+                },
+                {
+                  "number": "794",
+                  "numText": "§ 794.",
+                  "heading": "Limitation on length of certain noncompetitive contracts",
+                  "identifier": "/us/usc/t6/s794"
+                },
+                {
+                  "number": "795",
+                  "numText": "§ 795.",
+                  "heading": "Fraud, waste, and abuse controls",
+                  "identifier": "/us/usc/t6/s795"
+                },
+                {
+                  "number": "796",
+                  "numText": "§ 796.",
+                  "heading": "Registry of disaster response contractors",
+                  "identifier": "/us/usc/t6/s796"
+                },
+                {
+                  "number": "797",
+                  "numText": "§ 797.",
+                  "heading": "Fraud prevention training program",
+                  "identifier": "/us/usc/t6/s797"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "E",
+              "heading": "Authorization of Appropriations",
+              "identifier": "/us/usc/t6/ch2/schII/ptE",
+              "children": [
+                {
+                  "number": "811",
+                  "numText": "§ 811.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t6/s811"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "F",
+              "heading": "Global Catastrophic Risk Management",
+              "identifier": "/us/usc/t6/ch2/schII/ptF",
+              "children": [
+                {
+                  "number": "821",
+                  "numText": "§ 821.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s821"
+                },
+                {
+                  "number": "822",
+                  "numText": "§ 822.",
+                  "heading": "Assessment of global catastrophic risk",
+                  "identifier": "/us/usc/t6/s822"
+                },
+                {
+                  "number": "823",
+                  "numText": "§ 823.",
+                  "heading": "Report required",
+                  "identifier": "/us/usc/t6/s823"
+                },
+                {
+                  "number": "824",
+                  "numText": "§ 824.",
+                  "heading": "Enhanced catastrophic incident annex",
+                  "identifier": "/us/usc/t6/s824"
+                },
+                {
+                  "number": "825",
+                  "numText": "§ 825.",
+                  "heading": "Rules of construction",
+                  "identifier": "/us/usc/t6/s825"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "SECURITY AND ACCOUNTABILITY FOR EVERY PORT",
+      "identifier": "/us/usc/t6/ch3",
+      "children": [
+        {
+          "number": "901",
+          "numText": "§ 901.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t6/s901"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "SECURITY OF UNITED STATES SEAPORTS",
+          "identifier": "/us/usc/t6/ch3/schI",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Port Security Grants; Training and Exercise Programs",
+              "identifier": "/us/usc/t6/ch3/schI/ptA",
+              "children": [
+                {
+                  "number": "911",
+                  "numText": "§ 911.",
+                  "heading": "Repealed. Pub. L. 111–281, title VIII, § 821(b), Oct. 15, 2010, 124 Stat. 3003",
+                  "identifier": "/us/usc/t6/s911"
+                },
+                {
+                  "number": "912",
+                  "numText": "§ 912.",
+                  "heading": "Port Security Exercise Program",
+                  "identifier": "/us/usc/t6/s912"
+                },
+                {
+                  "number": "913",
+                  "numText": "§ 913.",
+                  "heading": "Facility exercise requirements",
+                  "identifier": "/us/usc/t6/s913"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Port Operations",
+              "identifier": "/us/usc/t6/ch3/schI/ptB",
+              "children": [
+                {
+                  "number": "921",
+                  "numText": "§ 921.",
+                  "heading": "Domestic radiation detection and imaging",
+                  "identifier": "/us/usc/t6/s921"
+                },
+                {
+                  "number": "921a",
+                  "numText": "§ 921a.",
+                  "heading": "Integration of detection equipment and technologies",
+                  "identifier": "/us/usc/t6/s921a"
+                },
+                {
+                  "number": "922",
+                  "numText": "§ 922.",
+                  "heading": "Repealed. Pub. L. 115–254, div. J, § 1816(c), Oct. 5, 2018, 132 Stat. 3541",
+                  "identifier": "/us/usc/t6/s922"
+                },
+                {
+                  "number": "923",
+                  "numText": "§ 923.",
+                  "heading": "Random searches of containers",
+                  "identifier": "/us/usc/t6/s923"
+                },
+                {
+                  "number": "924",
+                  "numText": "§ 924.",
+                  "heading": "Threat assessment screening of port truck drivers",
+                  "identifier": "/us/usc/t6/s924"
+                },
+                {
+                  "number": "925",
+                  "numText": "§ 925.",
+                  "heading": "Border Patrol unit for United States Virgin Islands",
+                  "identifier": "/us/usc/t6/s925"
+                },
+                {
+                  "number": "926",
+                  "numText": "§ 926.",
+                  "heading": "Center of Excellence for Maritime Domain Awareness",
+                  "identifier": "/us/usc/t6/s926"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "SECURITY OF THE INTERNATIONAL SUPPLY CHAIN",
+          "identifier": "/us/usc/t6/ch3/schII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "General Provisions",
+              "identifier": "/us/usc/t6/ch3/schII/ptA",
+              "children": [
+                {
+                  "number": "941",
+                  "numText": "§ 941.",
+                  "heading": "Strategic plan to enhance the security of the international supply chain",
+                  "identifier": "/us/usc/t6/s941"
+                },
+                {
+                  "number": "942",
+                  "numText": "§ 942.",
+                  "heading": "Post-incident resumption of trade",
+                  "identifier": "/us/usc/t6/s942"
+                },
+                {
+                  "number": "943",
+                  "numText": "§ 943.",
+                  "heading": "Automated Targeting System",
+                  "identifier": "/us/usc/t6/s943"
+                },
+                {
+                  "number": "944",
+                  "numText": "§ 944.",
+                  "heading": "Container security standards and procedures",
+                  "identifier": "/us/usc/t6/s944"
+                },
+                {
+                  "number": "945",
+                  "numText": "§ 945.",
+                  "heading": "Container Security Initiative",
+                  "identifier": "/us/usc/t6/s945"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Customs–Trade Partnership Against Terrorism",
+              "identifier": "/us/usc/t6/ch3/schII/ptB",
+              "children": [
+                {
+                  "number": "961",
+                  "numText": "§ 961.",
+                  "heading": "Establishment",
+                  "identifier": "/us/usc/t6/s961"
+                },
+                {
+                  "number": "962",
+                  "numText": "§ 962.",
+                  "heading": "Eligible entities",
+                  "identifier": "/us/usc/t6/s962"
+                },
+                {
+                  "number": "963",
+                  "numText": "§ 963.",
+                  "heading": "Minimum requirements",
+                  "identifier": "/us/usc/t6/s963"
+                },
+                {
+                  "number": "964",
+                  "numText": "§ 964.",
+                  "heading": "Tier 1 participants in C–TPAT",
+                  "identifier": "/us/usc/t6/s964"
+                },
+                {
+                  "number": "965",
+                  "numText": "§ 965.",
+                  "heading": "Tier 2 participants in C–TPAT",
+                  "identifier": "/us/usc/t6/s965"
+                },
+                {
+                  "number": "966",
+                  "numText": "§ 966.",
+                  "heading": "Tier 3 participants in C–TPAT",
+                  "identifier": "/us/usc/t6/s966"
+                },
+                {
+                  "number": "967",
+                  "numText": "§ 967.",
+                  "heading": "Consequences for lack of compliance",
+                  "identifier": "/us/usc/t6/s967"
+                },
+                {
+                  "number": "968",
+                  "numText": "§ 968.",
+                  "heading": "Third party validations",
+                  "identifier": "/us/usc/t6/s968"
+                },
+                {
+                  "number": "969",
+                  "numText": "§ 969.",
+                  "heading": "Revalidation",
+                  "identifier": "/us/usc/t6/s969"
+                },
+                {
+                  "number": "970",
+                  "numText": "§ 970.",
+                  "heading": "Noncontainerized cargo",
+                  "identifier": "/us/usc/t6/s970"
+                },
+                {
+                  "number": "971",
+                  "numText": "§ 971.",
+                  "heading": "C–TPAT program management",
+                  "identifier": "/us/usc/t6/s971"
+                },
+                {
+                  "number": "972",
+                  "numText": "§ 972.",
+                  "heading": "Additional personnel",
+                  "identifier": "/us/usc/t6/s972"
+                },
+                {
+                  "number": "973",
+                  "numText": "§ 973.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t6/s973"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Miscellaneous Provisions",
+              "identifier": "/us/usc/t6/ch3/schII/ptC",
+              "children": [
+                {
+                  "number": "981",
+                  "numText": "§ 981.",
+                  "heading": "Pilot integrated scanning system",
+                  "identifier": "/us/usc/t6/s981"
+                },
+                {
+                  "number": "981a",
+                  "numText": "§ 981a.",
+                  "heading": "Pilot integrated scanning system",
+                  "identifier": "/us/usc/t6/s981a"
+                },
+                {
+                  "number": "982",
+                  "numText": "§ 982.",
+                  "heading": "Screening and scanning of cargo containers",
+                  "identifier": "/us/usc/t6/s982"
+                },
+                {
+                  "number": "983",
+                  "numText": "§ 983.",
+                  "heading": "Inspection technology and training",
+                  "identifier": "/us/usc/t6/s983"
+                },
+                {
+                  "number": "984",
+                  "numText": "§ 984.",
+                  "heading": "Repealed. Pub. L. 115–254, div. J, § 1816(f), Oct. 5, 2018, 132 Stat. 3541",
+                  "identifier": "/us/usc/t6/s984"
+                },
+                {
+                  "number": "985",
+                  "numText": "§ 985.",
+                  "heading": "Information sharing relating to supply chain security cooperation",
+                  "identifier": "/us/usc/t6/s985"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "ADMINISTRATION",
+          "identifier": "/us/usc/t6/ch3/schIII",
+          "children": [
+            {
+              "number": "1001",
+              "numText": "§ 1001.",
+              "heading": "Designation of liaison office of Department of State",
+              "identifier": "/us/usc/t6/s1001"
+            },
+            {
+              "number": "1002",
+              "numText": "§ 1002.",
+              "heading": "Homeland Security Science and Technology Advisory Committee",
+              "identifier": "/us/usc/t6/s1002"
+            },
+            {
+              "number": "1003",
+              "numText": "§ 1003.",
+              "heading": "Research, development, test, and evaluation efforts in furtherance of maritime and cargo security",
+              "identifier": "/us/usc/t6/s1003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "TRANSPORTATION SECURITY",
+      "identifier": "/us/usc/t6/ch4",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "TRANSPORTATION SECURITY PLANNING AND INFORMATION SHARING",
+          "identifier": "/us/usc/t6/ch4/schI",
+          "children": [
+            {
+              "number": "1101",
+              "numText": "§ 1101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s1101"
+            },
+            {
+              "number": "1102",
+              "numText": "§ 1102.",
+              "heading": "National Domestic Preparedness Consortium",
+              "identifier": "/us/usc/t6/s1102"
+            },
+            {
+              "number": "1103",
+              "numText": "§ 1103.",
+              "heading": "National Transportation Security Center of Excellence",
+              "identifier": "/us/usc/t6/s1103"
+            },
+            {
+              "number": "1104",
+              "numText": "§ 1104.",
+              "heading": "Immunity for reports of suspected terrorist activity or suspicious behavior and response",
+              "identifier": "/us/usc/t6/s1104"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "TRANSPORTATION SECURITY ENHANCEMENTS",
+          "identifier": "/us/usc/t6/ch4/schII",
+          "children": [
+            {
+              "number": "1111",
+              "numText": "§ 1111.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s1111"
+            },
+            {
+              "number": "1112",
+              "numText": "§ 1112.",
+              "heading": "Authorization of Visible Intermodal Prevention and Response teams",
+              "identifier": "/us/usc/t6/s1112"
+            },
+            {
+              "number": "1113",
+              "numText": "§ 1113.",
+              "heading": "Surface transportation security inspectors",
+              "identifier": "/us/usc/t6/s1113"
+            },
+            {
+              "number": "1114",
+              "numText": "§ 1114.",
+              "heading": "Surface transportation security technology information sharing",
+              "identifier": "/us/usc/t6/s1114"
+            },
+            {
+              "number": "1115",
+              "numText": "§ 1115.",
+              "heading": "TSA personnel limitations",
+              "identifier": "/us/usc/t6/s1115"
+            },
+            {
+              "number": "1116",
+              "numText": "§ 1116.",
+              "heading": "National explosives detection canine team training program",
+              "identifier": "/us/usc/t6/s1116"
+            },
+            {
+              "number": "1117",
+              "numText": "§ 1117.",
+              "heading": "Roles of the Department of Homeland Security and the Department of Transportation",
+              "identifier": "/us/usc/t6/s1117"
+            },
+            {
+              "number": "1118",
+              "numText": "§ 1118.",
+              "heading": "Biometrics expansion",
+              "identifier": "/us/usc/t6/s1118"
+            },
+            {
+              "number": "1119",
+              "numText": "§ 1119.",
+              "heading": "Voluntary use of credentialing",
+              "identifier": "/us/usc/t6/s1119"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "PUBLIC TRANSPORTATION SECURITY",
+          "identifier": "/us/usc/t6/ch4/schIII",
+          "children": [
+            {
+              "number": "1131",
+              "numText": "§ 1131.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s1131"
+            },
+            {
+              "number": "1132",
+              "numText": "§ 1132.",
+              "heading": "Findings",
+              "identifier": "/us/usc/t6/s1132"
+            },
+            {
+              "number": "1133",
+              "numText": "§ 1133.",
+              "heading": "National Strategy for Public Transportation Security",
+              "identifier": "/us/usc/t6/s1133"
+            },
+            {
+              "number": "1134",
+              "numText": "§ 1134.",
+              "heading": "Security assessments and plans",
+              "identifier": "/us/usc/t6/s1134"
+            },
+            {
+              "number": "1135",
+              "numText": "§ 1135.",
+              "heading": "Public transportation security assistance",
+              "identifier": "/us/usc/t6/s1135"
+            },
+            {
+              "number": "1136",
+              "numText": "§ 1136.",
+              "heading": "Security exercises",
+              "identifier": "/us/usc/t6/s1136"
+            },
+            {
+              "number": "1137",
+              "numText": "§ 1137.",
+              "heading": "Public transportation security training program",
+              "identifier": "/us/usc/t6/s1137"
+            },
+            {
+              "number": "1137a",
+              "numText": "§ 1137a.",
+              "heading": "Local law enforcement security training",
+              "identifier": "/us/usc/t6/s1137a"
+            },
+            {
+              "number": "1138",
+              "numText": "§ 1138.",
+              "heading": "Public transportation research and development",
+              "identifier": "/us/usc/t6/s1138"
+            },
+            {
+              "number": "1139",
+              "numText": "§ 1139.",
+              "heading": "Information sharing",
+              "identifier": "/us/usc/t6/s1139"
+            },
+            {
+              "number": "1140",
+              "numText": "§ 1140.",
+              "heading": "Threat assessments",
+              "identifier": "/us/usc/t6/s1140"
+            },
+            {
+              "number": "1141",
+              "numText": "§ 1141.",
+              "heading": "Reporting requirements",
+              "identifier": "/us/usc/t6/s1141"
+            },
+            {
+              "number": "1142",
+              "numText": "§ 1142.",
+              "heading": "Public transportation employee protections",
+              "identifier": "/us/usc/t6/s1142"
+            },
+            {
+              "number": "1143",
+              "numText": "§ 1143.",
+              "heading": "Security background checks of covered individuals for public transportation",
+              "identifier": "/us/usc/t6/s1143"
+            },
+            {
+              "number": "1144",
+              "numText": "§ 1144.",
+              "heading": "Limitation on fines and civil penalties",
+              "identifier": "/us/usc/t6/s1144"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "SURFACE TRANSPORTATION SECURITY",
+          "identifier": "/us/usc/t6/ch4/schIV",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "General Provisions",
+              "identifier": "/us/usc/t6/ch4/schIV/ptA",
+              "children": [
+                {
+                  "number": "1151",
+                  "numText": "§ 1151.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t6/s1151"
+                },
+                {
+                  "number": "1152",
+                  "numText": "§ 1152.",
+                  "heading": "Oversight and grant procedures",
+                  "identifier": "/us/usc/t6/s1152"
+                },
+                {
+                  "number": "1153",
+                  "numText": "§ 1153.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t6/s1153"
+                },
+                {
+                  "number": "1154",
+                  "numText": "§ 1154.",
+                  "heading": "Public awareness",
+                  "identifier": "/us/usc/t6/s1154"
+                },
+                {
+                  "number": "1155",
+                  "numText": "§ 1155.",
+                  "heading": "Security awareness program",
+                  "identifier": "/us/usc/t6/s1155"
+                },
+                {
+                  "number": "1156",
+                  "numText": "§ 1156.",
+                  "heading": "Nuclear material and explosive detection technology",
+                  "identifier": "/us/usc/t6/s1156"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Railroad Security",
+              "identifier": "/us/usc/t6/ch4/schIV/ptB",
+              "children": [
+                {
+                  "number": "1161",
+                  "numText": "§ 1161.",
+                  "heading": "Railroad transportation security risk assessment and National Strategy",
+                  "identifier": "/us/usc/t6/s1161"
+                },
+                {
+                  "number": "1162",
+                  "numText": "§ 1162.",
+                  "heading": "Railroad carrier assessments and plans",
+                  "identifier": "/us/usc/t6/s1162"
+                },
+                {
+                  "number": "1163",
+                  "numText": "§ 1163.",
+                  "heading": "Railroad security assistance",
+                  "identifier": "/us/usc/t6/s1163"
+                },
+                {
+                  "number": "1164",
+                  "numText": "§ 1164.",
+                  "heading": "Systemwide Amtrak security upgrades",
+                  "identifier": "/us/usc/t6/s1164"
+                },
+                {
+                  "number": "1165",
+                  "numText": "§ 1165.",
+                  "heading": "Fire and life safety improvements",
+                  "identifier": "/us/usc/t6/s1165"
+                },
+                {
+                  "number": "1166",
+                  "numText": "§ 1166.",
+                  "heading": "Railroad carrier exercises",
+                  "identifier": "/us/usc/t6/s1166"
+                },
+                {
+                  "number": "1167",
+                  "numText": "§ 1167.",
+                  "heading": "Railroad security training program",
+                  "identifier": "/us/usc/t6/s1167"
+                },
+                {
+                  "number": "1168",
+                  "numText": "§ 1168.",
+                  "heading": "Railroad security research and development",
+                  "identifier": "/us/usc/t6/s1168"
+                },
+                {
+                  "number": "1169",
+                  "numText": "§ 1169.",
+                  "heading": "Railroad tank car security testing",
+                  "identifier": "/us/usc/t6/s1169"
+                },
+                {
+                  "number": "1170",
+                  "numText": "§ 1170.",
+                  "heading": "Security background checks of covered individuals",
+                  "identifier": "/us/usc/t6/s1170"
+                },
+                {
+                  "number": "1171",
+                  "numText": "§ 1171.",
+                  "heading": "International railroad security program",
+                  "identifier": "/us/usc/t6/s1171"
+                },
+                {
+                  "number": "1172",
+                  "numText": "§ 1172.",
+                  "heading": "Railroad security enhancements; Model State legislation",
+                  "identifier": "/us/usc/t6/s1172"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Over-the-Road Bus and Trucking Security",
+              "identifier": "/us/usc/t6/ch4/schIV/ptC",
+              "children": [
+                {
+                  "number": "1181",
+                  "numText": "§ 1181.",
+                  "heading": "Over-the-road bus security assessments and plans",
+                  "identifier": "/us/usc/t6/s1181"
+                },
+                {
+                  "number": "1182",
+                  "numText": "§ 1182.",
+                  "heading": "Over-the-road bus security assistance",
+                  "identifier": "/us/usc/t6/s1182"
+                },
+                {
+                  "number": "1183",
+                  "numText": "§ 1183.",
+                  "heading": "Over-the-road bus exercises",
+                  "identifier": "/us/usc/t6/s1183"
+                },
+                {
+                  "number": "1184",
+                  "numText": "§ 1184.",
+                  "heading": "Over-the-road bus security training program",
+                  "identifier": "/us/usc/t6/s1184"
+                },
+                {
+                  "number": "1185",
+                  "numText": "§ 1185.",
+                  "heading": "Over-the-road bus security research and development",
+                  "identifier": "/us/usc/t6/s1185"
+                },
+                {
+                  "number": "1186",
+                  "numText": "§ 1186.",
+                  "heading": "Memorandum of Understanding annex",
+                  "identifier": "/us/usc/t6/s1186"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Hazardous Material and Pipeline Security",
+              "identifier": "/us/usc/t6/ch4/schIV/ptD",
+              "children": [
+                {
+                  "number": "1201",
+                  "numText": "§ 1201.",
+                  "heading": "Railroad routing of security-sensitive materials",
+                  "identifier": "/us/usc/t6/s1201"
+                },
+                {
+                  "number": "1202",
+                  "numText": "§ 1202.",
+                  "heading": "Railroad security-sensitive material tracking",
+                  "identifier": "/us/usc/t6/s1202"
+                },
+                {
+                  "number": "1203",
+                  "numText": "§ 1203.",
+                  "heading": "Hazardous materials highway routing",
+                  "identifier": "/us/usc/t6/s1203"
+                },
+                {
+                  "number": "1204",
+                  "numText": "§ 1204.",
+                  "heading": "Motor carrier security-sensitive material tracking",
+                  "identifier": "/us/usc/t6/s1204"
+                },
+                {
+                  "number": "1205",
+                  "numText": "§ 1205.",
+                  "heading": "Hazardous materials security inspections and study",
+                  "identifier": "/us/usc/t6/s1205"
+                },
+                {
+                  "number": "1206",
+                  "numText": "§ 1206.",
+                  "heading": "Use of transportation security card in hazmat licensing",
+                  "identifier": "/us/usc/t6/s1206"
+                },
+                {
+                  "number": "1207",
+                  "numText": "§ 1207.",
+                  "heading": "Pipeline security inspections and enforcement",
+                  "identifier": "/us/usc/t6/s1207"
+                },
+                {
+                  "number": "1208",
+                  "numText": "§ 1208.",
+                  "heading": "Pipeline security and incident recovery plan",
+                  "identifier": "/us/usc/t6/s1208"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "BORDER INFRASTRUCTURE AND TECHNOLOGY MODERNIZATION",
+      "identifier": "/us/usc/t6/ch5",
+      "children": [
+        {
+          "number": "1401",
+          "numText": "§ 1401.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t6/s1401"
+        },
+        {
+          "number": "1402, 1403",
+          "numText": "§§ 1402, 1403.",
+          "heading": "Repealed. Pub. L. 113–188, title X, § 1001(b), Nov. 26, 2014, 128 Stat. 2022",
+          "identifier": "/us/usc/t6/s1402 /us/usc/t6/s1403"
+        },
+        {
+          "number": "1404",
+          "numText": "§ 1404.",
+          "heading": "Repealed. Pub. L. 114–4, title V, § 566, Mar. 4, 2015, 129 Stat. 73",
+          "identifier": "/us/usc/t6/s1404"
+        },
+        {
+          "number": "1405",
+          "numText": "§ 1405.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t6/s1405"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "CYBERSECURITY",
+      "identifier": "/us/usc/t6/ch6",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "CYBERSECURITY INFORMATION SHARING",
+          "identifier": "/us/usc/t6/ch6/schI",
+          "children": [
+            {
+              "number": "1500",
+              "numText": "§ 1500.",
+              "heading": "National Cyber Director",
+              "identifier": "/us/usc/t6/s1500"
+            },
+            {
+              "number": "1501",
+              "numText": "§ 1501.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s1501"
+            },
+            {
+              "number": "1502",
+              "numText": "§ 1502.",
+              "heading": "Sharing of information by the Federal Government",
+              "identifier": "/us/usc/t6/s1502"
+            },
+            {
+              "number": "1503",
+              "numText": "§ 1503.",
+              "heading": "Authorizations for preventing, detecting, analyzing, and mitigating cybersecurity threats",
+              "identifier": "/us/usc/t6/s1503"
+            },
+            {
+              "number": "1504",
+              "numText": "§ 1504.",
+              "heading": "Sharing of cyber threat indicators and defensive measures with the Federal Government",
+              "identifier": "/us/usc/t6/s1504"
+            },
+            {
+              "number": "1505",
+              "numText": "§ 1505.",
+              "heading": "Protection from liability",
+              "identifier": "/us/usc/t6/s1505"
+            },
+            {
+              "number": "1506",
+              "numText": "§ 1506.",
+              "heading": "Oversight of government activities",
+              "identifier": "/us/usc/t6/s1506"
+            },
+            {
+              "number": "1507",
+              "numText": "§ 1507.",
+              "heading": "Construction and preemption",
+              "identifier": "/us/usc/t6/s1507"
+            },
+            {
+              "number": "1508",
+              "numText": "§ 1508.",
+              "heading": "Report on cybersecurity threats",
+              "identifier": "/us/usc/t6/s1508"
+            },
+            {
+              "number": "1509",
+              "numText": "§ 1509.",
+              "heading": "Exception to limitation on authority of Secretary of Defense to disseminate certain information",
+              "identifier": "/us/usc/t6/s1509"
+            },
+            {
+              "number": "1510",
+              "numText": "§ 1510.",
+              "heading": "Effective period",
+              "identifier": "/us/usc/t6/s1510"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "FEDERAL CYBERSECURITY ENHANCEMENT",
+          "identifier": "/us/usc/t6/ch6/schII",
+          "children": [
+            {
+              "number": "1521",
+              "numText": "§ 1521.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t6/s1521"
+            },
+            {
+              "number": "1522",
+              "numText": "§ 1522.",
+              "heading": "Advanced internal defenses",
+              "identifier": "/us/usc/t6/s1522"
+            },
+            {
+              "number": "1523",
+              "numText": "§ 1523.",
+              "heading": "Federal cybersecurity requirements",
+              "identifier": "/us/usc/t6/s1523"
+            },
+            {
+              "number": "1524",
+              "numText": "§ 1524.",
+              "heading": "Assessment; reports",
+              "identifier": "/us/usc/t6/s1524"
+            },
+            {
+              "number": "1525",
+              "numText": "§ 1525.",
+              "heading": "Termination",
+              "identifier": "/us/usc/t6/s1525"
+            },
+            {
+              "number": "1526",
+              "numText": "§ 1526.",
+              "heading": "Inventory of cryptographic systems; migration to post-quantum cryptography",
+              "identifier": "/us/usc/t6/s1526"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "OTHER CYBER MATTERS",
+          "identifier": "/us/usc/t6/ch6/schIII",
+          "children": [
+            {
+              "number": "1531",
+              "numText": "§ 1531.",
+              "heading": "Apprehension and prosecution of international cyber criminals",
+              "identifier": "/us/usc/t6/s1531"
+            },
+            {
+              "number": "1532",
+              "numText": "§ 1532.",
+              "heading": "Enhancement of emergency services",
+              "identifier": "/us/usc/t6/s1532"
+            },
+            {
+              "number": "1533",
+              "numText": "§ 1533.",
+              "heading": "Improving cybersecurity in the health care industry",
+              "identifier": "/us/usc/t6/s1533"
+            },
+            {
+              "number": "1534",
+              "numText": "§ 1534.",
+              "heading": "Cybercrime",
+              "identifier": "/us/usc/t6/s1534"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

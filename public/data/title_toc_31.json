@@ -1,0 +1,3645 @@
+{
+  "number": "31",
+  "name": "Money And Finance",
+  "identifier": "/us/usc/t31",
+  "version": "Online@119-73not60",
+  "updated": "2025-12-18",
+  "children": [
+    {
+      "type": "subtitle",
+      "number": "I",
+      "heading": "GENERAL",
+      "identifier": "/us/usc/t31/stI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "1",
+          "heading": "DEFINITIONS",
+          "identifier": "/us/usc/t31/stI/ch1",
+          "children": [
+            {
+              "number": "101",
+              "numText": "§ 101.",
+              "heading": "Agency",
+              "identifier": "/us/usc/t31/s101"
+            },
+            {
+              "number": "102",
+              "numText": "§ 102.",
+              "heading": "Executive agency",
+              "identifier": "/us/usc/t31/s102"
+            },
+            {
+              "number": "103",
+              "numText": "§ 103.",
+              "heading": "United States",
+              "identifier": "/us/usc/t31/s103"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "3",
+          "heading": "DEPARTMENT OF THE TREASURY",
+          "identifier": "/us/usc/t31/stI/ch3",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "ORGANIZATION",
+              "identifier": "/us/usc/t31/stI/ch3/schI",
+              "children": [
+                {
+                  "number": "301",
+                  "numText": "§ 301.",
+                  "heading": "Department of the Treasury",
+                  "identifier": "/us/usc/t31/s301"
+                },
+                {
+                  "number": "302",
+                  "numText": "§ 302.",
+                  "heading": "Treasury of the United States",
+                  "identifier": "/us/usc/t31/s302"
+                },
+                {
+                  "number": "303",
+                  "numText": "§ 303.",
+                  "heading": "Bureau of Engraving and Printing",
+                  "identifier": "/us/usc/t31/s303"
+                },
+                {
+                  "number": "304",
+                  "numText": "§ 304.",
+                  "heading": "United States Mint",
+                  "identifier": "/us/usc/t31/s304"
+                },
+                {
+                  "number": "305",
+                  "numText": "§ 305.",
+                  "heading": "Federal Financing Bank",
+                  "identifier": "/us/usc/t31/s305"
+                },
+                {
+                  "number": "306",
+                  "numText": "§ 306.",
+                  "heading": "Fiscal Service",
+                  "identifier": "/us/usc/t31/s306"
+                },
+                {
+                  "number": "307",
+                  "numText": "§ 307.",
+                  "heading": "Office of the Comptroller of the Currency",
+                  "identifier": "/us/usc/t31/s307"
+                },
+                {
+                  "number": "308",
+                  "numText": "§ 308.",
+                  "heading": "United States Customs Service",
+                  "identifier": "/us/usc/t31/s308"
+                },
+                {
+                  "number": "309",
+                  "numText": "§ 309.",
+                  "heading": "Office of Thrift Supervision",
+                  "identifier": "/us/usc/t31/s309"
+                },
+                {
+                  "number": "310",
+                  "numText": "§ 310.",
+                  "heading": "Financial Crimes Enforcement Network",
+                  "identifier": "/us/usc/t31/s310"
+                },
+                {
+                  "number": "311",
+                  "numText": "§ 311.",
+                  "heading": "Office of Intelligence and Analysis",
+                  "identifier": "/us/usc/t31/s311"
+                },
+                {
+                  "number": "312",
+                  "numText": "§ 312.",
+                  "heading": "Terrorism and financial intelligence",
+                  "identifier": "/us/usc/t31/s312"
+                },
+                {
+                  "number": "313",
+                  "numText": "§ 313.",
+                  "heading": "Federal Insurance Office",
+                  "identifier": "/us/usc/t31/s313"
+                },
+                {
+                  "number": "314",
+                  "numText": "§ 314.",
+                  "heading": "Covered agreements",
+                  "identifier": "/us/usc/t31/s314"
+                },
+                {
+                  "number": "315",
+                  "numText": "§ 315.",
+                  "heading": "Continuing in office",
+                  "identifier": "/us/usc/t31/s315"
+                },
+                {
+                  "number": "316",
+                  "numText": "§ 316.",
+                  "heading": "Treasury Attaché Program",
+                  "identifier": "/us/usc/t31/s316"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "ADMINISTRATIVE",
+              "identifier": "/us/usc/t31/stI/ch3/schII",
+              "children": [
+                {
+                  "number": "321",
+                  "numText": "§ 321.",
+                  "heading": "General authority of the Secretary",
+                  "identifier": "/us/usc/t31/s321"
+                },
+                {
+                  "number": "322",
+                  "numText": "§ 322.",
+                  "heading": "Working capital fund",
+                  "identifier": "/us/usc/t31/s322"
+                },
+                {
+                  "number": "323",
+                  "numText": "§ 323.",
+                  "heading": "Investment of operating cash",
+                  "identifier": "/us/usc/t31/s323"
+                },
+                {
+                  "number": "324",
+                  "numText": "§ 324.",
+                  "heading": "Disposing and extending the maturity of obligations",
+                  "identifier": "/us/usc/t31/s324"
+                },
+                {
+                  "number": "325",
+                  "numText": "§ 325.",
+                  "heading": "International affairs authorization",
+                  "identifier": "/us/usc/t31/s325"
+                },
+                {
+                  "number": "326",
+                  "numText": "§ 326.",
+                  "heading": "Availability of appropriations for certain expenses",
+                  "identifier": "/us/usc/t31/s326"
+                },
+                {
+                  "number": "327",
+                  "numText": "§ 327.",
+                  "heading": "Advancements and reimbursements for services",
+                  "identifier": "/us/usc/t31/s327"
+                },
+                {
+                  "number": "328",
+                  "numText": "§ 328.",
+                  "heading": "Accounts and payments of former disbursing officials",
+                  "identifier": "/us/usc/t31/s328"
+                },
+                {
+                  "number": "329",
+                  "numText": "§ 329.",
+                  "heading": "Limitations on outside activities",
+                  "identifier": "/us/usc/t31/s329"
+                },
+                {
+                  "number": "330",
+                  "numText": "§ 330.",
+                  "heading": "Practice before the Department",
+                  "identifier": "/us/usc/t31/s330"
+                },
+                {
+                  "number": "331",
+                  "numText": "§ 331.",
+                  "heading": "Reports",
+                  "identifier": "/us/usc/t31/s331"
+                },
+                {
+                  "number": "332",
+                  "numText": "§ 332.",
+                  "heading": "Miscellaneous administrative authority",
+                  "identifier": "/us/usc/t31/s332"
+                },
+                {
+                  "number": "333",
+                  "numText": "§ 333.",
+                  "heading": "Prohibition of misuse of Department of the Treasury names, symbols, etc.",
+                  "identifier": "/us/usc/t31/s333"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "5",
+          "heading": "OFFICE OF MANAGEMENT AND BUDGET",
+          "identifier": "/us/usc/t31/stI/ch5",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "ORGANIZATION",
+              "identifier": "/us/usc/t31/stI/ch5/schI",
+              "children": [
+                {
+                  "number": "501",
+                  "numText": "§ 501.",
+                  "heading": "Office of Management and Budget",
+                  "identifier": "/us/usc/t31/s501"
+                },
+                {
+                  "number": "502",
+                  "numText": "§ 502.",
+                  "heading": "Officers",
+                  "identifier": "/us/usc/t31/s502"
+                },
+                {
+                  "number": "503",
+                  "numText": "§ 503.",
+                  "heading": "Functions of Deputy Director for Management",
+                  "identifier": "/us/usc/t31/s503"
+                },
+                {
+                  "number": "504",
+                  "numText": "§ 504.",
+                  "heading": "Office of Federal Financial Management",
+                  "identifier": "/us/usc/t31/s504"
+                },
+                {
+                  "number": "505",
+                  "numText": "§ 505.",
+                  "heading": "Office of Information and Regulatory Affairs",
+                  "identifier": "/us/usc/t31/s505"
+                },
+                {
+                  "number": "506",
+                  "numText": "§ 506.",
+                  "heading": "Office of Federal Procurement Policy",
+                  "identifier": "/us/usc/t31/s506"
+                },
+                {
+                  "number": "507",
+                  "numText": "§ 507.",
+                  "heading": "Office of Electronic Government",
+                  "identifier": "/us/usc/t31/s507"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "ADMINISTRATIVE",
+              "identifier": "/us/usc/t31/stI/ch5/schII",
+              "children": [
+                {
+                  "number": "521",
+                  "numText": "§ 521.",
+                  "heading": "Employees",
+                  "identifier": "/us/usc/t31/s521"
+                },
+                {
+                  "number": "522",
+                  "numText": "§ 522.",
+                  "heading": "Necessary expenditures",
+                  "identifier": "/us/usc/t31/s522"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "7",
+          "heading": "GOVERNMENT ACCOUNTABILITY OFFICE",
+          "identifier": "/us/usc/t31/stI/ch7",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "DEFINITIONS AND GENERAL ORGANIZATION",
+              "identifier": "/us/usc/t31/stI/ch7/schI",
+              "children": [
+                {
+                  "number": "701",
+                  "numText": "§ 701.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t31/s701"
+                },
+                {
+                  "number": "702",
+                  "numText": "§ 702.",
+                  "heading": "Government Accountability Office",
+                  "identifier": "/us/usc/t31/s702"
+                },
+                {
+                  "number": "703",
+                  "numText": "§ 703.",
+                  "heading": "Comptroller General and Deputy Comptroller General",
+                  "identifier": "/us/usc/t31/s703"
+                },
+                {
+                  "number": "704",
+                  "numText": "§ 704.",
+                  "heading": "Relationship to other laws",
+                  "identifier": "/us/usc/t31/s704"
+                },
+                {
+                  "number": "705",
+                  "numText": "§ 705.",
+                  "heading": "Inspector General for the Government Accountability Office",
+                  "identifier": "/us/usc/t31/s705"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "GENERAL DUTIES AND POWERS",
+              "identifier": "/us/usc/t31/stI/ch7/schII",
+              "children": [
+                {
+                  "number": "711",
+                  "numText": "§ 711.",
+                  "heading": "General authority",
+                  "identifier": "/us/usc/t31/s711"
+                },
+                {
+                  "number": "712",
+                  "numText": "§ 712.",
+                  "heading": "Investigating the use of public money",
+                  "identifier": "/us/usc/t31/s712"
+                },
+                {
+                  "number": "713",
+                  "numText": "§ 713.",
+                  "heading": "Audit of Internal Revenue Service, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+                  "identifier": "/us/usc/t31/s713"
+                },
+                {
+                  "number": "714",
+                  "numText": "§ 714.",
+                  "heading": "Audit of Financial Institutions Examination Council, Federal Reserve Board, Federal reserve banks, Federal Deposit Insurance Corporation, and Office of Comptroller of the Currency",
+                  "identifier": "/us/usc/t31/s714"
+                },
+                {
+                  "number": "715",
+                  "numText": "§ 715.",
+                  "heading": "Audit of accounts and operations of the District of Columbia government",
+                  "identifier": "/us/usc/t31/s715"
+                },
+                {
+                  "number": "716",
+                  "numText": "§ 716.",
+                  "heading": "Availability of information and inspection of records",
+                  "identifier": "/us/usc/t31/s716"
+                },
+                {
+                  "number": "717",
+                  "numText": "§ 717.",
+                  "heading": "Evaluating programs and activities of the United States Government",
+                  "identifier": "/us/usc/t31/s717"
+                },
+                {
+                  "number": "718",
+                  "numText": "§ 718.",
+                  "heading": "Availability of draft reports",
+                  "identifier": "/us/usc/t31/s718"
+                },
+                {
+                  "number": "719",
+                  "numText": "§ 719.",
+                  "heading": "Comptroller General reports",
+                  "identifier": "/us/usc/t31/s719"
+                },
+                {
+                  "number": "720",
+                  "numText": "§ 720.",
+                  "heading": "Agency reports",
+                  "identifier": "/us/usc/t31/s720"
+                },
+                {
+                  "number": "721",
+                  "numText": "§ 721.",
+                  "heading": "Access to certain information",
+                  "identifier": "/us/usc/t31/s721"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "PERSONNEL",
+              "identifier": "/us/usc/t31/stI/ch7/schIII",
+              "children": [
+                {
+                  "number": "731",
+                  "numText": "§ 731.",
+                  "heading": "General",
+                  "identifier": "/us/usc/t31/s731"
+                },
+                {
+                  "number": "732",
+                  "numText": "§ 732.",
+                  "heading": "Personnel management system",
+                  "identifier": "/us/usc/t31/s732"
+                },
+                {
+                  "number": "732a",
+                  "numText": "§ 732a.",
+                  "heading": "Critical positions",
+                  "identifier": "/us/usc/t31/s732a"
+                },
+                {
+                  "number": "733",
+                  "numText": "§ 733.",
+                  "heading": "Senior Executive Service",
+                  "identifier": "/us/usc/t31/s733"
+                },
+                {
+                  "number": "734",
+                  "numText": "§ 734.",
+                  "heading": "Assignments and details to Congress",
+                  "identifier": "/us/usc/t31/s734"
+                },
+                {
+                  "number": "735",
+                  "numText": "§ 735.",
+                  "heading": "Relationship to other laws",
+                  "identifier": "/us/usc/t31/s735"
+                },
+                {
+                  "number": "736",
+                  "numText": "§ 736.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t31/s736"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "PERSONNEL APPEALS BOARD",
+              "identifier": "/us/usc/t31/stI/ch7/schIV",
+              "children": [
+                {
+                  "number": "751",
+                  "numText": "§ 751.",
+                  "heading": "Organization",
+                  "identifier": "/us/usc/t31/s751"
+                },
+                {
+                  "number": "752",
+                  "numText": "§ 752.",
+                  "heading": "Chairman and General Counsel",
+                  "identifier": "/us/usc/t31/s752"
+                },
+                {
+                  "number": "753",
+                  "numText": "§ 753.",
+                  "heading": "Duties and powers",
+                  "identifier": "/us/usc/t31/s753"
+                },
+                {
+                  "number": "754",
+                  "numText": "§ 754.",
+                  "heading": "Action by the Comptroller General",
+                  "identifier": "/us/usc/t31/s754"
+                },
+                {
+                  "number": "755",
+                  "numText": "§ 755.",
+                  "heading": "Judicial review",
+                  "identifier": "/us/usc/t31/s755"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "V",
+              "heading": "ANNUITIES",
+              "identifier": "/us/usc/t31/stI/ch7/schV",
+              "children": [
+                {
+                  "number": "771",
+                  "numText": "§ 771.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t31/s771"
+                },
+                {
+                  "number": "772",
+                  "numText": "§ 772.",
+                  "heading": "Annuity of the Comptroller General",
+                  "identifier": "/us/usc/t31/s772"
+                },
+                {
+                  "number": "773",
+                  "numText": "§ 773.",
+                  "heading": "Election of survivor benefits",
+                  "identifier": "/us/usc/t31/s773"
+                },
+                {
+                  "number": "774",
+                  "numText": "§ 774.",
+                  "heading": "Survivor annuities",
+                  "identifier": "/us/usc/t31/s774"
+                },
+                {
+                  "number": "775",
+                  "numText": "§ 775.",
+                  "heading": "Refunds",
+                  "identifier": "/us/usc/t31/s775"
+                },
+                {
+                  "number": "776",
+                  "numText": "§ 776.",
+                  "heading": "Payment of survivor benefits",
+                  "identifier": "/us/usc/t31/s776"
+                },
+                {
+                  "number": "777",
+                  "numText": "§ 777.",
+                  "heading": "Annuity increases",
+                  "identifier": "/us/usc/t31/s777"
+                },
+                {
+                  "number": "778",
+                  "numText": "§ 778.",
+                  "heading": "Dependency and disability decisions",
+                  "identifier": "/us/usc/t31/s778"
+                },
+                {
+                  "number": "779",
+                  "numText": "§ 779.",
+                  "heading": "Use of appropriations",
+                  "identifier": "/us/usc/t31/s779"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VI",
+              "heading": "PROPERTY MANAGEMENT",
+              "identifier": "/us/usc/t31/stI/ch7/schVI",
+              "children": [
+                {
+                  "number": "781",
+                  "numText": "§ 781.",
+                  "heading": "Authority over the General Accounting Office Building",
+                  "identifier": "/us/usc/t31/s781"
+                },
+                {
+                  "number": "782",
+                  "numText": "§ 782.",
+                  "heading": "Leasing of space in the General Accounting Office Building",
+                  "identifier": "/us/usc/t31/s782"
+                },
+                {
+                  "number": "783",
+                  "numText": "§ 783.",
+                  "heading": "Rules and regulations",
+                  "identifier": "/us/usc/t31/s783"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VII",
+              "heading": "CENTER FOR AUDIT EXCELLENCE",
+              "identifier": "/us/usc/t31/stI/ch7/schVII",
+              "children": [
+                {
+                  "number": "791",
+                  "numText": "§ 791.",
+                  "heading": "Center for Audit Excellence",
+                  "identifier": "/us/usc/t31/s791"
+                },
+                {
+                  "number": "792",
+                  "numText": "§ 792.",
+                  "heading": "Account",
+                  "identifier": "/us/usc/t31/s792"
+                },
+                {
+                  "number": "793",
+                  "numText": "§ 793.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t31/s793"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "9",
+          "heading": "AGENCY CHIEF FINANCIAL OFFICERS",
+          "identifier": "/us/usc/t31/stI/ch9",
+          "children": [
+            {
+              "number": "901",
+              "numText": "§ 901.",
+              "heading": "Establishment of agency Chief Financial Officers",
+              "identifier": "/us/usc/t31/s901"
+            },
+            {
+              "number": "902",
+              "numText": "§ 902.",
+              "heading": "Authority and functions of agency Chief Financial Officers",
+              "identifier": "/us/usc/t31/s902"
+            },
+            {
+              "number": "903",
+              "numText": "§ 903.",
+              "heading": "Establishment of agency Deputy Chief Financial Officers",
+              "identifier": "/us/usc/t31/s903"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "II",
+      "heading": "THE BUDGET PROCESS",
+      "identifier": "/us/usc/t31/stII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "11",
+          "heading": "THE BUDGET AND FISCAL, BUDGET, AND PROGRAM INFORMATION",
+          "identifier": "/us/usc/t31/stII/ch11",
+          "children": [
+            {
+              "number": "1101",
+              "numText": "§ 1101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s1101"
+            },
+            {
+              "number": "1102",
+              "numText": "§ 1102.",
+              "heading": "Fiscal year",
+              "identifier": "/us/usc/t31/s1102"
+            },
+            {
+              "number": "1103",
+              "numText": "§ 1103.",
+              "heading": "Budget ceiling",
+              "identifier": "/us/usc/t31/s1103"
+            },
+            {
+              "number": "1104",
+              "numText": "§ 1104.",
+              "heading": "Budget and appropriations authority of the President",
+              "identifier": "/us/usc/t31/s1104"
+            },
+            {
+              "number": "1105",
+              "numText": "§ 1105.",
+              "heading": "Budget contents and submission to Congress",
+              "identifier": "/us/usc/t31/s1105"
+            },
+            {
+              "number": "1106",
+              "numText": "§ 1106.",
+              "heading": "Supplemental budget estimates and changes",
+              "identifier": "/us/usc/t31/s1106"
+            },
+            {
+              "number": "1107",
+              "numText": "§ 1107.",
+              "heading": "Deficiency and supplemental appropriations",
+              "identifier": "/us/usc/t31/s1107"
+            },
+            {
+              "number": "1108",
+              "numText": "§ 1108.",
+              "heading": "Preparation and submission of appropriations requests to the President",
+              "identifier": "/us/usc/t31/s1108"
+            },
+            {
+              "number": "1109",
+              "numText": "§ 1109.",
+              "heading": "Current programs and activities estimates",
+              "identifier": "/us/usc/t31/s1109"
+            },
+            {
+              "number": "1110",
+              "numText": "§ 1110.",
+              "heading": "Year-ahead requests for authorizing legislation",
+              "identifier": "/us/usc/t31/s1110"
+            },
+            {
+              "number": "1111",
+              "numText": "§ 1111.",
+              "heading": "Improving economy and efficiency",
+              "identifier": "/us/usc/t31/s1111"
+            },
+            {
+              "number": "1112",
+              "numText": "§ 1112.",
+              "heading": "Fiscal, budget, and program information",
+              "identifier": "/us/usc/t31/s1112"
+            },
+            {
+              "number": "1113",
+              "numText": "§ 1113.",
+              "heading": "Congressional information",
+              "identifier": "/us/usc/t31/s1113"
+            },
+            {
+              "number": "1114",
+              "numText": "[§ 1114.",
+              "heading": "Repealed. Pub. L. 103–355, title II, § 2454(c)(2), Oct. 13, 1994, 108 Stat. 3326]",
+              "identifier": "/us/usc/t31/s1114"
+            },
+            {
+              "number": "1115",
+              "numText": "§ 1115.",
+              "heading": "Federal Government and agency performance plans",
+              "identifier": "/us/usc/t31/s1115"
+            },
+            {
+              "number": "1116",
+              "numText": "§ 1116.",
+              "heading": "Agency performance reporting",
+              "identifier": "/us/usc/t31/s1116"
+            },
+            {
+              "number": "1117",
+              "numText": "§ 1117.",
+              "heading": "Exemption",
+              "identifier": "/us/usc/t31/s1117"
+            },
+            {
+              "number": "1118, 1119",
+              "numText": "[§§ 1118, 1119.",
+              "heading": "Repealed. Pub. L. 118–190, § 6(a), Dec. 23, 2024, 138 Stat. 2656]",
+              "identifier": "/us/usc/t31/s1118 /us/usc/t31/s1119"
+            },
+            {
+              "number": "1120",
+              "numText": "§ 1120.",
+              "heading": "Federal Government and agency priority goals",
+              "identifier": "/us/usc/t31/s1120"
+            },
+            {
+              "number": "1121",
+              "numText": "§ 1121.",
+              "heading": "Progress reviews and use of performance information",
+              "identifier": "/us/usc/t31/s1121"
+            },
+            {
+              "number": "1122",
+              "numText": "§ 1122.",
+              "heading": "Transparency of programs, priority goals, and results",
+              "identifier": "/us/usc/t31/s1122"
+            },
+            {
+              "number": "1123",
+              "numText": "§ 1123.",
+              "heading": "Chief Operating Officers",
+              "identifier": "/us/usc/t31/s1123"
+            },
+            {
+              "number": "1124",
+              "numText": "§ 1124.",
+              "heading": "Performance Improvement Officers and the Performance Improvement Council",
+              "identifier": "/us/usc/t31/s1124"
+            },
+            {
+              "number": "1125",
+              "numText": "§ 1125.",
+              "heading": "Elimination of unnecessary agency reporting",
+              "identifier": "/us/usc/t31/s1125"
+            },
+            {
+              "number": "1126",
+              "numText": "§ 1126.",
+              "heading": "Program Management Improvement Officers and Program Management Policy Council",
+              "identifier": "/us/usc/t31/s1126"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "13",
+          "heading": "APPROPRIATIONS",
+          "identifier": "/us/usc/t31/stII/ch13",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t31/stII/ch13/schI",
+              "children": [
+                {
+                  "number": "1301",
+                  "numText": "§ 1301.",
+                  "heading": "Application",
+                  "identifier": "/us/usc/t31/s1301"
+                },
+                {
+                  "number": "1302",
+                  "numText": "§ 1302.",
+                  "heading": "Determining amounts appropriated",
+                  "identifier": "/us/usc/t31/s1302"
+                },
+                {
+                  "number": "1303",
+                  "numText": "§ 1303.",
+                  "heading": "Effect of changes in titles of appropriations",
+                  "identifier": "/us/usc/t31/s1303"
+                },
+                {
+                  "number": "1304",
+                  "numText": "§ 1304.",
+                  "heading": "Judgments, awards, and compromise settlements",
+                  "identifier": "/us/usc/t31/s1304"
+                },
+                {
+                  "number": "1305",
+                  "numText": "§ 1305.",
+                  "heading": "Miscellaneous permanent appropriations",
+                  "identifier": "/us/usc/t31/s1305"
+                },
+                {
+                  "number": "1306",
+                  "numText": "§ 1306.",
+                  "heading": "Use of foreign credits",
+                  "identifier": "/us/usc/t31/s1306"
+                },
+                {
+                  "number": "1307",
+                  "numText": "§ 1307.",
+                  "heading": "Public building construction",
+                  "identifier": "/us/usc/t31/s1307"
+                },
+                {
+                  "number": "1308",
+                  "numText": "§ 1308.",
+                  "heading": "Telephone and metered services",
+                  "identifier": "/us/usc/t31/s1308"
+                },
+                {
+                  "number": "1309",
+                  "numText": "§ 1309.",
+                  "heading": "Social security tax",
+                  "identifier": "/us/usc/t31/s1309"
+                },
+                {
+                  "number": "1310",
+                  "numText": "§ 1310.",
+                  "heading": "Appropriations for private organizations",
+                  "identifier": "/us/usc/t31/s1310"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "TRUST FUNDS AND REFUNDS",
+              "identifier": "/us/usc/t31/stII/ch13/schII",
+              "children": [
+                {
+                  "number": "1321",
+                  "numText": "§ 1321.",
+                  "heading": "Trust funds",
+                  "identifier": "/us/usc/t31/s1321"
+                },
+                {
+                  "number": "1322",
+                  "numText": "§ 1322.",
+                  "heading": "Payments of unclaimed trust fund amounts and refund of amounts erroneously deposited",
+                  "identifier": "/us/usc/t31/s1322"
+                },
+                {
+                  "number": "1323",
+                  "numText": "§ 1323.",
+                  "heading": "Trust funds for certain fees, donations, quasi-public amounts, and unearned amounts",
+                  "identifier": "/us/usc/t31/s1323"
+                },
+                {
+                  "number": "1324",
+                  "numText": "§ 1324.",
+                  "heading": "Refund of internal revenue collections",
+                  "identifier": "/us/usc/t31/s1324"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "LIMITATIONS, EXCEPTIONS, AND PENALTIES",
+              "identifier": "/us/usc/t31/stII/ch13/schIII",
+              "children": [
+                {
+                  "number": "1341",
+                  "numText": "§ 1341.",
+                  "heading": "Limitations on expending and obligating amounts",
+                  "identifier": "/us/usc/t31/s1341"
+                },
+                {
+                  "number": "1342",
+                  "numText": "§ 1342.",
+                  "heading": "Limitation on voluntary services",
+                  "identifier": "/us/usc/t31/s1342"
+                },
+                {
+                  "number": "1343",
+                  "numText": "§ 1343.",
+                  "heading": "Buying and leasing passenger motor vehicles and aircraft",
+                  "identifier": "/us/usc/t31/s1343"
+                },
+                {
+                  "number": "1344",
+                  "numText": "§ 1344.",
+                  "heading": "Passenger carrier use",
+                  "identifier": "/us/usc/t31/s1344"
+                },
+                {
+                  "number": "1345",
+                  "numText": "§ 1345.",
+                  "heading": "Expenses of meetings",
+                  "identifier": "/us/usc/t31/s1345"
+                },
+                {
+                  "number": "1346",
+                  "numText": "§ 1346.",
+                  "heading": "Commissions, councils, boards, and inter­agency and similar groups",
+                  "identifier": "/us/usc/t31/s1346"
+                },
+                {
+                  "number": "1347",
+                  "numText": "§ 1347.",
+                  "heading": "Appropriations or authorizations required for agencies in existence for more than one year",
+                  "identifier": "/us/usc/t31/s1347"
+                },
+                {
+                  "number": "1348",
+                  "numText": "§ 1348.",
+                  "heading": "Telephone installation and charges",
+                  "identifier": "/us/usc/t31/s1348"
+                },
+                {
+                  "number": "1349",
+                  "numText": "§ 1349.",
+                  "heading": "Adverse personnel actions",
+                  "identifier": "/us/usc/t31/s1349"
+                },
+                {
+                  "number": "1350",
+                  "numText": "§ 1350.",
+                  "heading": "Criminal penalty",
+                  "identifier": "/us/usc/t31/s1350"
+                },
+                {
+                  "number": "1351",
+                  "numText": "§ 1351.",
+                  "heading": "Reports on violations",
+                  "identifier": "/us/usc/t31/s1351"
+                },
+                {
+                  "number": "1352",
+                  "numText": "§ 1352.",
+                  "heading": "Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions",
+                  "identifier": "/us/usc/t31/s1352"
+                },
+                {
+                  "number": "1353",
+                  "numText": "§ 1353.",
+                  "heading": "Acceptance of travel and related expenses from non-Federal sources",
+                  "identifier": "/us/usc/t31/s1353"
+                },
+                {
+                  "number": "1354",
+                  "numText": "§ 1354.",
+                  "heading": "Limitation on use of appropriated funds for contracts with entities not meeting veterans’ employment reporting requirements",
+                  "identifier": "/us/usc/t31/s1354"
+                },
+                {
+                  "number": "1355",
+                  "numText": "§ 1355.",
+                  "heading": "Prohibition on use of funds for portraits",
+                  "identifier": "/us/usc/t31/s1355"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "15",
+          "heading": "APPROPRIATION ACCOUNTING",
+          "identifier": "/us/usc/t31/stII/ch15",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t31/stII/ch15/schI",
+              "children": [
+                {
+                  "number": "1501",
+                  "numText": "§ 1501.",
+                  "heading": "Documentary evidence requirement for Government obligations",
+                  "identifier": "/us/usc/t31/s1501"
+                },
+                {
+                  "number": "1502",
+                  "numText": "§ 1502.",
+                  "heading": "Balances available",
+                  "identifier": "/us/usc/t31/s1502"
+                },
+                {
+                  "number": "1503",
+                  "numText": "§ 1503.",
+                  "heading": "Comptroller General reports of amounts for which no accounting is made",
+                  "identifier": "/us/usc/t31/s1503"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "APPORTIONMENT",
+              "identifier": "/us/usc/t31/stII/ch15/schII",
+              "children": [
+                {
+                  "number": "1511",
+                  "numText": "§ 1511.",
+                  "heading": "Definition and application",
+                  "identifier": "/us/usc/t31/s1511"
+                },
+                {
+                  "number": "1512",
+                  "numText": "§ 1512.",
+                  "heading": "Apportionment and reserves",
+                  "identifier": "/us/usc/t31/s1512"
+                },
+                {
+                  "number": "1513",
+                  "numText": "§ 1513.",
+                  "heading": "Officials controlling apportionments",
+                  "identifier": "/us/usc/t31/s1513"
+                },
+                {
+                  "number": "1514",
+                  "numText": "§ 1514.",
+                  "heading": "Administrative division of apportionments",
+                  "identifier": "/us/usc/t31/s1514"
+                },
+                {
+                  "number": "1515",
+                  "numText": "§ 1515.",
+                  "heading": "Authorized apportionments necessitating deficiency or supplemental appropriations",
+                  "identifier": "/us/usc/t31/s1515"
+                },
+                {
+                  "number": "1516",
+                  "numText": "§ 1516.",
+                  "heading": "Exemptions",
+                  "identifier": "/us/usc/t31/s1516"
+                },
+                {
+                  "number": "1517",
+                  "numText": "§ 1517.",
+                  "heading": "Prohibited obligations and expenditures",
+                  "identifier": "/us/usc/t31/s1517"
+                },
+                {
+                  "number": "1518",
+                  "numText": "§ 1518.",
+                  "heading": "Adverse personnel actions",
+                  "identifier": "/us/usc/t31/s1518"
+                },
+                {
+                  "number": "1519",
+                  "numText": "§ 1519.",
+                  "heading": "Criminal penalty",
+                  "identifier": "/us/usc/t31/s1519"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "TRANSFERS AND REIMBURSEMENTS",
+              "identifier": "/us/usc/t31/stII/ch15/schIII",
+              "children": [
+                {
+                  "number": "1531",
+                  "numText": "§ 1531.",
+                  "heading": "Transfers of functions and activities",
+                  "identifier": "/us/usc/t31/s1531"
+                },
+                {
+                  "number": "1532",
+                  "numText": "§ 1532.",
+                  "heading": "Withdrawal and credit",
+                  "identifier": "/us/usc/t31/s1532"
+                },
+                {
+                  "number": "1533",
+                  "numText": "§ 1533.",
+                  "heading": "Transfers of appropriations for salaries and expenses to carry out national defense responsibilities",
+                  "identifier": "/us/usc/t31/s1533"
+                },
+                {
+                  "number": "1534",
+                  "numText": "§ 1534.",
+                  "heading": "Adjustments between appropriations",
+                  "identifier": "/us/usc/t31/s1534"
+                },
+                {
+                  "number": "1535",
+                  "numText": "§ 1535.",
+                  "heading": "Agency agreements",
+                  "identifier": "/us/usc/t31/s1535"
+                },
+                {
+                  "number": "1536",
+                  "numText": "§ 1536.",
+                  "heading": "Crediting payments from purchases between executive agencies",
+                  "identifier": "/us/usc/t31/s1536"
+                },
+                {
+                  "number": "1537",
+                  "numText": "§ 1537.",
+                  "heading": "Services between the United States Government and the District of Columbia government",
+                  "identifier": "/us/usc/t31/s1537"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "CLOSING ACCOUNTS",
+              "identifier": "/us/usc/t31/stII/ch15/schIV",
+              "children": [
+                {
+                  "number": "1551",
+                  "numText": "§ 1551.",
+                  "heading": "Definitions; applicability of subchapter",
+                  "identifier": "/us/usc/t31/s1551"
+                },
+                {
+                  "number": "1552",
+                  "numText": "§ 1552.",
+                  "heading": "Procedure for appropriation accounts available for definite periods",
+                  "identifier": "/us/usc/t31/s1552"
+                },
+                {
+                  "number": "1553",
+                  "numText": "§ 1553.",
+                  "heading": "Availability of appropriation accounts to pay obligations",
+                  "identifier": "/us/usc/t31/s1553"
+                },
+                {
+                  "number": "1554",
+                  "numText": "§ 1554.",
+                  "heading": "Audit, control, and reporting",
+                  "identifier": "/us/usc/t31/s1554"
+                },
+                {
+                  "number": "1555",
+                  "numText": "§ 1555.",
+                  "heading": "Closing of appropriation accounts available for indefinite periods",
+                  "identifier": "/us/usc/t31/s1555"
+                },
+                {
+                  "number": "1556",
+                  "numText": "§ 1556.",
+                  "heading": "Comptroller General: reports on appropriation accounts",
+                  "identifier": "/us/usc/t31/s1556"
+                },
+                {
+                  "number": "1557",
+                  "numText": "§ 1557.",
+                  "heading": "Authority for exemptions in appropriation laws",
+                  "identifier": "/us/usc/t31/s1557"
+                },
+                {
+                  "number": "1558",
+                  "numText": "§ 1558.",
+                  "heading": "Availability of funds following resolution of a formal protest or other challenge",
+                  "identifier": "/us/usc/t31/s1558"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "III",
+      "heading": "FINANCIAL MANAGEMENT",
+      "identifier": "/us/usc/t31/stIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "31",
+          "heading": "PUBLIC DEBT",
+          "identifier": "/us/usc/t31/stIII/ch31",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "BORROWING AUTHORITY",
+              "identifier": "/us/usc/t31/stIII/ch31/schI",
+              "children": [
+                {
+                  "number": "3101",
+                  "numText": "§ 3101.",
+                  "heading": "Public debt limit",
+                  "identifier": "/us/usc/t31/s3101"
+                },
+                {
+                  "number": "3101A",
+                  "numText": "§ 3101A.",
+                  "heading": "Presidential modification of the debt ceiling",
+                  "identifier": "/us/usc/t31/s3101A"
+                },
+                {
+                  "number": "3102",
+                  "numText": "§ 3102.",
+                  "heading": "Bonds",
+                  "identifier": "/us/usc/t31/s3102"
+                },
+                {
+                  "number": "3103",
+                  "numText": "§ 3103.",
+                  "heading": "Notes",
+                  "identifier": "/us/usc/t31/s3103"
+                },
+                {
+                  "number": "3104",
+                  "numText": "§ 3104.",
+                  "heading": "Certificates of indebtedness and Treasury bills",
+                  "identifier": "/us/usc/t31/s3104"
+                },
+                {
+                  "number": "3105",
+                  "numText": "§ 3105.",
+                  "heading": "Savings bonds and savings certificates",
+                  "identifier": "/us/usc/t31/s3105"
+                },
+                {
+                  "number": "3106",
+                  "numText": "§ 3106.",
+                  "heading": "Retirement and savings bonds",
+                  "identifier": "/us/usc/t31/s3106"
+                },
+                {
+                  "number": "3107",
+                  "numText": "§ 3107.",
+                  "heading": "Increasing interest rates and investment yields on retirement bonds",
+                  "identifier": "/us/usc/t31/s3107"
+                },
+                {
+                  "number": "3108",
+                  "numText": "§ 3108.",
+                  "heading": "Prohibition against circulation privilege",
+                  "identifier": "/us/usc/t31/s3108"
+                },
+                {
+                  "number": "3109",
+                  "numText": "§ 3109.",
+                  "heading": "Tax and loss bonds",
+                  "identifier": "/us/usc/t31/s3109"
+                },
+                {
+                  "number": "3110",
+                  "numText": "§ 3110.",
+                  "heading": "Sale of obligations of governments of foreign countries",
+                  "identifier": "/us/usc/t31/s3110"
+                },
+                {
+                  "number": "3111",
+                  "numText": "§ 3111.",
+                  "heading": "New issue used to buy, redeem, or refund outstanding obligations",
+                  "identifier": "/us/usc/t31/s3111"
+                },
+                {
+                  "number": "3112",
+                  "numText": "§ 3112.",
+                  "heading": "Sinking fund for retiring and cancelling bonds and notes",
+                  "identifier": "/us/usc/t31/s3112"
+                },
+                {
+                  "number": "3113",
+                  "numText": "§ 3113.",
+                  "heading": "Accepting gifts",
+                  "identifier": "/us/usc/t31/s3113"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "ADMINISTRATIVE",
+              "identifier": "/us/usc/t31/stIII/ch31/schII",
+              "children": [
+                {
+                  "number": "3121",
+                  "numText": "§ 3121.",
+                  "heading": "Procedure",
+                  "identifier": "/us/usc/t31/s3121"
+                },
+                {
+                  "number": "3122",
+                  "numText": "§ 3122.",
+                  "heading": "Banks and trust companies as depositaries",
+                  "identifier": "/us/usc/t31/s3122"
+                },
+                {
+                  "number": "3123",
+                  "numText": "§ 3123.",
+                  "heading": "Payment of obligations and interest on the public debt",
+                  "identifier": "/us/usc/t31/s3123"
+                },
+                {
+                  "number": "3124",
+                  "numText": "§ 3124.",
+                  "heading": "Exemption from taxation",
+                  "identifier": "/us/usc/t31/s3124"
+                },
+                {
+                  "number": "3125",
+                  "numText": "§ 3125.",
+                  "heading": "Relief for lost, stolen, destroyed, mutilated, or defaced obligations",
+                  "identifier": "/us/usc/t31/s3125"
+                },
+                {
+                  "number": "3126",
+                  "numText": "§ 3126.",
+                  "heading": "Losses and relief from liability related to redeeming savings bonds and notes",
+                  "identifier": "/us/usc/t31/s3126"
+                },
+                {
+                  "number": "3127",
+                  "numText": "§ 3127.",
+                  "heading": "Credit to officers, employees, and agents for stolen Treasury notes",
+                  "identifier": "/us/usc/t31/s3127"
+                },
+                {
+                  "number": "3128",
+                  "numText": "§ 3128.",
+                  "heading": "Proof of death to support payment",
+                  "identifier": "/us/usc/t31/s3128"
+                },
+                {
+                  "number": "3129",
+                  "numText": "§ 3129.",
+                  "heading": "Appropriation to pay expenses",
+                  "identifier": "/us/usc/t31/s3129"
+                },
+                {
+                  "number": "3130",
+                  "numText": "§ 3130.",
+                  "heading": "Annual public debt report",
+                  "identifier": "/us/usc/t31/s3130"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "33",
+          "heading": "DEPOSITING, KEEPING, AND PAYING MONEY",
+          "identifier": "/us/usc/t31/stIII/ch33",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "DEPOSITS AND DEPOSITARIES",
+              "identifier": "/us/usc/t31/stIII/ch33/schI",
+              "children": [
+                {
+                  "number": "3301",
+                  "numText": "§ 3301.",
+                  "heading": "General duties of the Secretary of the Treasury",
+                  "identifier": "/us/usc/t31/s3301"
+                },
+                {
+                  "number": "3302",
+                  "numText": "§ 3302.",
+                  "heading": "Custodians of money",
+                  "identifier": "/us/usc/t31/s3302"
+                },
+                {
+                  "number": "3303",
+                  "numText": "§ 3303.",
+                  "heading": "Designation of depositaries",
+                  "identifier": "/us/usc/t31/s3303"
+                },
+                {
+                  "number": "3304",
+                  "numText": "§ 3304.",
+                  "heading": "Transfers of public money from depositaries",
+                  "identifier": "/us/usc/t31/s3304"
+                },
+                {
+                  "number": "3305",
+                  "numText": "§ 3305.",
+                  "heading": "Audits of depositaries",
+                  "identifier": "/us/usc/t31/s3305"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "PAYMENTS",
+              "identifier": "/us/usc/t31/stIII/ch33/schII",
+              "children": [
+                {
+                  "number": "3321",
+                  "numText": "§ 3321.",
+                  "heading": "Disbursing authority in the executive branch",
+                  "identifier": "/us/usc/t31/s3321"
+                },
+                {
+                  "number": "3322",
+                  "numText": "§ 3322.",
+                  "heading": "Disbursing officials",
+                  "identifier": "/us/usc/t31/s3322"
+                },
+                {
+                  "number": "3323",
+                  "numText": "§ 3323.",
+                  "heading": "Warrants",
+                  "identifier": "/us/usc/t31/s3323"
+                },
+                {
+                  "number": "3324",
+                  "numText": "§ 3324.",
+                  "heading": "Advances",
+                  "identifier": "/us/usc/t31/s3324"
+                },
+                {
+                  "number": "3325",
+                  "numText": "§ 3325.",
+                  "heading": "Vouchers",
+                  "identifier": "/us/usc/t31/s3325"
+                },
+                {
+                  "number": "3326",
+                  "numText": "§ 3326.",
+                  "heading": "Waiver of requirements for warrants and advances",
+                  "identifier": "/us/usc/t31/s3326"
+                },
+                {
+                  "number": "3327",
+                  "numText": "§ 3327.",
+                  "heading": "General authority to issue checks and other drafts",
+                  "identifier": "/us/usc/t31/s3327"
+                },
+                {
+                  "number": "3328",
+                  "numText": "§ 3328.",
+                  "heading": "Paying checks and drafts",
+                  "identifier": "/us/usc/t31/s3328"
+                },
+                {
+                  "number": "3329",
+                  "numText": "§ 3329.",
+                  "heading": "Withholding checks to be sent to foreign countries",
+                  "identifier": "/us/usc/t31/s3329"
+                },
+                {
+                  "number": "3330",
+                  "numText": "§ 3330.",
+                  "heading": "Payment of Department of Veterans Affairs checks for the benefit of individuals in foreign countries",
+                  "identifier": "/us/usc/t31/s3330"
+                },
+                {
+                  "number": "3331",
+                  "numText": "§ 3331.",
+                  "heading": "Substitute checks",
+                  "identifier": "/us/usc/t31/s3331"
+                },
+                {
+                  "number": "3332",
+                  "numText": "§ 3332.",
+                  "heading": "Required direct deposit",
+                  "identifier": "/us/usc/t31/s3332"
+                },
+                {
+                  "number": "3333",
+                  "numText": "§ 3333.",
+                  "heading": "Relief for payments made without negligence",
+                  "identifier": "/us/usc/t31/s3333"
+                },
+                {
+                  "number": "3334",
+                  "numText": "§ 3334.",
+                  "heading": "Cancellation and proceeds distribution of Treasury checks",
+                  "identifier": "/us/usc/t31/s3334"
+                },
+                {
+                  "number": "3335",
+                  "numText": "§ 3335.",
+                  "heading": "Timely disbursement of Federal funds",
+                  "identifier": "/us/usc/t31/s3335"
+                },
+                {
+                  "number": "3336",
+                  "numText": "§ 3336.",
+                  "heading": "Electronic benefit transfer pilot",
+                  "identifier": "/us/usc/t31/s3336"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "MISCELLANEOUS",
+              "identifier": "/us/usc/t31/stIII/ch33/schIII",
+              "children": [
+                {
+                  "number": "3341",
+                  "numText": "§ 3341.",
+                  "heading": "Sale of Government warrants, checks, drafts, and obligations",
+                  "identifier": "/us/usc/t31/s3341"
+                },
+                {
+                  "number": "3342",
+                  "numText": "§ 3342.",
+                  "heading": "Check cashing and exchange transactions",
+                  "identifier": "/us/usc/t31/s3342"
+                },
+                {
+                  "number": "3343",
+                  "numText": "§ 3343.",
+                  "heading": "Check forgery insurance fund",
+                  "identifier": "/us/usc/t31/s3343"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "IMPROPER PAYMENTS",
+              "identifier": "/us/usc/t31/stIII/ch33/schIV",
+              "children": [
+                {
+                  "number": "3351",
+                  "numText": "§ 3351.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t31/s3351"
+                },
+                {
+                  "number": "3352",
+                  "numText": "§ 3352.",
+                  "heading": "Estimates of improper payments and reports on actions to reduce improper payments",
+                  "identifier": "/us/usc/t31/s3352"
+                },
+                {
+                  "number": "3353",
+                  "numText": "§ 3353.",
+                  "heading": "Compliance",
+                  "identifier": "/us/usc/t31/s3353"
+                },
+                {
+                  "number": "3354",
+                  "numText": "§ 3354.",
+                  "heading": "Do Not Pay Initiative",
+                  "identifier": "/us/usc/t31/s3354"
+                },
+                {
+                  "number": "3355",
+                  "numText": "§ 3355.",
+                  "heading": "Improving recovery of improper payments",
+                  "identifier": "/us/usc/t31/s3355"
+                },
+                {
+                  "number": "3356",
+                  "numText": "§ 3356.",
+                  "heading": "Improving the use of data by executive agencies for curbing improper payments",
+                  "identifier": "/us/usc/t31/s3356"
+                },
+                {
+                  "number": "3357",
+                  "numText": "§ 3357.",
+                  "heading": "Financial and administrative controls relating to fraud and improper payments",
+                  "identifier": "/us/usc/t31/s3357"
+                },
+                {
+                  "number": "3358",
+                  "numText": "§ 3358.",
+                  "heading": "Interagency working group for Governmentwide payment integrity improvement",
+                  "identifier": "/us/usc/t31/s3358"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "35",
+          "heading": "ACCOUNTING AND COLLECTION",
+          "identifier": "/us/usc/t31/stIII/ch35",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t31/stIII/ch35/schI",
+              "children": [
+                {
+                  "number": "3501",
+                  "numText": "§ 3501.",
+                  "heading": "Definition",
+                  "identifier": "/us/usc/t31/s3501"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION",
+              "identifier": "/us/usc/t31/stIII/ch35/schII",
+              "children": [
+                {
+                  "number": "3511",
+                  "numText": "§ 3511.",
+                  "heading": "Prescribing accounting requirements and developing accounting systems",
+                  "identifier": "/us/usc/t31/s3511"
+                },
+                {
+                  "number": "3512",
+                  "numText": "§ 3512.",
+                  "heading": "Executive agency accounting and other financial management reports and plans",
+                  "identifier": "/us/usc/t31/s3512"
+                },
+                {
+                  "number": "3513",
+                  "numText": "§ 3513.",
+                  "heading": "Financial reporting and accounting system",
+                  "identifier": "/us/usc/t31/s3513"
+                },
+                {
+                  "number": "3514",
+                  "numText": "§ 3514.",
+                  "heading": "Discontinuing certain accounts maintained by the Comptroller General",
+                  "identifier": "/us/usc/t31/s3514"
+                },
+                {
+                  "number": "3515",
+                  "numText": "§ 3515.",
+                  "heading": "Financial statements of agencies",
+                  "identifier": "/us/usc/t31/s3515"
+                },
+                {
+                  "number": "3516",
+                  "numText": "§ 3516.",
+                  "heading": "Reports consolidation",
+                  "identifier": "/us/usc/t31/s3516"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "AUDITING AND SETTLING ACCOUNTS",
+              "identifier": "/us/usc/t31/stIII/ch35/schIII",
+              "children": [
+                {
+                  "number": "3521",
+                  "numText": "§ 3521.",
+                  "heading": "Audits by agencies",
+                  "identifier": "/us/usc/t31/s3521"
+                },
+                {
+                  "number": "3522",
+                  "numText": "§ 3522.",
+                  "heading": "Making and submitting accounts",
+                  "identifier": "/us/usc/t31/s3522"
+                },
+                {
+                  "number": "3523",
+                  "numText": "§ 3523.",
+                  "heading": "General audit authority of the Comptroller General",
+                  "identifier": "/us/usc/t31/s3523"
+                },
+                {
+                  "number": "3524",
+                  "numText": "§ 3524.",
+                  "heading": "Auditing expenditures approved without vouchers",
+                  "identifier": "/us/usc/t31/s3524"
+                },
+                {
+                  "number": "3525",
+                  "numText": "§ 3525.",
+                  "heading": "Auditing nonappropriated fund activities",
+                  "identifier": "/us/usc/t31/s3525"
+                },
+                {
+                  "number": "3526",
+                  "numText": "§ 3526.",
+                  "heading": "Settlement of accounts",
+                  "identifier": "/us/usc/t31/s3526"
+                },
+                {
+                  "number": "3527",
+                  "numText": "§ 3527.",
+                  "heading": "General authority to relieve accountable officials and agents from liability",
+                  "identifier": "/us/usc/t31/s3527"
+                },
+                {
+                  "number": "3528",
+                  "numText": "§ 3528.",
+                  "heading": "Responsibilities and relief from liability of certifying officials",
+                  "identifier": "/us/usc/t31/s3528"
+                },
+                {
+                  "number": "3529",
+                  "numText": "§ 3529.",
+                  "heading": "Requests for decisions of the Comptroller General",
+                  "identifier": "/us/usc/t31/s3529"
+                },
+                {
+                  "number": "3530",
+                  "numText": "§ 3530.",
+                  "heading": "Adjusting accounts",
+                  "identifier": "/us/usc/t31/s3530"
+                },
+                {
+                  "number": "3531",
+                  "numText": "[§ 3531.",
+                  "heading": "Repealed. Pub. L. 104–316, title I, § 115(f)(1), Oct. 19, 1996, 110 Stat. 3834]",
+                  "identifier": "/us/usc/t31/s3531"
+                },
+                {
+                  "number": "3532",
+                  "numText": "§ 3532.",
+                  "heading": "Notification of account deficiencies",
+                  "identifier": "/us/usc/t31/s3532"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "COLLECTION",
+              "identifier": "/us/usc/t31/stIII/ch35/schIV",
+              "children": [
+                {
+                  "number": "3541",
+                  "numText": "§ 3541.",
+                  "heading": "Distress warrants",
+                  "identifier": "/us/usc/t31/s3541"
+                },
+                {
+                  "number": "3542",
+                  "numText": "§ 3542.",
+                  "heading": "Carrying out distress warrants",
+                  "identifier": "/us/usc/t31/s3542"
+                },
+                {
+                  "number": "3543",
+                  "numText": "§ 3543.",
+                  "heading": "Postponing a distress warrant proceeding",
+                  "identifier": "/us/usc/t31/s3543"
+                },
+                {
+                  "number": "3544",
+                  "numText": "§ 3544.",
+                  "heading": "Rights and remedies of the United States Government reserved",
+                  "identifier": "/us/usc/t31/s3544"
+                },
+                {
+                  "number": "3545",
+                  "numText": "§ 3545.",
+                  "heading": "Civil action to recover money",
+                  "identifier": "/us/usc/t31/s3545"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "V",
+              "heading": "PROCUREMENT PROTEST SYSTEM",
+              "identifier": "/us/usc/t31/stIII/ch35/schV",
+              "children": [
+                {
+                  "number": "3551",
+                  "numText": "§ 3551.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t31/s3551"
+                },
+                {
+                  "number": "3552",
+                  "numText": "§ 3552.",
+                  "heading": "Protests by interested parties concerning procurement actions",
+                  "identifier": "/us/usc/t31/s3552"
+                },
+                {
+                  "number": "3553",
+                  "numText": "§ 3553.",
+                  "heading": "Review of protests; effect on contracts pending decision",
+                  "identifier": "/us/usc/t31/s3553"
+                },
+                {
+                  "number": "3554",
+                  "numText": "§ 3554.",
+                  "heading": "Decisions on protests",
+                  "identifier": "/us/usc/t31/s3554"
+                },
+                {
+                  "number": "3555",
+                  "numText": "§ 3555.",
+                  "heading": "Regulations; authority of Comptroller General to verify assertions",
+                  "identifier": "/us/usc/t31/s3555"
+                },
+                {
+                  "number": "3556",
+                  "numText": "§ 3556.",
+                  "heading": "Nonexclusivity of remedies; matters included in agency record",
+                  "identifier": "/us/usc/t31/s3556"
+                },
+                {
+                  "number": "3557",
+                  "numText": "§ 3557.",
+                  "heading": "Expedited action in protests of public-private competitions",
+                  "identifier": "/us/usc/t31/s3557"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VI",
+              "heading": "RECOVERY AUDITS 11 Editorially supplied.",
+              "identifier": "/us/usc/t31/stIII/ch35/schVI",
+              "children": [
+                {
+                  "number": "3561",
+                  "numText": "[§ 3561.",
+                  "heading": "Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231]",
+                  "identifier": "/us/usc/t31/s3561"
+                },
+                {
+                  "number": "3562",
+                  "numText": "§ 3562.",
+                  "heading": "Disposition of recovered funds",
+                  "identifier": "/us/usc/t31/s3562"
+                },
+                {
+                  "number": "3563 to 3567",
+                  "numText": "[§§ 3563 to 3567.",
+                  "heading": "Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231]",
+                  "identifier": "/us/usc/t31/s3563...3567"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "37",
+          "heading": "CLAIMS",
+          "identifier": "/us/usc/t31/stIII/ch37",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t31/stIII/ch37/schI",
+              "children": [
+                {
+                  "number": "3701",
+                  "numText": "§ 3701.",
+                  "heading": "Definitions and application",
+                  "identifier": "/us/usc/t31/s3701"
+                },
+                {
+                  "number": "3702",
+                  "numText": "§ 3702.",
+                  "heading": "Authority to settle claims",
+                  "identifier": "/us/usc/t31/s3702"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "CLAIMS OF THE UNITED STATES GOVERNMENT",
+              "identifier": "/us/usc/t31/stIII/ch37/schII",
+              "children": [
+                {
+                  "number": "3711",
+                  "numText": "§ 3711.",
+                  "heading": "Collection and compromise",
+                  "identifier": "/us/usc/t31/s3711"
+                },
+                {
+                  "number": "3712",
+                  "numText": "§ 3712.",
+                  "heading": "Time limitations for presenting certain claims of the Government",
+                  "identifier": "/us/usc/t31/s3712"
+                },
+                {
+                  "number": "3713",
+                  "numText": "§ 3713.",
+                  "heading": "Priority of Government claims",
+                  "identifier": "/us/usc/t31/s3713"
+                },
+                {
+                  "number": "3714",
+                  "numText": "§ 3714.",
+                  "heading": "Keeping money due States in default",
+                  "identifier": "/us/usc/t31/s3714"
+                },
+                {
+                  "number": "3715",
+                  "numText": "§ 3715.",
+                  "heading": "Buying real property of a debtor",
+                  "identifier": "/us/usc/t31/s3715"
+                },
+                {
+                  "number": "3716",
+                  "numText": "§ 3716.",
+                  "heading": "Administrative offset",
+                  "identifier": "/us/usc/t31/s3716"
+                },
+                {
+                  "number": "3717",
+                  "numText": "§ 3717.",
+                  "heading": "Interest and penalty on claims",
+                  "identifier": "/us/usc/t31/s3717"
+                },
+                {
+                  "number": "3718",
+                  "numText": "§ 3718.",
+                  "heading": "Contracts for collection services",
+                  "identifier": "/us/usc/t31/s3718"
+                },
+                {
+                  "number": "3719",
+                  "numText": "§ 3719.",
+                  "heading": "Reports on debt collection activities",
+                  "identifier": "/us/usc/t31/s3719"
+                },
+                {
+                  "number": "3720",
+                  "numText": "§ 3720.",
+                  "heading": "Collection of payments",
+                  "identifier": "/us/usc/t31/s3720"
+                },
+                {
+                  "number": "3720A",
+                  "numText": "§ 3720A.",
+                  "heading": "Reduction of tax refund by amount of debt",
+                  "identifier": "/us/usc/t31/s3720A"
+                },
+                {
+                  "number": "3720B",
+                  "numText": "§ 3720B.",
+                  "heading": "Barring delinquent Federal debtors from obtaining Federal loans or loan insurance guarantees",
+                  "identifier": "/us/usc/t31/s3720B"
+                },
+                {
+                  "number": "3720C",
+                  "numText": "§ 3720C.",
+                  "heading": "Debt Collection Improvement Account",
+                  "identifier": "/us/usc/t31/s3720C"
+                },
+                {
+                  "number": "3720D",
+                  "numText": "§ 3720D.",
+                  "heading": "Garnishment",
+                  "identifier": "/us/usc/t31/s3720D"
+                },
+                {
+                  "number": "3720E",
+                  "numText": "§ 3720E.",
+                  "heading": "Dissemination of information regarding identity of delinquent debtors",
+                  "identifier": "/us/usc/t31/s3720E"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "CLAIMS AGAINST THE UNITED STATES GOVERNMENT",
+              "identifier": "/us/usc/t31/stIII/ch37/schIII",
+              "children": [
+                {
+                  "number": "3721",
+                  "numText": "§ 3721.",
+                  "heading": "Claims of personnel of agencies and the District of Columbia government for personal property damage or loss",
+                  "identifier": "/us/usc/t31/s3721"
+                },
+                {
+                  "number": "3722",
+                  "numText": "§ 3722.",
+                  "heading": "Claims of officers and employees at Government penal and correctional institutions",
+                  "identifier": "/us/usc/t31/s3722"
+                },
+                {
+                  "number": "3723",
+                  "numText": "§ 3723.",
+                  "heading": "Small claims for privately owned property damage or loss",
+                  "identifier": "/us/usc/t31/s3723"
+                },
+                {
+                  "number": "3724",
+                  "numText": "§ 3724.",
+                  "heading": "Claims for damages caused by investigative or law enforcement officers of the Department of Justice",
+                  "identifier": "/us/usc/t31/s3724"
+                },
+                {
+                  "number": "3725",
+                  "numText": "§ 3725.",
+                  "heading": "Claims of non-nationals for personal injury or death in a foreign country",
+                  "identifier": "/us/usc/t31/s3725"
+                },
+                {
+                  "number": "3726",
+                  "numText": "§ 3726.",
+                  "heading": "Payment for transportation",
+                  "identifier": "/us/usc/t31/s3726"
+                },
+                {
+                  "number": "3727",
+                  "numText": "§ 3727.",
+                  "heading": "Assignments of claims",
+                  "identifier": "/us/usc/t31/s3727"
+                },
+                {
+                  "number": "3728",
+                  "numText": "§ 3728.",
+                  "heading": "Setoff against judgment",
+                  "identifier": "/us/usc/t31/s3728"
+                },
+                {
+                  "number": "3729",
+                  "numText": "§ 3729.",
+                  "heading": "False claims",
+                  "identifier": "/us/usc/t31/s3729"
+                },
+                {
+                  "number": "3730",
+                  "numText": "§ 3730.",
+                  "heading": "Civil actions for false claims",
+                  "identifier": "/us/usc/t31/s3730"
+                },
+                {
+                  "number": "3731",
+                  "numText": "§ 3731.",
+                  "heading": "False claims procedure",
+                  "identifier": "/us/usc/t31/s3731"
+                },
+                {
+                  "number": "3732",
+                  "numText": "§ 3732.",
+                  "heading": "False claims jurisdiction",
+                  "identifier": "/us/usc/t31/s3732"
+                },
+                {
+                  "number": "3733",
+                  "numText": "§ 3733.",
+                  "heading": "Civil investigative demands",
+                  "identifier": "/us/usc/t31/s3733"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "38",
+          "heading": "ADMINISTRATIVE REMEDIES FOR FALSE CLAIMS AND STATEMENTS",
+          "identifier": "/us/usc/t31/stIII/ch38",
+          "children": [
+            {
+              "number": "3801",
+              "numText": "§ 3801.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s3801"
+            },
+            {
+              "number": "3802",
+              "numText": "§ 3802.",
+              "heading": "False claims and statements; liability",
+              "identifier": "/us/usc/t31/s3802"
+            },
+            {
+              "number": "3803",
+              "numText": "§ 3803.",
+              "heading": "Hearing and determinations",
+              "identifier": "/us/usc/t31/s3803"
+            },
+            {
+              "number": "3804",
+              "numText": "§ 3804.",
+              "heading": "Subpoena authority",
+              "identifier": "/us/usc/t31/s3804"
+            },
+            {
+              "number": "3805",
+              "numText": "§ 3805.",
+              "heading": "Judicial review",
+              "identifier": "/us/usc/t31/s3805"
+            },
+            {
+              "number": "3806",
+              "numText": "§ 3806.",
+              "heading": "Collection of civil penalties and assessments",
+              "identifier": "/us/usc/t31/s3806"
+            },
+            {
+              "number": "3807",
+              "numText": "§ 3807.",
+              "heading": "Right to administrative offset",
+              "identifier": "/us/usc/t31/s3807"
+            },
+            {
+              "number": "3808",
+              "numText": "§ 3808.",
+              "heading": "Limitations",
+              "identifier": "/us/usc/t31/s3808"
+            },
+            {
+              "number": "3809",
+              "numText": "§ 3809.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t31/s3809"
+            },
+            {
+              "number": "3810",
+              "numText": "[§ 3810.",
+              "heading": "Repealed. Pub. L. 104–66, title III, § 3001(c)(1), Dec. 21, 1995, 109 Stat. 734]",
+              "identifier": "/us/usc/t31/s3810"
+            },
+            {
+              "number": "3811",
+              "numText": "§ 3811.",
+              "heading": "Effect on other law",
+              "identifier": "/us/usc/t31/s3811"
+            },
+            {
+              "number": "3812",
+              "numText": "§ 3812.",
+              "heading": "Prohibition against delegation",
+              "identifier": "/us/usc/t31/s3812"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "39",
+          "heading": "PROMPT PAYMENT",
+          "identifier": "/us/usc/t31/stIII/ch39",
+          "children": [
+            {
+              "number": "3901",
+              "numText": "§ 3901.",
+              "heading": "Definitions and application",
+              "identifier": "/us/usc/t31/s3901"
+            },
+            {
+              "number": "3902",
+              "numText": "§ 3902.",
+              "heading": "Interest penalties",
+              "identifier": "/us/usc/t31/s3902"
+            },
+            {
+              "number": "3903",
+              "numText": "§ 3903.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t31/s3903"
+            },
+            {
+              "number": "3904",
+              "numText": "§ 3904.",
+              "heading": "Limitations on discount payments",
+              "identifier": "/us/usc/t31/s3904"
+            },
+            {
+              "number": "3905",
+              "numText": "§ 3905.",
+              "heading": "Payment provisions relating to construction contracts",
+              "identifier": "/us/usc/t31/s3905"
+            },
+            {
+              "number": "3906",
+              "numText": "[§ 3906.",
+              "heading": "Repealed. Pub. L. 105–362, title XIII, § 1301(c)(1), Nov. 10, 1998, 112 Stat. 3293]",
+              "identifier": "/us/usc/t31/s3906"
+            },
+            {
+              "number": "3907",
+              "numText": "§ 3907.",
+              "heading": "Relationship to other laws",
+              "identifier": "/us/usc/t31/s3907"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "IV",
+      "heading": "MONEY",
+      "identifier": "/us/usc/t31/stIV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "51",
+          "heading": "COINS AND CURRENCY",
+          "identifier": "/us/usc/t31/stIV/ch51",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "MONETARY SYSTEM",
+              "identifier": "/us/usc/t31/stIV/ch51/schI",
+              "children": [
+                {
+                  "number": "5101",
+                  "numText": "§ 5101.",
+                  "heading": "Decimal system",
+                  "identifier": "/us/usc/t31/s5101"
+                },
+                {
+                  "number": "5102",
+                  "numText": "§ 5102.",
+                  "heading": "Standard weight",
+                  "identifier": "/us/usc/t31/s5102"
+                },
+                {
+                  "number": "5103",
+                  "numText": "§ 5103.",
+                  "heading": "Legal tender",
+                  "identifier": "/us/usc/t31/s5103"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "GENERAL AUTHORITY",
+              "identifier": "/us/usc/t31/stIV/ch51/schII",
+              "children": [
+                {
+                  "number": "5111",
+                  "numText": "§ 5111.",
+                  "heading": "Minting and issuing coins, medals, and numismatic items",
+                  "identifier": "/us/usc/t31/s5111"
+                },
+                {
+                  "number": "5112",
+                  "numText": "§ 5112.",
+                  "heading": "Denominations, specifications, and design of coins",
+                  "identifier": "/us/usc/t31/s5112"
+                },
+                {
+                  "number": "5113",
+                  "numText": "§ 5113.",
+                  "heading": "Tolerances and testing of coins",
+                  "identifier": "/us/usc/t31/s5113"
+                },
+                {
+                  "number": "5114",
+                  "numText": "§ 5114.",
+                  "heading": "Engraving and printing currency and security documents",
+                  "identifier": "/us/usc/t31/s5114"
+                },
+                {
+                  "number": "5115",
+                  "numText": "§ 5115.",
+                  "heading": "United States currency notes",
+                  "identifier": "/us/usc/t31/s5115"
+                },
+                {
+                  "number": "5116",
+                  "numText": "§ 5116.",
+                  "heading": "Buying and selling gold and silver",
+                  "identifier": "/us/usc/t31/s5116"
+                },
+                {
+                  "number": "5117",
+                  "numText": "§ 5117.",
+                  "heading": "Transferring gold and gold certificates",
+                  "identifier": "/us/usc/t31/s5117"
+                },
+                {
+                  "number": "5118",
+                  "numText": "§ 5118.",
+                  "heading": "Gold clauses and consent to sue",
+                  "identifier": "/us/usc/t31/s5118"
+                },
+                {
+                  "number": "5119",
+                  "numText": "§ 5119.",
+                  "heading": "Redemption and cancellation of currency",
+                  "identifier": "/us/usc/t31/s5119"
+                },
+                {
+                  "number": "5120",
+                  "numText": "§ 5120.",
+                  "heading": "Obsolete, mutilated, and worn coins and currency",
+                  "identifier": "/us/usc/t31/s5120"
+                },
+                {
+                  "number": "5121",
+                  "numText": "§ 5121.",
+                  "heading": "Refining, assaying, and valuation of bullion",
+                  "identifier": "/us/usc/t31/s5121"
+                },
+                {
+                  "number": "5122",
+                  "numText": "§ 5122.",
+                  "heading": "Payment to depositors",
+                  "identifier": "/us/usc/t31/s5122"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "UNITED STATES MINT",
+              "identifier": "/us/usc/t31/stIV/ch51/schIII",
+              "children": [
+                {
+                  "number": "5131",
+                  "numText": "§ 5131.",
+                  "heading": "Organization",
+                  "identifier": "/us/usc/t31/s5131"
+                },
+                {
+                  "number": "5132",
+                  "numText": "§ 5132.",
+                  "heading": "Administrative",
+                  "identifier": "/us/usc/t31/s5132"
+                },
+                {
+                  "number": "5133",
+                  "numText": "§ 5133.",
+                  "heading": "Settlement of accounts",
+                  "identifier": "/us/usc/t31/s5133"
+                },
+                {
+                  "number": "5134",
+                  "numText": "§ 5134.",
+                  "heading": "Numismatic Public Enterprise Fund",
+                  "identifier": "/us/usc/t31/s5134"
+                },
+                {
+                  "number": "5135",
+                  "numText": "§ 5135.",
+                  "heading": "Citizens Coinage Advisory Committee",
+                  "identifier": "/us/usc/t31/s5135"
+                },
+                {
+                  "number": "5136",
+                  "numText": "§ 5136.",
+                  "heading": "United States Mint Public Enterprise Fund",
+                  "identifier": "/us/usc/t31/s5136"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "BUREAU OF ENGRAVING AND PRINTING",
+              "identifier": "/us/usc/t31/stIV/ch51/schIV",
+              "children": [
+                {
+                  "number": "5141",
+                  "numText": "§ 5141.",
+                  "heading": "Operation of the Bureau",
+                  "identifier": "/us/usc/t31/s5141"
+                },
+                {
+                  "number": "5142",
+                  "numText": "§ 5142.",
+                  "heading": "Bureau of Engraving and Printing Fund",
+                  "identifier": "/us/usc/t31/s5142"
+                },
+                {
+                  "number": "5143",
+                  "numText": "§ 5143.",
+                  "heading": "Payment for services",
+                  "identifier": "/us/usc/t31/s5143"
+                },
+                {
+                  "number": "5144",
+                  "numText": "§ 5144.",
+                  "heading": "Providing impressions of portraits and vignettes",
+                  "identifier": "/us/usc/t31/s5144"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "V",
+              "heading": "MISCELLANEOUS",
+              "identifier": "/us/usc/t31/stIV/ch51/schV",
+              "children": [
+                {
+                  "number": "5151",
+                  "numText": "§ 5151.",
+                  "heading": "Conversion of currency of foreign countries",
+                  "identifier": "/us/usc/t31/s5151"
+                },
+                {
+                  "number": "5152",
+                  "numText": "§ 5152.",
+                  "heading": "Value of United States money holdings in international institutions",
+                  "identifier": "/us/usc/t31/s5152"
+                },
+                {
+                  "number": "5153",
+                  "numText": "§ 5153.",
+                  "heading": "Counterfeit currency",
+                  "identifier": "/us/usc/t31/s5153"
+                },
+                {
+                  "number": "5154",
+                  "numText": "§ 5154.",
+                  "heading": "State taxation",
+                  "identifier": "/us/usc/t31/s5154"
+                },
+                {
+                  "number": "5155",
+                  "numText": "§ 5155.",
+                  "heading": "Providing engraved plates of portraits of deceased members of Congress",
+                  "identifier": "/us/usc/t31/s5155"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "53",
+          "heading": "MONETARY TRANSACTIONS",
+          "identifier": "/us/usc/t31/stIV/ch53",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "CREDIT AND MONETARY EXPANSION",
+              "identifier": "/us/usc/t31/stIV/ch53/schI",
+              "children": [
+                {
+                  "number": "5301",
+                  "numText": "§ 5301.",
+                  "heading": "Buying obligations of the United States Government",
+                  "identifier": "/us/usc/t31/s5301"
+                },
+                {
+                  "number": "5302",
+                  "numText": "§ 5302.",
+                  "heading": "Stabilizing exchange rates and arrangements",
+                  "identifier": "/us/usc/t31/s5302"
+                },
+                {
+                  "number": "5303",
+                  "numText": "§ 5303.",
+                  "heading": "Reserved coins and currencies of foreign countries",
+                  "identifier": "/us/usc/t31/s5303"
+                },
+                {
+                  "number": "5304",
+                  "numText": "§ 5304.",
+                  "heading": "Regulations",
+                  "identifier": "/us/usc/t31/s5304"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS",
+              "identifier": "/us/usc/t31/stIV/ch53/schII",
+              "children": [
+                {
+                  "number": "5311",
+                  "numText": "§ 5311.",
+                  "heading": "Declaration of purpose",
+                  "identifier": "/us/usc/t31/s5311"
+                },
+                {
+                  "number": "5312",
+                  "numText": "§ 5312.",
+                  "heading": "Definitions and application",
+                  "identifier": "/us/usc/t31/s5312"
+                },
+                {
+                  "number": "5313",
+                  "numText": "§ 5313.",
+                  "heading": "Reports on domestic coins and currency transactions",
+                  "identifier": "/us/usc/t31/s5313"
+                },
+                {
+                  "number": "5314",
+                  "numText": "§ 5314.",
+                  "heading": "Records and reports on foreign financial agency transactions",
+                  "identifier": "/us/usc/t31/s5314"
+                },
+                {
+                  "number": "5315",
+                  "numText": "§ 5315.",
+                  "heading": "Reports on foreign currency transactions",
+                  "identifier": "/us/usc/t31/s5315"
+                },
+                {
+                  "number": "5316",
+                  "numText": "§ 5316.",
+                  "heading": "Reports on exporting and importing monetary instruments",
+                  "identifier": "/us/usc/t31/s5316"
+                },
+                {
+                  "number": "5317",
+                  "numText": "§ 5317.",
+                  "heading": "Search and forfeiture of monetary instruments",
+                  "identifier": "/us/usc/t31/s5317"
+                },
+                {
+                  "number": "5318",
+                  "numText": "§ 5318.",
+                  "heading": "Compliance, exemptions, and summons authority",
+                  "identifier": "/us/usc/t31/s5318"
+                },
+                {
+                  "number": "5318A",
+                  "numText": "§ 5318A.",
+                  "heading": "Special measures for jurisdictions, financial institutions, international transactions, or types of accounts of primary money laundering concern",
+                  "identifier": "/us/usc/t31/s5318A"
+                },
+                {
+                  "number": "5319",
+                  "numText": "§ 5319.",
+                  "heading": "Availability of reports",
+                  "identifier": "/us/usc/t31/s5319"
+                },
+                {
+                  "number": "5320",
+                  "numText": "§ 5320.",
+                  "heading": "Injunctions",
+                  "identifier": "/us/usc/t31/s5320"
+                },
+                {
+                  "number": "5321",
+                  "numText": "§ 5321.",
+                  "heading": "Civil penalties",
+                  "identifier": "/us/usc/t31/s5321"
+                },
+                {
+                  "number": "5322",
+                  "numText": "§ 5322.",
+                  "heading": "Criminal penalties",
+                  "identifier": "/us/usc/t31/s5322"
+                },
+                {
+                  "number": "5323",
+                  "numText": "§ 5323.",
+                  "heading": "Whistleblower incentives and protections",
+                  "identifier": "/us/usc/t31/s5323"
+                },
+                {
+                  "number": "5324",
+                  "numText": "§ 5324.",
+                  "heading": "Structuring transactions to evade reporting requirement prohibited",
+                  "identifier": "/us/usc/t31/s5324"
+                },
+                {
+                  "number": "5325",
+                  "numText": "§ 5325.",
+                  "heading": "Identification required to purchase certain monetary instruments",
+                  "identifier": "/us/usc/t31/s5325"
+                },
+                {
+                  "number": "5326",
+                  "numText": "§ 5326.",
+                  "heading": "Records of certain domestic transactions",
+                  "identifier": "/us/usc/t31/s5326"
+                },
+                {
+                  "number": "5327",
+                  "numText": "[§ 5327.",
+                  "heading": "Repealed. Pub. L. 104–208, div. A, title II, § 2223(1), Sept. 30, 1996, 110 Stat. 3009–415]",
+                  "identifier": "/us/usc/t31/s5327"
+                },
+                {
+                  "number": "5328",
+                  "numText": "[§ 5328.",
+                  "heading": "Repealed. Pub. L. 116–283, div. F, title LXIII, § 6314(b), Jan. 1, 2021, 134 Stat. 4603]",
+                  "identifier": "/us/usc/t31/s5328"
+                },
+                {
+                  "number": "5329",
+                  "numText": "§ 5329.",
+                  "heading": "Staff commentaries",
+                  "identifier": "/us/usc/t31/s5329"
+                },
+                {
+                  "number": "5330",
+                  "numText": "§ 5330.",
+                  "heading": "Registration of money transmitting businesses",
+                  "identifier": "/us/usc/t31/s5330"
+                },
+                {
+                  "number": "5331",
+                  "numText": "§ 5331.",
+                  "heading": "Reports relating to coins and currency received in nonfinancial trade or business",
+                  "identifier": "/us/usc/t31/s5331"
+                },
+                {
+                  "number": "5332",
+                  "numText": "§ 5332.",
+                  "heading": "Bulk cash smuggling into or out of the United States",
+                  "identifier": "/us/usc/t31/s5332"
+                },
+                {
+                  "number": "5333",
+                  "numText": "§ 5333.",
+                  "heading": "Safe harbor with respect to keep open directives",
+                  "identifier": "/us/usc/t31/s5333"
+                },
+                {
+                  "number": "5334",
+                  "numText": "§ 5334.",
+                  "heading": "Training regarding anti-money laundering and countering the financing of terrorism",
+                  "identifier": "/us/usc/t31/s5334"
+                },
+                {
+                  "number": "5335",
+                  "numText": "§ 5335.",
+                  "heading": "Prohibition on concealment of the source of assets in monetary transactions",
+                  "identifier": "/us/usc/t31/s5335"
+                },
+                {
+                  "number": "5336",
+                  "numText": "§ 5336.",
+                  "heading": "Beneficial ownership information reporting requirements",
+                  "identifier": "/us/usc/t31/s5336"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "MONEY LAUNDERING AND RELATED FINANCIAL CRIMES",
+              "identifier": "/us/usc/t31/stIV/ch53/schIII",
+              "children": [
+                {
+                  "number": "5340",
+                  "numText": "§ 5340.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t31/s5340"
+                },
+                {
+                  "type": "part",
+                  "number": "1",
+                  "heading": "National Money Laundering and Related Financial Crimes Strategy",
+                  "identifier": "/us/usc/t31/stIV/ch53/schIII/pt1",
+                  "children": [
+                    {
+                      "number": "5341",
+                      "numText": "§ 5341.",
+                      "heading": "National money laundering and related financial crimes strategy",
+                      "identifier": "/us/usc/t31/s5341"
+                    },
+                    {
+                      "number": "5342",
+                      "numText": "§ 5342.",
+                      "heading": "High-risk money laundering and related financial crime areas",
+                      "identifier": "/us/usc/t31/s5342"
+                    }
+                  ]
+                },
+                {
+                  "type": "part",
+                  "number": "2",
+                  "heading": "Financial Crime-Free Communities Support Program",
+                  "identifier": "/us/usc/t31/stIV/ch53/schIII/pt2",
+                  "children": [
+                    {
+                      "number": "5351",
+                      "numText": "§ 5351.",
+                      "heading": "Establishment of financial crime-free communities support program",
+                      "identifier": "/us/usc/t31/s5351"
+                    },
+                    {
+                      "number": "5352",
+                      "numText": "§ 5352.",
+                      "heading": "Program authorization",
+                      "identifier": "/us/usc/t31/s5352"
+                    },
+                    {
+                      "number": "5353",
+                      "numText": "§ 5353.",
+                      "heading": "Information collection and dissemination with respect to grant recipients",
+                      "identifier": "/us/usc/t31/s5353"
+                    },
+                    {
+                      "number": "5354",
+                      "numText": "§ 5354.",
+                      "heading": "Grants for fighting money laundering and related financial crimes",
+                      "identifier": "/us/usc/t31/s5354"
+                    },
+                    {
+                      "number": "5355",
+                      "numText": "§ 5355.",
+                      "heading": "Authorization of appropriations",
+                      "identifier": "/us/usc/t31/s5355"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING",
+              "identifier": "/us/usc/t31/stIV/ch53/schIV",
+              "children": [
+                {
+                  "number": "5361",
+                  "numText": "§ 5361.",
+                  "heading": "Congressional findings and purpose",
+                  "identifier": "/us/usc/t31/s5361"
+                },
+                {
+                  "number": "5362",
+                  "numText": "§ 5362.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t31/s5362"
+                },
+                {
+                  "number": "5363",
+                  "numText": "§ 5363.",
+                  "heading": "Prohibition on acceptance of any financial instrument for unlawful Internet gambling",
+                  "identifier": "/us/usc/t31/s5363"
+                },
+                {
+                  "number": "5364",
+                  "numText": "§ 5364.",
+                  "heading": "Policies and procedures to identify and prevent restricted transactions",
+                  "identifier": "/us/usc/t31/s5364"
+                },
+                {
+                  "number": "5365",
+                  "numText": "§ 5365.",
+                  "heading": "Civil remedies",
+                  "identifier": "/us/usc/t31/s5365"
+                },
+                {
+                  "number": "5366",
+                  "numText": "§ 5366.",
+                  "heading": "Criminal penalties",
+                  "identifier": "/us/usc/t31/s5366"
+                },
+                {
+                  "number": "5367",
+                  "numText": "§ 5367.",
+                  "heading": "Circumventions prohibited",
+                  "identifier": "/us/usc/t31/s5367"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "V",
+      "heading": "GENERAL ASSISTANCE ADMINISTRATION",
+      "identifier": "/us/usc/t31/stV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "61",
+          "heading": "PROGRAM INFORMATION",
+          "identifier": "/us/usc/t31/stV/ch61",
+          "children": [
+            {
+              "number": "6101",
+              "numText": "§ 6101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s6101"
+            },
+            {
+              "number": "6102",
+              "numText": "§ 6102.",
+              "heading": "Program information requirements",
+              "identifier": "/us/usc/t31/s6102"
+            },
+            {
+              "number": "6102a",
+              "numText": "§ 6102a.",
+              "heading": "Assistance awards information system",
+              "identifier": "/us/usc/t31/s6102a"
+            },
+            {
+              "number": "6103",
+              "numText": "§ 6103.",
+              "heading": "Access to computer information system",
+              "identifier": "/us/usc/t31/s6103"
+            },
+            {
+              "number": "6104",
+              "numText": "§ 6104.",
+              "heading": "Catalog of Federal domestic assistance programs",
+              "identifier": "/us/usc/t31/s6104"
+            },
+            {
+              "number": "6105",
+              "numText": "§ 6105.",
+              "heading": "Oversight responsibility of Director",
+              "identifier": "/us/usc/t31/s6105"
+            },
+            {
+              "number": "6106",
+              "numText": "§ 6106.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t31/s6106"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "62",
+          "heading": "CONSOLIDATED FEDERAL FUNDS REPORT",
+          "identifier": "/us/usc/t31/stV/ch62",
+          "children": [
+            {
+              "number": "6201",
+              "numText": "§ 6201.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s6201"
+            },
+            {
+              "number": "6202",
+              "numText": "§ 6202.",
+              "heading": "Content, form, and data for report",
+              "identifier": "/us/usc/t31/s6202"
+            },
+            {
+              "number": "6203",
+              "numText": "§ 6203.",
+              "heading": "Printing and distribution of reports and machine-readable records",
+              "identifier": "/us/usc/t31/s6203"
+            },
+            {
+              "number": "6204",
+              "numText": "§ 6204.",
+              "heading": "Delegation",
+              "identifier": "/us/usc/t31/s6204"
+            },
+            {
+              "number": "6205",
+              "numText": "§ 6205.",
+              "heading": "Availability of information",
+              "identifier": "/us/usc/t31/s6205"
+            },
+            {
+              "number": "6206",
+              "numText": "§ 6206.",
+              "heading": "Data consistency and uniformity of data elements",
+              "identifier": "/us/usc/t31/s6206"
+            },
+            {
+              "number": "6207",
+              "numText": "§ 6207.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t31/s6207"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "63",
+          "heading": "USING PROCUREMENT CONTRACTS AND GRANT AND COOPERATIVE AGREEMENTS",
+          "identifier": "/us/usc/t31/stV/ch63",
+          "children": [
+            {
+              "number": "6301",
+              "numText": "§ 6301.",
+              "heading": "Purposes",
+              "identifier": "/us/usc/t31/s6301"
+            },
+            {
+              "number": "6302",
+              "numText": "§ 6302.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s6302"
+            },
+            {
+              "number": "6303",
+              "numText": "§ 6303.",
+              "heading": "Using procurement contracts",
+              "identifier": "/us/usc/t31/s6303"
+            },
+            {
+              "number": "6304",
+              "numText": "§ 6304.",
+              "heading": "Using grant agreements",
+              "identifier": "/us/usc/t31/s6304"
+            },
+            {
+              "number": "6305",
+              "numText": "§ 6305.",
+              "heading": "Using cooperative agreements",
+              "identifier": "/us/usc/t31/s6305"
+            },
+            {
+              "number": "6306",
+              "numText": "§ 6306.",
+              "heading": "Authority to vest title in tangible personal property for research",
+              "identifier": "/us/usc/t31/s6306"
+            },
+            {
+              "number": "6307",
+              "numText": "§ 6307.",
+              "heading": "Interpretative guidelines and exemptions",
+              "identifier": "/us/usc/t31/s6307"
+            },
+            {
+              "number": "6308",
+              "numText": "§ 6308.",
+              "heading": "Use of multiple relationships for different parts of jointly financed projects",
+              "identifier": "/us/usc/t31/s6308"
+            },
+            {
+              "number": "6309",
+              "numText": "§ 6309.",
+              "heading": "Non-propagation of core-based statistical area delineations",
+              "identifier": "/us/usc/t31/s6309"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "64",
+          "heading": "DATA STANDARDS FOR GRANT REPORTING",
+          "identifier": "/us/usc/t31/stV/ch64",
+          "children": [
+            {
+              "number": "6401",
+              "numText": "§ 6401.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s6401"
+            },
+            {
+              "number": "6402",
+              "numText": "§ 6402.",
+              "heading": "Data standards for grant reporting",
+              "identifier": "/us/usc/t31/s6402"
+            },
+            {
+              "number": "6403",
+              "numText": "§ 6403.",
+              "heading": "Guidance applying data standards for grant reporting",
+              "identifier": "/us/usc/t31/s6403"
+            },
+            {
+              "number": "6404",
+              "numText": "§ 6404.",
+              "heading": "Agency requirements",
+              "identifier": "/us/usc/t31/s6404"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "65",
+          "heading": "INTERGOVERNMENTAL COOPERATION",
+          "identifier": "/us/usc/t31/stV/ch65",
+          "children": [
+            {
+              "number": "6501",
+              "numText": "§ 6501.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s6501"
+            },
+            {
+              "number": "6502",
+              "numText": "§ 6502.",
+              "heading": "Information on grants received",
+              "identifier": "/us/usc/t31/s6502"
+            },
+            {
+              "number": "6503",
+              "numText": "§ 6503.",
+              "heading": "Intergovernmental financing",
+              "identifier": "/us/usc/t31/s6503"
+            },
+            {
+              "number": "6504",
+              "numText": "§ 6504.",
+              "heading": "Use of existing State or multimember agency to administer grant programs",
+              "identifier": "/us/usc/t31/s6504"
+            },
+            {
+              "number": "6505",
+              "numText": "§ 6505.",
+              "heading": "Authority to provide specialized or technical services",
+              "identifier": "/us/usc/t31/s6505"
+            },
+            {
+              "number": "6506",
+              "numText": "§ 6506.",
+              "heading": "Development assistance",
+              "identifier": "/us/usc/t31/s6506"
+            },
+            {
+              "number": "6507",
+              "numText": "§ 6507.",
+              "heading": "Congressional review of grant programs",
+              "identifier": "/us/usc/t31/s6507"
+            },
+            {
+              "number": "6508",
+              "numText": "§ 6508.",
+              "heading": "Studies and reports",
+              "identifier": "/us/usc/t31/s6508"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "67",
+          "heading": "FEDERAL PAYMENTS",
+          "identifier": "/us/usc/t31/stV/ch67",
+          "children": [
+            {
+              "number": "6701",
+              "numText": "§ 6701.",
+              "heading": "Payments to local governments",
+              "identifier": "/us/usc/t31/s6701"
+            },
+            {
+              "number": "6702",
+              "numText": "§ 6702.",
+              "heading": "Local Government Fiscal Assistance Fund",
+              "identifier": "/us/usc/t31/s6702"
+            },
+            {
+              "number": "6703",
+              "numText": "§ 6703.",
+              "heading": "Qualification for payment",
+              "identifier": "/us/usc/t31/s6703"
+            },
+            {
+              "number": "6704",
+              "numText": "§ 6704.",
+              "heading": "State area allocations; allocations and payments to territorial governments",
+              "identifier": "/us/usc/t31/s6704"
+            },
+            {
+              "number": "6705",
+              "numText": "§ 6705.",
+              "heading": "Local government allocations",
+              "identifier": "/us/usc/t31/s6705"
+            },
+            {
+              "number": "6706",
+              "numText": "§ 6706.",
+              "heading": "Income gap multiplier",
+              "identifier": "/us/usc/t31/s6706"
+            },
+            {
+              "number": "6707",
+              "numText": "§ 6707.",
+              "heading": "State variation of local government allocations",
+              "identifier": "/us/usc/t31/s6707"
+            },
+            {
+              "number": "6708",
+              "numText": "§ 6708.",
+              "heading": "Adjustments of local government allocations",
+              "identifier": "/us/usc/t31/s6708"
+            },
+            {
+              "number": "6709",
+              "numText": "§ 6709.",
+              "heading": "Information used in allocation formulas",
+              "identifier": "/us/usc/t31/s6709"
+            },
+            {
+              "number": "6710",
+              "numText": "§ 6710.",
+              "heading": "Public participation",
+              "identifier": "/us/usc/t31/s6710"
+            },
+            {
+              "number": "6711",
+              "numText": "§ 6711.",
+              "heading": "Prohibited discrimination",
+              "identifier": "/us/usc/t31/s6711"
+            },
+            {
+              "number": "6712",
+              "numText": "§ 6712.",
+              "heading": "Discrimination proceedings",
+              "identifier": "/us/usc/t31/s6712"
+            },
+            {
+              "number": "6713",
+              "numText": "§ 6713.",
+              "heading": "Suspension and termination of payments in discrimination proceedings",
+              "identifier": "/us/usc/t31/s6713"
+            },
+            {
+              "number": "6714",
+              "numText": "§ 6714.",
+              "heading": "Compliance agreements",
+              "identifier": "/us/usc/t31/s6714"
+            },
+            {
+              "number": "6715",
+              "numText": "§ 6715.",
+              "heading": "Enforcement by the Attorney General of prohibitions on discrimination",
+              "identifier": "/us/usc/t31/s6715"
+            },
+            {
+              "number": "6716",
+              "numText": "§ 6716.",
+              "heading": "Civil action by a person adversely affected",
+              "identifier": "/us/usc/t31/s6716"
+            },
+            {
+              "number": "6717",
+              "numText": "§ 6717.",
+              "heading": "Judicial review",
+              "identifier": "/us/usc/t31/s6717"
+            },
+            {
+              "number": "6718",
+              "numText": "§ 6718.",
+              "heading": "Investigations and reviews",
+              "identifier": "/us/usc/t31/s6718"
+            },
+            {
+              "number": "6719",
+              "numText": "§ 6719.",
+              "heading": "Reports",
+              "identifier": "/us/usc/t31/s6719"
+            },
+            {
+              "number": "6720",
+              "numText": "§ 6720.",
+              "heading": "Definitions, application, and administration",
+              "identifier": "/us/usc/t31/s6720"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "69",
+          "heading": "PAYMENT FOR ENTITLEMENT LAND",
+          "identifier": "/us/usc/t31/stV/ch69",
+          "children": [
+            {
+              "number": "6901",
+              "numText": "§ 6901.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s6901"
+            },
+            {
+              "number": "6902",
+              "numText": "§ 6902.",
+              "heading": "Authority and Eligibility 11 So in original. Probably should not be capitalized.",
+              "identifier": "/us/usc/t31/s6902"
+            },
+            {
+              "number": "6903",
+              "numText": "§ 6903.",
+              "heading": "Payments",
+              "identifier": "/us/usc/t31/s6903"
+            },
+            {
+              "number": "6904",
+              "numText": "§ 6904.",
+              "heading": "Additional payments",
+              "identifier": "/us/usc/t31/s6904"
+            },
+            {
+              "number": "6905",
+              "numText": "§ 6905.",
+              "heading": "Redwood National Park and the Lake Tahoe Basin",
+              "identifier": "/us/usc/t31/s6905"
+            },
+            {
+              "number": "6906",
+              "numText": "§ 6906.",
+              "heading": "Funding",
+              "identifier": "/us/usc/t31/s6906"
+            },
+            {
+              "number": "6907",
+              "numText": "§ 6907.",
+              "heading": "State legislation requiring reallocation or redistribution of payments to smaller units of general purpose government",
+              "identifier": "/us/usc/t31/s6907"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "71",
+          "heading": "JOINT FUNDING SIMPLIFICATION",
+          "identifier": "/us/usc/t31/stV/ch71",
+          "children": [
+            {
+              "number": "7101",
+              "numText": "§ 7101.",
+              "heading": "Purposes",
+              "identifier": "/us/usc/t31/s7101"
+            },
+            {
+              "number": "7102",
+              "numText": "§ 7102.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s7102"
+            },
+            {
+              "number": "7103",
+              "numText": "§ 7103.",
+              "heading": "Authority of the President and heads of executive agencies",
+              "identifier": "/us/usc/t31/s7103"
+            },
+            {
+              "number": "7104",
+              "numText": "§ 7104.",
+              "heading": "Processing project requests to be financed by at least 2 assistance programs",
+              "identifier": "/us/usc/t31/s7104"
+            },
+            {
+              "number": "7105",
+              "numText": "§ 7105.",
+              "heading": "Prescribing uniform technical and administrative provisions",
+              "identifier": "/us/usc/t31/s7105"
+            },
+            {
+              "number": "7106",
+              "numText": "§ 7106.",
+              "heading": "Delegation of supervision of assistance",
+              "identifier": "/us/usc/t31/s7106"
+            },
+            {
+              "number": "7107",
+              "numText": "§ 7107.",
+              "heading": "Joint management funds",
+              "identifier": "/us/usc/t31/s7107"
+            },
+            {
+              "number": "7108",
+              "numText": "§ 7108.",
+              "heading": "Limitation on authority under sections 7105–7107",
+              "identifier": "/us/usc/t31/s7108"
+            },
+            {
+              "number": "7109",
+              "numText": "§ 7109.",
+              "heading": "Appropriations available for joint financing",
+              "identifier": "/us/usc/t31/s7109"
+            },
+            {
+              "number": "7110",
+              "numText": "§ 7110.",
+              "heading": "Use of joint financing provisions for Federal-State assisted projects",
+              "identifier": "/us/usc/t31/s7110"
+            },
+            {
+              "number": "7111",
+              "numText": "§ 7111.",
+              "heading": "Report to Congress",
+              "identifier": "/us/usc/t31/s7111"
+            },
+            {
+              "number": "7112",
+              "numText": "§ 7112.",
+              "heading": "Expiration date",
+              "identifier": "/us/usc/t31/s7112"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "73",
+          "heading": "ADMINISTERING BLOCK GRANTS",
+          "identifier": "/us/usc/t31/stV/ch73",
+          "children": [
+            {
+              "number": "7301",
+              "numText": "§ 7301.",
+              "heading": "Purpose",
+              "identifier": "/us/usc/t31/s7301"
+            },
+            {
+              "number": "7302",
+              "numText": "§ 7302.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s7302"
+            },
+            {
+              "number": "7303",
+              "numText": "§ 7303.",
+              "heading": "Reports and public hearings on proposed uses of amounts",
+              "identifier": "/us/usc/t31/s7303"
+            },
+            {
+              "number": "7304",
+              "numText": "§ 7304.",
+              "heading": "Availability of records",
+              "identifier": "/us/usc/t31/s7304"
+            },
+            {
+              "number": "7305",
+              "numText": "§ 7305.",
+              "heading": "State auditing requirements",
+              "identifier": "/us/usc/t31/s7305"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "75",
+          "heading": "REQUIREMENTS FOR SINGLE AUDITS",
+          "identifier": "/us/usc/t31/stV/ch75",
+          "children": [
+            {
+              "number": "7501",
+              "numText": "§ 7501.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s7501"
+            },
+            {
+              "number": "7502",
+              "numText": "§ 7502.",
+              "heading": "Audit requirements; exemptions",
+              "identifier": "/us/usc/t31/s7502"
+            },
+            {
+              "number": "7503",
+              "numText": "§ 7503.",
+              "heading": "Relation to other audit requirements",
+              "identifier": "/us/usc/t31/s7503"
+            },
+            {
+              "number": "7504",
+              "numText": "§ 7504.",
+              "heading": "Federal agency responsibilities and relations with non-Federal entities",
+              "identifier": "/us/usc/t31/s7504"
+            },
+            {
+              "number": "7505",
+              "numText": "§ 7505.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t31/s7505"
+            },
+            {
+              "number": "7506",
+              "numText": "§ 7506.",
+              "heading": "Effective date",
+              "identifier": "/us/usc/t31/s7506"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "77",
+          "heading": "ACCESS TO INFORMATION FOR DEBT COLLECTION",
+          "identifier": "/us/usc/t31/stV/ch77",
+          "children": [
+            {
+              "number": "7701",
+              "numText": "§ 7701.",
+              "heading": "Taxpayer identifying number",
+              "identifier": "/us/usc/t31/s7701"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "VI",
+      "heading": "MISCELLANEOUS",
+      "identifier": "/us/usc/t31/stVI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "91",
+          "heading": "GOVERNMENT CORPORATIONS",
+          "identifier": "/us/usc/t31/stVI/ch91",
+          "children": [
+            {
+              "number": "9101",
+              "numText": "§ 9101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s9101"
+            },
+            {
+              "number": "9102",
+              "numText": "§ 9102.",
+              "heading": "Establishing and acquiring corporations",
+              "identifier": "/us/usc/t31/s9102"
+            },
+            {
+              "number": "9103",
+              "numText": "§ 9103.",
+              "heading": "Budgets of wholly owned Government corporations",
+              "identifier": "/us/usc/t31/s9103"
+            },
+            {
+              "number": "9104",
+              "numText": "§ 9104.",
+              "heading": "Congressional action on budgets of wholly owned Government corporations",
+              "identifier": "/us/usc/t31/s9104"
+            },
+            {
+              "number": "9105",
+              "numText": "§ 9105.",
+              "heading": "Audits",
+              "identifier": "/us/usc/t31/s9105"
+            },
+            {
+              "number": "9106",
+              "numText": "§ 9106.",
+              "heading": "Management reports",
+              "identifier": "/us/usc/t31/s9106"
+            },
+            {
+              "number": "9107",
+              "numText": "§ 9107.",
+              "heading": "Accounts",
+              "identifier": "/us/usc/t31/s9107"
+            },
+            {
+              "number": "9108",
+              "numText": "§ 9108.",
+              "heading": "Obligations",
+              "identifier": "/us/usc/t31/s9108"
+            },
+            {
+              "number": "9109",
+              "numText": "§ 9109.",
+              "heading": "Exclusion of a wholly owned Government corporation from this chapter",
+              "identifier": "/us/usc/t31/s9109"
+            },
+            {
+              "number": "9110",
+              "numText": "§ 9110.",
+              "heading": "Standards for depository institutions holding securities of a Government-sponsored corporation for customers",
+              "identifier": "/us/usc/t31/s9110"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "93",
+          "heading": "SURETIES AND SURETY BONDS",
+          "identifier": "/us/usc/t31/stVI/ch93",
+          "children": [
+            {
+              "number": "9301",
+              "numText": "§ 9301.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s9301"
+            },
+            {
+              "number": "9302",
+              "numText": "§ 9302.",
+              "heading": "Prohibition against surety bonds for United States Government personnel",
+              "identifier": "/us/usc/t31/s9302"
+            },
+            {
+              "number": "9303",
+              "numText": "§ 9303.",
+              "heading": "Use of eligible obligations instead of surety bonds",
+              "identifier": "/us/usc/t31/s9303"
+            },
+            {
+              "number": "9304",
+              "numText": "§ 9304.",
+              "heading": "Surety corporations",
+              "identifier": "/us/usc/t31/s9304"
+            },
+            {
+              "number": "9305",
+              "numText": "§ 9305.",
+              "heading": "Authority and revocation of authority of surety corporations",
+              "identifier": "/us/usc/t31/s9305"
+            },
+            {
+              "number": "9306",
+              "numText": "§ 9306.",
+              "heading": "Surety corporations acting outside area of incorporation and place of principal office",
+              "identifier": "/us/usc/t31/s9306"
+            },
+            {
+              "number": "9307",
+              "numText": "§ 9307.",
+              "heading": "Civil actions and judgments against surety corporations",
+              "identifier": "/us/usc/t31/s9307"
+            },
+            {
+              "number": "9308",
+              "numText": "§ 9308.",
+              "heading": "Civil penalty",
+              "identifier": "/us/usc/t31/s9308"
+            },
+            {
+              "number": "9309",
+              "numText": "§ 9309.",
+              "heading": "Priority of sureties",
+              "identifier": "/us/usc/t31/s9309"
+            },
+            {
+              "number": "9310",
+              "numText": "§ 9310.",
+              "heading": "Individual sureties",
+              "identifier": "/us/usc/t31/s9310"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "95",
+          "heading": "GOVERNMENT PENSION PLAN PROTECTION",
+          "identifier": "/us/usc/t31/stVI/ch95",
+          "children": [
+            {
+              "number": "9501",
+              "numText": "§ 9501.",
+              "heading": "Purpose",
+              "identifier": "/us/usc/t31/s9501"
+            },
+            {
+              "number": "9502",
+              "numText": "§ 9502.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t31/s9502"
+            },
+            {
+              "number": "9503",
+              "numText": "§ 9503.",
+              "heading": "Reports about Government pension plans",
+              "identifier": "/us/usc/t31/s9503"
+            },
+            {
+              "number": "9504",
+              "numText": "§ 9504.",
+              "heading": "Review and recommendations",
+              "identifier": "/us/usc/t31/s9504"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "97",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t31/stVI/ch97",
+          "children": [
+            {
+              "number": "9701",
+              "numText": "§ 9701.",
+              "heading": "Fees and charges for Government services and things of value",
+              "identifier": "/us/usc/t31/s9701"
+            },
+            {
+              "number": "9702",
+              "numText": "§ 9702.",
+              "heading": "Investment of trust funds",
+              "identifier": "/us/usc/t31/s9702"
+            },
+            {
+              "number": "9703",
+              "numText": "§ 9703.",
+              "heading": "Managerial accountability and flexibility",
+              "identifier": "/us/usc/t31/s9703"
+            },
+            {
+              "number": "9704",
+              "numText": "§ 9704.",
+              "heading": "Pilot projects for managerial accountability and flexibility",
+              "identifier": "/us/usc/t31/s9704"
+            },
+            {
+              "number": "9705",
+              "numText": "§ 9705.",
+              "heading": "Department of the Treasury Forfeiture Fund",
+              "identifier": "/us/usc/t31/s9705"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

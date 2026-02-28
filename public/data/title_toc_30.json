@@ -1,0 +1,4413 @@
+{
+  "number": "30",
+  "name": "Mineral Lands And Mining",
+  "identifier": "/us/usc/t30",
+  "version": "Online@119-73not60",
+  "updated": "2025-09-09",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "UNITED STATES BUREAU OF MINES",
+      "identifier": "/us/usc/t30/ch1",
+      "children": [
+        {
+          "number": "1",
+          "numText": "§ 1.",
+          "heading": "United States Bureau of Mines; establishment; director; experts and other employees",
+          "identifier": "/us/usc/t30/s1"
+        },
+        {
+          "number": "1a",
+          "numText": "§ 1a.",
+          "heading": "Transfer of activities, employees, records, etc., from Bureau of Foreign and Domestic Commerce to the United States Bureau of Mines",
+          "identifier": "/us/usc/t30/s1a"
+        },
+        {
+          "number": "2",
+          "numText": "§ 2.",
+          "heading": "Performance of duties in absence of director",
+          "identifier": "/us/usc/t30/s2"
+        },
+        {
+          "number": "3",
+          "numText": "§ 3.",
+          "heading": "Duties of United States Bureau of Mines",
+          "identifier": "/us/usc/t30/s3"
+        },
+        {
+          "number": "4",
+          "numText": "§ 4.",
+          "heading": "Investigation of lignite coal and peat",
+          "identifier": "/us/usc/t30/s4"
+        },
+        {
+          "number": "4a",
+          "numText": "§ 4a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t30/s4a"
+        },
+        {
+          "number": "4b",
+          "numText": "§ 4b.",
+          "heading": "Cooperation with individuals, municipalities, etc.; contracts with owners; agreements as to prices",
+          "identifier": "/us/usc/t30/s4b"
+        },
+        {
+          "number": "4c",
+          "numText": "§ 4c.",
+          "heading": "Investigation of sub-bituminous and lignite coal",
+          "identifier": "/us/usc/t30/s4c"
+        },
+        {
+          "number": "4d",
+          "numText": "§ 4d.",
+          "heading": "Plants, machinery, and equipment",
+          "identifier": "/us/usc/t30/s4d"
+        },
+        {
+          "number": "4e",
+          "numText": "§ 4e.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t30/s4e"
+        },
+        {
+          "number": "4f to 4o",
+          "numText": "§§ 4f to 4o.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t30/s4f...4o"
+        },
+        {
+          "number": "5",
+          "numText": "§ 5.",
+          "heading": "Reports of investigations",
+          "identifier": "/us/usc/t30/s5"
+        },
+        {
+          "number": "6",
+          "numText": "§ 6.",
+          "heading": "Personal interest of director and members of Bureau in mines",
+          "identifier": "/us/usc/t30/s6"
+        },
+        {
+          "number": "7",
+          "numText": "§ 7.",
+          "heading": "Fees for tests or investigations",
+          "identifier": "/us/usc/t30/s7"
+        },
+        {
+          "number": "8",
+          "numText": "§ 8.",
+          "heading": "Additional mining experiment stations and mine safety stations authorized",
+          "identifier": "/us/usc/t30/s8"
+        },
+        {
+          "number": "9",
+          "numText": "§ 9.",
+          "heading": "Acceptance of lands from States",
+          "identifier": "/us/usc/t30/s9"
+        },
+        {
+          "number": "10",
+          "numText": "§ 10.",
+          "heading": "Headquarters of mine rescue cars; site for experimental work; leases and donations",
+          "identifier": "/us/usc/t30/s10"
+        },
+        {
+          "number": "11",
+          "numText": "§ 11.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t30/s11"
+        },
+        {
+          "number": "12",
+          "numText": "§ 12.",
+          "heading": "Repealed. Oct. 25, 1951, ch. 562, § 1(16), 65 Stat. 638",
+          "identifier": "/us/usc/t30/s12"
+        },
+        {
+          "number": "13",
+          "numText": "§ 13.",
+          "heading": "Research laboratory for utilization of anthracite coal; establishment and maintenance",
+          "identifier": "/us/usc/t30/s13"
+        },
+        {
+          "number": "14",
+          "numText": "§ 14.",
+          "heading": "Acquisition of land; cooperation with other agencies",
+          "identifier": "/us/usc/t30/s14"
+        },
+        {
+          "number": "15",
+          "numText": "§ 15.",
+          "heading": "Repealed. Pub. L. 86–533, § 1(17), June 29, 1960, 74 Stat. 248",
+          "identifier": "/us/usc/t30/s15"
+        },
+        {
+          "number": "16",
+          "numText": "§ 16.",
+          "heading": "Research laboratory for utilization of anthracite coal; establishment of advisory committee; composition; functions; appointment",
+          "identifier": "/us/usc/t30/s16"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "MINERAL LANDS AND REGULATIONS IN GENERAL",
+      "identifier": "/us/usc/t30/ch2",
+      "children": [
+        {
+          "number": "21",
+          "numText": "§ 21.",
+          "heading": "Mineral lands reserved",
+          "identifier": "/us/usc/t30/s21"
+        },
+        {
+          "number": "21a",
+          "numText": "§ 21a.",
+          "heading": "National mining and minerals policy; “minerals” defined; execution of policy under other authorized programs",
+          "identifier": "/us/usc/t30/s21a"
+        },
+        {
+          "number": "22",
+          "numText": "§ 22.",
+          "heading": "Lands open to purchase by citizens",
+          "identifier": "/us/usc/t30/s22"
+        },
+        {
+          "number": "23",
+          "numText": "§ 23.",
+          "heading": "Length of claims on veins or lodes",
+          "identifier": "/us/usc/t30/s23"
+        },
+        {
+          "number": "24",
+          "numText": "§ 24.",
+          "heading": "Proof of citizenship",
+          "identifier": "/us/usc/t30/s24"
+        },
+        {
+          "number": "25",
+          "numText": "§ 25.",
+          "heading": "Affidavit of citizenship",
+          "identifier": "/us/usc/t30/s25"
+        },
+        {
+          "number": "26",
+          "numText": "§ 26.",
+          "heading": "Locators’ rights of possession and enjoyment",
+          "identifier": "/us/usc/t30/s26"
+        },
+        {
+          "number": "27",
+          "numText": "§ 27.",
+          "heading": "Mining tunnels; right to possession of veins on line with; abandonment of right",
+          "identifier": "/us/usc/t30/s27"
+        },
+        {
+          "number": "28",
+          "numText": "§ 28.",
+          "heading": "Mining district regulations by miners: location, recordation, and amount of work; marking of location on ground; records; annual labor or improvements on claims pending issue of patent; co-owner’s succession in interest upon delinquency in contributing proportion of expenditures; tunnel as lode expenditure",
+          "identifier": "/us/usc/t30/s28"
+        },
+        {
+          "number": "28–1",
+          "numText": "§ 28–1.",
+          "heading": "Inclusion of certain surveys in labor requirements of mining claims; conditions and restrictions",
+          "identifier": "/us/usc/t30/s28–1"
+        },
+        {
+          "number": "28–2",
+          "numText": "§ 28–2.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s28–2"
+        },
+        {
+          "number": "28a",
+          "numText": "§ 28a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t30/s28a"
+        },
+        {
+          "number": "28b",
+          "numText": "§ 28b.",
+          "heading": "Annual assessment work on mining claims; temporary deferment; conditions",
+          "identifier": "/us/usc/t30/s28b"
+        },
+        {
+          "number": "28c",
+          "numText": "§ 28c.",
+          "heading": "Length and termination of deferment",
+          "identifier": "/us/usc/t30/s28c"
+        },
+        {
+          "number": "28d",
+          "numText": "§ 28d.",
+          "heading": "Performance of deferred work",
+          "identifier": "/us/usc/t30/s28d"
+        },
+        {
+          "number": "28e",
+          "numText": "§ 28e.",
+          "heading": "Recordation of deferment",
+          "identifier": "/us/usc/t30/s28e"
+        },
+        {
+          "number": "28f",
+          "numText": "§ 28f.",
+          "heading": "Fee",
+          "identifier": "/us/usc/t30/s28f"
+        },
+        {
+          "number": "28g",
+          "numText": "§ 28g.",
+          "heading": "Location fee",
+          "identifier": "/us/usc/t30/s28g"
+        },
+        {
+          "number": "28h",
+          "numText": "§ 28h.",
+          "heading": "Co-ownership",
+          "identifier": "/us/usc/t30/s28h"
+        },
+        {
+          "number": "28i",
+          "numText": "§ 28i.",
+          "heading": "Failure to pay",
+          "identifier": "/us/usc/t30/s28i"
+        },
+        {
+          "number": "28j",
+          "numText": "§ 28j.",
+          "heading": "Other requirements",
+          "identifier": "/us/usc/t30/s28j"
+        },
+        {
+          "number": "28k",
+          "numText": "§ 28k.",
+          "heading": "Regulations",
+          "identifier": "/us/usc/t30/s28k"
+        },
+        {
+          "number": "28l",
+          "numText": "§ 28l.",
+          "heading": "Collection of mining law administration fees",
+          "identifier": "/us/usc/t30/s28l"
+        },
+        {
+          "number": "29",
+          "numText": "§ 29.",
+          "heading": "Patents; procurement procedure; filing: application under oath, plat and field notes, notices, and affidavits; posting plat and notice on claim; publication and posting notice in office; certificate; adverse claims; payment per acre; objections; nonresident claimant’s agent for execution of application and affidavits",
+          "identifier": "/us/usc/t30/s29"
+        },
+        {
+          "number": "30",
+          "numText": "§ 30.",
+          "heading": "Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession; successful claimants’ filing of judgment roll, certificate of labor, and description of claim in land office, and acreage and fee payments; issuance of patents for entire or partial claims upon certification of land office proceedings and judgment roll; alienation of patent title",
+          "identifier": "/us/usc/t30/s30"
+        },
+        {
+          "number": "31",
+          "numText": "§ 31.",
+          "heading": "Oath: agent or attorney in fact, beyond district of claim",
+          "identifier": "/us/usc/t30/s31"
+        },
+        {
+          "number": "32",
+          "numText": "§ 32.",
+          "heading": "Findings by jury; costs",
+          "identifier": "/us/usc/t30/s32"
+        },
+        {
+          "number": "33",
+          "numText": "§ 33.",
+          "heading": "Existing rights",
+          "identifier": "/us/usc/t30/s33"
+        },
+        {
+          "number": "34",
+          "numText": "§ 34.",
+          "heading": "Description of vein claims on surveyed and unsurveyed lands; monuments on ground to govern conflicting calls",
+          "identifier": "/us/usc/t30/s34"
+        },
+        {
+          "number": "35",
+          "numText": "§ 35.",
+          "heading": "Placer claims; entry and proceedings for patent under provisions applicable to vein or lode claims; conforming entry to legal subdivisions and surveys; limitation of claims; homestead entry of segregated agricultural land",
+          "identifier": "/us/usc/t30/s35"
+        },
+        {
+          "number": "36",
+          "numText": "§ 36.",
+          "heading": "Subdivisions of 10-acre tracts; maximum of placer locations; homestead claims of agricultural lands; sale of improvements",
+          "identifier": "/us/usc/t30/s36"
+        },
+        {
+          "number": "37",
+          "numText": "§ 37.",
+          "heading": "Proceedings for patent where boundaries contain vein or lode; application; statement including vein or lode; issuance of patent: acreage payments for vein or lode and placer claim; costs of proceedings; knowledge affecting construction of application and scope of patent",
+          "identifier": "/us/usc/t30/s37"
+        },
+        {
+          "number": "38",
+          "numText": "§ 38.",
+          "heading": "Evidence of possession and work to establish right to patent",
+          "identifier": "/us/usc/t30/s38"
+        },
+        {
+          "number": "39",
+          "numText": "§ 39.",
+          "heading": "Surveyors of mining claims",
+          "identifier": "/us/usc/t30/s39"
+        },
+        {
+          "number": "40",
+          "numText": "§ 40.",
+          "heading": "Verification of affidavits",
+          "identifier": "/us/usc/t30/s40"
+        },
+        {
+          "number": "41",
+          "numText": "§ 41.",
+          "heading": "Intersecting or crossing veins",
+          "identifier": "/us/usc/t30/s41"
+        },
+        {
+          "number": "42",
+          "numText": "§ 42.",
+          "heading": "Patents for nonmineral lands: application, survey, notice, acreage limitation, payment",
+          "identifier": "/us/usc/t30/s42"
+        },
+        {
+          "number": "43",
+          "numText": "§ 43.",
+          "heading": "Conditions of sale by local legislature",
+          "identifier": "/us/usc/t30/s43"
+        },
+        {
+          "number": "44, 45",
+          "numText": "§§ 44, 45.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t30/s44 /us/usc/t30/s45"
+        },
+        {
+          "number": "46",
+          "numText": "§ 46.",
+          "heading": "Additional land districts and officers",
+          "identifier": "/us/usc/t30/s46"
+        },
+        {
+          "number": "47",
+          "numText": "§ 47.",
+          "heading": "Impairment of rights or interests in certain mining property",
+          "identifier": "/us/usc/t30/s47"
+        },
+        {
+          "number": "48",
+          "numText": "§ 48.",
+          "heading": "Lands in Michigan, Wisconsin, and Minnesota; sale and disposal as public lands",
+          "identifier": "/us/usc/t30/s48"
+        },
+        {
+          "number": "49",
+          "numText": "§ 49.",
+          "heading": "Lands in Missouri and Kansas; disposal as agricultural lands",
+          "identifier": "/us/usc/t30/s49"
+        },
+        {
+          "number": "49a",
+          "numText": "§ 49a.",
+          "heading": "Mining laws of United States extended to Alaska; exploration and mining for precious metals; regulations; conflict of laws; permits; dumping tailings; pumping from sea; reservation of roadway; title to land below line of high tide or high-water mark; transfer of title to future State",
+          "identifier": "/us/usc/t30/s49a"
+        },
+        {
+          "number": "49b",
+          "numText": "§ 49b.",
+          "heading": "Mining laws relating to placer claims extended to Alaska",
+          "identifier": "/us/usc/t30/s49b"
+        },
+        {
+          "number": "49c",
+          "numText": "§ 49c.",
+          "heading": "Recording notices of location of Alaskan mining claims",
+          "identifier": "/us/usc/t30/s49c"
+        },
+        {
+          "number": "49d",
+          "numText": "§ 49d.",
+          "heading": "Miners’ regulations for recording notices in Alaska; certain records legalized",
+          "identifier": "/us/usc/t30/s49d"
+        },
+        {
+          "number": "49e",
+          "numText": "§ 49e.",
+          "heading": "Annual labor or improvements on Alaskan mining claims; affidavits; burden of proof; forfeitures; location anew of claims; perjury",
+          "identifier": "/us/usc/t30/s49e"
+        },
+        {
+          "number": "49f",
+          "numText": "§ 49f.",
+          "heading": "Fees of recorders in Alaska for filing proofs of work and improvements",
+          "identifier": "/us/usc/t30/s49f"
+        },
+        {
+          "number": "50",
+          "numText": "§ 50.",
+          "heading": "Grants to States or corporations not to include mineral lands",
+          "identifier": "/us/usc/t30/s50"
+        },
+        {
+          "number": "51",
+          "numText": "§ 51.",
+          "heading": "Water users’ vested and accrued rights; enumeration of uses; protection of interest; rights-of-way for canals and ditches; liability for injury or damage to settlers’ possession",
+          "identifier": "/us/usc/t30/s51"
+        },
+        {
+          "number": "52",
+          "numText": "§ 52.",
+          "heading": "Patents or homesteads subject to vested and accrued water rights",
+          "identifier": "/us/usc/t30/s52"
+        },
+        {
+          "number": "53",
+          "numText": "§ 53.",
+          "heading": "Possessory actions for recovery of mining titles or for damages to such title",
+          "identifier": "/us/usc/t30/s53"
+        },
+        {
+          "number": "54",
+          "numText": "§ 54.",
+          "heading": "Liability for damages to stock raising and homestead entries by mining activities",
+          "identifier": "/us/usc/t30/s54"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "LANDS CONTAINING COAL, OIL, GAS, SALTS, ASPHALTIC MATERIALS, SODIUM, SULPHUR, AND BUILDING STONE",
+      "identifier": "/us/usc/t30/ch3",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "COAL LAND ENTRIES IN GENERAL",
+          "identifier": "/us/usc/t30/ch3/schI",
+          "children": [
+            {
+              "number": "71",
+              "numText": "§ 71.",
+              "heading": "Entry of unappropriated or unreserved Federal coal lands; eligibility; application; acreage limitation; price per acre",
+              "identifier": "/us/usc/t30/s71"
+            },
+            {
+              "number": "72",
+              "numText": "§ 72.",
+              "heading": "Preference right of coal mine entry; acreage limitation",
+              "identifier": "/us/usc/t30/s72"
+            },
+            {
+              "number": "73",
+              "numText": "§ 73.",
+              "heading": "Presentation of claims",
+              "identifier": "/us/usc/t30/s73"
+            },
+            {
+              "number": "74",
+              "numText": "§ 74.",
+              "heading": "Number of coal land entries; other entries upon noncompliance with conditions",
+              "identifier": "/us/usc/t30/s74"
+            },
+            {
+              "number": "75",
+              "numText": "§ 75.",
+              "heading": "Conflicting claims upon coal lands; rules and regulations",
+              "identifier": "/us/usc/t30/s75"
+            },
+            {
+              "number": "76",
+              "numText": "§ 76.",
+              "heading": "Reservation of rights upon coal lands; sale of certain mining lands",
+              "identifier": "/us/usc/t30/s76"
+            },
+            {
+              "number": "77",
+              "numText": "§ 77.",
+              "heading": "Alabama coal lands; agricultural entry",
+              "identifier": "/us/usc/t30/s77"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF COAL TO UNITED STATES",
+          "identifier": "/us/usc/t30/ch3/schII",
+          "children": [
+            {
+              "number": "81",
+              "numText": "§ 81.",
+              "heading": "Rights of entrymen of lands subsequently classified as coal lands; disposal of coal deposits",
+              "identifier": "/us/usc/t30/s81"
+            },
+            {
+              "number": "82",
+              "numText": "§ 82.",
+              "heading": "New or supplemental patents, in case of lands subsequently classified as noncoal",
+              "identifier": "/us/usc/t30/s82"
+            },
+            {
+              "number": "83",
+              "numText": "§ 83.",
+              "heading": "Homestead or desert-land and other entries",
+              "identifier": "/us/usc/t30/s83"
+            },
+            {
+              "number": "84",
+              "numText": "§ 84.",
+              "heading": "Applications for entry",
+              "identifier": "/us/usc/t30/s84"
+            },
+            {
+              "number": "85",
+              "numText": "§ 85.",
+              "heading": "Patents for lands, with reservation of coal; disposal of coal deposits",
+              "identifier": "/us/usc/t30/s85"
+            },
+            {
+              "number": "86",
+              "numText": "§ 86.",
+              "heading": "Disposition of lands in Indian reservations with reservation of coal; examination and appraisal of lands",
+              "identifier": "/us/usc/t30/s86"
+            },
+            {
+              "number": "87",
+              "numText": "§ 87.",
+              "heading": "Statements in application; patents",
+              "identifier": "/us/usc/t30/s87"
+            },
+            {
+              "number": "88",
+              "numText": "§ 88.",
+              "heading": "Disposition of coal by United States",
+              "identifier": "/us/usc/t30/s88"
+            },
+            {
+              "number": "89",
+              "numText": "§ 89.",
+              "heading": "Disposition of proceeds",
+              "identifier": "/us/usc/t30/s89"
+            },
+            {
+              "number": "90",
+              "numText": "§ 90.",
+              "heading": "Selection of coal lands by States; sale in isolated or disconnected tracts",
+              "identifier": "/us/usc/t30/s90"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "PETROLEUM, OTHER MINERAL OIL, OR GAS LAND ENTRIES UNDER MINING LAWS",
+          "identifier": "/us/usc/t30/ch3/schIII",
+          "children": [
+            {
+              "number": "101",
+              "numText": "§ 101.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s101"
+            },
+            {
+              "number": "102",
+              "numText": "§ 102.",
+              "heading": "Assessment work on contiguous oil lands, located as claims, of same owner",
+              "identifier": "/us/usc/t30/s102"
+            },
+            {
+              "number": "103",
+              "numText": "§ 103.",
+              "heading": "Patents for oil or gas lands not denied because of transfer before discovery of oil or gas; acreage limitation; nonapplication to withdraw lands",
+              "identifier": "/us/usc/t30/s103"
+            },
+            {
+              "number": "104",
+              "numText": "§ 104.",
+              "heading": "Agreements with applicants for patents as to disposition of oil or gas, or proceeds thereof, pending determination of title; Navy Petroleum Fund",
+              "identifier": "/us/usc/t30/s104"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "HOMESTEAD ENTRY OF LANDS IN UTAH, WITHDRAWN OR CLASSIFIED AS OIL LANDS",
+          "identifier": "/us/usc/t30/ch3/schIV",
+          "children": [
+            {
+              "number": "111 to 113",
+              "numText": "§§ 111 to 113.",
+              "heading": "Repealed. Dec. 16, 1930, ch. 14, § 1, 46 Stat. 1028",
+              "identifier": "/us/usc/t30/s111...113"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "AGRICULTURAL ENTRY OF LANDS WITHDRAWN OR CLASSIFIED AS CONTAINING PHOSPHATE, NITRATE, POTASH, OIL, GAS, ASPHALTIC MINERALS, SODIUM, OR SULPHUR",
+          "identifier": "/us/usc/t30/ch3/schV",
+          "children": [
+            {
+              "number": "121",
+              "numText": "§ 121.",
+              "heading": "Agricultural entry or purchase of lands withdrawn or classified as containing phosphate, nitrate, potash, oil, or gas; reservations to United States; application",
+              "identifier": "/us/usc/t30/s121"
+            },
+            {
+              "number": "122",
+              "numText": "§ 122.",
+              "heading": "Patents; reservation in the United States of reserved deposits; acquisition of right to remove deposits; application for entry to disprove classification",
+              "identifier": "/us/usc/t30/s122"
+            },
+            {
+              "number": "123",
+              "numText": "§ 123.",
+              "heading": "Persons locating lands subsequently withdrawn or classified; patents to",
+              "identifier": "/us/usc/t30/s123"
+            },
+            {
+              "number": "124",
+              "numText": "§ 124.",
+              "heading": "Agricultural entry or purchase of lands withdrawn or classified as containing sodium or sulphur",
+              "identifier": "/us/usc/t30/s124"
+            },
+            {
+              "number": "125",
+              "numText": "§ 125.",
+              "heading": "Patents in North Platte Reclamation Project; mineral rights; subrogation",
+              "identifier": "/us/usc/t30/s125"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "LOCATION OF PHOSPHATE ROCK LANDS UNDER PLACER-MINING LAWS",
+          "identifier": "/us/usc/t30/ch3/schVI",
+          "children": [
+            {
+              "number": "131",
+              "numText": "§ 131.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s131"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "PERMITS TO PROSPECT FOR CHLORIDES, SULPHATES, CARBONATES, BORATES, SILICATES, OR NITRATES OF POTASSIUM",
+          "identifier": "/us/usc/t30/ch3/schVII",
+          "children": [
+            {
+              "number": "141 to 152",
+              "numText": "§§ 141 to 152.",
+              "heading": "Repealed. Feb. 7, 1927, ch. 66, § 6, 44 Stat. 1058",
+              "identifier": "/us/usc/t30/s141...152"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VIII",
+          "heading": "BUILDING STONE OR SALINE LAND ENTRIES UNDER PLACER-MINING LAWS",
+          "identifier": "/us/usc/t30/ch3/schVIII",
+          "children": [
+            {
+              "number": "161",
+              "numText": "§ 161.",
+              "heading": "Entry of building-stone lands; previous law unaffected",
+              "identifier": "/us/usc/t30/s161"
+            },
+            {
+              "number": "162",
+              "numText": "§ 162.",
+              "heading": "Entry of saline lands; limitation",
+              "identifier": "/us/usc/t30/s162"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IX",
+          "heading": "DISPOSAL OF ALABAMA LANDS AS AGRICULTURAL LANDS",
+          "identifier": "/us/usc/t30/ch3/schIX",
+          "children": [
+            {
+              "number": "171",
+              "numText": "§ 171.",
+              "heading": "Disposal as agricultural lands",
+              "identifier": "/us/usc/t30/s171"
+            },
+            {
+              "number": "172",
+              "numText": "§ 172.",
+              "heading": "Certain Alabama lands subject to homestead entry",
+              "identifier": "/us/usc/t30/s172"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3A",
+      "heading": "LEASES AND PROSPECTING PERMITS",
+      "identifier": "/us/usc/t30/ch3A",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t30/ch3A/schI",
+          "children": [
+            {
+              "number": "181",
+              "numText": "§ 181.",
+              "heading": "Lands subject to disposition; persons entitled to benefits; reciprocal privileges; helium rights reserved",
+              "identifier": "/us/usc/t30/s181"
+            },
+            {
+              "number": "182",
+              "numText": "§ 182.",
+              "heading": "Lands disposed of with reservation of deposits of coal, etc.",
+              "identifier": "/us/usc/t30/s182"
+            },
+            {
+              "number": "183",
+              "numText": "§ 183.",
+              "heading": "Cancellation of prospecting permits",
+              "identifier": "/us/usc/t30/s183"
+            },
+            {
+              "number": "184",
+              "numText": "§ 184.",
+              "heading": "Limitations on leases held, owned or controlled by persons, associations or corporations",
+              "identifier": "/us/usc/t30/s184"
+            },
+            {
+              "number": "184a",
+              "numText": "§ 184a.",
+              "heading": "Authorization of States to include in agreements for conservation of oil and gas resources lands acquired from United States",
+              "identifier": "/us/usc/t30/s184a"
+            },
+            {
+              "number": "185",
+              "numText": "§ 185.",
+              "heading": "Rights-of-way for pipelines through Federal lands",
+              "identifier": "/us/usc/t30/s185"
+            },
+            {
+              "number": "186",
+              "numText": "§ 186.",
+              "heading": "Reservation of easements or rights-of-way for working purposes; reservation of right to dispose of surface of lands; determination before offering of lease; easement periods",
+              "identifier": "/us/usc/t30/s186"
+            },
+            {
+              "number": "187",
+              "numText": "§ 187.",
+              "heading": "Assignment or subletting of leases; relinquishment of rights under leases; conditions in leases for protection of diverse interests in operation of mines, wells, etc.; State laws not impaired",
+              "identifier": "/us/usc/t30/s187"
+            },
+            {
+              "number": "187a",
+              "numText": "§ 187a.",
+              "heading": "Oil or gas leases; partial assignments",
+              "identifier": "/us/usc/t30/s187a"
+            },
+            {
+              "number": "187b",
+              "numText": "§ 187b.",
+              "heading": "Oil or gas leases; written relinquishment of rights; release of obligations",
+              "identifier": "/us/usc/t30/s187b"
+            },
+            {
+              "number": "188",
+              "numText": "§ 188.",
+              "heading": "Failure to comply with provisions of lease",
+              "identifier": "/us/usc/t30/s188"
+            },
+            {
+              "number": "188a",
+              "numText": "§ 188a.",
+              "heading": "Surrender of leases",
+              "identifier": "/us/usc/t30/s188a"
+            },
+            {
+              "number": "189",
+              "numText": "§ 189.",
+              "heading": "Rules and regulations; boundary lines; State rights unaffected; taxation",
+              "identifier": "/us/usc/t30/s189"
+            },
+            {
+              "number": "190",
+              "numText": "§ 190.",
+              "heading": "Oath; requirement; form; blanks",
+              "identifier": "/us/usc/t30/s190"
+            },
+            {
+              "number": "191",
+              "numText": "§ 191.",
+              "heading": "Disposition of moneys received",
+              "identifier": "/us/usc/t30/s191"
+            },
+            {
+              "number": "191a",
+              "numText": "§ 191a.",
+              "heading": "Late payment charges under Federal mineral leases",
+              "identifier": "/us/usc/t30/s191a"
+            },
+            {
+              "number": "191b",
+              "numText": "§ 191b.",
+              "heading": "Collection of unpaid and underpaid royalties and late payment interest owed by lessees",
+              "identifier": "/us/usc/t30/s191b"
+            },
+            {
+              "number": "192",
+              "numText": "§ 192.",
+              "heading": "Payment of royalties in oil or gas; sale of such oil or gas",
+              "identifier": "/us/usc/t30/s192"
+            },
+            {
+              "number": "192a",
+              "numText": "§ 192a.",
+              "heading": "Cancellation or modification of contracts",
+              "identifier": "/us/usc/t30/s192a"
+            },
+            {
+              "number": "192b",
+              "numText": "§ 192b.",
+              "heading": "Application to contracts",
+              "identifier": "/us/usc/t30/s192b"
+            },
+            {
+              "number": "192c",
+              "numText": "§ 192c.",
+              "heading": "Rules and regulations governing issuance of certain leases; disposition of receipts",
+              "identifier": "/us/usc/t30/s192c"
+            },
+            {
+              "number": "193",
+              "numText": "§ 193.",
+              "heading": "Disposition of deposits of coal, and so forth",
+              "identifier": "/us/usc/t30/s193"
+            },
+            {
+              "number": "193a",
+              "numText": "§ 193a.",
+              "heading": "Preference right of United States to purchase coal for Army and Navy; price for coal; civil actions; jurisdiction",
+              "identifier": "/us/usc/t30/s193a"
+            },
+            {
+              "number": "194",
+              "numText": "§ 194.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644",
+              "identifier": "/us/usc/t30/s194"
+            },
+            {
+              "number": "195",
+              "numText": "§ 195.",
+              "heading": "Enforcement",
+              "identifier": "/us/usc/t30/s195"
+            },
+            {
+              "number": "196",
+              "numText": "§ 196.",
+              "heading": "Cooperative agreements; delegation of authority",
+              "identifier": "/us/usc/t30/s196"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "COAL",
+          "identifier": "/us/usc/t30/ch3A/schII",
+          "children": [
+            {
+              "number": "201",
+              "numText": "§ 201.",
+              "heading": "Leases and exploration",
+              "identifier": "/us/usc/t30/s201"
+            },
+            {
+              "number": "201–1",
+              "numText": "§ 201–1.",
+              "heading": "Repealed. Pub. L. 94–377, § 5(a), Aug. 4, 1976, 90 Stat. 1086",
+              "identifier": "/us/usc/t30/s201–1"
+            },
+            {
+              "number": "201a",
+              "numText": "§ 201a.",
+              "heading": "Repealed. June 3, 1948, ch. 379, § 8, 62 Stat. 291",
+              "identifier": "/us/usc/t30/s201a"
+            },
+            {
+              "number": "201b",
+              "numText": "§ 201b.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s201b"
+            },
+            {
+              "number": "202",
+              "numText": "§ 202.",
+              "heading": "Common carriers; limitations of lease or permit",
+              "identifier": "/us/usc/t30/s202"
+            },
+            {
+              "number": "202a",
+              "numText": "§ 202a.",
+              "heading": "Consolidation of coal leases into logical mining unit",
+              "identifier": "/us/usc/t30/s202a"
+            },
+            {
+              "number": "203",
+              "numText": "§ 203.",
+              "heading": "Additional lands or deposits",
+              "identifier": "/us/usc/t30/s203"
+            },
+            {
+              "number": "204",
+              "numText": "§ 204.",
+              "heading": "Repealed. Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090",
+              "identifier": "/us/usc/t30/s204"
+            },
+            {
+              "number": "205",
+              "numText": "§ 205.",
+              "heading": "Consolidation of leases",
+              "identifier": "/us/usc/t30/s205"
+            },
+            {
+              "number": "206",
+              "numText": "§ 206.",
+              "heading": "Noncontiguous coal or phosphate tracts in single lease",
+              "identifier": "/us/usc/t30/s206"
+            },
+            {
+              "number": "207",
+              "numText": "§ 207.",
+              "heading": "Conditions of lease",
+              "identifier": "/us/usc/t30/s207"
+            },
+            {
+              "number": "208",
+              "numText": "§ 208.",
+              "heading": "Permits to take coal for local domestic needs without royalty payments; corporation exclusion; area to municipalities for household use without profit",
+              "identifier": "/us/usc/t30/s208"
+            },
+            {
+              "number": "208–1",
+              "numText": "§ 208–1.",
+              "heading": "Exploratory program for evaluation of known recoverable coal resources",
+              "identifier": "/us/usc/t30/s208–1"
+            },
+            {
+              "number": "208–2",
+              "numText": "§ 208–2.",
+              "heading": "Repealed. Pub. L. 104–66, title I, § 1091(e), Dec. 21, 1995, 109 Stat. 722",
+              "identifier": "/us/usc/t30/s208–2"
+            },
+            {
+              "number": "208a",
+              "numText": "§ 208a.",
+              "heading": "Repealed. Pub. L. 97–468, title VI, § 615(a)(3), Jan. 14, 1983, 96 Stat. 2578",
+              "identifier": "/us/usc/t30/s208a"
+            },
+            {
+              "number": "209",
+              "numText": "§ 209.",
+              "heading": "Suspension, waiver, or reduction of rents or royalties to promote development or operation; extension of lease on suspension of operations and production",
+              "identifier": "/us/usc/t30/s209"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "PHOSPHATES",
+          "identifier": "/us/usc/t30/ch3A/schIII",
+          "children": [
+            {
+              "number": "211",
+              "numText": "§ 211.",
+              "heading": "Phosphate deposits",
+              "identifier": "/us/usc/t30/s211"
+            },
+            {
+              "number": "212",
+              "numText": "§ 212.",
+              "heading": "Surveys; royalties; time payable; annual rentals; term of leases; readjustment on renewals; minimum production; suspension of operation",
+              "identifier": "/us/usc/t30/s212"
+            },
+            {
+              "number": "213",
+              "numText": "§ 213.",
+              "heading": "Royalties for use of deposits of silica, limestone, or other rock embraced in lease",
+              "identifier": "/us/usc/t30/s213"
+            },
+            {
+              "number": "214",
+              "numText": "§ 214.",
+              "heading": "Use of surface of other public lands; acreage; forest lands exception",
+              "identifier": "/us/usc/t30/s214"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "OIL AND GAS",
+          "identifier": "/us/usc/t30/ch3A/schIV",
+          "children": [
+            {
+              "number": "221 to 222i",
+              "numText": "§§ 221 to 222i.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s221...222i"
+            },
+            {
+              "number": "223",
+              "numText": "§ 223.",
+              "heading": "Leases; amount and survey of land; term of lease; royalties and annual rental",
+              "identifier": "/us/usc/t30/s223"
+            },
+            {
+              "number": "223a",
+              "numText": "§ 223a.",
+              "heading": "Repealed. Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958",
+              "identifier": "/us/usc/t30/s223a"
+            },
+            {
+              "number": "224",
+              "numText": "§ 224.",
+              "heading": "Payments for oil or gas taken prior to application for lease",
+              "identifier": "/us/usc/t30/s224"
+            },
+            {
+              "number": "225",
+              "numText": "§ 225.",
+              "heading": "Condition of lease, forfeiture for violation",
+              "identifier": "/us/usc/t30/s225"
+            },
+            {
+              "number": "226",
+              "numText": "§ 226.",
+              "heading": "Leasing of oil and gas parcels",
+              "identifier": "/us/usc/t30/s226"
+            },
+            {
+              "number": "226–1",
+              "numText": "§ 226–1.",
+              "heading": "Extension of noncompetitive oil or gas lease issued before September 2, 1960",
+              "identifier": "/us/usc/t30/s226–1"
+            },
+            {
+              "number": "226–2",
+              "numText": "§ 226–2.",
+              "heading": "Limitations for filing oil and gas contests",
+              "identifier": "/us/usc/t30/s226–2"
+            },
+            {
+              "number": "226–3",
+              "numText": "§ 226–3.",
+              "heading": "Lands not subject to oil and gas leasing",
+              "identifier": "/us/usc/t30/s226–3"
+            },
+            {
+              "number": "226a, 226b",
+              "numText": "§§ 226a, 226b.",
+              "heading": "Repealed. Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958",
+              "identifier": "/us/usc/t30/s226a /us/usc/t30/s226b"
+            },
+            {
+              "number": "226c",
+              "numText": "§ 226c.",
+              "heading": "Reduction of royalties under existing leases",
+              "identifier": "/us/usc/t30/s226c"
+            },
+            {
+              "number": "226d, 226e",
+              "numText": "§§ 226d, 226e.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s226d /us/usc/t30/s226e"
+            },
+            {
+              "number": "227",
+              "numText": "§ 227.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s227"
+            },
+            {
+              "number": "228",
+              "numText": "§ 228.",
+              "heading": "Prospecting permits and leases to persons of lands not withdrawn; terms and conditions of; fraud of claimants",
+              "identifier": "/us/usc/t30/s228"
+            },
+            {
+              "number": "229",
+              "numText": "§ 229.",
+              "heading": "Preference right to permits or leases of claimants of lands bona fide entered as agricultural land; terms and conditions",
+              "identifier": "/us/usc/t30/s229"
+            },
+            {
+              "number": "229a",
+              "numText": "§ 229a.",
+              "heading": "Water struck while drilling for oil and gas",
+              "identifier": "/us/usc/t30/s229a"
+            },
+            {
+              "number": "230 to 233",
+              "numText": "§§ 230 to 233.",
+              "heading": "Repealed. June 22, 1948, ch. 605, § 3, 62 Stat. 576",
+              "identifier": "/us/usc/t30/s230...233"
+            },
+            {
+              "number": "233a",
+              "numText": "§ 233a.",
+              "heading": "Permits or leases of certain lands in Okla­homa; retention of royalties",
+              "identifier": "/us/usc/t30/s233a"
+            },
+            {
+              "number": "234 to 236",
+              "numText": "§§ 234 to 236.",
+              "heading": "Repealed. June 22, 1948, ch. 605, § 3, 62 Stat. 576",
+              "identifier": "/us/usc/t30/s234...236"
+            },
+            {
+              "number": "236a",
+              "numText": "§ 236a.",
+              "heading": "Lands in naval petroleum reserves and naval oil-shale reserves; effect of other laws",
+              "identifier": "/us/usc/t30/s236a"
+            },
+            {
+              "number": "236b",
+              "numText": "§ 236b.",
+              "heading": "Existing leases within naval petroleum reserves not affected",
+              "identifier": "/us/usc/t30/s236b"
+            },
+            {
+              "number": "237",
+              "numText": "§ 237.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s237"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "OIL SHALE",
+          "identifier": "/us/usc/t30/ch3A/schV",
+          "children": [
+            {
+              "number": "241",
+              "numText": "§ 241.",
+              "heading": "Leases of lands",
+              "identifier": "/us/usc/t30/s241"
+            },
+            {
+              "number": "242",
+              "numText": "§ 242.",
+              "heading": "Oil shale claims",
+              "identifier": "/us/usc/t30/s242"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "ALASKA OIL PROVISO",
+          "identifier": "/us/usc/t30/ch3A/schVI",
+          "children": [
+            {
+              "number": "251",
+              "numText": "§ 251.",
+              "heading": "Leases to claimants of withdrawn lands; terms and conditions; acreage; annual rentals and royalties; fraud of claimants",
+              "identifier": "/us/usc/t30/s251"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "SODIUM",
+          "identifier": "/us/usc/t30/ch3A/schVII",
+          "children": [
+            {
+              "number": "261",
+              "numText": "§ 261.",
+              "heading": "Prospecting permits; lands included; acreage",
+              "identifier": "/us/usc/t30/s261"
+            },
+            {
+              "number": "262",
+              "numText": "§ 262.",
+              "heading": "Leases to permittees; survey of lands; royalties and annual rentals",
+              "identifier": "/us/usc/t30/s262"
+            },
+            {
+              "number": "263",
+              "numText": "§ 263.",
+              "heading": "Permits to use or lease of nonmineral lands for camp sites, and other purposes; annual rentals; acreage",
+              "identifier": "/us/usc/t30/s263"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VIII",
+          "heading": "SULPHUR",
+          "identifier": "/us/usc/t30/ch3A/schVIII",
+          "children": [
+            {
+              "number": "271",
+              "numText": "§ 271.",
+              "heading": "Prospecting permits; lands included; acreage",
+              "identifier": "/us/usc/t30/s271"
+            },
+            {
+              "number": "272",
+              "numText": "§ 272.",
+              "heading": "Leases to permittees; privileges extended to oil and gas permittees",
+              "identifier": "/us/usc/t30/s272"
+            },
+            {
+              "number": "273",
+              "numText": "§ 273.",
+              "heading": "Lease of lands not covered by permits or leases; acreage; rental",
+              "identifier": "/us/usc/t30/s273"
+            },
+            {
+              "number": "274",
+              "numText": "§ 274.",
+              "heading": "Lands containing coal or other minerals",
+              "identifier": "/us/usc/t30/s274"
+            },
+            {
+              "number": "275",
+              "numText": "§ 275.",
+              "heading": "Laws applicable",
+              "identifier": "/us/usc/t30/s275"
+            },
+            {
+              "number": "276",
+              "numText": "§ 276.",
+              "heading": "Application of subchapter to Louisiana and New Mexico only",
+              "identifier": "/us/usc/t30/s276"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IX",
+          "heading": "POTASH",
+          "identifier": "/us/usc/t30/ch3A/schIX",
+          "children": [
+            {
+              "number": "281",
+              "numText": "§ 281.",
+              "heading": "Prospecting permits for chlorides, sulphates, carbonates, borates, silicates, or nitrates of potassium; authorization; acreage; lands affected",
+              "identifier": "/us/usc/t30/s281"
+            },
+            {
+              "number": "282",
+              "numText": "§ 282.",
+              "heading": "Leases to permittees of lands showing valuable deposits; royalty",
+              "identifier": "/us/usc/t30/s282"
+            },
+            {
+              "number": "283",
+              "numText": "§ 283.",
+              "heading": "Lands containing valuable deposits not covered by permits or leases; authority to lease; acreage; conditions; renewals; exemptions from rentals and royalties; suspension of operations",
+              "identifier": "/us/usc/t30/s283"
+            },
+            {
+              "number": "284",
+              "numText": "§ 284.",
+              "heading": "Lands containing coal or other minerals in addition to potassium deposits; issuance of prospecting permits and leases; covenants in potassium leases",
+              "identifier": "/us/usc/t30/s284"
+            },
+            {
+              "number": "285",
+              "numText": "§ 285.",
+              "heading": "Laws applicable",
+              "identifier": "/us/usc/t30/s285"
+            },
+            {
+              "number": "286",
+              "numText": "§ 286.",
+              "heading": "Disposition of royalties and rents from potassium leases",
+              "identifier": "/us/usc/t30/s286"
+            },
+            {
+              "number": "287",
+              "numText": "§ 287.",
+              "heading": "Extension of prospecting permits",
+              "identifier": "/us/usc/t30/s287"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "LEASE OF GOLD, SILVER, OR QUICKSILVER DEPOSITS WHEN TITLE CONFIRMED BY COURT OF PRIVATE LAND CLAIMS",
+      "identifier": "/us/usc/t30/ch4",
+      "children": [
+        {
+          "number": "291",
+          "numText": "§ 291.",
+          "heading": "Lease of gold, silver, or quicksilver deposits on lands title to which confirmed by Court of Private Land Claims",
+          "identifier": "/us/usc/t30/s291"
+        },
+        {
+          "number": "292",
+          "numText": "§ 292.",
+          "heading": "Royalties and rentals; disposition",
+          "identifier": "/us/usc/t30/s292"
+        },
+        {
+          "number": "293",
+          "numText": "§ 293.",
+          "heading": "Duties of Secretary of the Interior",
+          "identifier": "/us/usc/t30/s293"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "LEASE OF OIL AND GAS DEPOSITS IN OR UNDER RAILROADS AND OTHER RIGHTS-OF-WAY",
+      "identifier": "/us/usc/t30/ch5",
+      "children": [
+        {
+          "number": "301",
+          "numText": "§ 301.",
+          "heading": "Authorization for lease of oil and gas deposits; by and to whom leased",
+          "identifier": "/us/usc/t30/s301"
+        },
+        {
+          "number": "302",
+          "numText": "§ 302.",
+          "heading": "Assignment of lease; subletting",
+          "identifier": "/us/usc/t30/s302"
+        },
+        {
+          "number": "303",
+          "numText": "§ 303.",
+          "heading": "Conditions precedent to award of lease; preferred class; bidding",
+          "identifier": "/us/usc/t30/s303"
+        },
+        {
+          "number": "304",
+          "numText": "§ 304.",
+          "heading": "Provisions authorized in lease",
+          "identifier": "/us/usc/t30/s304"
+        },
+        {
+          "number": "305",
+          "numText": "§ 305.",
+          "heading": "Royalties under lease",
+          "identifier": "/us/usc/t30/s305"
+        },
+        {
+          "number": "306",
+          "numText": "§ 306.",
+          "heading": "Rules and regulations",
+          "identifier": "/us/usc/t30/s306"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "SYNTHETIC LIQUID FUEL DEMONSTRATION PLANTS",
+      "identifier": "/us/usc/t30/ch6",
+      "children": [
+        {
+          "number": "321 to 325",
+          "numText": "§§ 321 to 325.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t30/s321...325"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "LEASE OF MINERAL DEPOSITS WITHIN ACQUIRED LANDS",
+      "identifier": "/us/usc/t30/ch7",
+      "children": [
+        {
+          "number": "351",
+          "numText": "§ 351.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s351"
+        },
+        {
+          "number": "352",
+          "numText": "§ 352.",
+          "heading": "Deposits subject to lease; consent of department heads; lands excluded",
+          "identifier": "/us/usc/t30/s352"
+        },
+        {
+          "number": "353",
+          "numText": "§ 353.",
+          "heading": "Sale of lands unaffected; reservation of mineral rights; sale subject to prior lease; naval petroleum reserves unaffected",
+          "identifier": "/us/usc/t30/s353"
+        },
+        {
+          "number": "354",
+          "numText": "§ 354.",
+          "heading": "Lease of partial or future interests in deposits",
+          "identifier": "/us/usc/t30/s354"
+        },
+        {
+          "number": "355",
+          "numText": "§ 355.",
+          "heading": "Disposition of receipts",
+          "identifier": "/us/usc/t30/s355"
+        },
+        {
+          "number": "356",
+          "numText": "§ 356.",
+          "heading": "Furnishing description of lands and title documents; recordation of documents; authenticated copies",
+          "identifier": "/us/usc/t30/s356"
+        },
+        {
+          "number": "357",
+          "numText": "§ 357.",
+          "heading": "State or local government rights; taxation",
+          "identifier": "/us/usc/t30/s357"
+        },
+        {
+          "number": "358",
+          "numText": "§ 358.",
+          "heading": "Rights under prior leases; priority of pending applications; exchange of leases",
+          "identifier": "/us/usc/t30/s358"
+        },
+        {
+          "number": "359",
+          "numText": "§ 359.",
+          "heading": "Rules and regulations",
+          "identifier": "/us/usc/t30/s359"
+        },
+        {
+          "number": "360",
+          "numText": "§ 360.",
+          "heading": "Authority to manage certain mineral leases",
+          "identifier": "/us/usc/t30/s360"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8",
+      "heading": "DEVELOPMENT OF LIGNITE COAL RESOURCES",
+      "identifier": "/us/usc/t30/ch8",
+      "children": [
+        {
+          "number": "401",
+          "numText": "§ 401.",
+          "heading": "Establishment of research laboratory; duties",
+          "identifier": "/us/usc/t30/s401"
+        },
+        {
+          "number": "402",
+          "numText": "§ 402.",
+          "heading": "Acquisition of lands and property; utilization of voluntary services; cooperation with other Federal, State, and private agencies",
+          "identifier": "/us/usc/t30/s402"
+        },
+        {
+          "number": "403",
+          "numText": "§ 403.",
+          "heading": "Repealed. Pub. L. 93–608, § 1(12), Jan. 2, 1975, 88 Stat. 1969",
+          "identifier": "/us/usc/t30/s403"
+        },
+        {
+          "number": "404",
+          "numText": "§ 404.",
+          "heading": "Establishment of an advisory committee; composition and appointment",
+          "identifier": "/us/usc/t30/s404"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "RARE AND PRECIOUS METALS EXPERIMENT STATION",
+      "identifier": "/us/usc/t30/ch9",
+      "children": [
+        {
+          "number": "411",
+          "numText": "§ 411.",
+          "heading": "Establishment and operation of experimental plant",
+          "identifier": "/us/usc/t30/s411"
+        },
+        {
+          "number": "412",
+          "numText": "§ 412.",
+          "heading": "Acquisition of lands and interests; acceptance of money and property; disposition and use of money",
+          "identifier": "/us/usc/t30/s412"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "10",
+      "heading": "COAL MINE SAFETY",
+      "identifier": "/us/usc/t30/ch10",
+      "children": [
+        {
+          "number": "451 to 483",
+          "numText": "§§ 451 to 483.",
+          "heading": "Repealed. Pub. L. 91–173, title V, § 509, Dec. 30, 1969, 83 Stat. 803",
+          "identifier": "/us/usc/t30/s451...483"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "11",
+      "heading": "MINING CLAIMS ON LANDS SUBJECT TO MINERAL LEASING LAWS",
+      "identifier": "/us/usc/t30/ch11",
+      "children": [
+        {
+          "number": "501",
+          "numText": "§ 501.",
+          "heading": "Mining claims located between July 31, 1939, and January 1, 1953",
+          "identifier": "/us/usc/t30/s501"
+        },
+        {
+          "number": "502",
+          "numText": "§ 502.",
+          "heading": "Reservation of minerals to the United States; rights of entry, disposition and removal",
+          "identifier": "/us/usc/t30/s502"
+        },
+        {
+          "number": "503",
+          "numText": "§ 503.",
+          "heading": "Reservations required by law; atomic energy materials",
+          "identifier": "/us/usc/t30/s503"
+        },
+        {
+          "number": "504",
+          "numText": "§ 504.",
+          "heading": "Power to make arrangements respecting atomic energy materials as unaffected",
+          "identifier": "/us/usc/t30/s504"
+        },
+        {
+          "number": "505",
+          "numText": "§ 505.",
+          "heading": "“Mineral leasing laws” defined",
+          "identifier": "/us/usc/t30/s505"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "12",
+      "heading": "MULTIPLE MINERAL DEVELOPMENT OF THE SAME TRACTS",
+      "identifier": "/us/usc/t30/ch12",
+      "children": [
+        {
+          "number": "521",
+          "numText": "§ 521.",
+          "heading": "Mineral leasing claims",
+          "identifier": "/us/usc/t30/s521"
+        },
+        {
+          "number": "522",
+          "numText": "§ 522.",
+          "heading": "Conflicting periods of location of claims",
+          "identifier": "/us/usc/t30/s522"
+        },
+        {
+          "number": "523",
+          "numText": "§ 523.",
+          "heading": "Uranium leases",
+          "identifier": "/us/usc/t30/s523"
+        },
+        {
+          "number": "524",
+          "numText": "§ 524.",
+          "heading": "Reservation of minerals to United States",
+          "identifier": "/us/usc/t30/s524"
+        },
+        {
+          "number": "525",
+          "numText": "§ 525.",
+          "heading": "Future location of claims on mineral lands",
+          "identifier": "/us/usc/t30/s525"
+        },
+        {
+          "number": "526",
+          "numText": "§ 526.",
+          "heading": "Mining and Leasing Act operations",
+          "identifier": "/us/usc/t30/s526"
+        },
+        {
+          "number": "527",
+          "numText": "§ 527.",
+          "heading": "Determination of unpatented mining claims",
+          "identifier": "/us/usc/t30/s527"
+        },
+        {
+          "number": "528",
+          "numText": "§ 528.",
+          "heading": "Waiver and relinquishment of mineral rights",
+          "identifier": "/us/usc/t30/s528"
+        },
+        {
+          "number": "529",
+          "numText": "§ 529.",
+          "heading": "Helium lands subject to entry",
+          "identifier": "/us/usc/t30/s529"
+        },
+        {
+          "number": "530",
+          "numText": "§ 530.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s530"
+        },
+        {
+          "number": "531",
+          "numText": "§ 531.",
+          "heading": "Approval of United States officials",
+          "identifier": "/us/usc/t30/s531"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "12A",
+      "heading": "ENTRY AND LOCATION ON COAL LANDS ON DISCOVERY OF SOURCE MATERIAL",
+      "identifier": "/us/usc/t30/ch12A",
+      "children": [
+        {
+          "number": "541",
+          "numText": "§ 541.",
+          "heading": "Entry and location; filing of copy of notice of mining location; report and payment for lignite mined; mineral patents; reservation of minerals to United States",
+          "identifier": "/us/usc/t30/s541"
+        },
+        {
+          "number": "541a",
+          "numText": "§ 541a.",
+          "heading": "Claims located prior to May 25, 1955; extra­lateral rights; amended notice of mining location",
+          "identifier": "/us/usc/t30/s541a"
+        },
+        {
+          "number": "541b",
+          "numText": "§ 541b.",
+          "heading": "Mining, removal, and disposal of lignite",
+          "identifier": "/us/usc/t30/s541b"
+        },
+        {
+          "number": "541c",
+          "numText": "§ 541c.",
+          "heading": "Lands where coal deposits have been reserved to the United States",
+          "identifier": "/us/usc/t30/s541c"
+        },
+        {
+          "number": "541d",
+          "numText": "§ 541d.",
+          "heading": "Location of source materials by holders of coal leases",
+          "identifier": "/us/usc/t30/s541d"
+        },
+        {
+          "number": "541e",
+          "numText": "§ 541e.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s541e"
+        },
+        {
+          "number": "541f",
+          "numText": "§ 541f.",
+          "heading": "Disbursement of moneys",
+          "identifier": "/us/usc/t30/s541f"
+        },
+        {
+          "number": "541g",
+          "numText": "§ 541g.",
+          "heading": "Rules and regulations",
+          "identifier": "/us/usc/t30/s541g"
+        },
+        {
+          "number": "541h",
+          "numText": "§ 541h.",
+          "heading": "Savings provision",
+          "identifier": "/us/usc/t30/s541h"
+        },
+        {
+          "number": "541i",
+          "numText": "§ 541i.",
+          "heading": "Withdrawal of lands from entry; expiration of claims",
+          "identifier": "/us/usc/t30/s541i"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "13",
+      "heading": "CONTROL OF COAL-MINE FIRES",
+      "identifier": "/us/usc/t30/ch13",
+      "children": [
+        {
+          "number": "551",
+          "numText": "§ 551.",
+          "heading": "Declaration of policy",
+          "identifier": "/us/usc/t30/s551"
+        },
+        {
+          "number": "552",
+          "numText": "§ 552.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s552"
+        },
+        {
+          "number": "553",
+          "numText": "§ 553.",
+          "heading": "Duties of Secretary; surveys, research, etc.; proj­ects",
+          "identifier": "/us/usc/t30/s553"
+        },
+        {
+          "number": "554",
+          "numText": "§ 554.",
+          "heading": "Lands subject to chapter",
+          "identifier": "/us/usc/t30/s554"
+        },
+        {
+          "number": "555",
+          "numText": "§ 555.",
+          "heading": "Conditions precedent for aid to non-Federal lands",
+          "identifier": "/us/usc/t30/s555"
+        },
+        {
+          "number": "556",
+          "numText": "§ 556.",
+          "heading": "Administration",
+          "identifier": "/us/usc/t30/s556"
+        },
+        {
+          "number": "557",
+          "numText": "§ 557.",
+          "heading": "Rules and regulations",
+          "identifier": "/us/usc/t30/s557"
+        },
+        {
+          "number": "558",
+          "numText": "§ 558.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t30/s558"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "14",
+      "heading": "ANTHRACITE MINE DRAINAGE AND FLOOD CONTROL",
+      "identifier": "/us/usc/t30/ch14",
+      "children": [
+        {
+          "number": "571",
+          "numText": "§ 571.",
+          "heading": "Declaration of policy",
+          "identifier": "/us/usc/t30/s571"
+        },
+        {
+          "number": "572",
+          "numText": "§ 572.",
+          "heading": "United States contributions to Pennsylvania: authority, conditions, limitations",
+          "identifier": "/us/usc/t30/s572"
+        },
+        {
+          "number": "573",
+          "numText": "§ 573.",
+          "heading": "Statement by Commonwealth for Secretary",
+          "identifier": "/us/usc/t30/s573"
+        },
+        {
+          "number": "574",
+          "numText": "§ 574.",
+          "heading": "Hearings; withholding payments",
+          "identifier": "/us/usc/t30/s574"
+        },
+        {
+          "number": "575",
+          "numText": "§ 575.",
+          "heading": "Repealed. Pub. L. 105–362, title IX, § 901(i)(1), Nov. 10, 1998, 112 Stat. 3290",
+          "identifier": "/us/usc/t30/s575"
+        },
+        {
+          "number": "576",
+          "numText": "§ 576.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t30/s576"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "15",
+      "heading": "SURFACE RESOURCES",
+      "identifier": "/us/usc/t30/ch15",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "DISPOSAL OF MATERIALS ON PUBLIC LANDS",
+          "identifier": "/us/usc/t30/ch15/schI",
+          "children": [
+            {
+              "number": "601",
+              "numText": "§ 601.",
+              "heading": "Rules and regulations governing disposal of materials; payment; removal without charge; lands excluded",
+              "identifier": "/us/usc/t30/s601"
+            },
+            {
+              "number": "602",
+              "numText": "§ 602.",
+              "heading": "Bidding; advertising and other notice; conditions for negotiation of contract",
+              "identifier": "/us/usc/t30/s602"
+            },
+            {
+              "number": "603",
+              "numText": "§ 603.",
+              "heading": "Disposition of moneys from disposal of materials",
+              "identifier": "/us/usc/t30/s603"
+            },
+            {
+              "number": "604",
+              "numText": "§ 604.",
+              "heading": "Disposal of sand, peat moss, etc., in Alaska; contracts",
+              "identifier": "/us/usc/t30/s604"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "MINING LOCATIONS",
+          "identifier": "/us/usc/t30/ch15/schII",
+          "children": [
+            {
+              "number": "611",
+              "numText": "§ 611.",
+              "heading": "Common varieties of sand, stone, gravel, pumice, pumicite, or cinders, and petrified wood",
+              "identifier": "/us/usc/t30/s611"
+            },
+            {
+              "number": "612",
+              "numText": "§ 612.",
+              "heading": "Unpatented mining claims",
+              "identifier": "/us/usc/t30/s612"
+            },
+            {
+              "number": "613",
+              "numText": "§ 613.",
+              "heading": "Procedure for determining title uncertainties",
+              "identifier": "/us/usc/t30/s613"
+            },
+            {
+              "number": "614",
+              "numText": "§ 614.",
+              "heading": "Waiver of rights",
+              "identifier": "/us/usc/t30/s614"
+            },
+            {
+              "number": "615",
+              "numText": "§ 615.",
+              "heading": "Limitation of existing rights",
+              "identifier": "/us/usc/t30/s615"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "16",
+      "heading": "MINERAL DEVELOPMENT OF LANDS WITHDRAWN FOR POWER DEVELOPMENT",
+      "identifier": "/us/usc/t30/ch16",
+      "children": [
+        {
+          "number": "621",
+          "numText": "§ 621.",
+          "heading": "Entry to lands reserved for power development",
+          "identifier": "/us/usc/t30/s621"
+        },
+        {
+          "number": "622",
+          "numText": "§ 622.",
+          "heading": "Liability for damage, destruction, or loss of claim",
+          "identifier": "/us/usc/t30/s622"
+        },
+        {
+          "number": "623",
+          "numText": "§ 623.",
+          "heading": "Recording and reporting of unpatented claims; time",
+          "identifier": "/us/usc/t30/s623"
+        },
+        {
+          "number": "624",
+          "numText": "§ 624.",
+          "heading": "Protection of existing valid claims",
+          "identifier": "/us/usc/t30/s624"
+        },
+        {
+          "number": "625",
+          "numText": "§ 625.",
+          "heading": "Prohibition of unspecified use",
+          "identifier": "/us/usc/t30/s625"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "17",
+      "heading": "EXPLORATION PROGRAM FOR DISCOVERY OF MINERALS",
+      "identifier": "/us/usc/t30/ch17",
+      "children": [
+        {
+          "number": "641",
+          "numText": "§ 641.",
+          "heading": "Establishment and maintenance of program for exploration; financial assistance",
+          "identifier": "/us/usc/t30/s641"
+        },
+        {
+          "number": "642",
+          "numText": "§ 642.",
+          "heading": "Exploration contracts",
+          "identifier": "/us/usc/t30/s642"
+        },
+        {
+          "number": "643",
+          "numText": "§ 643.",
+          "heading": "“Exploration” defined",
+          "identifier": "/us/usc/t30/s643"
+        },
+        {
+          "number": "644",
+          "numText": "§ 644.",
+          "heading": "Advice and assistance by Government departments and agencies; expenditure of funds",
+          "identifier": "/us/usc/t30/s644"
+        },
+        {
+          "number": "645",
+          "numText": "§ 645.",
+          "heading": "Repealed. Pub. L. 93–608, § 1(13), Jan. 2, 1975, 88 Stat. 1969",
+          "identifier": "/us/usc/t30/s645"
+        },
+        {
+          "number": "646",
+          "numText": "§ 646.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t30/s646"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "18",
+      "heading": "COAL RESEARCH AND DEVELOPMENT",
+      "identifier": "/us/usc/t30/ch18",
+      "children": [
+        {
+          "number": "661",
+          "numText": "§ 661.",
+          "heading": "Short title; definitions",
+          "identifier": "/us/usc/t30/s661"
+        },
+        {
+          "number": "662",
+          "numText": "§ 662.",
+          "heading": "Powers and duties of Secretary",
+          "identifier": "/us/usc/t30/s662"
+        },
+        {
+          "number": "663, 664",
+          "numText": "§§ 663, 664.",
+          "heading": "Repealed. Pub. L. 109–58, title X, § 1009(a)(1)(C), Aug. 8, 2005, 119 Stat. 934",
+          "identifier": "/us/usc/t30/s663 /us/usc/t30/s664"
+        },
+        {
+          "number": "665",
+          "numText": "§ 665.",
+          "heading": "Sites for conducting research; availability of personnel and facilities",
+          "identifier": "/us/usc/t30/s665"
+        },
+        {
+          "number": "666",
+          "numText": "§ 666.",
+          "heading": "Public-availability requirement; national defense; patent agreements",
+          "identifier": "/us/usc/t30/s666"
+        },
+        {
+          "number": "667",
+          "numText": "§ 667.",
+          "heading": "Repealed. Pub. L. 109–58, title X, § 1009(a)(1)(C), Aug. 8, 2005, 119 Stat. 934",
+          "identifier": "/us/usc/t30/s667"
+        },
+        {
+          "number": "668",
+          "numText": "§ 668.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t30/s668"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "19",
+      "heading": "LEAD AND ZINC STABILIZATION PROGRAM",
+      "identifier": "/us/usc/t30/ch19",
+      "children": [
+        {
+          "number": "681 to 689",
+          "numText": "§§ 681 to 689.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t30/s681...689"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "20",
+      "heading": "CONVEYANCES TO OCCUPANTS OF UNPATENTED MINING CLAIMS",
+      "identifier": "/us/usc/t30/ch20",
+      "children": [
+        {
+          "number": "701",
+          "numText": "§ 701.",
+          "heading": "Authorization to convey; acreage limitations; qualified applicants; payment; “qualified officer of the United States” defined",
+          "identifier": "/us/usc/t30/s701"
+        },
+        {
+          "number": "702",
+          "numText": "§ 702.",
+          "heading": "“Qualified applicant” defined",
+          "identifier": "/us/usc/t30/s702"
+        },
+        {
+          "number": "703",
+          "numText": "§ 703.",
+          "heading": "Withdrawal of lands in aid of a governmental unit",
+          "identifier": "/us/usc/t30/s703"
+        },
+        {
+          "number": "704",
+          "numText": "§ 704.",
+          "heading": "Purchase of substitute lands; limitations; conditions; payment; conveyance of less than a fee",
+          "identifier": "/us/usc/t30/s704"
+        },
+        {
+          "number": "705",
+          "numText": "§ 705.",
+          "heading": "Purchase price of conveyed interest; installment payments",
+          "identifier": "/us/usc/t30/s705"
+        },
+        {
+          "number": "706",
+          "numText": "§ 706.",
+          "heading": "Liabilities of occupants; trespass; limitations",
+          "identifier": "/us/usc/t30/s706"
+        },
+        {
+          "number": "707",
+          "numText": "§ 707.",
+          "heading": "Reservation of mineral rights",
+          "identifier": "/us/usc/t30/s707"
+        },
+        {
+          "number": "708",
+          "numText": "§ 708.",
+          "heading": "Assignments; succession",
+          "identifier": "/us/usc/t30/s708"
+        },
+        {
+          "number": "709",
+          "numText": "§ 709.",
+          "heading": "Disposition of payments and fees",
+          "identifier": "/us/usc/t30/s709"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "21",
+      "heading": "METAL AND NONMETALLIC MINE SAFETY",
+      "identifier": "/us/usc/t30/ch21",
+      "children": [
+        {
+          "number": "721 to 740",
+          "numText": "§§ 721 to 740.",
+          "heading": "Repealed. Pub. L. 95–164, title III, § 306(a), Nov. 9, 1977, 91 Stat. 1322",
+          "identifier": "/us/usc/t30/s721...740"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "22",
+      "heading": "MINE SAFETY AND HEALTH",
+      "identifier": "/us/usc/t30/ch22",
+      "children": [
+        {
+          "number": "801",
+          "numText": "§ 801.",
+          "heading": "Congressional findings and declaration of purpose",
+          "identifier": "/us/usc/t30/s801"
+        },
+        {
+          "number": "802",
+          "numText": "§ 802.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s802"
+        },
+        {
+          "number": "803",
+          "numText": "§ 803.",
+          "heading": "Mines subject to coverage",
+          "identifier": "/us/usc/t30/s803"
+        },
+        {
+          "number": "804",
+          "numText": "§ 804.",
+          "heading": "Interim Compliance Panel",
+          "identifier": "/us/usc/t30/s804"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL",
+          "identifier": "/us/usc/t30/ch22/schI",
+          "children": [
+            {
+              "number": "811",
+              "numText": "§ 811.",
+              "heading": "Mandatory safety and health standards",
+              "identifier": "/us/usc/t30/s811"
+            },
+            {
+              "number": "812",
+              "numText": "§ 812.",
+              "heading": "Advisory committees",
+              "identifier": "/us/usc/t30/s812"
+            },
+            {
+              "number": "813",
+              "numText": "§ 813.",
+              "heading": "Inspections, investigations, and recordkeeping",
+              "identifier": "/us/usc/t30/s813"
+            },
+            {
+              "number": "814",
+              "numText": "§ 814.",
+              "heading": "Citations and orders",
+              "identifier": "/us/usc/t30/s814"
+            },
+            {
+              "number": "815",
+              "numText": "§ 815.",
+              "heading": "Procedure for enforcement",
+              "identifier": "/us/usc/t30/s815"
+            },
+            {
+              "number": "816",
+              "numText": "§ 816.",
+              "heading": "Judicial review of Commission orders",
+              "identifier": "/us/usc/t30/s816"
+            },
+            {
+              "number": "817",
+              "numText": "§ 817.",
+              "heading": "Procedures to counteract dangerous conditions",
+              "identifier": "/us/usc/t30/s817"
+            },
+            {
+              "number": "818",
+              "numText": "§ 818.",
+              "heading": "Injunctions",
+              "identifier": "/us/usc/t30/s818"
+            },
+            {
+              "number": "819",
+              "numText": "§ 819.",
+              "heading": "Posting of orders and decisions",
+              "identifier": "/us/usc/t30/s819"
+            },
+            {
+              "number": "820",
+              "numText": "§ 820.",
+              "heading": "Penalties",
+              "identifier": "/us/usc/t30/s820"
+            },
+            {
+              "number": "821",
+              "numText": "§ 821.",
+              "heading": "Entitlement of miners to full compensation",
+              "identifier": "/us/usc/t30/s821"
+            },
+            {
+              "number": "822",
+              "numText": "§ 822.",
+              "heading": "Representation of Secretary in civil litigation by Solicitor of Labor",
+              "identifier": "/us/usc/t30/s822"
+            },
+            {
+              "number": "823",
+              "numText": "§ 823.",
+              "heading": "Federal Mine Safety and Health Review Commission",
+              "identifier": "/us/usc/t30/s823"
+            },
+            {
+              "number": "823a",
+              "numText": "§ 823a.",
+              "heading": "Principal office in District of Columbia; proceedings held elsewhere",
+              "identifier": "/us/usc/t30/s823a"
+            },
+            {
+              "number": "824",
+              "numText": "§ 824.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t30/s824"
+            },
+            {
+              "number": "825",
+              "numText": "§ 825.",
+              "heading": "Mandatory health and safety training",
+              "identifier": "/us/usc/t30/s825"
+            },
+            {
+              "number": "826",
+              "numText": "§ 826.",
+              "heading": "Limitation on certain liability for rescue operations",
+              "identifier": "/us/usc/t30/s826"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "INTERIM MANDATORY HEALTH STANDARDS",
+          "identifier": "/us/usc/t30/ch22/schII",
+          "children": [
+            {
+              "number": "841",
+              "numText": "§ 841.",
+              "heading": "Mandatory health standards for underground mines; enforcement; review; purpose",
+              "identifier": "/us/usc/t30/s841"
+            },
+            {
+              "number": "842",
+              "numText": "§ 842.",
+              "heading": "Dust concentration and respiratory equipment",
+              "identifier": "/us/usc/t30/s842"
+            },
+            {
+              "number": "843",
+              "numText": "§ 843.",
+              "heading": "Medical examinations",
+              "identifier": "/us/usc/t30/s843"
+            },
+            {
+              "number": "844",
+              "numText": "§ 844.",
+              "heading": "Rock dust and gas hazards; controls",
+              "identifier": "/us/usc/t30/s844"
+            },
+            {
+              "number": "845",
+              "numText": "§ 845.",
+              "heading": "Dust standards in presence of quartz",
+              "identifier": "/us/usc/t30/s845"
+            },
+            {
+              "number": "846",
+              "numText": "§ 846.",
+              "heading": "Noise standards; promulgation of new standards; tests; procedures; protective devices",
+              "identifier": "/us/usc/t30/s846"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "INTERIM MANDATORY SAFETY STANDARDS FOR UNDERGROUND COAL MINES",
+          "identifier": "/us/usc/t30/ch22/schIII",
+          "children": [
+            {
+              "number": "861",
+              "numText": "§ 861.",
+              "heading": "Mandatory safety standards for underground mines",
+              "identifier": "/us/usc/t30/s861"
+            },
+            {
+              "number": "862",
+              "numText": "§ 862.",
+              "heading": "Roof support",
+              "identifier": "/us/usc/t30/s862"
+            },
+            {
+              "number": "863",
+              "numText": "§ 863.",
+              "heading": "Ventilation",
+              "identifier": "/us/usc/t30/s863"
+            },
+            {
+              "number": "864",
+              "numText": "§ 864.",
+              "heading": "Combustible materials and rock dusting",
+              "identifier": "/us/usc/t30/s864"
+            },
+            {
+              "number": "865",
+              "numText": "§ 865.",
+              "heading": "Electrical equipment",
+              "identifier": "/us/usc/t30/s865"
+            },
+            {
+              "number": "866",
+              "numText": "§ 866.",
+              "heading": "Trailing cables",
+              "identifier": "/us/usc/t30/s866"
+            },
+            {
+              "number": "867",
+              "numText": "§ 867.",
+              "heading": "Grounding of equipment",
+              "identifier": "/us/usc/t30/s867"
+            },
+            {
+              "number": "868",
+              "numText": "§ 868.",
+              "heading": "Underground high-voltage distribution",
+              "identifier": "/us/usc/t30/s868"
+            },
+            {
+              "number": "869",
+              "numText": "§ 869.",
+              "heading": "Underground low- and medium-voltage alternating current circuits",
+              "identifier": "/us/usc/t30/s869"
+            },
+            {
+              "number": "870",
+              "numText": "§ 870.",
+              "heading": "Trolley wires and trolley feeder wires",
+              "identifier": "/us/usc/t30/s870"
+            },
+            {
+              "number": "871",
+              "numText": "§ 871.",
+              "heading": "Fire protection",
+              "identifier": "/us/usc/t30/s871"
+            },
+            {
+              "number": "872",
+              "numText": "§ 872.",
+              "heading": "Maps",
+              "identifier": "/us/usc/t30/s872"
+            },
+            {
+              "number": "873",
+              "numText": "§ 873.",
+              "heading": "Blasting and explosives",
+              "identifier": "/us/usc/t30/s873"
+            },
+            {
+              "number": "874",
+              "numText": "§ 874.",
+              "heading": "Hoisting and mantrips",
+              "identifier": "/us/usc/t30/s874"
+            },
+            {
+              "number": "875",
+              "numText": "§ 875.",
+              "heading": "Emergency shelters; construction; contents; implementation plans",
+              "identifier": "/us/usc/t30/s875"
+            },
+            {
+              "number": "876",
+              "numText": "§ 876.",
+              "heading": "Communication facilities; locations and emergency response plans",
+              "identifier": "/us/usc/t30/s876"
+            },
+            {
+              "number": "877",
+              "numText": "§ 877.",
+              "heading": "General safety provisions",
+              "identifier": "/us/usc/t30/s877"
+            },
+            {
+              "number": "878",
+              "numText": "§ 878.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t30/s878"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "BLACK LUNG BENEFITS",
+          "identifier": "/us/usc/t30/ch22/schIV",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "General Provisions",
+              "identifier": "/us/usc/t30/ch22/schIV/ptA",
+              "children": [
+                {
+                  "number": "901",
+                  "numText": "§ 901.",
+                  "heading": "Congressional findings and declaration of purpose; short title",
+                  "identifier": "/us/usc/t30/s901"
+                },
+                {
+                  "number": "902",
+                  "numText": "§ 902.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t30/s902"
+                },
+                {
+                  "number": "903",
+                  "numText": "§ 903.",
+                  "heading": "Field offices",
+                  "identifier": "/us/usc/t30/s903"
+                },
+                {
+                  "number": "904",
+                  "numText": "§ 904.",
+                  "heading": "Repealed. Pub. L. 107–275, § 2(c)(2), Nov. 2, 2002, 116 Stat. 1926",
+                  "identifier": "/us/usc/t30/s904"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Claims for Benefits Filed on or Before December 31, 1973",
+              "identifier": "/us/usc/t30/ch22/schIV/ptB",
+              "children": [
+                {
+                  "number": "921",
+                  "numText": "§ 921.",
+                  "heading": "Regulations and presumptions",
+                  "identifier": "/us/usc/t30/s921"
+                },
+                {
+                  "number": "922",
+                  "numText": "§ 922.",
+                  "heading": "Payment of benefits",
+                  "identifier": "/us/usc/t30/s922"
+                },
+                {
+                  "number": "923",
+                  "numText": "§ 923.",
+                  "heading": "Filing of notice of claim",
+                  "identifier": "/us/usc/t30/s923"
+                },
+                {
+                  "number": "924",
+                  "numText": "§ 924.",
+                  "heading": "Time for filing claims",
+                  "identifier": "/us/usc/t30/s924"
+                },
+                {
+                  "number": "924a",
+                  "numText": "§ 924a.",
+                  "heading": "Repealed. Pub. L. 107–275, § 2(c)(2), Nov. 2, 2002, 116 Stat. 1926",
+                  "identifier": "/us/usc/t30/s924a"
+                },
+                {
+                  "number": "925",
+                  "numText": "§ 925.",
+                  "heading": "Procedure for the determination of claims during transition period",
+                  "identifier": "/us/usc/t30/s925"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Claims for Benefits After December 31, 1973",
+              "identifier": "/us/usc/t30/ch22/schIV/ptC",
+              "children": [
+                {
+                  "number": "931",
+                  "numText": "§ 931.",
+                  "heading": "Benefits under State workmen’s compensation laws",
+                  "identifier": "/us/usc/t30/s931"
+                },
+                {
+                  "number": "932",
+                  "numText": "§ 932.",
+                  "heading": "Failure to meet workmen’s compensation requirements",
+                  "identifier": "/us/usc/t30/s932"
+                },
+                {
+                  "number": "932a",
+                  "numText": "§ 932a.",
+                  "heading": "Appointment of qualified individuals to hear and determine claims for benefits",
+                  "identifier": "/us/usc/t30/s932a"
+                },
+                {
+                  "number": "933",
+                  "numText": "§ 933.",
+                  "heading": "Duties of operators in States not qualifying under workmen’s compensation laws",
+                  "identifier": "/us/usc/t30/s933"
+                },
+                {
+                  "number": "934",
+                  "numText": "§ 934.",
+                  "heading": "“Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest",
+                  "identifier": "/us/usc/t30/s934"
+                },
+                {
+                  "number": "934a",
+                  "numText": "§ 934a.",
+                  "heading": "Repealed. Pub. L. 97–119, title I, § 103(b), Dec. 29, 1981, 95 Stat. 1638",
+                  "identifier": "/us/usc/t30/s934a"
+                },
+                {
+                  "number": "935",
+                  "numText": "§ 935.",
+                  "heading": "Utilization of services of State and local agencies",
+                  "identifier": "/us/usc/t30/s935"
+                },
+                {
+                  "number": "936",
+                  "numText": "§ 936.",
+                  "heading": "Regulations and reports",
+                  "identifier": "/us/usc/t30/s936"
+                },
+                {
+                  "number": "937",
+                  "numText": "§ 937.",
+                  "heading": "Contracts and grants",
+                  "identifier": "/us/usc/t30/s937"
+                },
+                {
+                  "number": "938",
+                  "numText": "§ 938.",
+                  "heading": "Miners suffering from pneumoconiosis; discrimination prohibited",
+                  "identifier": "/us/usc/t30/s938"
+                },
+                {
+                  "number": "939",
+                  "numText": "§ 939.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t30/s939"
+                },
+                {
+                  "number": "940",
+                  "numText": "§ 940.",
+                  "heading": "Applicability of amendments to part B of this subchapter to this part",
+                  "identifier": "/us/usc/t30/s940"
+                },
+                {
+                  "number": "941",
+                  "numText": "§ 941.",
+                  "heading": "Penalty for false statements or representations",
+                  "identifier": "/us/usc/t30/s941"
+                },
+                {
+                  "number": "942",
+                  "numText": "§ 942.",
+                  "heading": "Miner benefit entitlement reports; penalty for failure or refusal to file",
+                  "identifier": "/us/usc/t30/s942"
+                },
+                {
+                  "number": "943",
+                  "numText": "§ 943.",
+                  "heading": "Black lung insurance program",
+                  "identifier": "/us/usc/t30/s943"
+                },
+                {
+                  "number": "944",
+                  "numText": "§ 944.",
+                  "heading": "Statement of reasons for denial of claim",
+                  "identifier": "/us/usc/t30/s944"
+                },
+                {
+                  "number": "945",
+                  "numText": "§ 945.",
+                  "heading": "Repealed. Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116 Stat. 1926",
+                  "identifier": "/us/usc/t30/s945"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "ADMINISTRATIVE PROVISIONS",
+          "identifier": "/us/usc/t30/ch22/schV",
+          "children": [
+            {
+              "number": "951",
+              "numText": "§ 951.",
+              "heading": "Studies and research",
+              "identifier": "/us/usc/t30/s951"
+            },
+            {
+              "number": "951a",
+              "numText": "§ 951a.",
+              "heading": "Health, Safety, and Mining Technology Research program",
+              "identifier": "/us/usc/t30/s951a"
+            },
+            {
+              "number": "952",
+              "numText": "§ 952.",
+              "heading": "Training and education",
+              "identifier": "/us/usc/t30/s952"
+            },
+            {
+              "number": "953",
+              "numText": "§ 953.",
+              "heading": "Assistance to States",
+              "identifier": "/us/usc/t30/s953"
+            },
+            {
+              "number": "954",
+              "numText": "§ 954.",
+              "heading": "Appointment of administrative personnel and inspectors; qualifications; training programs",
+              "identifier": "/us/usc/t30/s954"
+            },
+            {
+              "number": "955",
+              "numText": "§ 955.",
+              "heading": "State laws",
+              "identifier": "/us/usc/t30/s955"
+            },
+            {
+              "number": "956",
+              "numText": "§ 956.",
+              "heading": "Applicability of administrative procedure provisions",
+              "identifier": "/us/usc/t30/s956"
+            },
+            {
+              "number": "957",
+              "numText": "§ 957.",
+              "heading": "Promulgation of regulations",
+              "identifier": "/us/usc/t30/s957"
+            },
+            {
+              "number": "958",
+              "numText": "§ 958.",
+              "heading": "Annual reports to Congress; contents",
+              "identifier": "/us/usc/t30/s958"
+            },
+            {
+              "number": "959",
+              "numText": "§ 959.",
+              "heading": "Study of coordination of Federal and State activities; report",
+              "identifier": "/us/usc/t30/s959"
+            },
+            {
+              "number": "960",
+              "numText": "§ 960.",
+              "heading": "Limitation on issuance of temporary restraining order or preliminary injunction",
+              "identifier": "/us/usc/t30/s960"
+            },
+            {
+              "number": "961",
+              "numText": "§ 961.",
+              "heading": "Functions transferred under 1977 amendments",
+              "identifier": "/us/usc/t30/s961"
+            },
+            {
+              "number": "962",
+              "numText": "§ 962.",
+              "heading": "Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations",
+              "identifier": "/us/usc/t30/s962"
+            },
+            {
+              "number": "963",
+              "numText": "§ 963.",
+              "heading": "Technical Study Panel",
+              "identifier": "/us/usc/t30/s963"
+            },
+            {
+              "number": "964",
+              "numText": "§ 964.",
+              "heading": "Scholarships",
+              "identifier": "/us/usc/t30/s964"
+            },
+            {
+              "number": "965",
+              "numText": "§ 965.",
+              "heading": "Brookwood-Sago Mine Safety Grants",
+              "identifier": "/us/usc/t30/s965"
+            },
+            {
+              "number": "966",
+              "numText": "§ 966.",
+              "heading": "Retention of fees",
+              "identifier": "/us/usc/t30/s966"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "23",
+      "heading": "GEOTHERMAL RESOURCES",
+      "identifier": "/us/usc/t30/ch23",
+      "children": [
+        {
+          "number": "1001",
+          "numText": "§ 1001.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s1001"
+        },
+        {
+          "number": "1002",
+          "numText": "§ 1002.",
+          "heading": "Lands subject to geothermal leasing",
+          "identifier": "/us/usc/t30/s1002"
+        },
+        {
+          "number": "1002a",
+          "numText": "§ 1002a.",
+          "heading": "Repealed. Pub. L. 97–214, § 7(16), July 12, 1982, 96 Stat. 174",
+          "identifier": "/us/usc/t30/s1002a"
+        },
+        {
+          "number": "1003",
+          "numText": "§ 1003.",
+          "heading": "Leasing procedures",
+          "identifier": "/us/usc/t30/s1003"
+        },
+        {
+          "number": "1004",
+          "numText": "§ 1004.",
+          "heading": "Rents and royalties",
+          "identifier": "/us/usc/t30/s1004"
+        },
+        {
+          "number": "1005",
+          "numText": "§ 1005.",
+          "heading": "Lease term and work commitment requirements",
+          "identifier": "/us/usc/t30/s1005"
+        },
+        {
+          "number": "1006",
+          "numText": "§ 1006.",
+          "heading": "Acreage limitations",
+          "identifier": "/us/usc/t30/s1006"
+        },
+        {
+          "number": "1007",
+          "numText": "§ 1007.",
+          "heading": "Readjustment of lease terms and conditions",
+          "identifier": "/us/usc/t30/s1007"
+        },
+        {
+          "number": "1008",
+          "numText": "§ 1008.",
+          "heading": "Byproducts",
+          "identifier": "/us/usc/t30/s1008"
+        },
+        {
+          "number": "1009",
+          "numText": "§ 1009.",
+          "heading": "Relinquishment of geothermal rights",
+          "identifier": "/us/usc/t30/s1009"
+        },
+        {
+          "number": "1010",
+          "numText": "§ 1010.",
+          "heading": "Suspension of operations and production",
+          "identifier": "/us/usc/t30/s1010"
+        },
+        {
+          "number": "1011",
+          "numText": "§ 1011.",
+          "heading": "Termination of leases",
+          "identifier": "/us/usc/t30/s1011"
+        },
+        {
+          "number": "1012",
+          "numText": "§ 1012.",
+          "heading": "Waiver, suspension, or reduction of rental or royalty",
+          "identifier": "/us/usc/t30/s1012"
+        },
+        {
+          "number": "1013",
+          "numText": "§ 1013.",
+          "heading": "Surface land use",
+          "identifier": "/us/usc/t30/s1013"
+        },
+        {
+          "number": "1014",
+          "numText": "§ 1014.",
+          "heading": "Lands subject to geothermal leasing",
+          "identifier": "/us/usc/t30/s1014"
+        },
+        {
+          "number": "1015",
+          "numText": "§ 1015.",
+          "heading": "Requirement for lessees",
+          "identifier": "/us/usc/t30/s1015"
+        },
+        {
+          "number": "1016",
+          "numText": "§ 1016.",
+          "heading": "Administration",
+          "identifier": "/us/usc/t30/s1016"
+        },
+        {
+          "number": "1017",
+          "numText": "§ 1017.",
+          "heading": "Unit and communitization agreements",
+          "identifier": "/us/usc/t30/s1017"
+        },
+        {
+          "number": "1018",
+          "numText": "§ 1018.",
+          "heading": "Data from Federal agencies",
+          "identifier": "/us/usc/t30/s1018"
+        },
+        {
+          "number": "1019",
+          "numText": "§ 1019.",
+          "heading": "Disposal of moneys from sales, bonuses, rentals, and royalties",
+          "identifier": "/us/usc/t30/s1019"
+        },
+        {
+          "number": "1020",
+          "numText": "§ 1020.",
+          "heading": "Publication in Federal Register; reservation of mineral rights",
+          "identifier": "/us/usc/t30/s1020"
+        },
+        {
+          "number": "1021",
+          "numText": "§ 1021.",
+          "heading": "Federal exemption from State water laws",
+          "identifier": "/us/usc/t30/s1021"
+        },
+        {
+          "number": "1022",
+          "numText": "§ 1022.",
+          "heading": "Prevention of waste; exclusivity",
+          "identifier": "/us/usc/t30/s1022"
+        },
+        {
+          "number": "1023",
+          "numText": "§ 1023.",
+          "heading": "Rules and regulations",
+          "identifier": "/us/usc/t30/s1023"
+        },
+        {
+          "number": "1024",
+          "numText": "§ 1024.",
+          "heading": "Inclusion of geothermal leasing under certain other laws",
+          "identifier": "/us/usc/t30/s1024"
+        },
+        {
+          "number": "1025",
+          "numText": "§ 1025.",
+          "heading": "Federal reservation of certain mineral rights",
+          "identifier": "/us/usc/t30/s1025"
+        },
+        {
+          "number": "1026",
+          "numText": "§ 1026.",
+          "heading": "Significant thermal features",
+          "identifier": "/us/usc/t30/s1026"
+        },
+        {
+          "number": "1027",
+          "numText": "§ 1027.",
+          "heading": "Land subject to prohibition on leasing",
+          "identifier": "/us/usc/t30/s1027"
+        },
+        {
+          "number": "1028",
+          "numText": "§ 1028.",
+          "heading": "Hot dry rock geothermal energy",
+          "identifier": "/us/usc/t30/s1028"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "24",
+      "heading": "GEOTHERMAL ENERGY RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+      "identifier": "/us/usc/t30/ch24",
+      "children": [
+        {
+          "number": "1101 to 1164",
+          "numText": "§§ 1101 to 1164.",
+          "heading": "Repealed. Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495",
+          "identifier": "/us/usc/t30/s1101...1164"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "25",
+      "heading": "SURFACE MINING CONTROL AND RECLAMATION",
+      "identifier": "/us/usc/t30/ch25",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "STATEMENT OF FINDINGS AND POLICY",
+          "identifier": "/us/usc/t30/ch25/schI",
+          "children": [
+            {
+              "number": "1201",
+              "numText": "§ 1201.",
+              "heading": "Congressional findings",
+              "identifier": "/us/usc/t30/s1201"
+            },
+            {
+              "number": "1202",
+              "numText": "§ 1202.",
+              "heading": "Statement of purpose",
+              "identifier": "/us/usc/t30/s1202"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "OFFICE OF SURFACE MINING RECLAMATION AND ENFORCEMENT",
+          "identifier": "/us/usc/t30/ch25/schII",
+          "children": [
+            {
+              "number": "1211",
+              "numText": "§ 1211.",
+              "heading": "Office of Surface Mining Reclamation and Enforcement",
+              "identifier": "/us/usc/t30/s1211"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "STATE MINING AND MINERAL RESOURCES RESEARCH INSTITUTES",
+          "identifier": "/us/usc/t30/ch25/schIII",
+          "children": [
+            {
+              "number": "1221",
+              "numText": "§ 1221.",
+              "heading": "Authorization of State allotments to institutes",
+              "identifier": "/us/usc/t30/s1221"
+            },
+            {
+              "number": "1222",
+              "numText": "§ 1222.",
+              "heading": "Research funds to institutes",
+              "identifier": "/us/usc/t30/s1222"
+            },
+            {
+              "number": "1223",
+              "numText": "§ 1223.",
+              "heading": "Funding criteria",
+              "identifier": "/us/usc/t30/s1223"
+            },
+            {
+              "number": "1224",
+              "numText": "§ 1224.",
+              "heading": "Duties of Secretary",
+              "identifier": "/us/usc/t30/s1224"
+            },
+            {
+              "number": "1225",
+              "numText": "§ 1225.",
+              "heading": "Effect on colleges and universities",
+              "identifier": "/us/usc/t30/s1225"
+            },
+            {
+              "number": "1226",
+              "numText": "§ 1226.",
+              "heading": "Research",
+              "identifier": "/us/usc/t30/s1226"
+            },
+            {
+              "number": "1227",
+              "numText": "§ 1227.",
+              "heading": "Center for cataloging",
+              "identifier": "/us/usc/t30/s1227"
+            },
+            {
+              "number": "1228",
+              "numText": "§ 1228.",
+              "heading": "Interagency cooperation",
+              "identifier": "/us/usc/t30/s1228"
+            },
+            {
+              "number": "1229",
+              "numText": "§ 1229.",
+              "heading": "Committee on Mining and Mineral Resources Research",
+              "identifier": "/us/usc/t30/s1229"
+            },
+            {
+              "number": "1230",
+              "numText": "§ 1230.",
+              "heading": "Eligibility criteria",
+              "identifier": "/us/usc/t30/s1230"
+            },
+            {
+              "number": "1230a",
+              "numText": "§ 1230a.",
+              "heading": "Strategic Resources Generic Mineral Technology Center",
+              "identifier": "/us/usc/t30/s1230a"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "ABANDONED MINE RECLAMATIONS",
+          "identifier": "/us/usc/t30/ch25/schIV",
+          "children": [
+            {
+              "number": "1231",
+              "numText": "§ 1231.",
+              "heading": "Abandoned Mine Reclamation Fund",
+              "identifier": "/us/usc/t30/s1231"
+            },
+            {
+              "number": "1231a",
+              "numText": "§ 1231a.",
+              "heading": "Abandoned mine reclamation fund authorization of appropriations",
+              "identifier": "/us/usc/t30/s1231a"
+            },
+            {
+              "number": "1232",
+              "numText": "§ 1232.",
+              "heading": "Reclamation fee",
+              "identifier": "/us/usc/t30/s1232"
+            },
+            {
+              "number": "1233",
+              "numText": "§ 1233.",
+              "heading": "Objectives of fund",
+              "identifier": "/us/usc/t30/s1233"
+            },
+            {
+              "number": "1234",
+              "numText": "§ 1234.",
+              "heading": "Eligible lands and water",
+              "identifier": "/us/usc/t30/s1234"
+            },
+            {
+              "number": "1235",
+              "numText": "§ 1235.",
+              "heading": "State reclamation program",
+              "identifier": "/us/usc/t30/s1235"
+            },
+            {
+              "number": "1236",
+              "numText": "§ 1236.",
+              "heading": "Reclamation of rural lands",
+              "identifier": "/us/usc/t30/s1236"
+            },
+            {
+              "number": "1237",
+              "numText": "§ 1237.",
+              "heading": "Acquisition and reclamation of land adversely affected by past coal mining practices",
+              "identifier": "/us/usc/t30/s1237"
+            },
+            {
+              "number": "1238",
+              "numText": "§ 1238.",
+              "heading": "Liens",
+              "identifier": "/us/usc/t30/s1238"
+            },
+            {
+              "number": "1239",
+              "numText": "§ 1239.",
+              "heading": "Filling voids and sealing tunnels",
+              "identifier": "/us/usc/t30/s1239"
+            },
+            {
+              "number": "1240",
+              "numText": "§ 1240.",
+              "heading": "Emergency powers",
+              "identifier": "/us/usc/t30/s1240"
+            },
+            {
+              "number": "1240a",
+              "numText": "§ 1240a.",
+              "heading": "Certification",
+              "identifier": "/us/usc/t30/s1240a"
+            },
+            {
+              "number": "1241",
+              "numText": "§ 1241.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s1241"
+            },
+            {
+              "number": "1242",
+              "numText": "§ 1242.",
+              "heading": "Powers of Secretary or State",
+              "identifier": "/us/usc/t30/s1242"
+            },
+            {
+              "number": "1243",
+              "numText": "§ 1243.",
+              "heading": "Interagency cooperation",
+              "identifier": "/us/usc/t30/s1243"
+            },
+            {
+              "number": "1244",
+              "numText": "§ 1244.",
+              "heading": "Remining incentives",
+              "identifier": "/us/usc/t30/s1244"
+            },
+            {
+              "number": "1245",
+              "numText": "§ 1245.",
+              "heading": "Abandoned hardrock mine reclamation",
+              "identifier": "/us/usc/t30/s1245"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "CONTROL OF THE ENVIRONMENTAL IMPACTS OF SURFACE COAL MINING",
+          "identifier": "/us/usc/t30/ch25/schV",
+          "children": [
+            {
+              "number": "1251",
+              "numText": "§ 1251.",
+              "heading": "Environmental protection standards",
+              "identifier": "/us/usc/t30/s1251"
+            },
+            {
+              "number": "1251a",
+              "numText": "§ 1251a.",
+              "heading": "Abandoned coal refuse sites",
+              "identifier": "/us/usc/t30/s1251a"
+            },
+            {
+              "number": "1252",
+              "numText": "§ 1252.",
+              "heading": "Initial regulatory procedures",
+              "identifier": "/us/usc/t30/s1252"
+            },
+            {
+              "number": "1253",
+              "numText": "§ 1253.",
+              "heading": "State programs",
+              "identifier": "/us/usc/t30/s1253"
+            },
+            {
+              "number": "1254",
+              "numText": "§ 1254.",
+              "heading": "Federal programs",
+              "identifier": "/us/usc/t30/s1254"
+            },
+            {
+              "number": "1255",
+              "numText": "§ 1255.",
+              "heading": "State laws",
+              "identifier": "/us/usc/t30/s1255"
+            },
+            {
+              "number": "1256",
+              "numText": "§ 1256.",
+              "heading": "Permits",
+              "identifier": "/us/usc/t30/s1256"
+            },
+            {
+              "number": "1257",
+              "numText": "§ 1257.",
+              "heading": "Application requirements",
+              "identifier": "/us/usc/t30/s1257"
+            },
+            {
+              "number": "1258",
+              "numText": "§ 1258.",
+              "heading": "Reclamation plan requirements",
+              "identifier": "/us/usc/t30/s1258"
+            },
+            {
+              "number": "1259",
+              "numText": "§ 1259.",
+              "heading": "Performance bonds",
+              "identifier": "/us/usc/t30/s1259"
+            },
+            {
+              "number": "1260",
+              "numText": "§ 1260.",
+              "heading": "Permit approval or denial",
+              "identifier": "/us/usc/t30/s1260"
+            },
+            {
+              "number": "1261",
+              "numText": "§ 1261.",
+              "heading": "Revision of permits",
+              "identifier": "/us/usc/t30/s1261"
+            },
+            {
+              "number": "1262",
+              "numText": "§ 1262.",
+              "heading": "Coal exploration permits",
+              "identifier": "/us/usc/t30/s1262"
+            },
+            {
+              "number": "1263",
+              "numText": "§ 1263.",
+              "heading": "Public notice and public hearings",
+              "identifier": "/us/usc/t30/s1263"
+            },
+            {
+              "number": "1264",
+              "numText": "§ 1264.",
+              "heading": "Decisions of regulatory authority and appeals",
+              "identifier": "/us/usc/t30/s1264"
+            },
+            {
+              "number": "1265",
+              "numText": "§ 1265.",
+              "heading": "Environmental protection performance standards",
+              "identifier": "/us/usc/t30/s1265"
+            },
+            {
+              "number": "1266",
+              "numText": "§ 1266.",
+              "heading": "Surface effects of underground coal mining operations",
+              "identifier": "/us/usc/t30/s1266"
+            },
+            {
+              "number": "1267",
+              "numText": "§ 1267.",
+              "heading": "Inspections and monitoring",
+              "identifier": "/us/usc/t30/s1267"
+            },
+            {
+              "number": "1268",
+              "numText": "§ 1268.",
+              "heading": "Penalties",
+              "identifier": "/us/usc/t30/s1268"
+            },
+            {
+              "number": "1269",
+              "numText": "§ 1269.",
+              "heading": "Release of performance bonds or deposits",
+              "identifier": "/us/usc/t30/s1269"
+            },
+            {
+              "number": "1270",
+              "numText": "§ 1270.",
+              "heading": "Citizens suits",
+              "identifier": "/us/usc/t30/s1270"
+            },
+            {
+              "number": "1271",
+              "numText": "§ 1271.",
+              "heading": "Enforcement",
+              "identifier": "/us/usc/t30/s1271"
+            },
+            {
+              "number": "1272",
+              "numText": "§ 1272.",
+              "heading": "Designating areas unsuitable for surface coal mining",
+              "identifier": "/us/usc/t30/s1272"
+            },
+            {
+              "number": "1273",
+              "numText": "§ 1273.",
+              "heading": "Federal lands",
+              "identifier": "/us/usc/t30/s1273"
+            },
+            {
+              "number": "1274",
+              "numText": "§ 1274.",
+              "heading": "Public agencies, public utilities, and public corporations",
+              "identifier": "/us/usc/t30/s1274"
+            },
+            {
+              "number": "1275",
+              "numText": "§ 1275.",
+              "heading": "Review by Secretary",
+              "identifier": "/us/usc/t30/s1275"
+            },
+            {
+              "number": "1276",
+              "numText": "§ 1276.",
+              "heading": "Judicial review",
+              "identifier": "/us/usc/t30/s1276"
+            },
+            {
+              "number": "1277",
+              "numText": "§ 1277.",
+              "heading": "Special bituminous coal mines",
+              "identifier": "/us/usc/t30/s1277"
+            },
+            {
+              "number": "1278",
+              "numText": "§ 1278.",
+              "heading": "Surface mining operations not subject to this chapter",
+              "identifier": "/us/usc/t30/s1278"
+            },
+            {
+              "number": "1279",
+              "numText": "§ 1279.",
+              "heading": "Anthracite coal mines",
+              "identifier": "/us/usc/t30/s1279"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "DESIGNATION OF LANDS UNSUITABLE FOR NONCOAL MINING",
+          "identifier": "/us/usc/t30/ch25/schVI",
+          "children": [
+            {
+              "number": "1281",
+              "numText": "§ 1281.",
+              "heading": "Designation procedures",
+              "identifier": "/us/usc/t30/s1281"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "ADMINISTRATIVE AND MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t30/ch25/schVII",
+          "children": [
+            {
+              "number": "1291",
+              "numText": "§ 1291.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t30/s1291"
+            },
+            {
+              "number": "1292",
+              "numText": "§ 1292.",
+              "heading": "Other Federal laws",
+              "identifier": "/us/usc/t30/s1292"
+            },
+            {
+              "number": "1293",
+              "numText": "§ 1293.",
+              "heading": "Employee protection",
+              "identifier": "/us/usc/t30/s1293"
+            },
+            {
+              "number": "1294",
+              "numText": "§ 1294.",
+              "heading": "Penalty",
+              "identifier": "/us/usc/t30/s1294"
+            },
+            {
+              "number": "1295",
+              "numText": "§ 1295.",
+              "heading": "Grants to States",
+              "identifier": "/us/usc/t30/s1295"
+            },
+            {
+              "number": "1296",
+              "numText": "§ 1296.",
+              "heading": "Annual report to President and Congress",
+              "identifier": "/us/usc/t30/s1296"
+            },
+            {
+              "number": "1297",
+              "numText": "§ 1297.",
+              "heading": "Separability",
+              "identifier": "/us/usc/t30/s1297"
+            },
+            {
+              "number": "1298",
+              "numText": "§ 1298.",
+              "heading": "Alaskan surface coal mine study",
+              "identifier": "/us/usc/t30/s1298"
+            },
+            {
+              "number": "1299",
+              "numText": "§ 1299.",
+              "heading": "Study of reclamation standards for surface mining of other minerals",
+              "identifier": "/us/usc/t30/s1299"
+            },
+            {
+              "number": "1300",
+              "numText": "§ 1300.",
+              "heading": "Indian lands",
+              "identifier": "/us/usc/t30/s1300"
+            },
+            {
+              "number": "1301",
+              "numText": "§ 1301.",
+              "heading": "Experimental practices",
+              "identifier": "/us/usc/t30/s1301"
+            },
+            {
+              "number": "1302",
+              "numText": "§ 1302.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t30/s1302"
+            },
+            {
+              "number": "1303",
+              "numText": "§ 1303.",
+              "heading": "Coordination of regulatory and inspection activities",
+              "identifier": "/us/usc/t30/s1303"
+            },
+            {
+              "number": "1304",
+              "numText": "§ 1304.",
+              "heading": "Surface owner protection",
+              "identifier": "/us/usc/t30/s1304"
+            },
+            {
+              "number": "1305",
+              "numText": "§ 1305.",
+              "heading": "Federal lessee protection",
+              "identifier": "/us/usc/t30/s1305"
+            },
+            {
+              "number": "1306",
+              "numText": "§ 1306.",
+              "heading": "Effect on rights of owner of coal in Alaska to conduct surface mining operations",
+              "identifier": "/us/usc/t30/s1306"
+            },
+            {
+              "number": "1307",
+              "numText": "§ 1307.",
+              "heading": "Water rights and replacement",
+              "identifier": "/us/usc/t30/s1307"
+            },
+            {
+              "number": "1308",
+              "numText": "§ 1308.",
+              "heading": "Advance appropriations",
+              "identifier": "/us/usc/t30/s1308"
+            },
+            {
+              "number": "1308a",
+              "numText": "§ 1308a.",
+              "heading": "Use of civil penalty funds to reclaim lands",
+              "identifier": "/us/usc/t30/s1308a"
+            },
+            {
+              "number": "1308b",
+              "numText": "§ 1308b.",
+              "heading": "Transfer of computer hardware, software and other technical equipment",
+              "identifier": "/us/usc/t30/s1308b"
+            },
+            {
+              "number": "1309",
+              "numText": "§ 1309.",
+              "heading": "Certification and training of blasters",
+              "identifier": "/us/usc/t30/s1309"
+            },
+            {
+              "number": "1309a",
+              "numText": "§ 1309a.",
+              "heading": "Subsidence",
+              "identifier": "/us/usc/t30/s1309a"
+            },
+            {
+              "number": "1309b",
+              "numText": "§ 1309b.",
+              "heading": "Research",
+              "identifier": "/us/usc/t30/s1309b"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VIII",
+          "heading": "UNIVERSITY COAL RESEARCH LABORATORIES",
+          "identifier": "/us/usc/t30/ch25/schVIII",
+          "children": [
+            {
+              "number": "1311",
+              "numText": "§ 1311.",
+              "heading": "Establishment of university coal research laboratories",
+              "identifier": "/us/usc/t30/s1311"
+            },
+            {
+              "number": "1312",
+              "numText": "§ 1312.",
+              "heading": "Financial assistance",
+              "identifier": "/us/usc/t30/s1312"
+            },
+            {
+              "number": "1313",
+              "numText": "§ 1313.",
+              "heading": "Limitation on payments",
+              "identifier": "/us/usc/t30/s1313"
+            },
+            {
+              "number": "1314",
+              "numText": "§ 1314.",
+              "heading": "Payments; Federal share of operating expenses",
+              "identifier": "/us/usc/t30/s1314"
+            },
+            {
+              "number": "1315",
+              "numText": "§ 1315.",
+              "heading": "Advisory Council on Coal Research",
+              "identifier": "/us/usc/t30/s1315"
+            },
+            {
+              "number": "1316",
+              "numText": "§ 1316.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t30/s1316"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IX",
+          "heading": "ENERGY RESOURCE GRADUATE FELLOWSHIPS",
+          "identifier": "/us/usc/t30/ch25/schIX",
+          "children": [
+            {
+              "number": "1321",
+              "numText": "§ 1321.",
+              "heading": "Fellowship awards",
+              "identifier": "/us/usc/t30/s1321"
+            },
+            {
+              "number": "1322",
+              "numText": "§ 1322.",
+              "heading": "Fellowship recipients",
+              "identifier": "/us/usc/t30/s1322"
+            },
+            {
+              "number": "1323",
+              "numText": "§ 1323.",
+              "heading": "Distribution of fellowships",
+              "identifier": "/us/usc/t30/s1323"
+            },
+            {
+              "number": "1324",
+              "numText": "§ 1324.",
+              "heading": "Stipends and allowances",
+              "identifier": "/us/usc/t30/s1324"
+            },
+            {
+              "number": "1325",
+              "numText": "§ 1325.",
+              "heading": "Limitation on fellowships",
+              "identifier": "/us/usc/t30/s1325"
+            },
+            {
+              "number": "1326",
+              "numText": "§ 1326.",
+              "heading": "Fellowship conditions",
+              "identifier": "/us/usc/t30/s1326"
+            },
+            {
+              "number": "1327",
+              "numText": "§ 1327.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t30/s1327"
+            },
+            {
+              "number": "1328",
+              "numText": "§ 1328.",
+              "heading": "Research, development projects, etc., relating to alternative coal mining technologies",
+              "identifier": "/us/usc/t30/s1328"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "26",
+      "heading": "DEEP SEABED HARD MINERAL RESOURCES",
+      "identifier": "/us/usc/t30/ch26",
+      "children": [
+        {
+          "number": "1401",
+          "numText": "§ 1401.",
+          "heading": "Congressional findings and declaration of purpose",
+          "identifier": "/us/usc/t30/s1401"
+        },
+        {
+          "number": "1402",
+          "numText": "§ 1402.",
+          "heading": "International objectives",
+          "identifier": "/us/usc/t30/s1402"
+        },
+        {
+          "number": "1403",
+          "numText": "§ 1403.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s1403"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "REGULATION OF EXPLORATION AND COMMERCIAL RECOVERY BY UNITED STATES CITIZENS",
+          "identifier": "/us/usc/t30/ch26/schI",
+          "children": [
+            {
+              "number": "1411",
+              "numText": "§ 1411.",
+              "heading": "Prohibited activities by United States citizens",
+              "identifier": "/us/usc/t30/s1411"
+            },
+            {
+              "number": "1412",
+              "numText": "§ 1412.",
+              "heading": "Licenses for exploration and permits for commercial recovery",
+              "identifier": "/us/usc/t30/s1412"
+            },
+            {
+              "number": "1413",
+              "numText": "§ 1413.",
+              "heading": "License and permit applications, review, and certification",
+              "identifier": "/us/usc/t30/s1413"
+            },
+            {
+              "number": "1414",
+              "numText": "§ 1414.",
+              "heading": "License and permit fees",
+              "identifier": "/us/usc/t30/s1414"
+            },
+            {
+              "number": "1415",
+              "numText": "§ 1415.",
+              "heading": "License and permit terms, conditions, and restrictions; issuance and transfer of licenses and permits",
+              "identifier": "/us/usc/t30/s1415"
+            },
+            {
+              "number": "1416",
+              "numText": "§ 1416.",
+              "heading": "Denial of certification of applications and of issuance, transfer, suspension, and revocation of licenses and permits; suspension and modification of activities",
+              "identifier": "/us/usc/t30/s1416"
+            },
+            {
+              "number": "1417",
+              "numText": "§ 1417.",
+              "heading": "Duration of licenses and permits",
+              "identifier": "/us/usc/t30/s1417"
+            },
+            {
+              "number": "1418",
+              "numText": "§ 1418.",
+              "heading": "Diligence requirements",
+              "identifier": "/us/usc/t30/s1418"
+            },
+            {
+              "number": "1419",
+              "numText": "§ 1419.",
+              "heading": "Protection of the environment",
+              "identifier": "/us/usc/t30/s1419"
+            },
+            {
+              "number": "1420",
+              "numText": "§ 1420.",
+              "heading": "Conservation of natural resources",
+              "identifier": "/us/usc/t30/s1420"
+            },
+            {
+              "number": "1421",
+              "numText": "§ 1421.",
+              "heading": "Prevention of interference with other uses of the high seas",
+              "identifier": "/us/usc/t30/s1421"
+            },
+            {
+              "number": "1422",
+              "numText": "§ 1422.",
+              "heading": "Safety of life and property at sea",
+              "identifier": "/us/usc/t30/s1422"
+            },
+            {
+              "number": "1423",
+              "numText": "§ 1423.",
+              "heading": "Records, audits, and public disclosure",
+              "identifier": "/us/usc/t30/s1423"
+            },
+            {
+              "number": "1424",
+              "numText": "§ 1424.",
+              "heading": "Monitoring of activities of licensees and permittees",
+              "identifier": "/us/usc/t30/s1424"
+            },
+            {
+              "number": "1425",
+              "numText": "§ 1425.",
+              "heading": "Relinquishment, surrender, and transfer of licenses and permits",
+              "identifier": "/us/usc/t30/s1425"
+            },
+            {
+              "number": "1426",
+              "numText": "§ 1426.",
+              "heading": "Public notice and hearings",
+              "identifier": "/us/usc/t30/s1426"
+            },
+            {
+              "number": "1427",
+              "numText": "§ 1427.",
+              "heading": "Civil actions",
+              "identifier": "/us/usc/t30/s1427"
+            },
+            {
+              "number": "1428",
+              "numText": "§ 1428.",
+              "heading": "Reciprocating states",
+              "identifier": "/us/usc/t30/s1428"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "TRANSITION TO INTERNATIONAL AGREEMENT",
+          "identifier": "/us/usc/t30/ch26/schII",
+          "children": [
+            {
+              "number": "1441",
+              "numText": "§ 1441.",
+              "heading": "Declaration of Congressional intent",
+              "identifier": "/us/usc/t30/s1441"
+            },
+            {
+              "number": "1442",
+              "numText": "§ 1442.",
+              "heading": "Effect of international agreement",
+              "identifier": "/us/usc/t30/s1442"
+            },
+            {
+              "number": "1443",
+              "numText": "§ 1443.",
+              "heading": "Protection of interim investments",
+              "identifier": "/us/usc/t30/s1443"
+            },
+            {
+              "number": "1444",
+              "numText": "§ 1444.",
+              "heading": "Disclaimer of obligation to pay compensation",
+              "identifier": "/us/usc/t30/s1444"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "ENFORCEMENT AND MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t30/ch26/schIII",
+          "children": [
+            {
+              "number": "1461",
+              "numText": "§ 1461.",
+              "heading": "Prohibited acts",
+              "identifier": "/us/usc/t30/s1461"
+            },
+            {
+              "number": "1462",
+              "numText": "§ 1462.",
+              "heading": "Civil penalties",
+              "identifier": "/us/usc/t30/s1462"
+            },
+            {
+              "number": "1463",
+              "numText": "§ 1463.",
+              "heading": "Criminal offenses",
+              "identifier": "/us/usc/t30/s1463"
+            },
+            {
+              "number": "1464",
+              "numText": "§ 1464.",
+              "heading": "Enforcement",
+              "identifier": "/us/usc/t30/s1464"
+            },
+            {
+              "number": "1465",
+              "numText": "§ 1465.",
+              "heading": "Liability of vessels",
+              "identifier": "/us/usc/t30/s1465"
+            },
+            {
+              "number": "1466",
+              "numText": "§ 1466.",
+              "heading": "Civil forfeitures",
+              "identifier": "/us/usc/t30/s1466"
+            },
+            {
+              "number": "1467",
+              "numText": "§ 1467.",
+              "heading": "Jurisdiction of courts",
+              "identifier": "/us/usc/t30/s1467"
+            },
+            {
+              "number": "1468",
+              "numText": "§ 1468.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t30/s1468"
+            },
+            {
+              "number": "1469",
+              "numText": "§ 1469.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t30/s1469"
+            },
+            {
+              "number": "1470",
+              "numText": "§ 1470.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t30/s1470"
+            },
+            {
+              "number": "1471",
+              "numText": "§ 1471.",
+              "heading": "Severability",
+              "identifier": "/us/usc/t30/s1471"
+            },
+            {
+              "number": "1472",
+              "numText": "§ 1472.",
+              "heading": "Deep Seabed Revenue Sharing Trust Fund; establishment",
+              "identifier": "/us/usc/t30/s1472"
+            },
+            {
+              "number": "1473",
+              "numText": "§ 1473.",
+              "heading": "Revenue and customs or tariff treatment of deep seabed mining unaffected",
+              "identifier": "/us/usc/t30/s1473"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "27",
+      "heading": "GEOTHERMAL ENERGY",
+      "identifier": "/us/usc/t30/ch27",
+      "children": [
+        {
+          "number": "1501",
+          "numText": "§ 1501.",
+          "heading": "Congressional statement of findings",
+          "identifier": "/us/usc/t30/s1501"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "PROJECT LOANS",
+          "identifier": "/us/usc/t30/ch27/schI",
+          "children": [
+            {
+              "number": "1511",
+              "numText": "§ 1511.",
+              "heading": "Loans for geothermal reservoir confirmation",
+              "identifier": "/us/usc/t30/s1511"
+            },
+            {
+              "number": "1512",
+              "numText": "§ 1512.",
+              "heading": "Loan size limitation",
+              "identifier": "/us/usc/t30/s1512"
+            },
+            {
+              "number": "1513",
+              "numText": "§ 1513.",
+              "heading": "Loan interest rates; repayment periods",
+              "identifier": "/us/usc/t30/s1513"
+            },
+            {
+              "number": "1514",
+              "numText": "§ 1514.",
+              "heading": "Program termination",
+              "identifier": "/us/usc/t30/s1514"
+            },
+            {
+              "number": "1515",
+              "numText": "§ 1515.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t30/s1515"
+            },
+            {
+              "number": "1516",
+              "numText": "§ 1516.",
+              "heading": "Authorizations",
+              "identifier": "/us/usc/t30/s1516"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "STUDY, ESTABLISHMENT, AND IMPLEMENTATION OF INSURANCE PROGRAM",
+          "identifier": "/us/usc/t30/ch27/schII",
+          "children": [
+            {
+              "number": "1521",
+              "numText": "§ 1521.",
+              "heading": "Reservoir insurance program study",
+              "identifier": "/us/usc/t30/s1521"
+            },
+            {
+              "number": "1522",
+              "numText": "§ 1522.",
+              "heading": "Establishment of program",
+              "identifier": "/us/usc/t30/s1522"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "ESTABLISHMENT OF ASSISTANCE PROGRAM",
+          "identifier": "/us/usc/t30/ch27/schIII",
+          "children": [
+            {
+              "number": "1531",
+              "numText": "§ 1531.",
+              "heading": "Feasibility study loan program",
+              "identifier": "/us/usc/t30/s1531"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "FEDERAL FACILITIES",
+          "identifier": "/us/usc/t30/ch27/schIV",
+          "children": [
+            {
+              "number": "1541",
+              "numText": "§ 1541.",
+              "heading": "Use of geothermal energy in Federal facilities",
+              "identifier": "/us/usc/t30/s1541"
+            },
+            {
+              "number": "1542",
+              "numText": "§ 1542.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t30/s1542"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "28",
+      "heading": "MATERIALS AND MINERALS POLICY, RESEARCH, AND DEVELOPMENT",
+      "identifier": "/us/usc/t30/ch28",
+      "children": [
+        {
+          "number": "1601",
+          "numText": "§ 1601.",
+          "heading": "Congressional statement of findings; “materials” defined",
+          "identifier": "/us/usc/t30/s1601"
+        },
+        {
+          "number": "1602",
+          "numText": "§ 1602.",
+          "heading": "Congressional declaration of policies",
+          "identifier": "/us/usc/t30/s1602"
+        },
+        {
+          "number": "1603",
+          "numText": "§ 1603.",
+          "heading": "Implementation of policies",
+          "identifier": "/us/usc/t30/s1603"
+        },
+        {
+          "number": "1604",
+          "numText": "§ 1604.",
+          "heading": "Program administration",
+          "identifier": "/us/usc/t30/s1604"
+        },
+        {
+          "number": "1605",
+          "numText": "§ 1605.",
+          "heading": "Applicability to other statutory national mining and minerals policies",
+          "identifier": "/us/usc/t30/s1605"
+        },
+        {
+          "number": "1606",
+          "numText": "§ 1606.",
+          "heading": "Mineral security",
+          "identifier": "/us/usc/t30/s1606"
+        },
+        {
+          "number": "1607",
+          "numText": "§ 1607.",
+          "heading": "Critical minerals supply chains and reliability",
+          "identifier": "/us/usc/t30/s1607"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "29",
+      "heading": "OIL AND GAS ROYALTY MANAGEMENT",
+      "identifier": "/us/usc/t30/ch29",
+      "children": [
+        {
+          "number": "1701",
+          "numText": "§ 1701.",
+          "heading": "Congressional statement of findings and purposes",
+          "identifier": "/us/usc/t30/s1701"
+        },
+        {
+          "number": "1702",
+          "numText": "§ 1702.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s1702"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "FEDERAL ROYALTY MANAGEMENT AND ENFORCEMENT",
+          "identifier": "/us/usc/t30/ch29/schI",
+          "children": [
+            {
+              "number": "1711",
+              "numText": "§ 1711.",
+              "heading": "Duties of Secretary",
+              "identifier": "/us/usc/t30/s1711"
+            },
+            {
+              "number": "1712",
+              "numText": "§ 1712.",
+              "heading": "Duties of lessees, operators, and motor vehicle transporters",
+              "identifier": "/us/usc/t30/s1712"
+            },
+            {
+              "number": "1713",
+              "numText": "§ 1713.",
+              "heading": "Required recordkeeping",
+              "identifier": "/us/usc/t30/s1713"
+            },
+            {
+              "number": "1714",
+              "numText": "§ 1714.",
+              "heading": "Deposit of royalty funds to Indian accounts",
+              "identifier": "/us/usc/t30/s1714"
+            },
+            {
+              "number": "1715",
+              "numText": "§ 1715.",
+              "heading": "Explanation of payments",
+              "identifier": "/us/usc/t30/s1715"
+            },
+            {
+              "number": "1716",
+              "numText": "§ 1716.",
+              "heading": "Liabilities and bonding",
+              "identifier": "/us/usc/t30/s1716"
+            },
+            {
+              "number": "1717",
+              "numText": "§ 1717.",
+              "heading": "Hearings and investigations",
+              "identifier": "/us/usc/t30/s1717"
+            },
+            {
+              "number": "1718",
+              "numText": "§ 1718.",
+              "heading": "Inspections",
+              "identifier": "/us/usc/t30/s1718"
+            },
+            {
+              "number": "1719",
+              "numText": "§ 1719.",
+              "heading": "Civil penalties",
+              "identifier": "/us/usc/t30/s1719"
+            },
+            {
+              "number": "1720",
+              "numText": "§ 1720.",
+              "heading": "Criminal penalties",
+              "identifier": "/us/usc/t30/s1720"
+            },
+            {
+              "number": "1720a",
+              "numText": "§ 1720a.",
+              "heading": "Applicability of civil and criminal penalties to various uses of Federal or Indian lands and Outer Continental Shelf",
+              "identifier": "/us/usc/t30/s1720a"
+            },
+            {
+              "number": "1721",
+              "numText": "§ 1721.",
+              "heading": "Royalty terms and conditions, interest, and penalties",
+              "identifier": "/us/usc/t30/s1721"
+            },
+            {
+              "number": "1721a",
+              "numText": "§ 1721a.",
+              "heading": "Adjustments and refunds",
+              "identifier": "/us/usc/t30/s1721a"
+            },
+            {
+              "number": "1722",
+              "numText": "§ 1722.",
+              "heading": "Injunction and specific enforcement authority",
+              "identifier": "/us/usc/t30/s1722"
+            },
+            {
+              "number": "1723",
+              "numText": "§ 1723.",
+              "heading": "Rewards",
+              "identifier": "/us/usc/t30/s1723"
+            },
+            {
+              "number": "1724",
+              "numText": "§ 1724.",
+              "heading": "Secretarial and delegated States’ actions and limitation periods",
+              "identifier": "/us/usc/t30/s1724"
+            },
+            {
+              "number": "1725",
+              "numText": "§ 1725.",
+              "heading": "Assessments",
+              "identifier": "/us/usc/t30/s1725"
+            },
+            {
+              "number": "1726",
+              "numText": "§ 1726.",
+              "heading": "Alternatives for marginal properties",
+              "identifier": "/us/usc/t30/s1726"
+            },
+            {
+              "number": "1727",
+              "numText": "§ 1727.",
+              "heading": "Repealed. Pub. L. 119–21, title V, § 50103, July 4, 2025, 139 Stat. 142",
+              "identifier": "/us/usc/t30/s1727"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "STATES AND INDIAN TRIBES",
+          "identifier": "/us/usc/t30/ch29/schII",
+          "children": [
+            {
+              "number": "1731",
+              "numText": "§ 1731.",
+              "heading": "Application of subchapter",
+              "identifier": "/us/usc/t30/s1731"
+            },
+            {
+              "number": "1731a",
+              "numText": "§ 1731a.",
+              "heading": "Application of subchapter to leases of lands within three miles of seaward boundaries of coastal States",
+              "identifier": "/us/usc/t30/s1731a"
+            },
+            {
+              "number": "1732",
+              "numText": "§ 1732.",
+              "heading": "Cooperative agreements",
+              "identifier": "/us/usc/t30/s1732"
+            },
+            {
+              "number": "1733",
+              "numText": "§ 1733.",
+              "heading": "Information",
+              "identifier": "/us/usc/t30/s1733"
+            },
+            {
+              "number": "1734",
+              "numText": "§ 1734.",
+              "heading": "State suits under Federal law",
+              "identifier": "/us/usc/t30/s1734"
+            },
+            {
+              "number": "1735",
+              "numText": "§ 1735.",
+              "heading": "Delegation of royalty collections and related activities",
+              "identifier": "/us/usc/t30/s1735"
+            },
+            {
+              "number": "1736",
+              "numText": "§ 1736.",
+              "heading": "Shared civil penalties",
+              "identifier": "/us/usc/t30/s1736"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t30/ch29/schIII",
+          "children": [
+            {
+              "number": "1751",
+              "numText": "§ 1751.",
+              "heading": "Secretarial authority",
+              "identifier": "/us/usc/t30/s1751"
+            },
+            {
+              "number": "1752",
+              "numText": "§ 1752.",
+              "heading": "Reports",
+              "identifier": "/us/usc/t30/s1752"
+            },
+            {
+              "number": "1753",
+              "numText": "§ 1753.",
+              "heading": "Relation to other laws",
+              "identifier": "/us/usc/t30/s1753"
+            },
+            {
+              "number": "1754",
+              "numText": "§ 1754.",
+              "heading": "Funding",
+              "identifier": "/us/usc/t30/s1754"
+            },
+            {
+              "number": "1755",
+              "numText": "§ 1755.",
+              "heading": "Statute of limitations",
+              "identifier": "/us/usc/t30/s1755"
+            },
+            {
+              "number": "1756",
+              "numText": "§ 1756.",
+              "heading": "Expanded royalty obligations",
+              "identifier": "/us/usc/t30/s1756"
+            },
+            {
+              "number": "1757",
+              "numText": "§ 1757.",
+              "heading": "Severability",
+              "identifier": "/us/usc/t30/s1757"
+            },
+            {
+              "number": "1758",
+              "numText": "§ 1758.",
+              "heading": "Use of royalty-in-kind revenue by Minerals Management Service",
+              "identifier": "/us/usc/t30/s1758"
+            },
+            {
+              "number": "1759",
+              "numText": "§ 1759.",
+              "heading": "Fees and charges",
+              "identifier": "/us/usc/t30/s1759"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "30",
+      "heading": "NATIONAL CRITICAL MATERIALS COUNCIL",
+      "identifier": "/us/usc/t30/ch30",
+      "children": [
+        {
+          "number": "1801 to 1811",
+          "numText": "§§ 1801 to 1811.",
+          "heading": "Repealed. Pub. L. 116–260, div. Z, title VII, § 7002(n)(1), Dec. 27, 2020, 134 Stat. 2576",
+          "identifier": "/us/usc/t30/s1801...1811"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "31",
+      "heading": "MARINE MINERAL RESOURCES RESEARCH",
+      "identifier": "/us/usc/t30/ch31",
+      "children": [
+        {
+          "number": "1901",
+          "numText": "§ 1901.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s1901"
+        },
+        {
+          "number": "1902",
+          "numText": "§ 1902.",
+          "heading": "Research program",
+          "identifier": "/us/usc/t30/s1902"
+        },
+        {
+          "number": "1903",
+          "numText": "§ 1903.",
+          "heading": "Grants, contracts, and cooperative agreements",
+          "identifier": "/us/usc/t30/s1903"
+        },
+        {
+          "number": "1904",
+          "numText": "§ 1904.",
+          "heading": "Marine mineral research centers",
+          "identifier": "/us/usc/t30/s1904"
+        },
+        {
+          "number": "1905",
+          "numText": "§ 1905.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t30/s1905"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "32",
+      "heading": "METHANE HYDRATE RESEARCH AND DEVELOPMENT",
+      "identifier": "/us/usc/t30/ch32",
+      "children": [
+        {
+          "number": "2001",
+          "numText": "§ 2001.",
+          "heading": "Findings",
+          "identifier": "/us/usc/t30/s2001"
+        },
+        {
+          "number": "2002",
+          "numText": "§ 2002.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t30/s2002"
+        },
+        {
+          "number": "2003",
+          "numText": "§ 2003.",
+          "heading": "Methane hydrate research and development program",
+          "identifier": "/us/usc/t30/s2003"
+        },
+        {
+          "number": "2004",
+          "numText": "§ 2004.",
+          "heading": "National Research Council study",
+          "identifier": "/us/usc/t30/s2004"
+        },
+        {
+          "number": "2005",
+          "numText": "§ 2005.",
+          "heading": "Reports and studies for Congress",
+          "identifier": "/us/usc/t30/s2005"
+        },
+        {
+          "number": "2006",
+          "numText": "§ 2006.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t30/s2006"
+        }
+      ]
+    }
+  ]
+}

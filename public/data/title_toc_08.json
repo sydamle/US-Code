@@ -1,0 +1,2713 @@
+{
+  "number": "8",
+  "name": "Aliens And Nationality",
+  "identifier": "/us/usc/t8",
+  "version": "Online@119-73not60",
+  "updated": "2025-08-11",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "GENERAL PROVISIONS",
+      "identifier": "/us/usc/t8/ch1",
+      "children": [
+        {
+          "number": "1 to 18",
+          "numText": "§§ 1 to 18.",
+          "heading": "Repealed or Omitted",
+          "identifier": "/us/usc/t8/s1...18"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "ELECTIVE FRANCHISE",
+      "identifier": "/us/usc/t8/ch2",
+      "children": [
+        {
+          "number": "31, 32",
+          "numText": "§§ 31, 32.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t8/s31 /us/usc/t8/s32"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "CIVIL RIGHTS",
+      "identifier": "/us/usc/t8/ch3",
+      "children": [
+        {
+          "number": "41 to 43",
+          "numText": "§§ 41 to 43.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t8/s41...43"
+        },
+        {
+          "number": "44, 45",
+          "numText": "§§ 44, 45.",
+          "heading": "Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948",
+          "identifier": "/us/usc/t8/s44 /us/usc/t8/s45"
+        },
+        {
+          "number": "46 to 51",
+          "numText": "§§ 46 to 51.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t8/s46...51"
+        },
+        {
+          "number": "52",
+          "numText": "§ 52.",
+          "heading": "Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948",
+          "identifier": "/us/usc/t8/s52"
+        },
+        {
+          "number": "53 to 56",
+          "numText": "§§ 53 to 56.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t8/s53...56"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "FREEDMEN",
+      "identifier": "/us/usc/t8/ch4",
+      "children": [
+        {
+          "number": "61 to 65",
+          "numText": "§§ 61 to 65.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t8/s61...65"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "ALIEN OWNERSHIP OF LAND",
+      "identifier": "/us/usc/t8/ch5",
+      "children": [
+        {
+          "number": "71 to 78",
+          "numText": "§§ 71 to 78.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t8/s71...78"
+        },
+        {
+          "number": "79 to 82",
+          "numText": "§§ 79 to 82.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t8/s79...82"
+        },
+        {
+          "number": "83 to 86",
+          "numText": "§§ 83 to 86.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t8/s83...86"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "IMMIGRATION",
+      "identifier": "/us/usc/t8/ch6",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "IMMIGRATION AND NATURALIZATION AGENCIES, OFFICERS, AND STATIONS",
+          "identifier": "/us/usc/t8/ch6/schI",
+          "children": [
+            {
+              "number": "100, 101",
+              "numText": "§§ 100, 101.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s100 /us/usc/t8/s101"
+            },
+            {
+              "number": "102",
+              "numText": "§ 102.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(13), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s102"
+            },
+            {
+              "number": "103, 103a",
+              "numText": "§§ 103, 103a.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s103 /us/usc/t8/s103a"
+            },
+            {
+              "number": "104",
+              "numText": "§ 104.",
+              "heading": "Repealed. Dec. 17, 1943, ch. 344, § 1, 57 Stat. 600",
+              "identifier": "/us/usc/t8/s104"
+            },
+            {
+              "number": "105",
+              "numText": "§ 105.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(13), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s105"
+            },
+            {
+              "number": "106 to 106c",
+              "numText": "§§ 106 to 106c.",
+              "heading": "Repealed. Oct. 14, 1940, ch. 876, title I, subch. V, § 504, 54 Stat. 1172",
+              "identifier": "/us/usc/t8/s106...106c"
+            },
+            {
+              "number": "107",
+              "numText": "§ 107.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 637, 642",
+              "identifier": "/us/usc/t8/s107"
+            },
+            {
+              "number": "108, 109",
+              "numText": "§§ 108, 109.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(13), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s108 /us/usc/t8/s109"
+            },
+            {
+              "number": "109a to 109d",
+              "numText": "§§ 109a to 109d.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s109a...109d"
+            },
+            {
+              "number": "110",
+              "numText": "§ 110.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(25), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s110"
+            },
+            {
+              "number": "111",
+              "numText": "§ 111.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s111"
+            },
+            {
+              "number": "112",
+              "numText": "§ 112.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s112"
+            },
+            {
+              "number": "113",
+              "numText": "§ 113.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(13), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s113"
+            },
+            {
+              "number": "114",
+              "numText": "§ 114.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s114"
+            },
+            {
+              "number": "115, 116",
+              "numText": "§§ 115, 116.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(13), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s115 /us/usc/t8/s116"
+            },
+            {
+              "number": "117, 118",
+              "numText": "§§ 117, 118.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s117 /us/usc/t8/s118"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "REGULATION AND RESTRICTION OF IMMIGRATION IN GENERAL",
+          "identifier": "/us/usc/t8/ch6/schII",
+          "children": [
+            {
+              "number": "131",
+              "numText": "§ 131.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s131"
+            },
+            {
+              "number": "132 to 137–10",
+              "numText": "§§ 132 to 137–10.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(1), (8), (11), (13), (16), (48), 66 Stat. 279, 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s132...137–10"
+            },
+            {
+              "number": "137a",
+              "numText": "§ 137a.",
+              "heading": "Repealed. May 24, 1934, ch. 344, § 5, 48 Stat. 798",
+              "identifier": "/us/usc/t8/s137a"
+            },
+            {
+              "number": "137b to 173",
+              "numText": "§§ 137b to 173.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(2), (3), (5), (13), (18), (19), (23), (31), (32), (47), 66 Stat. 279, 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s137b...173"
+            },
+            {
+              "number": "174",
+              "numText": "§ 174.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s174"
+            },
+            {
+              "number": "175 to 181",
+              "numText": "§§ 175 to 181.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(12), (13), (23), (30), (33), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s175...181"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "QUOTA AND NONQUOTA IMMIGRANTS",
+          "identifier": "/us/usc/t8/ch6/schIII",
+          "children": [
+            {
+              "number": "201 to 204",
+              "numText": "§§ 201 to 204.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(23), (24), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s201...204"
+            },
+            {
+              "number": "204a, 204b",
+              "numText": "§§ 204a, 204b.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s204a /us/usc/t8/s204b"
+            },
+            {
+              "number": "204c to 219",
+              "numText": "§§ 204c to 219.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(23), (36), (44), (45), 66 Stat. 279, 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s204c...219"
+            },
+            {
+              "number": "220",
+              "numText": "§ 220.",
+              "heading": "Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948",
+              "identifier": "/us/usc/t8/s220"
+            },
+            {
+              "number": "221 to 227",
+              "numText": "§§ 221 to 227.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(20), (22), (23), (29), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s221...227"
+            },
+            {
+              "number": "228",
+              "numText": "§ 228.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s228"
+            },
+            {
+              "number": "229 to 231",
+              "numText": "§§ 229 to 231.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(17), (23), (27), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s229...231"
+            },
+            {
+              "number": "232 to 237",
+              "numText": "§§ 232 to 237.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s232...237"
+            },
+            {
+              "number": "238",
+              "numText": "§ 238.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s238"
+            },
+            {
+              "number": "239",
+              "numText": "§ 239.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t8/s239"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "ALIEN VETERANS OF WORLD WAR I",
+          "identifier": "/us/usc/t8/ch6/schIV",
+          "children": [
+            {
+              "number": "241 to 246",
+              "numText": "§§ 241 to 246.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(28), 66 Stat. 279, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s241...246"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "EXCLUSION OF CHINESE",
+      "identifier": "/us/usc/t8/ch7",
+      "children": [
+        {
+          "number": "261",
+          "numText": "§ 261.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t8/s261"
+        },
+        {
+          "number": "262 to 297",
+          "numText": "§§ 262 to 297.",
+          "heading": "Repealed. Dec. 17, 1943, ch. 344, § 1, 57 Stat. 600",
+          "identifier": "/us/usc/t8/s262...297"
+        },
+        {
+          "number": "298",
+          "numText": "§ 298.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t8/s298"
+        },
+        {
+          "number": "299",
+          "numText": "§ 299.",
+          "heading": "Repealed. Dec. 17, 1943, ch. 344, § 1, 57 Stat. 600",
+          "identifier": "/us/usc/t8/s299"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8",
+      "heading": "THE COOLY TRADE",
+      "identifier": "/us/usc/t8/ch8",
+      "children": [
+        {
+          "number": "331 to 339",
+          "numText": "§§ 331 to 339.",
+          "heading": "Repealed. Pub. L. 93–461, Oct. 20, 1974, 88 Stat. 1387",
+          "identifier": "/us/usc/t8/s331...339"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "MISCELLANEOUS PROVISIONS",
+      "identifier": "/us/usc/t8/ch9",
+      "children": [
+        {
+          "number": "351 to 416",
+          "numText": "§§ 351 to 416.",
+          "heading": "Repealed or transferred",
+          "identifier": "/us/usc/t8/s351...416"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "10",
+      "heading": "ALIEN REGISTRATION",
+      "identifier": "/us/usc/t8/ch10",
+      "children": [
+        {
+          "number": "451 to 460",
+          "numText": "§§ 451 to 460.",
+          "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(39), 66 Stat. 280, eff. Dec. 24, 1952",
+          "identifier": "/us/usc/t8/s451...460"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "11",
+      "heading": "NATIONALITY",
+      "identifier": "/us/usc/t8/ch11",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "DEFINITIONS",
+          "identifier": "/us/usc/t8/ch11/schI",
+          "children": [
+            {
+              "number": "501 to 504",
+              "numText": "§§ 501 to 504.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s501...504"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "NATIONALITY AT BIRTH",
+          "identifier": "/us/usc/t8/ch11/schII",
+          "children": [
+            {
+              "number": "601 to 605",
+              "numText": "§§ 601 to 605.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s601...605"
+            },
+            {
+              "number": "606",
+              "numText": "§ 606.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s606"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "NATIONALITY THROUGH NATURALIZATION",
+          "identifier": "/us/usc/t8/ch11/schIII",
+          "children": [
+            {
+              "number": "701 to 724a",
+              "numText": "§§ 701 to 724a.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(40), (42), 66 Stat. 279, 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s701...724a"
+            },
+            {
+              "number": "724a–1",
+              "numText": "§ 724a–1.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s724a–1"
+            },
+            {
+              "number": "725 to 727",
+              "numText": "§§ 725 to 727.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s725...727"
+            },
+            {
+              "number": "727a",
+              "numText": "§ 727a.",
+              "heading": "Repealed. Feb. 29, 1952, ch. 49, § 3, 66 Stat. 10",
+              "identifier": "/us/usc/t8/s727a"
+            },
+            {
+              "number": "728 to 746",
+              "numText": "§§ 728 to 746.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(42), (46), 66 Stat. 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s728...746"
+            },
+            {
+              "number": "747",
+              "numText": "§ 747.",
+              "heading": "Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948",
+              "identifier": "/us/usc/t8/s747"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "LOSS OF NATIONALITY",
+          "identifier": "/us/usc/t8/ch11/schIV",
+          "children": [
+            {
+              "number": "800",
+              "numText": "§ 800.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s800"
+            },
+            {
+              "number": "801 to 810",
+              "numText": "§§ 801 to 810.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s801...810"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t8/ch11/schV",
+          "children": [
+            {
+              "number": "901 to 903",
+              "numText": "§§ 901 to 903.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s901...903"
+            },
+            {
+              "number": "903a, 903b",
+              "numText": "§§ 903a, 903b.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s903a /us/usc/t8/s903b"
+            },
+            {
+              "number": "904 to 907",
+              "numText": "§§ 904 to 907.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s904...907"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "NATURALIZATION OF PERSONS SERVING IN THE ARMED FORCES OF THE UNITED STATES DURING WORLD WAR II",
+          "identifier": "/us/usc/t8/ch11/schVI",
+          "children": [
+            {
+              "number": "1001 to 1006",
+              "numText": "§§ 1001 to 1006.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952",
+              "identifier": "/us/usc/t8/s1001...1006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "12",
+      "heading": "IMMIGRATION AND NATIONALITY",
+      "identifier": "/us/usc/t8/ch12",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t8/ch12/schI",
+          "children": [
+            {
+              "number": "1101",
+              "numText": "§ 1101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t8/s1101"
+            },
+            {
+              "number": "1102",
+              "numText": "§ 1102.",
+              "heading": "Diplomatic and semidiplomatic immunities",
+              "identifier": "/us/usc/t8/s1102"
+            },
+            {
+              "number": "1103",
+              "numText": "§ 1103.",
+              "heading": "Powers and duties of the Secretary, the Under Secretary, and the Attorney General",
+              "identifier": "/us/usc/t8/s1103"
+            },
+            {
+              "number": "1104",
+              "numText": "§ 1104.",
+              "heading": "Powers and duties of Secretary of State",
+              "identifier": "/us/usc/t8/s1104"
+            },
+            {
+              "number": "1105",
+              "numText": "§ 1105.",
+              "heading": "Liaison with internal security officers; data exchange",
+              "identifier": "/us/usc/t8/s1105"
+            },
+            {
+              "number": "1105a",
+              "numText": "§ 1105a.",
+              "heading": "Employment authorization for battered spouses of certain nonimmigrants",
+              "identifier": "/us/usc/t8/s1105a"
+            },
+            {
+              "number": "1106",
+              "numText": "§ 1106.",
+              "heading": "Repealed. Pub. L. 91–510, title IV, § 422(a), Oct. 26, 1970, 84 Stat. 1189",
+              "identifier": "/us/usc/t8/s1106"
+            },
+            {
+              "number": "1107",
+              "numText": "§ 1107.",
+              "heading": "Additional report",
+              "identifier": "/us/usc/t8/s1107"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "IMMIGRATION",
+          "identifier": "/us/usc/t8/ch12/schII",
+          "children": [
+            {
+              "type": "part",
+              "number": "I",
+              "heading": "Selection System",
+              "identifier": "/us/usc/t8/ch12/schII/ptI",
+              "children": [
+                {
+                  "number": "1151",
+                  "numText": "§ 1151.",
+                  "heading": "Worldwide level of immigration",
+                  "identifier": "/us/usc/t8/s1151"
+                },
+                {
+                  "number": "1151a",
+                  "numText": "§ 1151a.",
+                  "heading": "Repealed. Pub. L. 94–571, § 7(g), Oct. 20, 1976, 90 Stat. 2706",
+                  "identifier": "/us/usc/t8/s1151a"
+                },
+                {
+                  "number": "1152",
+                  "numText": "§ 1152.",
+                  "heading": "Numerical limitations on individual foreign states",
+                  "identifier": "/us/usc/t8/s1152"
+                },
+                {
+                  "number": "1153",
+                  "numText": "§ 1153.",
+                  "heading": "Allocation of immigrant visas",
+                  "identifier": "/us/usc/t8/s1153"
+                },
+                {
+                  "number": "1153a",
+                  "numText": "§ 1153a.",
+                  "heading": "Transparency",
+                  "identifier": "/us/usc/t8/s1153a"
+                },
+                {
+                  "number": "1154",
+                  "numText": "§ 1154.",
+                  "heading": "Procedure for granting immigrant status",
+                  "identifier": "/us/usc/t8/s1154"
+                },
+                {
+                  "number": "1155",
+                  "numText": "§ 1155.",
+                  "heading": "Revocation of approval of petitions; effective date",
+                  "identifier": "/us/usc/t8/s1155"
+                },
+                {
+                  "number": "1156",
+                  "numText": "§ 1156.",
+                  "heading": "Unused immigrant visas",
+                  "identifier": "/us/usc/t8/s1156"
+                },
+                {
+                  "number": "1157",
+                  "numText": "§ 1157.",
+                  "heading": "Annual admission of refugees and admission of emergency situation refugees",
+                  "identifier": "/us/usc/t8/s1157"
+                },
+                {
+                  "number": "1158",
+                  "numText": "§ 1158.",
+                  "heading": "Asylum",
+                  "identifier": "/us/usc/t8/s1158"
+                },
+                {
+                  "number": "1159",
+                  "numText": "§ 1159.",
+                  "heading": "Adjustment of status of refugees",
+                  "identifier": "/us/usc/t8/s1159"
+                },
+                {
+                  "number": "1160",
+                  "numText": "§ 1160.",
+                  "heading": "Special agricultural workers",
+                  "identifier": "/us/usc/t8/s1160"
+                },
+                {
+                  "number": "1161",
+                  "numText": "§ 1161.",
+                  "heading": "Repealed. Pub. L. 103–416, title II, § 219(ee)(1), Oct. 25, 1994, 108 Stat. 4319",
+                  "identifier": "/us/usc/t8/s1161"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "II",
+              "heading": "Admission Qualifications for Aliens; Travel Control of Citizens and Aliens",
+              "identifier": "/us/usc/t8/ch12/schII/ptII",
+              "children": [
+                {
+                  "number": "1181",
+                  "numText": "§ 1181.",
+                  "heading": "Admission of immigrants into the United States",
+                  "identifier": "/us/usc/t8/s1181"
+                },
+                {
+                  "number": "1182",
+                  "numText": "§ 1182.",
+                  "heading": "Inadmissible aliens",
+                  "identifier": "/us/usc/t8/s1182"
+                },
+                {
+                  "number": "1182a to 1182c",
+                  "numText": "§§ 1182a to 1182c.",
+                  "heading": "Repealed. Pub. L. 87–301, § 24(a)(1), (3), Sept. 26, 1961, 75 Stat. 657",
+                  "identifier": "/us/usc/t8/s1182a...1182c"
+                },
+                {
+                  "number": "1182d",
+                  "numText": "§ 1182d.",
+                  "heading": "Denial of visas to confiscators of American property",
+                  "identifier": "/us/usc/t8/s1182d"
+                },
+                {
+                  "number": "1182e",
+                  "numText": "§ 1182e.",
+                  "heading": "Denial of entry into United States of foreign nationals engaged in establishment or enforcement of forced abortion or sterilization policy",
+                  "identifier": "/us/usc/t8/s1182e"
+                },
+                {
+                  "number": "1182f",
+                  "numText": "§ 1182f.",
+                  "heading": "Denial of entry into United States of Chinese and other nationals engaged in coerced organ or bodily tissue transplantation",
+                  "identifier": "/us/usc/t8/s1182f"
+                },
+                {
+                  "number": "1183",
+                  "numText": "§ 1183.",
+                  "heading": "Admission of aliens on giving bond or undertaking; return upon permanent departure",
+                  "identifier": "/us/usc/t8/s1183"
+                },
+                {
+                  "number": "1183a",
+                  "numText": "§ 1183a.",
+                  "heading": "Requirements for sponsor’s affidavit of support",
+                  "identifier": "/us/usc/t8/s1183a"
+                },
+                {
+                  "number": "1184",
+                  "numText": "§ 1184.",
+                  "heading": "Admission of nonimmigrants",
+                  "identifier": "/us/usc/t8/s1184"
+                },
+                {
+                  "number": "1184a",
+                  "numText": "§ 1184a.",
+                  "heading": "Philippine Traders as nonimmigrants",
+                  "identifier": "/us/usc/t8/s1184a"
+                },
+                {
+                  "number": "1185",
+                  "numText": "§ 1185.",
+                  "heading": "Travel control of citizens and aliens",
+                  "identifier": "/us/usc/t8/s1185"
+                },
+                {
+                  "number": "1186",
+                  "numText": "§ 1186.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t8/s1186"
+                },
+                {
+                  "number": "1186a",
+                  "numText": "§ 1186a.",
+                  "heading": "Conditional permanent resident status for certain alien spouses and sons and daughters",
+                  "identifier": "/us/usc/t8/s1186a"
+                },
+                {
+                  "number": "1186b",
+                  "numText": "§ 1186b.",
+                  "heading": "Conditional permanent resident status for certain alien entrepreneurs, spouses, and children",
+                  "identifier": "/us/usc/t8/s1186b"
+                },
+                {
+                  "number": "1187",
+                  "numText": "§ 1187.",
+                  "heading": "Visa waiver program for certain visitors",
+                  "identifier": "/us/usc/t8/s1187"
+                },
+                {
+                  "number": "1187a",
+                  "numText": "§ 1187a.",
+                  "heading": "Provision of assistance to non-program countries",
+                  "identifier": "/us/usc/t8/s1187a"
+                },
+                {
+                  "number": "1188",
+                  "numText": "§ 1188.",
+                  "heading": "Admission of temporary H–2A workers",
+                  "identifier": "/us/usc/t8/s1188"
+                },
+                {
+                  "number": "1189",
+                  "numText": "§ 1189.",
+                  "heading": "Designation of foreign terrorist organizations",
+                  "identifier": "/us/usc/t8/s1189"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "III",
+              "heading": "Issuance of Entry Documents",
+              "identifier": "/us/usc/t8/ch12/schII/ptIII",
+              "children": [
+                {
+                  "number": "1201",
+                  "numText": "§ 1201.",
+                  "heading": "Issuance of visas",
+                  "identifier": "/us/usc/t8/s1201"
+                },
+                {
+                  "number": "1201a",
+                  "numText": "§ 1201a.",
+                  "heading": "Repealed. Pub. L. 99–653, § 5(b), formerly § 5(a)(d), Nov. 14, 1986, 100 Stat. 3656, renumbered § 5(b), Pub. L. 100–525, § 8(d)(2), Oct. 24, 1988, 102 Stat. 2617",
+                  "identifier": "/us/usc/t8/s1201a"
+                },
+                {
+                  "number": "1202",
+                  "numText": "§ 1202.",
+                  "heading": "Application for visas",
+                  "identifier": "/us/usc/t8/s1202"
+                },
+                {
+                  "number": "1203",
+                  "numText": "§ 1203.",
+                  "heading": "Reentry permit",
+                  "identifier": "/us/usc/t8/s1203"
+                },
+                {
+                  "number": "1204",
+                  "numText": "§ 1204.",
+                  "heading": "Immediate relative and special immigrant visas",
+                  "identifier": "/us/usc/t8/s1204"
+                },
+                {
+                  "number": "1205",
+                  "numText": "§ 1205.",
+                  "heading": "Repealed. Pub. L. 87–301, § 24(a)(2), Sept. 26, 1961, 75 Stat. 657",
+                  "identifier": "/us/usc/t8/s1205"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "IV",
+              "heading": "Inspection, Apprehension, Examination, Exclusion, and Removal",
+              "identifier": "/us/usc/t8/ch12/schII/ptIV",
+              "children": [
+                {
+                  "number": "1221",
+                  "numText": "§ 1221.",
+                  "heading": "Lists of alien and citizen passengers arriving and departing",
+                  "identifier": "/us/usc/t8/s1221"
+                },
+                {
+                  "number": "1222",
+                  "numText": "§ 1222.",
+                  "heading": "Detention of aliens for physical and mental examination",
+                  "identifier": "/us/usc/t8/s1222"
+                },
+                {
+                  "number": "1223",
+                  "numText": "§ 1223.",
+                  "heading": "Entry through or from foreign territory and adjacent islands",
+                  "identifier": "/us/usc/t8/s1223"
+                },
+                {
+                  "number": "1224",
+                  "numText": "§ 1224.",
+                  "heading": "Designation of ports of entry for aliens arriving by aircraft",
+                  "identifier": "/us/usc/t8/s1224"
+                },
+                {
+                  "number": "1225",
+                  "numText": "§ 1225.",
+                  "heading": "Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing",
+                  "identifier": "/us/usc/t8/s1225"
+                },
+                {
+                  "number": "1225a",
+                  "numText": "§ 1225a.",
+                  "heading": "Preinspection at foreign airports",
+                  "identifier": "/us/usc/t8/s1225a"
+                },
+                {
+                  "number": "1226",
+                  "numText": "§ 1226.",
+                  "heading": "Apprehension and detention of aliens",
+                  "identifier": "/us/usc/t8/s1226"
+                },
+                {
+                  "number": "1226a",
+                  "numText": "§ 1226a.",
+                  "heading": "Mandatory detention of suspected terrorists; habeas corpus; judicial review",
+                  "identifier": "/us/usc/t8/s1226a"
+                },
+                {
+                  "number": "1227",
+                  "numText": "§ 1227.",
+                  "heading": "Deportable aliens",
+                  "identifier": "/us/usc/t8/s1227"
+                },
+                {
+                  "number": "1228",
+                  "numText": "§ 1228.",
+                  "heading": "Expedited removal of aliens convicted of committing aggravated felonies",
+                  "identifier": "/us/usc/t8/s1228"
+                },
+                {
+                  "number": "1229",
+                  "numText": "§ 1229.",
+                  "heading": "Initiation of removal proceedings",
+                  "identifier": "/us/usc/t8/s1229"
+                },
+                {
+                  "number": "1229a",
+                  "numText": "§ 1229a.",
+                  "heading": "Removal proceedings",
+                  "identifier": "/us/usc/t8/s1229a"
+                },
+                {
+                  "number": "1229b",
+                  "numText": "§ 1229b.",
+                  "heading": "Cancellation of removal; adjustment of status",
+                  "identifier": "/us/usc/t8/s1229b"
+                },
+                {
+                  "number": "1229c",
+                  "numText": "§ 1229c.",
+                  "heading": "Voluntary departure",
+                  "identifier": "/us/usc/t8/s1229c"
+                },
+                {
+                  "number": "1230",
+                  "numText": "§ 1230.",
+                  "heading": "Records of admission",
+                  "identifier": "/us/usc/t8/s1230"
+                },
+                {
+                  "number": "1231",
+                  "numText": "§ 1231.",
+                  "heading": "Detention and removal of aliens ordered removed",
+                  "identifier": "/us/usc/t8/s1231"
+                },
+                {
+                  "number": "1232",
+                  "numText": "§ 1232.",
+                  "heading": "Enhancing efforts to combat the trafficking of children",
+                  "identifier": "/us/usc/t8/s1232"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "V",
+              "heading": "Adjustment and Change of Status",
+              "identifier": "/us/usc/t8/ch12/schII/ptV",
+              "children": [
+                {
+                  "number": "1251",
+                  "numText": "§ 1251.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t8/s1251"
+                },
+                {
+                  "number": "1251a",
+                  "numText": "§ 1251a.",
+                  "heading": "Repealed. Pub. L. 87–301, § 24(a)(3), Sept. 26, 1961, 75 Stat. 657",
+                  "identifier": "/us/usc/t8/s1251a"
+                },
+                {
+                  "number": "1252",
+                  "numText": "§ 1252.",
+                  "heading": "Judicial review of orders of removal",
+                  "identifier": "/us/usc/t8/s1252"
+                },
+                {
+                  "number": "1252a",
+                  "numText": "§ 1252a.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t8/s1252a"
+                },
+                {
+                  "number": "1252b",
+                  "numText": "§ 1252b.",
+                  "heading": "Repealed. Pub. L. 104–208, div. C, title III, § 308(b)(6), Sept. 30, 1996, 110 Stat. 3009–615",
+                  "identifier": "/us/usc/t8/s1252b"
+                },
+                {
+                  "number": "1252c",
+                  "numText": "§ 1252c.",
+                  "heading": "Authorizing State and local law enforcement officials to arrest and detain certain illegal aliens",
+                  "identifier": "/us/usc/t8/s1252c"
+                },
+                {
+                  "number": "1253",
+                  "numText": "§ 1253.",
+                  "heading": "Penalties related to removal",
+                  "identifier": "/us/usc/t8/s1253"
+                },
+                {
+                  "number": "1254",
+                  "numText": "§ 1254.",
+                  "heading": "Repealed. Pub. L. 104–208, div. C, title III, § 308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615",
+                  "identifier": "/us/usc/t8/s1254"
+                },
+                {
+                  "number": "1254a",
+                  "numText": "§ 1254a.",
+                  "heading": "Temporary protected status",
+                  "identifier": "/us/usc/t8/s1254a"
+                },
+                {
+                  "number": "1254b",
+                  "numText": "§ 1254b.",
+                  "heading": "Collection of fees under temporary protected status program",
+                  "identifier": "/us/usc/t8/s1254b"
+                },
+                {
+                  "number": "1255",
+                  "numText": "§ 1255.",
+                  "heading": "Adjustment of status of nonimmigrant to that of person admitted for permanent residence",
+                  "identifier": "/us/usc/t8/s1255"
+                },
+                {
+                  "number": "1255a",
+                  "numText": "§ 1255a.",
+                  "heading": "Adjustment of status of certain entrants before January 1, 1982, to that of person admitted for lawful residence",
+                  "identifier": "/us/usc/t8/s1255a"
+                },
+                {
+                  "number": "1255b",
+                  "numText": "§ 1255b.",
+                  "heading": "Adjustment of status of certain nonimmigrants to that of persons admitted for permanent residence",
+                  "identifier": "/us/usc/t8/s1255b"
+                },
+                {
+                  "number": "1256",
+                  "numText": "§ 1256.",
+                  "heading": "Rescission of adjustment of status; effect upon naturalized citizen",
+                  "identifier": "/us/usc/t8/s1256"
+                },
+                {
+                  "number": "1257",
+                  "numText": "§ 1257.",
+                  "heading": "Adjustment of status of certain resident aliens to nonimmigrant status; exceptions",
+                  "identifier": "/us/usc/t8/s1257"
+                },
+                {
+                  "number": "1258",
+                  "numText": "§ 1258.",
+                  "heading": "Change of nonimmigrant classification",
+                  "identifier": "/us/usc/t8/s1258"
+                },
+                {
+                  "number": "1259",
+                  "numText": "§ 1259.",
+                  "heading": "Record of admission for permanent residence in the case of certain aliens who entered the United States prior to January 1, 1972",
+                  "identifier": "/us/usc/t8/s1259"
+                },
+                {
+                  "number": "1260",
+                  "numText": "§ 1260.",
+                  "heading": "Removal of aliens falling into distress",
+                  "identifier": "/us/usc/t8/s1260"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "VI",
+              "heading": "Special Provisions Relating to Alien Crewmen",
+              "identifier": "/us/usc/t8/ch12/schII/ptVI",
+              "children": [
+                {
+                  "number": "1281",
+                  "numText": "§ 1281.",
+                  "heading": "Alien crewmen",
+                  "identifier": "/us/usc/t8/s1281"
+                },
+                {
+                  "number": "1282",
+                  "numText": "§ 1282.",
+                  "heading": "Conditional permits to land temporarily",
+                  "identifier": "/us/usc/t8/s1282"
+                },
+                {
+                  "number": "1283",
+                  "numText": "§ 1283.",
+                  "heading": "Hospital treatment of alien crewmen afflicted with certain diseases",
+                  "identifier": "/us/usc/t8/s1283"
+                },
+                {
+                  "number": "1284",
+                  "numText": "§ 1284.",
+                  "heading": "Control of alien crewmen",
+                  "identifier": "/us/usc/t8/s1284"
+                },
+                {
+                  "number": "1285",
+                  "numText": "§ 1285.",
+                  "heading": "Employment on passenger vessels of aliens afflicted with certain disabilities",
+                  "identifier": "/us/usc/t8/s1285"
+                },
+                {
+                  "number": "1286",
+                  "numText": "§ 1286.",
+                  "heading": "Discharge of alien crewmen; penalties",
+                  "identifier": "/us/usc/t8/s1286"
+                },
+                {
+                  "number": "1287",
+                  "numText": "§ 1287.",
+                  "heading": "Alien crewmen brought into the United States with intent to evade immigration laws; penalties",
+                  "identifier": "/us/usc/t8/s1287"
+                },
+                {
+                  "number": "1288",
+                  "numText": "§ 1288.",
+                  "heading": "Limitations on performance of longshore work by alien crewmen",
+                  "identifier": "/us/usc/t8/s1288"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "VII",
+              "heading": "Registration of Aliens",
+              "identifier": "/us/usc/t8/ch12/schII/ptVII",
+              "children": [
+                {
+                  "number": "1301",
+                  "numText": "§ 1301.",
+                  "heading": "Alien seeking entry; contents",
+                  "identifier": "/us/usc/t8/s1301"
+                },
+                {
+                  "number": "1302",
+                  "numText": "§ 1302.",
+                  "heading": "Registration of aliens",
+                  "identifier": "/us/usc/t8/s1302"
+                },
+                {
+                  "number": "1303",
+                  "numText": "§ 1303.",
+                  "heading": "Registration of special groups",
+                  "identifier": "/us/usc/t8/s1303"
+                },
+                {
+                  "number": "1304",
+                  "numText": "§ 1304.",
+                  "heading": "Forms for registration and fingerprinting",
+                  "identifier": "/us/usc/t8/s1304"
+                },
+                {
+                  "number": "1305",
+                  "numText": "§ 1305.",
+                  "heading": "Notices of change of address",
+                  "identifier": "/us/usc/t8/s1305"
+                },
+                {
+                  "number": "1306",
+                  "numText": "§ 1306.",
+                  "heading": "Penalties",
+                  "identifier": "/us/usc/t8/s1306"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "VIII",
+              "heading": "General Penalty Provisions",
+              "identifier": "/us/usc/t8/ch12/schII/ptVIII",
+              "children": [
+                {
+                  "number": "1321",
+                  "numText": "§ 1321.",
+                  "heading": "Prevention of unauthorized landing of aliens",
+                  "identifier": "/us/usc/t8/s1321"
+                },
+                {
+                  "number": "1322",
+                  "numText": "§ 1322.",
+                  "heading": "Bringing in aliens subject to denial of admission on a health-related ground; persons liable; clearance papers; exceptions; “person” defined",
+                  "identifier": "/us/usc/t8/s1322"
+                },
+                {
+                  "number": "1323",
+                  "numText": "§ 1323.",
+                  "heading": "Unlawful bringing of aliens into United States",
+                  "identifier": "/us/usc/t8/s1323"
+                },
+                {
+                  "number": "1324",
+                  "numText": "§ 1324.",
+                  "heading": "Bringing in and harboring certain aliens",
+                  "identifier": "/us/usc/t8/s1324"
+                },
+                {
+                  "number": "1324a",
+                  "numText": "§ 1324a.",
+                  "heading": "Unlawful employment of aliens",
+                  "identifier": "/us/usc/t8/s1324a"
+                },
+                {
+                  "number": "1324b",
+                  "numText": "§ 1324b.",
+                  "heading": "Unfair immigration-related employment practices",
+                  "identifier": "/us/usc/t8/s1324b"
+                },
+                {
+                  "number": "1324c",
+                  "numText": "§ 1324c.",
+                  "heading": "Penalties for document fraud",
+                  "identifier": "/us/usc/t8/s1324c"
+                },
+                {
+                  "number": "1324d",
+                  "numText": "§ 1324d.",
+                  "heading": "Civil penalties for failure to depart",
+                  "identifier": "/us/usc/t8/s1324d"
+                },
+                {
+                  "number": "1325",
+                  "numText": "§ 1325.",
+                  "heading": "Improper entry by alien",
+                  "identifier": "/us/usc/t8/s1325"
+                },
+                {
+                  "number": "1326",
+                  "numText": "§ 1326.",
+                  "heading": "Reentry of removed aliens",
+                  "identifier": "/us/usc/t8/s1326"
+                },
+                {
+                  "number": "1327",
+                  "numText": "§ 1327.",
+                  "heading": "Aiding or assisting certain aliens to enter",
+                  "identifier": "/us/usc/t8/s1327"
+                },
+                {
+                  "number": "1328",
+                  "numText": "§ 1328.",
+                  "heading": "Importation of alien for immoral purpose",
+                  "identifier": "/us/usc/t8/s1328"
+                },
+                {
+                  "number": "1329",
+                  "numText": "§ 1329.",
+                  "heading": "Jurisdiction of district courts",
+                  "identifier": "/us/usc/t8/s1329"
+                },
+                {
+                  "number": "1330",
+                  "numText": "§ 1330.",
+                  "heading": "Collection of penalties and expenses",
+                  "identifier": "/us/usc/t8/s1330"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "IX",
+              "heading": "Miscellaneous",
+              "identifier": "/us/usc/t8/ch12/schII/ptIX",
+              "children": [
+                {
+                  "number": "1351",
+                  "numText": "§ 1351.",
+                  "heading": "Nonimmigrant visa fees",
+                  "identifier": "/us/usc/t8/s1351"
+                },
+                {
+                  "number": "1352",
+                  "numText": "§ 1352.",
+                  "heading": "Printing of reentry permits and blank forms of manifest and crew lists; sale to public",
+                  "identifier": "/us/usc/t8/s1352"
+                },
+                {
+                  "number": "1353",
+                  "numText": "§ 1353.",
+                  "heading": "Travel expenses and expense of transporting remains of officers and employees dying outside of United States",
+                  "identifier": "/us/usc/t8/s1353"
+                },
+                {
+                  "number": "1353a",
+                  "numText": "§ 1353a.",
+                  "heading": "Officers and employees; overtime services; extra compensation; length of working day",
+                  "identifier": "/us/usc/t8/s1353a"
+                },
+                {
+                  "number": "1353b",
+                  "numText": "§ 1353b.",
+                  "heading": "Extra compensation; payment",
+                  "identifier": "/us/usc/t8/s1353b"
+                },
+                {
+                  "number": "1353c",
+                  "numText": "§ 1353c.",
+                  "heading": "Immigration officials; service in foreign contiguous territory",
+                  "identifier": "/us/usc/t8/s1353c"
+                },
+                {
+                  "number": "1353d",
+                  "numText": "§ 1353d.",
+                  "heading": "Disposition of money received as extra compensation",
+                  "identifier": "/us/usc/t8/s1353d"
+                },
+                {
+                  "number": "1354",
+                  "numText": "§ 1354.",
+                  "heading": "Applicability to members of the Armed Forces",
+                  "identifier": "/us/usc/t8/s1354"
+                },
+                {
+                  "number": "1355",
+                  "numText": "§ 1355.",
+                  "heading": "Disposal of privileges at immigrant stations; rentals; retail sale; disposition of receipts",
+                  "identifier": "/us/usc/t8/s1355"
+                },
+                {
+                  "number": "1356",
+                  "numText": "§ 1356.",
+                  "heading": "Disposition of moneys collected under the provisions of this subchapter",
+                  "identifier": "/us/usc/t8/s1356"
+                },
+                {
+                  "number": "1357",
+                  "numText": "§ 1357.",
+                  "heading": "Powers of immigration officers and employees",
+                  "identifier": "/us/usc/t8/s1357"
+                },
+                {
+                  "number": "1358",
+                  "numText": "§ 1358.",
+                  "heading": "Local jurisdiction over immigrant stations",
+                  "identifier": "/us/usc/t8/s1358"
+                },
+                {
+                  "number": "1359",
+                  "numText": "§ 1359.",
+                  "heading": "Application to American Indians born in Canada",
+                  "identifier": "/us/usc/t8/s1359"
+                },
+                {
+                  "number": "1360",
+                  "numText": "§ 1360.",
+                  "heading": "Establishment of central file; information from other departments and agencies",
+                  "identifier": "/us/usc/t8/s1360"
+                },
+                {
+                  "number": "1361",
+                  "numText": "§ 1361.",
+                  "heading": "Burden of proof upon alien",
+                  "identifier": "/us/usc/t8/s1361"
+                },
+                {
+                  "number": "1362",
+                  "numText": "§ 1362.",
+                  "heading": "Right to counsel",
+                  "identifier": "/us/usc/t8/s1362"
+                },
+                {
+                  "number": "1363",
+                  "numText": "§ 1363.",
+                  "heading": "Deposit of and interest on cash received to secure immigration bonds",
+                  "identifier": "/us/usc/t8/s1363"
+                },
+                {
+                  "number": "1363a",
+                  "numText": "§ 1363a.",
+                  "heading": "Undercover investigation authority",
+                  "identifier": "/us/usc/t8/s1363a"
+                },
+                {
+                  "number": "1363b",
+                  "numText": "§ 1363b.",
+                  "heading": "Repealed. Pub. L. 105–277, div. A, § 101(b) [title I, § 109(b)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67",
+                  "identifier": "/us/usc/t8/s1363b"
+                },
+                {
+                  "number": "1364",
+                  "numText": "§ 1364.",
+                  "heading": "Triennial comprehensive report on immigration",
+                  "identifier": "/us/usc/t8/s1364"
+                },
+                {
+                  "number": "1365",
+                  "numText": "§ 1365.",
+                  "heading": "Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals",
+                  "identifier": "/us/usc/t8/s1365"
+                },
+                {
+                  "number": "1365a",
+                  "numText": "§ 1365a.",
+                  "heading": "Integrated entry and exit data system",
+                  "identifier": "/us/usc/t8/s1365a"
+                },
+                {
+                  "number": "1365b",
+                  "numText": "§ 1365b.",
+                  "heading": "Biometric entry and exit data system",
+                  "identifier": "/us/usc/t8/s1365b"
+                },
+                {
+                  "number": "1366",
+                  "numText": "§ 1366.",
+                  "heading": "Annual report on criminal aliens",
+                  "identifier": "/us/usc/t8/s1366"
+                },
+                {
+                  "number": "1367",
+                  "numText": "§ 1367.",
+                  "heading": "Penalties for disclosure of information",
+                  "identifier": "/us/usc/t8/s1367"
+                },
+                {
+                  "number": "1368",
+                  "numText": "§ 1368.",
+                  "heading": "Increase in INS detention facilities; report on detention space",
+                  "identifier": "/us/usc/t8/s1368"
+                },
+                {
+                  "number": "1369",
+                  "numText": "§ 1369.",
+                  "heading": "Treatment of expenses subject to emergency medical services exception",
+                  "identifier": "/us/usc/t8/s1369"
+                },
+                {
+                  "number": "1370",
+                  "numText": "§ 1370.",
+                  "heading": "Reimbursement of States and localities for emergency ambulance services",
+                  "identifier": "/us/usc/t8/s1370"
+                },
+                {
+                  "number": "1371",
+                  "numText": "§ 1371.",
+                  "heading": "Reports",
+                  "identifier": "/us/usc/t8/s1371"
+                },
+                {
+                  "number": "1372",
+                  "numText": "§ 1372.",
+                  "heading": "Program to collect information relating to nonimmigrant foreign students and other exchange program participants",
+                  "identifier": "/us/usc/t8/s1372"
+                },
+                {
+                  "number": "1373",
+                  "numText": "§ 1373.",
+                  "heading": "Communication between government agencies and the Immigration and Naturalization Service",
+                  "identifier": "/us/usc/t8/s1373"
+                },
+                {
+                  "number": "1374",
+                  "numText": "§ 1374.",
+                  "heading": "Information regarding female genital mutilation",
+                  "identifier": "/us/usc/t8/s1374"
+                },
+                {
+                  "number": "1375",
+                  "numText": "§ 1375.",
+                  "heading": "Repealed. Pub. L. 109–162, title VIII, § 833(g), Jan. 5, 2006, 119 Stat. 3077",
+                  "identifier": "/us/usc/t8/s1375"
+                },
+                {
+                  "number": "1375a",
+                  "numText": "§ 1375a.",
+                  "heading": "Domestic violence information and resources for immigrants and regulation of international marriage brokers",
+                  "identifier": "/us/usc/t8/s1375a"
+                },
+                {
+                  "number": "1375b",
+                  "numText": "§ 1375b.",
+                  "heading": "Protections for domestic workers and other nonimmigrants",
+                  "identifier": "/us/usc/t8/s1375b"
+                },
+                {
+                  "number": "1375c",
+                  "numText": "§ 1375c.",
+                  "heading": "Protections, remedies, and limitations on issuance for A–3 and G–5 visas",
+                  "identifier": "/us/usc/t8/s1375c"
+                },
+                {
+                  "number": "1376",
+                  "numText": "§ 1376.",
+                  "heading": "Data on nonimmigrant overstay rates",
+                  "identifier": "/us/usc/t8/s1376"
+                },
+                {
+                  "number": "1377",
+                  "numText": "§ 1377.",
+                  "heading": "Collection of data on detained asylum seekers",
+                  "identifier": "/us/usc/t8/s1377"
+                },
+                {
+                  "number": "1377a",
+                  "numText": "§ 1377a.",
+                  "heading": "Report on aliens determined to have credible or reasonable fear of persecution or torture",
+                  "identifier": "/us/usc/t8/s1377a"
+                },
+                {
+                  "number": "1378",
+                  "numText": "§ 1378.",
+                  "heading": "Collection of data on other detained aliens",
+                  "identifier": "/us/usc/t8/s1378"
+                },
+                {
+                  "number": "1378a",
+                  "numText": "§ 1378a.",
+                  "heading": "Report on aliens detained",
+                  "identifier": "/us/usc/t8/s1378a"
+                },
+                {
+                  "number": "1379",
+                  "numText": "§ 1379.",
+                  "heading": "Technology standard to confirm identity",
+                  "identifier": "/us/usc/t8/s1379"
+                },
+                {
+                  "number": "1380",
+                  "numText": "§ 1380.",
+                  "heading": "Maintenance of statistics by the Department of Homeland Security",
+                  "identifier": "/us/usc/t8/s1380"
+                },
+                {
+                  "number": "1381",
+                  "numText": "§ 1381.",
+                  "heading": "Secretary of Labor report",
+                  "identifier": "/us/usc/t8/s1381"
+                },
+                {
+                  "number": "1382",
+                  "numText": "§ 1382.",
+                  "heading": "Acceptance and administration of gifts for immigration integration grants program",
+                  "identifier": "/us/usc/t8/s1382"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "NATIONALITY AND NATURALIZATION",
+          "identifier": "/us/usc/t8/ch12/schIII",
+          "children": [
+            {
+              "type": "part",
+              "number": "I",
+              "heading": "Nationality at Birth and Collective Naturalization",
+              "identifier": "/us/usc/t8/ch12/schIII/ptI",
+              "children": [
+                {
+                  "number": "1401",
+                  "numText": "§ 1401.",
+                  "heading": "Nationals and citizens of United States at birth",
+                  "identifier": "/us/usc/t8/s1401"
+                },
+                {
+                  "number": "1401a",
+                  "numText": "§ 1401a.",
+                  "heading": "Birth abroad before 1952 to service parent",
+                  "identifier": "/us/usc/t8/s1401a"
+                },
+                {
+                  "number": "1401b",
+                  "numText": "§ 1401b.",
+                  "heading": "Repealed. Pub. L. 92–584, § 2, Oct. 27, 1972, 86 Stat. 1289",
+                  "identifier": "/us/usc/t8/s1401b"
+                },
+                {
+                  "number": "1402",
+                  "numText": "§ 1402.",
+                  "heading": "Persons born in Puerto Rico on or after April 11, 1899",
+                  "identifier": "/us/usc/t8/s1402"
+                },
+                {
+                  "number": "1403",
+                  "numText": "§ 1403.",
+                  "heading": "Persons born in the Canal Zone or Republic of Panama on or after February 26, 1904",
+                  "identifier": "/us/usc/t8/s1403"
+                },
+                {
+                  "number": "1404",
+                  "numText": "§ 1404.",
+                  "heading": "Persons born in Alaska on or after March 30, 1867",
+                  "identifier": "/us/usc/t8/s1404"
+                },
+                {
+                  "number": "1405",
+                  "numText": "§ 1405.",
+                  "heading": "Persons born in Hawaii",
+                  "identifier": "/us/usc/t8/s1405"
+                },
+                {
+                  "number": "1406",
+                  "numText": "§ 1406.",
+                  "heading": "Persons living in and born in the Virgin Islands",
+                  "identifier": "/us/usc/t8/s1406"
+                },
+                {
+                  "number": "1407",
+                  "numText": "§ 1407.",
+                  "heading": "Persons living in and born in Guam",
+                  "identifier": "/us/usc/t8/s1407"
+                },
+                {
+                  "number": "1408",
+                  "numText": "§ 1408.",
+                  "heading": "Nationals but not citizens of the United States at birth",
+                  "identifier": "/us/usc/t8/s1408"
+                },
+                {
+                  "number": "1409",
+                  "numText": "§ 1409.",
+                  "heading": "Children born out of wedlock",
+                  "identifier": "/us/usc/t8/s1409"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "II",
+              "heading": "Nationality Through Naturalization",
+              "identifier": "/us/usc/t8/ch12/schIII/ptII",
+              "children": [
+                {
+                  "number": "1421",
+                  "numText": "§ 1421.",
+                  "heading": "Naturalization authority",
+                  "identifier": "/us/usc/t8/s1421"
+                },
+                {
+                  "number": "1422",
+                  "numText": "§ 1422.",
+                  "heading": "Eligibility for naturalization",
+                  "identifier": "/us/usc/t8/s1422"
+                },
+                {
+                  "number": "1423",
+                  "numText": "§ 1423.",
+                  "heading": "Requirements as to understanding the English language, history, principles and form of government of the United States",
+                  "identifier": "/us/usc/t8/s1423"
+                },
+                {
+                  "number": "1424",
+                  "numText": "§ 1424.",
+                  "heading": "Prohibition upon the naturalization of persons opposed to government or law, or who favor totalitarian forms of government",
+                  "identifier": "/us/usc/t8/s1424"
+                },
+                {
+                  "number": "1425",
+                  "numText": "§ 1425.",
+                  "heading": "Ineligibility to naturalization of deserters from the Armed Forces",
+                  "identifier": "/us/usc/t8/s1425"
+                },
+                {
+                  "number": "1426",
+                  "numText": "§ 1426.",
+                  "heading": "Citizenship denied alien relieved of service in Armed Forces because of alienage",
+                  "identifier": "/us/usc/t8/s1426"
+                },
+                {
+                  "number": "1427",
+                  "numText": "§ 1427.",
+                  "heading": "Requirements of naturalization",
+                  "identifier": "/us/usc/t8/s1427"
+                },
+                {
+                  "number": "1428",
+                  "numText": "§ 1428.",
+                  "heading": "Temporary absence of persons performing religious duties",
+                  "identifier": "/us/usc/t8/s1428"
+                },
+                {
+                  "number": "1429",
+                  "numText": "§ 1429.",
+                  "heading": "Prerequisite to naturalization; burden of proof",
+                  "identifier": "/us/usc/t8/s1429"
+                },
+                {
+                  "number": "1430",
+                  "numText": "§ 1430.",
+                  "heading": "Married persons and employees of certain nonprofit organizations",
+                  "identifier": "/us/usc/t8/s1430"
+                },
+                {
+                  "number": "1431",
+                  "numText": "§ 1431.",
+                  "heading": "Children born outside the United States and lawfully admitted for permanent residence; conditions under which citizenship automatically acquired",
+                  "identifier": "/us/usc/t8/s1431"
+                },
+                {
+                  "number": "1432",
+                  "numText": "§ 1432.",
+                  "heading": "Repealed. Pub. L. 106–395, title I, § 103(a), Oct. 30, 2000, 114 Stat. 1632",
+                  "identifier": "/us/usc/t8/s1432"
+                },
+                {
+                  "number": "1433",
+                  "numText": "§ 1433.",
+                  "heading": "Children born and residing outside the United States; conditions for acquiring certificate of citizenship",
+                  "identifier": "/us/usc/t8/s1433"
+                },
+                {
+                  "number": "1434",
+                  "numText": "§ 1434.",
+                  "heading": "Repealed. Pub. L. 95–417, § 7, Oct. 5, 1978, 92 Stat. 918",
+                  "identifier": "/us/usc/t8/s1434"
+                },
+                {
+                  "number": "1435",
+                  "numText": "§ 1435.",
+                  "heading": "Former citizens regaining citizenship",
+                  "identifier": "/us/usc/t8/s1435"
+                },
+                {
+                  "number": "1436",
+                  "numText": "§ 1436.",
+                  "heading": "Nationals but not citizens; residence within outlying possessions",
+                  "identifier": "/us/usc/t8/s1436"
+                },
+                {
+                  "number": "1437",
+                  "numText": "§ 1437.",
+                  "heading": "Resident Philippine citizens excepted from certain requirements",
+                  "identifier": "/us/usc/t8/s1437"
+                },
+                {
+                  "number": "1438",
+                  "numText": "§ 1438.",
+                  "heading": "Former citizens losing citizenship by entering armed forces of foreign countries during World War II",
+                  "identifier": "/us/usc/t8/s1438"
+                },
+                {
+                  "number": "1439",
+                  "numText": "§ 1439.",
+                  "heading": "Naturalization through service in the armed forces",
+                  "identifier": "/us/usc/t8/s1439"
+                },
+                {
+                  "number": "1440",
+                  "numText": "§ 1440.",
+                  "heading": "Naturalization through active-duty service in the Armed Forces during World War I, World War II, Korean hostilities, Vietnam hostilities, or other periods of military hostilities",
+                  "identifier": "/us/usc/t8/s1440"
+                },
+                {
+                  "number": "1440–1",
+                  "numText": "§ 1440–1.",
+                  "heading": "Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean hostilities, the Vietnam hostilities, or in other periods of military hostilities",
+                  "identifier": "/us/usc/t8/s1440–1"
+                },
+                {
+                  "number": "1440a to 1440d",
+                  "numText": "§§ 1440a to 1440d.",
+                  "heading": "Omitted",
+                  "identifier": "/us/usc/t8/s1440a...1440d"
+                },
+                {
+                  "number": "1440e",
+                  "numText": "§ 1440e.",
+                  "heading": "Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of military hostilities; report by clerks of courts to Attorney General",
+                  "identifier": "/us/usc/t8/s1440e"
+                },
+                {
+                  "number": "1440f",
+                  "numText": "§ 1440f.",
+                  "heading": "Fingerprints and other biometric information for members of the United States Armed Forces",
+                  "identifier": "/us/usc/t8/s1440f"
+                },
+                {
+                  "number": "1440g",
+                  "numText": "§ 1440g.",
+                  "heading": "Provision of information on military naturalization",
+                  "identifier": "/us/usc/t8/s1440g"
+                },
+                {
+                  "number": "1441",
+                  "numText": "§ 1441.",
+                  "heading": "Constructive residence through service on certain United States vessels",
+                  "identifier": "/us/usc/t8/s1441"
+                },
+                {
+                  "number": "1442",
+                  "numText": "§ 1442.",
+                  "heading": "Alien enemies",
+                  "identifier": "/us/usc/t8/s1442"
+                },
+                {
+                  "number": "1443",
+                  "numText": "§ 1443.",
+                  "heading": "Administration",
+                  "identifier": "/us/usc/t8/s1443"
+                },
+                {
+                  "number": "1443a",
+                  "numText": "§ 1443a.",
+                  "heading": "Naturalization proceedings overseas for members of the Armed Forces and their spouses and children",
+                  "identifier": "/us/usc/t8/s1443a"
+                },
+                {
+                  "number": "1444",
+                  "numText": "§ 1444.",
+                  "heading": "Photographs; number",
+                  "identifier": "/us/usc/t8/s1444"
+                },
+                {
+                  "number": "1445",
+                  "numText": "§ 1445.",
+                  "heading": "Application for naturalization; declaration of intention",
+                  "identifier": "/us/usc/t8/s1445"
+                },
+                {
+                  "number": "1446",
+                  "numText": "§ 1446.",
+                  "heading": "Investigation of applicants; examination of applications",
+                  "identifier": "/us/usc/t8/s1446"
+                },
+                {
+                  "number": "1447",
+                  "numText": "§ 1447.",
+                  "heading": "Hearings on denials of applications for naturalization",
+                  "identifier": "/us/usc/t8/s1447"
+                },
+                {
+                  "number": "1448",
+                  "numText": "§ 1448.",
+                  "heading": "Oath of renunciation and allegiance",
+                  "identifier": "/us/usc/t8/s1448"
+                },
+                {
+                  "number": "1448a",
+                  "numText": "§ 1448a.",
+                  "heading": "Address to newly naturalized citizens",
+                  "identifier": "/us/usc/t8/s1448a"
+                },
+                {
+                  "number": "1449",
+                  "numText": "§ 1449.",
+                  "heading": "Certificate of naturalization; contents",
+                  "identifier": "/us/usc/t8/s1449"
+                },
+                {
+                  "number": "1450",
+                  "numText": "§ 1450.",
+                  "heading": "Functions and duties of clerks and records of declarations of intention and applications for naturalization",
+                  "identifier": "/us/usc/t8/s1450"
+                },
+                {
+                  "number": "1451",
+                  "numText": "§ 1451.",
+                  "heading": "Revocation of naturalization",
+                  "identifier": "/us/usc/t8/s1451"
+                },
+                {
+                  "number": "1452",
+                  "numText": "§ 1452.",
+                  "heading": "Certificates of citizenship or U.S. non-citizen national status; procedure",
+                  "identifier": "/us/usc/t8/s1452"
+                },
+                {
+                  "number": "1453",
+                  "numText": "§ 1453.",
+                  "heading": "Cancellation of certificates issued by Attorney General, the Commissioner or a Deputy Commissioner; action not to affect citizenship status",
+                  "identifier": "/us/usc/t8/s1453"
+                },
+                {
+                  "number": "1454",
+                  "numText": "§ 1454.",
+                  "heading": "Documents and copies issued by Attorney General",
+                  "identifier": "/us/usc/t8/s1454"
+                },
+                {
+                  "number": "1455",
+                  "numText": "§ 1455.",
+                  "heading": "Fiscal provisions",
+                  "identifier": "/us/usc/t8/s1455"
+                },
+                {
+                  "number": "1456",
+                  "numText": "§ 1456.",
+                  "heading": "Repealed. Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 708, eff. Sept. 1, 1960",
+                  "identifier": "/us/usc/t8/s1456"
+                },
+                {
+                  "number": "1457",
+                  "numText": "§ 1457.",
+                  "heading": "Publication and distribution of citizenship textbooks; use of naturalization fees",
+                  "identifier": "/us/usc/t8/s1457"
+                },
+                {
+                  "number": "1458",
+                  "numText": "§ 1458.",
+                  "heading": "Compilation of naturalization statistics and payment for equipment",
+                  "identifier": "/us/usc/t8/s1458"
+                },
+                {
+                  "number": "1459",
+                  "numText": "§ 1459.",
+                  "heading": "Repealed. Pub. L. 101–649, title IV, § 407(d)(20), Nov. 29, 1990, 104 Stat. 5046",
+                  "identifier": "/us/usc/t8/s1459"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "III",
+              "heading": "Loss of Nationality",
+              "identifier": "/us/usc/t8/ch12/schIII/ptIII",
+              "children": [
+                {
+                  "number": "1481",
+                  "numText": "§ 1481.",
+                  "heading": "Loss of nationality by native-born or naturalized citizen; voluntary action; burden of proof; presumptions",
+                  "identifier": "/us/usc/t8/s1481"
+                },
+                {
+                  "number": "1482",
+                  "numText": "§ 1482.",
+                  "heading": "Repealed. Pub. L. 95–432, § 1, Oct. 10, 1978, 92 Stat. 1046",
+                  "identifier": "/us/usc/t8/s1482"
+                },
+                {
+                  "number": "1483",
+                  "numText": "§ 1483.",
+                  "heading": "Restrictions on loss of nationality",
+                  "identifier": "/us/usc/t8/s1483"
+                },
+                {
+                  "number": "1484 to 1487",
+                  "numText": "§§ 1484 to 1487.",
+                  "heading": "Repealed. Pub. L. 95–432, § 2, Oct. 10, 1978, 92 Stat. 1046",
+                  "identifier": "/us/usc/t8/s1484...1487"
+                },
+                {
+                  "number": "1488",
+                  "numText": "§ 1488.",
+                  "heading": "Nationality lost solely from performance of acts or fulfillment of conditions",
+                  "identifier": "/us/usc/t8/s1488"
+                },
+                {
+                  "number": "1489",
+                  "numText": "§ 1489.",
+                  "heading": "Application of treaties; exceptions",
+                  "identifier": "/us/usc/t8/s1489"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "IV",
+              "heading": "Miscellaneous",
+              "identifier": "/us/usc/t8/ch12/schIII/ptIV",
+              "children": [
+                {
+                  "number": "1501",
+                  "numText": "§ 1501.",
+                  "heading": "Certificate of diplomatic or consular officer of United States as to loss of American nationality",
+                  "identifier": "/us/usc/t8/s1501"
+                },
+                {
+                  "number": "1502",
+                  "numText": "§ 1502.",
+                  "heading": "Certificate of nationality issued by Secretary of State for person not a naturalized citizen of United States for use in proceedings of a foreign state",
+                  "identifier": "/us/usc/t8/s1502"
+                },
+                {
+                  "number": "1503",
+                  "numText": "§ 1503.",
+                  "heading": "Denial of rights and privileges as national",
+                  "identifier": "/us/usc/t8/s1503"
+                },
+                {
+                  "number": "1504",
+                  "numText": "§ 1504.",
+                  "heading": "Cancellation of United States passports and Consular Reports of Birth",
+                  "identifier": "/us/usc/t8/s1504"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "REFUGEE ASSISTANCE",
+          "identifier": "/us/usc/t8/ch12/schIV",
+          "children": [
+            {
+              "number": "1521",
+              "numText": "§ 1521.",
+              "heading": "Office of Refugee Resettlement; establishment; appointment of Director; functions",
+              "identifier": "/us/usc/t8/s1521"
+            },
+            {
+              "number": "1522",
+              "numText": "§ 1522.",
+              "heading": "Authorization for programs for domestic resettlement of and assistance to refugees",
+              "identifier": "/us/usc/t8/s1522"
+            },
+            {
+              "number": "1523",
+              "numText": "§ 1523.",
+              "heading": "Congressional reports",
+              "identifier": "/us/usc/t8/s1523"
+            },
+            {
+              "number": "1524",
+              "numText": "§ 1524.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t8/s1524"
+            },
+            {
+              "number": "1525",
+              "numText": "§ 1525.",
+              "heading": "Repealed. Pub. L. 103–236, title I, § 162(m)(3), Apr. 30, 1994, 108 Stat. 409",
+              "identifier": "/us/usc/t8/s1525"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "ALIEN TERRORIST REMOVAL PROCEDURES",
+          "identifier": "/us/usc/t8/ch12/schV",
+          "children": [
+            {
+              "number": "1531",
+              "numText": "§ 1531.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t8/s1531"
+            },
+            {
+              "number": "1532",
+              "numText": "§ 1532.",
+              "heading": "Establishment of removal court",
+              "identifier": "/us/usc/t8/s1532"
+            },
+            {
+              "number": "1533",
+              "numText": "§ 1533.",
+              "heading": "Removal court procedure",
+              "identifier": "/us/usc/t8/s1533"
+            },
+            {
+              "number": "1534",
+              "numText": "§ 1534.",
+              "heading": "Removal hearing",
+              "identifier": "/us/usc/t8/s1534"
+            },
+            {
+              "number": "1535",
+              "numText": "§ 1535.",
+              "heading": "Appeals",
+              "identifier": "/us/usc/t8/s1535"
+            },
+            {
+              "number": "1536",
+              "numText": "§ 1536.",
+              "heading": "Custody and release pending removal hearing",
+              "identifier": "/us/usc/t8/s1536"
+            },
+            {
+              "number": "1537",
+              "numText": "§ 1537.",
+              "heading": "Custody and release after removal hearing",
+              "identifier": "/us/usc/t8/s1537"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "13",
+      "heading": "IMMIGRATION AND NATURALIZATION SERVICE",
+      "identifier": "/us/usc/t8/ch13",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "ORGANIZATION",
+          "identifier": "/us/usc/t8/ch13/schI",
+          "children": [
+            {
+              "number": "1551",
+              "numText": "§ 1551.",
+              "heading": "Immigration and Naturalization Service",
+              "identifier": "/us/usc/t8/s1551"
+            },
+            {
+              "number": "1552",
+              "numText": "§ 1552.",
+              "heading": "Commissioner of Immigration and Naturalization; office",
+              "identifier": "/us/usc/t8/s1552"
+            },
+            {
+              "number": "1553",
+              "numText": "§ 1553.",
+              "heading": "Assistant Commissioners and one District Director; compensation and salary grade",
+              "identifier": "/us/usc/t8/s1553"
+            },
+            {
+              "number": "1554",
+              "numText": "§ 1554.",
+              "heading": "Special immigrant inspectors at Washington",
+              "identifier": "/us/usc/t8/s1554"
+            },
+            {
+              "number": "1555",
+              "numText": "§ 1555.",
+              "heading": "Immigration Service expenses",
+              "identifier": "/us/usc/t8/s1555"
+            },
+            {
+              "number": "1556",
+              "numText": "§ 1556.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t8/s1556"
+            },
+            {
+              "number": "1557",
+              "numText": "§ 1557.",
+              "heading": "Prevention of transportation in foreign commerce of alien women and girls under international agreement; Commissioner designated as authority to receive and preserve information",
+              "identifier": "/us/usc/t8/s1557"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "IMMIGRATION SERVICES AND INFRASTRUCTURE IMPROVEMENTS",
+          "identifier": "/us/usc/t8/ch13/schII",
+          "children": [
+            {
+              "number": "1571",
+              "numText": "§ 1571.",
+              "heading": "Purposes",
+              "identifier": "/us/usc/t8/s1571"
+            },
+            {
+              "number": "1572",
+              "numText": "§ 1572.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t8/s1572"
+            },
+            {
+              "number": "1573",
+              "numText": "§ 1573.",
+              "heading": "Immigration Services and Infrastructure Improvements Account",
+              "identifier": "/us/usc/t8/s1573"
+            },
+            {
+              "number": "1574",
+              "numText": "§ 1574.",
+              "heading": "Reports to Congress",
+              "identifier": "/us/usc/t8/s1574"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "14",
+      "heading": "RESTRICTING WELFARE AND PUBLIC BENEFITS FOR ALIENS",
+      "identifier": "/us/usc/t8/ch14",
+      "children": [
+        {
+          "number": "1601",
+          "numText": "§ 1601.",
+          "heading": "Statements of national policy concerning welfare and immigration",
+          "identifier": "/us/usc/t8/s1601"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "ELIGIBILITY FOR FEDERAL BENEFITS",
+          "identifier": "/us/usc/t8/ch14/schI",
+          "children": [
+            {
+              "number": "1611",
+              "numText": "§ 1611.",
+              "heading": "Aliens who are not qualified aliens ineligible for Federal public benefits",
+              "identifier": "/us/usc/t8/s1611"
+            },
+            {
+              "number": "1612",
+              "numText": "§ 1612.",
+              "heading": "Limited eligibility of qualified aliens for certain Federal programs",
+              "identifier": "/us/usc/t8/s1612"
+            },
+            {
+              "number": "1613",
+              "numText": "§ 1613.",
+              "heading": "Five-year limited eligibility of qualified aliens for Federal means-tested public benefit",
+              "identifier": "/us/usc/t8/s1613"
+            },
+            {
+              "number": "1614",
+              "numText": "§ 1614.",
+              "heading": "Notification and information reporting",
+              "identifier": "/us/usc/t8/s1614"
+            },
+            {
+              "number": "1615",
+              "numText": "§ 1615.",
+              "heading": "Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other Acts",
+              "identifier": "/us/usc/t8/s1615"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "ELIGIBILITY FOR STATE AND LOCAL PUBLIC BENEFITS PROGRAMS",
+          "identifier": "/us/usc/t8/ch14/schII",
+          "children": [
+            {
+              "number": "1621",
+              "numText": "§ 1621.",
+              "heading": "Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits",
+              "identifier": "/us/usc/t8/s1621"
+            },
+            {
+              "number": "1622",
+              "numText": "§ 1622.",
+              "heading": "State authority to limit eligibility of qualified aliens for State public benefits",
+              "identifier": "/us/usc/t8/s1622"
+            },
+            {
+              "number": "1623",
+              "numText": "§ 1623.",
+              "heading": "Limitation on eligibility for preferential treatment of aliens not lawfully present on basis of residence for higher education benefits",
+              "identifier": "/us/usc/t8/s1623"
+            },
+            {
+              "number": "1624",
+              "numText": "§ 1624.",
+              "heading": "Authority of States and political subdivisions of States to limit assistance to aliens and to distinguish among classes of aliens in providing general cash public assistance",
+              "identifier": "/us/usc/t8/s1624"
+            },
+            {
+              "number": "1625",
+              "numText": "§ 1625.",
+              "heading": "Authorization for verification of eligibility for State and local public benefits",
+              "identifier": "/us/usc/t8/s1625"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "ATTRIBUTION OF INCOME AND AFFIDAVITS OF SUPPORT",
+          "identifier": "/us/usc/t8/ch14/schIII",
+          "children": [
+            {
+              "number": "1631",
+              "numText": "§ 1631.",
+              "heading": "Federal attribution of sponsor’s income and resources to alien",
+              "identifier": "/us/usc/t8/s1631"
+            },
+            {
+              "number": "1632",
+              "numText": "§ 1632.",
+              "heading": "Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs",
+              "identifier": "/us/usc/t8/s1632"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t8/ch14/schIV",
+          "children": [
+            {
+              "number": "1641",
+              "numText": "§ 1641.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t8/s1641"
+            },
+            {
+              "number": "1642",
+              "numText": "§ 1642.",
+              "heading": "Verification of eligibility for Federal public benefits",
+              "identifier": "/us/usc/t8/s1642"
+            },
+            {
+              "number": "1643",
+              "numText": "§ 1643.",
+              "heading": "Statutory construction",
+              "identifier": "/us/usc/t8/s1643"
+            },
+            {
+              "number": "1644",
+              "numText": "§ 1644.",
+              "heading": "Communication between State and local government agencies and Immigration and Naturalization Service",
+              "identifier": "/us/usc/t8/s1644"
+            },
+            {
+              "number": "1645",
+              "numText": "§ 1645.",
+              "heading": "Qualifying quarters",
+              "identifier": "/us/usc/t8/s1645"
+            },
+            {
+              "number": "1646",
+              "numText": "§ 1646.",
+              "heading": "Derivative eligibility for benefits",
+              "identifier": "/us/usc/t8/s1646"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "15",
+      "heading": "ENHANCED BORDER SECURITY AND VISA ENTRY REFORM",
+      "identifier": "/us/usc/t8/ch15",
+      "children": [
+        {
+          "number": "1701",
+          "numText": "§ 1701.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t8/s1701"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "FUNDING",
+          "identifier": "/us/usc/t8/ch15/schI",
+          "children": [
+            {
+              "number": "1711",
+              "numText": "§ 1711.",
+              "heading": "Authorization of appropriations for hiring and training Government personnel",
+              "identifier": "/us/usc/t8/s1711"
+            },
+            {
+              "number": "1712",
+              "numText": "§ 1712.",
+              "heading": "Authorization of appropriations for improvements in technology and infrastructure",
+              "identifier": "/us/usc/t8/s1712"
+            },
+            {
+              "number": "1713",
+              "numText": "§ 1713.",
+              "heading": "Machine-readable visa fees",
+              "identifier": "/us/usc/t8/s1713"
+            },
+            {
+              "number": "1714",
+              "numText": "§ 1714.",
+              "heading": "Surcharges related to consular services",
+              "identifier": "/us/usc/t8/s1714"
+            },
+            {
+              "number": "1715",
+              "numText": "§ 1715.",
+              "heading": "Consular and Border Security Programs",
+              "identifier": "/us/usc/t8/s1715"
+            },
+            {
+              "number": "1716",
+              "numText": "§ 1716.",
+              "heading": "State Border Security Reinforcement Fund",
+              "identifier": "/us/usc/t8/s1716"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "INTERAGENCY INFORMATION SHARING",
+          "identifier": "/us/usc/t8/ch15/schII",
+          "children": [
+            {
+              "number": "1721",
+              "numText": "§ 1721.",
+              "heading": "Interim measures for access to and coordination of law enforcement and other information",
+              "identifier": "/us/usc/t8/s1721"
+            },
+            {
+              "number": "1722",
+              "numText": "§ 1722.",
+              "heading": "Interoperable law enforcement and intelligence data system with name-matching capacity and training",
+              "identifier": "/us/usc/t8/s1722"
+            },
+            {
+              "number": "1723",
+              "numText": "§ 1723.",
+              "heading": "Commission on Interoperable Data Sharing",
+              "identifier": "/us/usc/t8/s1723"
+            },
+            {
+              "number": "1724",
+              "numText": "§ 1724.",
+              "heading": "Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system (“Chimera system”)",
+              "identifier": "/us/usc/t8/s1724"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "VISA ISSUANCE",
+          "identifier": "/us/usc/t8/ch15/schIII",
+          "children": [
+            {
+              "number": "1731",
+              "numText": "§ 1731.",
+              "heading": "Implementation of an integrated entry and exit data system",
+              "identifier": "/us/usc/t8/s1731"
+            },
+            {
+              "number": "1732",
+              "numText": "§ 1732.",
+              "heading": "Machine-readable, tamper-resistant entry and exit documents",
+              "identifier": "/us/usc/t8/s1732"
+            },
+            {
+              "number": "1733",
+              "numText": "§ 1733.",
+              "heading": "Terrorist lookout committees",
+              "identifier": "/us/usc/t8/s1733"
+            },
+            {
+              "number": "1734",
+              "numText": "§ 1734.",
+              "heading": "Improved training for consular officers",
+              "identifier": "/us/usc/t8/s1734"
+            },
+            {
+              "number": "1735",
+              "numText": "§ 1735.",
+              "heading": "Restriction on issuance of visas to nonimmigrants from countries that are state sponsors of international terrorism",
+              "identifier": "/us/usc/t8/s1735"
+            },
+            {
+              "number": "1736",
+              "numText": "§ 1736.",
+              "heading": "Check of lookout databases",
+              "identifier": "/us/usc/t8/s1736"
+            },
+            {
+              "number": "1737",
+              "numText": "§ 1737.",
+              "heading": "Tracking system for stolen passports",
+              "identifier": "/us/usc/t8/s1737"
+            },
+            {
+              "number": "1738",
+              "numText": "§ 1738.",
+              "heading": "Identification documents for certain newly admitted aliens",
+              "identifier": "/us/usc/t8/s1738"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "INSPECTION AND ADMISSION OF ALIENS",
+          "identifier": "/us/usc/t8/ch15/schIV",
+          "children": [
+            {
+              "number": "1751",
+              "numText": "§ 1751.",
+              "heading": "Study of the feasibility of a North American National Security Program",
+              "identifier": "/us/usc/t8/s1751"
+            },
+            {
+              "number": "1752",
+              "numText": "§ 1752.",
+              "heading": "Staffing levels at ports of entry",
+              "identifier": "/us/usc/t8/s1752"
+            },
+            {
+              "number": "1752a",
+              "numText": "§ 1752a.",
+              "heading": "Model ports-of-entry",
+              "identifier": "/us/usc/t8/s1752a"
+            },
+            {
+              "number": "1753",
+              "numText": "§ 1753.",
+              "heading": "Joint United States-Canada projects for alternative inspections services",
+              "identifier": "/us/usc/t8/s1753"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "FOREIGN STUDENTS AND EXCHANGE VISITORS",
+          "identifier": "/us/usc/t8/ch15/schV",
+          "children": [
+            {
+              "number": "1761",
+              "numText": "§ 1761.",
+              "heading": "Foreign student monitoring program",
+              "identifier": "/us/usc/t8/s1761"
+            },
+            {
+              "number": "1762",
+              "numText": "§ 1762.",
+              "heading": "Review of institutions and other entities authorized to enroll or sponsor certain nonimmigrants",
+              "identifier": "/us/usc/t8/s1762"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t8/ch15/schVI",
+          "children": [
+            {
+              "number": "1771",
+              "numText": "§ 1771.",
+              "heading": "General Accounting Office study",
+              "identifier": "/us/usc/t8/s1771"
+            },
+            {
+              "number": "1772",
+              "numText": "§ 1772.",
+              "heading": "International cooperation",
+              "identifier": "/us/usc/t8/s1772"
+            },
+            {
+              "number": "1773",
+              "numText": "§ 1773.",
+              "heading": "Statutory construction",
+              "identifier": "/us/usc/t8/s1773"
+            },
+            {
+              "number": "1774",
+              "numText": "§ 1774.",
+              "heading": "Annual report on aliens who fail to appear after release on own recognizance",
+              "identifier": "/us/usc/t8/s1774"
+            },
+            {
+              "number": "1775",
+              "numText": "§ 1775.",
+              "heading": "Retention of nonimmigrant visa applications by the Department of State",
+              "identifier": "/us/usc/t8/s1775"
+            },
+            {
+              "number": "1776",
+              "numText": "§ 1776.",
+              "heading": "Training program",
+              "identifier": "/us/usc/t8/s1776"
+            },
+            {
+              "number": "1777",
+              "numText": "§ 1777.",
+              "heading": "Establishment of Human Smuggling and Trafficking Center",
+              "identifier": "/us/usc/t8/s1777"
+            },
+            {
+              "number": "1778",
+              "numText": "§ 1778.",
+              "heading": "Vulnerability and threat assessment",
+              "identifier": "/us/usc/t8/s1778"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "16",
+      "heading": "IMMIGRATION FEES",
+      "identifier": "/us/usc/t8/ch16",
+      "children": [
+        {
+          "number": "1801",
+          "numText": "§ 1801.",
+          "heading": "Applicability of the immigration laws",
+          "identifier": "/us/usc/t8/s1801"
+        },
+        {
+          "number": "1802",
+          "numText": "§ 1802.",
+          "heading": "Asylum fee",
+          "identifier": "/us/usc/t8/s1802"
+        },
+        {
+          "number": "1803",
+          "numText": "§ 1803.",
+          "heading": "Employment authorization document fees",
+          "identifier": "/us/usc/t8/s1803"
+        },
+        {
+          "number": "1804",
+          "numText": "§ 1804.",
+          "heading": "Immigration parole fee",
+          "identifier": "/us/usc/t8/s1804"
+        },
+        {
+          "number": "1805",
+          "numText": "§ 1805.",
+          "heading": "Special immigrant juvenile fee",
+          "identifier": "/us/usc/t8/s1805"
+        },
+        {
+          "number": "1806",
+          "numText": "§ 1806.",
+          "heading": "Visa integrity fee",
+          "identifier": "/us/usc/t8/s1806"
+        },
+        {
+          "number": "1807",
+          "numText": "§ 1807.",
+          "heading": "Form I–94 fee",
+          "identifier": "/us/usc/t8/s1807"
+        },
+        {
+          "number": "1808",
+          "numText": "§ 1808.",
+          "heading": "Annual asylum fee",
+          "identifier": "/us/usc/t8/s1808"
+        },
+        {
+          "number": "1809",
+          "numText": "§ 1809.",
+          "heading": "Fee relating to renewal and extension of employment authorization for parolees",
+          "identifier": "/us/usc/t8/s1809"
+        },
+        {
+          "number": "1810",
+          "numText": "§ 1810.",
+          "heading": "Fee relating to renewal or extension of employment authorization for asylum applicants",
+          "identifier": "/us/usc/t8/s1810"
+        },
+        {
+          "number": "1811",
+          "numText": "§ 1811.",
+          "heading": "Fee relating to renewal and extension of employment authorization for aliens granted temporary protected status",
+          "identifier": "/us/usc/t8/s1811"
+        },
+        {
+          "number": "1812",
+          "numText": "§ 1812.",
+          "heading": "Fees relating to applications for adjustment of status",
+          "identifier": "/us/usc/t8/s1812"
+        },
+        {
+          "number": "1813",
+          "numText": "§ 1813.",
+          "heading": "Electronic Visa Update System fee",
+          "identifier": "/us/usc/t8/s1813"
+        },
+        {
+          "number": "1814",
+          "numText": "§ 1814.",
+          "heading": "Fee for aliens ordered removed in absentia",
+          "identifier": "/us/usc/t8/s1814"
+        },
+        {
+          "number": "1815",
+          "numText": "§ 1815.",
+          "heading": "Inadmissible alien apprehension fee",
+          "identifier": "/us/usc/t8/s1815"
+        }
+      ]
+    }
+  ]
+}

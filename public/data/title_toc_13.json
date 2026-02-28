@@ -1,0 +1,597 @@
+{
+  "number": "13",
+  "name": "Census",
+  "identifier": "/us/usc/t13",
+  "version": "Online@119-73not60",
+  "updated": "2025-08-11",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "ADMINISTRATION",
+      "identifier": "/us/usc/t13/ch1",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t13/ch1/schI",
+          "children": [
+            {
+              "number": "1",
+              "numText": "§ 1.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t13/s1"
+            },
+            {
+              "number": "2",
+              "numText": "§ 2.",
+              "heading": "Bureau of the Census",
+              "identifier": "/us/usc/t13/s2"
+            },
+            {
+              "number": "3",
+              "numText": "§ 3.",
+              "heading": "Seal",
+              "identifier": "/us/usc/t13/s3"
+            },
+            {
+              "number": "4",
+              "numText": "§ 4.",
+              "heading": "Functions of Secretary; regulations; delegation",
+              "identifier": "/us/usc/t13/s4"
+            },
+            {
+              "number": "5",
+              "numText": "§ 5.",
+              "heading": "Questionnaires; number, form, and scope of inquiries",
+              "identifier": "/us/usc/t13/s5"
+            },
+            {
+              "number": "6",
+              "numText": "§ 6.",
+              "heading": "Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources",
+              "identifier": "/us/usc/t13/s6"
+            },
+            {
+              "number": "7",
+              "numText": "§ 7.",
+              "heading": "Printing; requisitions upon Director of the Government Publishing Office; publication of bulletins and reports",
+              "identifier": "/us/usc/t13/s7"
+            },
+            {
+              "number": "8",
+              "numText": "§ 8.",
+              "heading": "Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received",
+              "identifier": "/us/usc/t13/s8"
+            },
+            {
+              "number": "9",
+              "numText": "§ 9.",
+              "heading": "Information as confidential; exception",
+              "identifier": "/us/usc/t13/s9"
+            },
+            {
+              "number": "10",
+              "numText": "[§ 10.",
+              "heading": "Repealed. Pub. L. 86–682, § 12(a), Sept. 2, 1960, 74 Stat. 708, eff. Sept. 1, 1960]",
+              "identifier": "/us/usc/t13/s10"
+            },
+            {
+              "number": "11",
+              "numText": "§ 11.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t13/s11"
+            },
+            {
+              "number": "12",
+              "numText": "§ 12.",
+              "heading": "Mechanical and electronic development",
+              "identifier": "/us/usc/t13/s12"
+            },
+            {
+              "number": "13",
+              "numText": "§ 13.",
+              "heading": "Procurement of professional services",
+              "identifier": "/us/usc/t13/s13"
+            },
+            {
+              "number": "14",
+              "numText": "[§ 14.",
+              "heading": "Repealed. Pub. L. 89–473, § 2(a), June 29, 1966, 80 Stat. 221]",
+              "identifier": "/us/usc/t13/s14"
+            },
+            {
+              "number": "15",
+              "numText": "§ 15.",
+              "heading": "Leases for 1980 decennial census",
+              "identifier": "/us/usc/t13/s15"
+            },
+            {
+              "number": "16",
+              "numText": "§ 16.",
+              "heading": "Address information reviewed by States and local governments",
+              "identifier": "/us/usc/t13/s16"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "OFFICERS AND EMPLOYEES",
+          "identifier": "/us/usc/t13/ch1/schII",
+          "children": [
+            {
+              "number": "21",
+              "numText": "§ 21.",
+              "heading": "Director of the Census; duties",
+              "identifier": "/us/usc/t13/s21"
+            },
+            {
+              "number": "22",
+              "numText": "§ 22.",
+              "heading": "Qualifications of permanent personnel",
+              "identifier": "/us/usc/t13/s22"
+            },
+            {
+              "number": "23",
+              "numText": "§ 23.",
+              "heading": "Additional officers and employees",
+              "identifier": "/us/usc/t13/s23"
+            },
+            {
+              "number": "24",
+              "numText": "§ 24.",
+              "heading": "Special employment provisions",
+              "identifier": "/us/usc/t13/s24"
+            },
+            {
+              "number": "25",
+              "numText": "§ 25.",
+              "heading": "Duties of supervisors, enumerators, and other employees",
+              "identifier": "/us/usc/t13/s25"
+            },
+            {
+              "number": "26",
+              "numText": "§ 26.",
+              "heading": "Transportation by contract",
+              "identifier": "/us/usc/t13/s26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "COLLECTION AND PUBLICATION OF STATISTICS",
+      "identifier": "/us/usc/t13/ch3",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "COTTON",
+          "identifier": "/us/usc/t13/ch3/schI",
+          "children": [
+            {
+              "number": "41",
+              "numText": "§ 41.",
+              "heading": "Collection and publication",
+              "identifier": "/us/usc/t13/s41"
+            },
+            {
+              "number": "42",
+              "numText": "§ 42.",
+              "heading": "Contents of reports; number of bales of linter; distribution; publication by Department of Agriculture",
+              "identifier": "/us/usc/t13/s42"
+            },
+            {
+              "number": "43",
+              "numText": "§ 43.",
+              "heading": "Records and reports of cotton ginners",
+              "identifier": "/us/usc/t13/s43"
+            },
+            {
+              "number": "44",
+              "numText": "§ 44.",
+              "heading": "Foreign cotton statistics",
+              "identifier": "/us/usc/t13/s44"
+            },
+            {
+              "number": "45",
+              "numText": "§ 45.",
+              "heading": "Simultaneous publication of cotton reports",
+              "identifier": "/us/usc/t13/s45"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "OILSEEDS, NUTS, AND KERNELS; FATS, OILS, AND GREASES",
+          "identifier": "/us/usc/t13/ch3/schII",
+          "children": [
+            {
+              "number": "61",
+              "numText": "§ 61.",
+              "heading": "Collection and publication",
+              "identifier": "/us/usc/t13/s61"
+            },
+            {
+              "number": "62",
+              "numText": "§ 62.",
+              "heading": "Additional statistics",
+              "identifier": "/us/usc/t13/s62"
+            },
+            {
+              "number": "63",
+              "numText": "§ 63.",
+              "heading": "Duplicate collection of statistics prohibited; access to available statistics",
+              "identifier": "/us/usc/t13/s63"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "APPAREL AND TEXTILES",
+          "identifier": "/us/usc/t13/ch3/schIII",
+          "children": [
+            {
+              "number": "81",
+              "numText": "§ 81.",
+              "heading": "Statistics on apparel and textile industries",
+              "identifier": "/us/usc/t13/s81"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "QUARTERLY FINANCIAL STATISTICS",
+          "identifier": "/us/usc/t13/ch3/schIV",
+          "children": [
+            {
+              "number": "91",
+              "numText": "§ 91.",
+              "heading": "Collection and publication",
+              "identifier": "/us/usc/t13/s91"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t13/ch3/schV",
+          "children": [
+            {
+              "number": "101",
+              "numText": "§ 101.",
+              "heading": "Defective, dependent, and delinquent classes; crime",
+              "identifier": "/us/usc/t13/s101"
+            },
+            {
+              "number": "102",
+              "numText": "§ 102.",
+              "heading": "Religion",
+              "identifier": "/us/usc/t13/s102"
+            },
+            {
+              "number": "103",
+              "numText": "§ 103.",
+              "heading": "Designation of reports",
+              "identifier": "/us/usc/t13/s103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "CENSUSES",
+      "identifier": "/us/usc/t13/ch5",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "MANUFACTURES, MINERAL INDUSTRIES, AND OTHER BUSINESSES",
+          "identifier": "/us/usc/t13/ch5/schI",
+          "children": [
+            {
+              "number": "131",
+              "numText": "§ 131.",
+              "heading": "Collection and publication; five-year periods",
+              "identifier": "/us/usc/t13/s131"
+            },
+            {
+              "number": "132",
+              "numText": "§ 132.",
+              "heading": "Controlling law; effect on other agencies",
+              "identifier": "/us/usc/t13/s132"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "POPULATION, HOUSING, AND UNEMPLOYMENT",
+          "identifier": "/us/usc/t13/ch5/schII",
+          "children": [
+            {
+              "number": "141",
+              "numText": "§ 141.",
+              "heading": "Population and other census information",
+              "identifier": "/us/usc/t13/s141"
+            },
+            {
+              "number": "142",
+              "numText": "[§ 142.",
+              "heading": "Repealed. Pub. L. 105–113, § 3(a), Nov. 21, 1997, 111 Stat. 2275]",
+              "identifier": "/us/usc/t13/s142"
+            },
+            {
+              "number": "143 to 146",
+              "numText": "[§§ 143 to 146.",
+              "heading": "Repealed. Pub. L. 85–207, § 11, Aug. 28, 1957, 71 Stat. 483]",
+              "identifier": "/us/usc/t13/s143...146"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "GOVERNMENTS",
+          "identifier": "/us/usc/t13/ch5/schIII",
+          "children": [
+            {
+              "number": "161",
+              "numText": "§ 161.",
+              "heading": "Quinquennial censuses; inclusion of certain data",
+              "identifier": "/us/usc/t13/s161"
+            },
+            {
+              "number": "162",
+              "numText": "[§ 162.",
+              "heading": "Repealed. Pub. L. 85–207, § 13, Aug. 28, 1957, 71 Stat. 483]",
+              "identifier": "/us/usc/t13/s162"
+            },
+            {
+              "number": "163",
+              "numText": "§ 163.",
+              "heading": "Authority of other agencies",
+              "identifier": "/us/usc/t13/s163"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "INTERIM CURRENT DATA",
+          "identifier": "/us/usc/t13/ch5/schIV",
+          "children": [
+            {
+              "number": "181",
+              "numText": "§ 181.",
+              "heading": "Population",
+              "identifier": "/us/usc/t13/s181"
+            },
+            {
+              "number": "182",
+              "numText": "§ 182.",
+              "heading": "Surveys",
+              "identifier": "/us/usc/t13/s182"
+            },
+            {
+              "number": "183",
+              "numText": "§ 183.",
+              "heading": "Use of most recent population data",
+              "identifier": "/us/usc/t13/s183"
+            },
+            {
+              "number": "184",
+              "numText": "§ 184.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t13/s184"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "GEOGRAPHIC SCOPE, PRELIMINARY AND SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING",
+          "identifier": "/us/usc/t13/ch5/schV",
+          "children": [
+            {
+              "number": "191",
+              "numText": "§ 191.",
+              "heading": "Geographic scope of censuses",
+              "identifier": "/us/usc/t13/s191"
+            },
+            {
+              "number": "193",
+              "numText": "§ 193.",
+              "heading": "Preliminary and supplemental statistics",
+              "identifier": "/us/usc/t13/s193"
+            },
+            {
+              "number": "195",
+              "numText": "§ 195.",
+              "heading": "Use of sampling",
+              "identifier": "/us/usc/t13/s195"
+            },
+            {
+              "number": "196",
+              "numText": "§ 196.",
+              "heading": "Special censuses",
+              "identifier": "/us/usc/t13/s196"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "OFFENSES AND PENALTIES",
+      "identifier": "/us/usc/t13/ch7",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "OFFICERS AND EMPLOYEES",
+          "identifier": "/us/usc/t13/ch7/schI",
+          "children": [
+            {
+              "number": "211",
+              "numText": "§ 211.",
+              "heading": "Receiving or securing compensation for appointment of employees",
+              "identifier": "/us/usc/t13/s211"
+            },
+            {
+              "number": "212",
+              "numText": "§ 212.",
+              "heading": "Refusal or neglect of employees to perform duties",
+              "identifier": "/us/usc/t13/s212"
+            },
+            {
+              "number": "213",
+              "numText": "§ 213.",
+              "heading": "False statements, certificates, and information",
+              "identifier": "/us/usc/t13/s213"
+            },
+            {
+              "number": "214",
+              "numText": "§ 214.",
+              "heading": "Wrongful disclosure of information",
+              "identifier": "/us/usc/t13/s214"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "OTHER PERSONS",
+          "identifier": "/us/usc/t13/ch7/schII",
+          "children": [
+            {
+              "number": "221",
+              "numText": "§ 221.",
+              "heading": "Refusal or neglect to answer questions; false answers",
+              "identifier": "/us/usc/t13/s221"
+            },
+            {
+              "number": "222",
+              "numText": "§ 222.",
+              "heading": "Giving suggestions or information with intent to cause inaccurate enumeration of population",
+              "identifier": "/us/usc/t13/s222"
+            },
+            {
+              "number": "223",
+              "numText": "§ 223.",
+              "heading": "Refusal, by owners, proprietors, etc., to assist census employees",
+              "identifier": "/us/usc/t13/s223"
+            },
+            {
+              "number": "224",
+              "numText": "§ 224.",
+              "heading": "Failure to answer questions affecting companies, businesses, religious bodies, and other organizations; false answers",
+              "identifier": "/us/usc/t13/s224"
+            },
+            {
+              "number": "225",
+              "numText": "§ 225.",
+              "heading": "Applicability of penal provisions in certain cases",
+              "identifier": "/us/usc/t13/s225"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "PROCEDURE",
+          "identifier": "/us/usc/t13/ch7/schIII",
+          "children": [
+            {
+              "number": "241",
+              "numText": "§ 241.",
+              "heading": "Evidence",
+              "identifier": "/us/usc/t13/s241"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "COLLECTION AND PUBLICATION OF FOREIGN COMMERCE AND TRADE STATISTICS",
+      "identifier": "/us/usc/t13/ch9",
+      "children": [
+        {
+          "number": "301",
+          "numText": "§ 301.",
+          "heading": "Collection and publication",
+          "identifier": "/us/usc/t13/s301"
+        },
+        {
+          "number": "302",
+          "numText": "§ 302.",
+          "heading": "Rules, regulations, and orders",
+          "identifier": "/us/usc/t13/s302"
+        },
+        {
+          "number": "303",
+          "numText": "§ 303.",
+          "heading": "Secretary of Treasury functions",
+          "identifier": "/us/usc/t13/s303"
+        },
+        {
+          "number": "304",
+          "numText": "§ 304.",
+          "heading": "Filing export information, delayed filings, penalties for failure to file",
+          "identifier": "/us/usc/t13/s304"
+        },
+        {
+          "number": "305",
+          "numText": "§ 305.",
+          "heading": "Penalties for unlawful export information activities",
+          "identifier": "/us/usc/t13/s305"
+        },
+        {
+          "number": "306",
+          "numText": "§ 306.",
+          "heading": "Delegation of functions",
+          "identifier": "/us/usc/t13/s306"
+        },
+        {
+          "number": "307",
+          "numText": "§ 307.",
+          "heading": "Relationship to general census law",
+          "identifier": "/us/usc/t13/s307"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "10",
+      "heading": "EXCHANGE OF CENSUS INFORMATION",
+      "identifier": "/us/usc/t13/ch10",
+      "children": [
+        {
+          "number": "401",
+          "numText": "§ 401.",
+          "heading": "Exchange of census information with Bureau of Economic Analysis",
+          "identifier": "/us/usc/t13/s401"
+        },
+        {
+          "number": "402",
+          "numText": "§ 402.",
+          "heading": "Providing business data to Designated Statistical Agencies",
+          "identifier": "/us/usc/t13/s402"
+        }
+      ]
+    }
+  ]
+}

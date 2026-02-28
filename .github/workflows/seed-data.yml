@@ -1,0 +1,40 @@
+name: Seed US Code Data
+
+# One-time workflow to fetch all 54 US Code titles and commit the JSON
+# data files to the repo.  After this runs successfully, the deploy
+# workflow can build directly from committed data without fetching.
+#
+# Trigger manually from the Actions tab → "Seed US Code Data" → Run workflow.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch and parse all US Code titles
+        run: bash scripts/fetch_all_titles.sh
+        timeout-minutes: 120
+
+      - name: Commit data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/ src/data/toc.json
+          if git diff --cached --quiet; then
+            echo "No new data to commit."
+          else
+            git commit -m "Seed all US Code title data ($(ls public/data/t*.json | wc -l) titles)"
+            git push
+          fi

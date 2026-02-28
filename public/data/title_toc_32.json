@@ -1,0 +1,511 @@
+{
+  "number": "32",
+  "name": "National Guard",
+  "identifier": "/us/usc/t32",
+  "version": "Online@119-73not60",
+  "updated": "2025-12-12",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "ORGANIZATION",
+      "identifier": "/us/usc/t32/ch1",
+      "children": [
+        {
+          "number": "101",
+          "numText": "§ 101.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t32/s101"
+        },
+        {
+          "number": "102",
+          "numText": "§ 102.",
+          "heading": "General policy",
+          "identifier": "/us/usc/t32/s102"
+        },
+        {
+          "number": "103",
+          "numText": "§ 103.",
+          "heading": "Branches and organizations",
+          "identifier": "/us/usc/t32/s103"
+        },
+        {
+          "number": "104",
+          "numText": "§ 104.",
+          "heading": "Units: location; organization; command",
+          "identifier": "/us/usc/t32/s104"
+        },
+        {
+          "number": "105",
+          "numText": "§ 105.",
+          "heading": "Inspection",
+          "identifier": "/us/usc/t32/s105"
+        },
+        {
+          "number": "106",
+          "numText": "§ 106.",
+          "heading": "Annual appropriations",
+          "identifier": "/us/usc/t32/s106"
+        },
+        {
+          "number": "107",
+          "numText": "§ 107.",
+          "heading": "Availability of appropriations",
+          "identifier": "/us/usc/t32/s107"
+        },
+        {
+          "number": "108",
+          "numText": "§ 108.",
+          "heading": "Forfeiture of Federal benefits",
+          "identifier": "/us/usc/t32/s108"
+        },
+        {
+          "number": "109",
+          "numText": "§ 109.",
+          "heading": "Maintenance of other troops",
+          "identifier": "/us/usc/t32/s109"
+        },
+        {
+          "number": "110",
+          "numText": "§ 110.",
+          "heading": "Regulations",
+          "identifier": "/us/usc/t32/s110"
+        },
+        {
+          "number": "111",
+          "numText": "§ 111.",
+          "heading": "Suspension of certain provisions of this title",
+          "identifier": "/us/usc/t32/s111"
+        },
+        {
+          "number": "112",
+          "numText": "§ 112.",
+          "heading": "Drug interdiction and counter-drug activities",
+          "identifier": "/us/usc/t32/s112"
+        },
+        {
+          "number": "113",
+          "numText": "§ 113.",
+          "heading": "Federal financial assistance for support of additional duties assigned to the Army National Guard",
+          "identifier": "/us/usc/t32/s113"
+        },
+        {
+          "number": "114",
+          "numText": "§ 114.",
+          "heading": "Funeral honors functions at funerals for veterans",
+          "identifier": "/us/usc/t32/s114"
+        },
+        {
+          "number": "115",
+          "numText": "§ 115.",
+          "heading": "Funeral honors duty performed as a Federal function",
+          "identifier": "/us/usc/t32/s115"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "PERSONNEL",
+      "identifier": "/us/usc/t32/ch3",
+      "children": [
+        {
+          "number": "301",
+          "numText": "§ 301.",
+          "heading": "Federal recognition of enlisted members",
+          "identifier": "/us/usc/t32/s301"
+        },
+        {
+          "number": "302",
+          "numText": "§ 302.",
+          "heading": "Enlistments, reenlistments, and extensions",
+          "identifier": "/us/usc/t32/s302"
+        },
+        {
+          "number": "303",
+          "numText": "§ 303.",
+          "heading": "Active and inactive enlistments and transfers",
+          "identifier": "/us/usc/t32/s303"
+        },
+        {
+          "number": "304",
+          "numText": "§ 304.",
+          "heading": "Enlistment oath",
+          "identifier": "/us/usc/t32/s304"
+        },
+        {
+          "number": "305",
+          "numText": "§ 305.",
+          "heading": "Federal recognition of commissioned officers: persons eligible",
+          "identifier": "/us/usc/t32/s305"
+        },
+        {
+          "number": "307",
+          "numText": "§ 307.",
+          "heading": "Federal recognition of officers: examination; certificate of eligibility",
+          "identifier": "/us/usc/t32/s307"
+        },
+        {
+          "number": "308",
+          "numText": "§ 308.",
+          "heading": "Federal recognition of officers: temporary recognition",
+          "identifier": "/us/usc/t32/s308"
+        },
+        {
+          "number": "309",
+          "numText": "§ 309.",
+          "heading": "Federal recognition of National Guard officers: officers promoted to fill vacancies",
+          "identifier": "/us/usc/t32/s309"
+        },
+        {
+          "number": "310",
+          "numText": "§ 310.",
+          "heading": "Federal recognition of National Guard officers: automatic recognition",
+          "identifier": "/us/usc/t32/s310"
+        },
+        {
+          "number": "312",
+          "numText": "§ 312.",
+          "heading": "Appointment oath",
+          "identifier": "/us/usc/t32/s312"
+        },
+        {
+          "number": "313",
+          "numText": "§ 313.",
+          "heading": "Appointments and enlistments: age limitations",
+          "identifier": "/us/usc/t32/s313"
+        },
+        {
+          "number": "314",
+          "numText": "§ 314.",
+          "heading": "Adjutants general",
+          "identifier": "/us/usc/t32/s314"
+        },
+        {
+          "number": "315",
+          "numText": "§ 315.",
+          "heading": "Detail of regular members of Army and Air Force to duty with National Guard",
+          "identifier": "/us/usc/t32/s315"
+        },
+        {
+          "number": "316",
+          "numText": "§ 316.",
+          "heading": "Detail of members of Army National Guard for rifle instruction of civilians",
+          "identifier": "/us/usc/t32/s316"
+        },
+        {
+          "number": "317",
+          "numText": "§ 317.",
+          "heading": "Command during joint exercises with Federal troops",
+          "identifier": "/us/usc/t32/s317"
+        },
+        {
+          "number": "318 to 321",
+          "numText": "[§§ 318 to 321.",
+          "heading": "Repealed. Pub. L. 99–661, div. A, title VI, § 604(f)(2)(A), Nov. 14, 1986, 100 Stat. 3878]",
+          "identifier": "/us/usc/t32/s318...321"
+        },
+        {
+          "number": "322",
+          "numText": "§ 322.",
+          "heading": "Discharge of enlisted members",
+          "identifier": "/us/usc/t32/s322"
+        },
+        {
+          "number": "323",
+          "numText": "§ 323.",
+          "heading": "Withdrawal of Federal recognition",
+          "identifier": "/us/usc/t32/s323"
+        },
+        {
+          "number": "324",
+          "numText": "§ 324.",
+          "heading": "Discharge of officers; termination of appointment",
+          "identifier": "/us/usc/t32/s324"
+        },
+        {
+          "number": "325",
+          "numText": "§ 325.",
+          "heading": "Relief from National Guard duty when ordered to active duty",
+          "identifier": "/us/usc/t32/s325"
+        },
+        {
+          "number": "326",
+          "numText": "§ 326.",
+          "heading": "Courts-martial of National Guard not in Federal service: composition, jurisdiction, and procedures",
+          "identifier": "/us/usc/t32/s326"
+        },
+        {
+          "number": "327",
+          "numText": "§ 327.",
+          "heading": "Courts-martial of National Guard not in Federal service: convening authority",
+          "identifier": "/us/usc/t32/s327"
+        },
+        {
+          "number": "328",
+          "numText": "§ 328.",
+          "heading": "Active Guard and Reserve duty: Governor’s authority",
+          "identifier": "/us/usc/t32/s328"
+        },
+        {
+          "number": "329",
+          "numText": "§ 329.",
+          "heading": "Prohibition on private funding for interstate deployment",
+          "identifier": "/us/usc/t32/s329"
+        },
+        {
+          "number": "330 to 333",
+          "numText": "[§§ 330 to 333.",
+          "heading": "Repealed. Pub. L. 107–314, div. A, title V, § 512(c)(1), Dec. 2, 2002, 116 Stat. 2537]",
+          "identifier": "/us/usc/t32/s330...333"
+        },
+        {
+          "number": "334",
+          "numText": "[§ 334.",
+          "heading": "Repealed. Pub. L. 97–124, § 3, Dec. 29, 1981, 95 Stat. 1666]",
+          "identifier": "/us/usc/t32/s334"
+        },
+        {
+          "number": "335",
+          "numText": "[§ 335.",
+          "heading": "Repealed. Pub. L. 98–525, title IV, § 414(b)(2)(A), Oct. 19, 1984, 98 Stat. 2519]",
+          "identifier": "/us/usc/t32/s335"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "TRAINING",
+      "identifier": "/us/usc/t32/ch5",
+      "children": [
+        {
+          "number": "501",
+          "numText": "§ 501.",
+          "heading": "Training generally",
+          "identifier": "/us/usc/t32/s501"
+        },
+        {
+          "number": "502",
+          "numText": "§ 502.",
+          "heading": "Required drills and field exercises",
+          "identifier": "/us/usc/t32/s502"
+        },
+        {
+          "number": "503",
+          "numText": "§ 503.",
+          "heading": "Participation in field exercises",
+          "identifier": "/us/usc/t32/s503"
+        },
+        {
+          "number": "504",
+          "numText": "§ 504.",
+          "heading": "National Guard schools and small arms competitions",
+          "identifier": "/us/usc/t32/s504"
+        },
+        {
+          "number": "505",
+          "numText": "§ 505.",
+          "heading": "Army and Air Force schools and field exercises",
+          "identifier": "/us/usc/t32/s505"
+        },
+        {
+          "number": "506",
+          "numText": "§ 506.",
+          "heading": "Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard",
+          "identifier": "/us/usc/t32/s506"
+        },
+        {
+          "number": "507",
+          "numText": "§ 507.",
+          "heading": "Instruction in firing; supply of ammunition",
+          "identifier": "/us/usc/t32/s507"
+        },
+        {
+          "number": "508",
+          "numText": "§ 508.",
+          "heading": "Assistance for certain youth and charitable organizations",
+          "identifier": "/us/usc/t32/s508"
+        },
+        {
+          "number": "509",
+          "numText": "§ 509.",
+          "heading": "National Guard Youth Challenge Program of opportunities for civilian youth",
+          "identifier": "/us/usc/t32/s509"
+        },
+        {
+          "number": "510",
+          "numText": "§ 510.",
+          "heading": "Authorization for FireGuard Program",
+          "identifier": "/us/usc/t32/s510"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "SERVICE, SUPPLY, AND PROCUREMENT",
+      "identifier": "/us/usc/t32/ch7",
+      "children": [
+        {
+          "number": "701",
+          "numText": "§ 701.",
+          "heading": "Uniforms, arms, and equipment to be same as Army or Air Force",
+          "identifier": "/us/usc/t32/s701"
+        },
+        {
+          "number": "702",
+          "numText": "§ 702.",
+          "heading": "Issue of supplies",
+          "identifier": "/us/usc/t32/s702"
+        },
+        {
+          "number": "703",
+          "numText": "§ 703.",
+          "heading": "Purchases of supplies by States from Army or Air Force",
+          "identifier": "/us/usc/t32/s703"
+        },
+        {
+          "number": "704",
+          "numText": "§ 704.",
+          "heading": "Accountability: relief from upon order to active duty",
+          "identifier": "/us/usc/t32/s704"
+        },
+        {
+          "number": "705",
+          "numText": "§ 705.",
+          "heading": "Purchase of uniforms and equipment by officers of National Guard from Army or Air Force",
+          "identifier": "/us/usc/t32/s705"
+        },
+        {
+          "number": "706",
+          "numText": "§ 706.",
+          "heading": "Return of arms and equipment upon relief from Federal service",
+          "identifier": "/us/usc/t32/s706"
+        },
+        {
+          "number": "707",
+          "numText": "§ 707.",
+          "heading": "Use of public buildings for offices by instructors",
+          "identifier": "/us/usc/t32/s707"
+        },
+        {
+          "number": "708",
+          "numText": "§ 708.",
+          "heading": "Property and fiscal officers",
+          "identifier": "/us/usc/t32/s708"
+        },
+        {
+          "number": "709",
+          "numText": "§ 709.",
+          "heading": "Technicians: employment, use, status",
+          "identifier": "/us/usc/t32/s709"
+        },
+        {
+          "number": "710",
+          "numText": "§ 710.",
+          "heading": "Accountability for property issued to the National Guard",
+          "identifier": "/us/usc/t32/s710"
+        },
+        {
+          "number": "711",
+          "numText": "§ 711.",
+          "heading": "Disposition of obsolete or condemned property",
+          "identifier": "/us/usc/t32/s711"
+        },
+        {
+          "number": "712",
+          "numText": "§ 712.",
+          "heading": "Disposition of proceeds of condemned stores issued to National Guard",
+          "identifier": "/us/usc/t32/s712"
+        },
+        {
+          "number": "713",
+          "numText": "§ 713.",
+          "heading": "Official mail: free transmission",
+          "identifier": "/us/usc/t32/s713"
+        },
+        {
+          "number": "714",
+          "numText": "§ 714.",
+          "heading": "Final settlement of accounts: deceased members",
+          "identifier": "/us/usc/t32/s714"
+        },
+        {
+          "number": "715",
+          "numText": "§ 715.",
+          "heading": "Property loss; personal injury or death: activities under certain sections of this title",
+          "identifier": "/us/usc/t32/s715"
+        },
+        {
+          "number": "716",
+          "numText": "§ 716.",
+          "heading": "Claims for overpayment of pay and allowances, and travel and transportation allowances",
+          "identifier": "/us/usc/t32/s716"
+        },
+        {
+          "number": "717",
+          "numText": "[§ 717.",
+          "heading": "Repealed. Pub. L. 109–163, div. A, title V, § 589(b)(2), Jan. 6, 2006, 119 Stat. 3279]",
+          "identifier": "/us/usc/t32/s717"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "HOMELAND DEFENSE ACTIVITIES",
+      "identifier": "/us/usc/t32/ch9",
+      "children": [
+        {
+          "number": "901",
+          "numText": "§ 901.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t32/s901"
+        },
+        {
+          "number": "902",
+          "numText": "§ 902.",
+          "heading": "Homeland defense activities: funds",
+          "identifier": "/us/usc/t32/s902"
+        },
+        {
+          "number": "903",
+          "numText": "§ 903.",
+          "heading": "Regulations",
+          "identifier": "/us/usc/t32/s903"
+        },
+        {
+          "number": "904",
+          "numText": "§ 904.",
+          "heading": "Homeland defense duty",
+          "identifier": "/us/usc/t32/s904"
+        },
+        {
+          "number": "905",
+          "numText": "§ 905.",
+          "heading": "Funding assistance",
+          "identifier": "/us/usc/t32/s905"
+        },
+        {
+          "number": "906",
+          "numText": "§ 906.",
+          "heading": "Requests for funding assistance",
+          "identifier": "/us/usc/t32/s906"
+        },
+        {
+          "number": "907",
+          "numText": "§ 907.",
+          "heading": "Relationship to State duty",
+          "identifier": "/us/usc/t32/s907"
+        },
+        {
+          "number": "908",
+          "numText": "§ 908.",
+          "heading": "Annual report",
+          "identifier": "/us/usc/t32/s908"
+        }
+      ]
+    }
+  ]
+}

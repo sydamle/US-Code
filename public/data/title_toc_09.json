@@ -1,0 +1,239 @@
+{
+  "number": "9",
+  "name": "Arbitration",
+  "identifier": "/us/usc/t9",
+  "version": "Online@119-73not60",
+  "updated": "2025-08-11",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "GENERAL PROVISIONS",
+      "identifier": "/us/usc/t9/ch1",
+      "children": [
+        {
+          "number": "1",
+          "numText": "§ 1.",
+          "heading": "“Maritime transactions” and “commerce” defined; exceptions to operation of title",
+          "identifier": "/us/usc/t9/s1"
+        },
+        {
+          "number": "2",
+          "numText": "§ 2.",
+          "heading": "Validity, irrevocability, and enforcement of agreements to arbitrate",
+          "identifier": "/us/usc/t9/s2"
+        },
+        {
+          "number": "3",
+          "numText": "§ 3.",
+          "heading": "Stay of proceedings where issue therein referable to arbitration",
+          "identifier": "/us/usc/t9/s3"
+        },
+        {
+          "number": "4",
+          "numText": "§ 4.",
+          "heading": "Failure to arbitrate under agreement; petition to United States court having jurisdiction for order to compel arbitration; notice and service thereof; hearing and determination",
+          "identifier": "/us/usc/t9/s4"
+        },
+        {
+          "number": "5",
+          "numText": "§ 5.",
+          "heading": "Appointment of arbitrators or umpire",
+          "identifier": "/us/usc/t9/s5"
+        },
+        {
+          "number": "6",
+          "numText": "§ 6.",
+          "heading": "Application heard as motion",
+          "identifier": "/us/usc/t9/s6"
+        },
+        {
+          "number": "7",
+          "numText": "§ 7.",
+          "heading": "Witnesses before arbitrators; fees; compelling attendance",
+          "identifier": "/us/usc/t9/s7"
+        },
+        {
+          "number": "8",
+          "numText": "§ 8.",
+          "heading": "Proceedings begun by libel in admiralty and seizure of vessel or property",
+          "identifier": "/us/usc/t9/s8"
+        },
+        {
+          "number": "9",
+          "numText": "§ 9.",
+          "heading": "Award of arbitrators; confirmation; jurisdiction; procedure",
+          "identifier": "/us/usc/t9/s9"
+        },
+        {
+          "number": "10",
+          "numText": "§ 10.",
+          "heading": "Same; vacation; grounds; rehearing",
+          "identifier": "/us/usc/t9/s10"
+        },
+        {
+          "number": "11",
+          "numText": "§ 11.",
+          "heading": "Same; modification or correction; grounds; order",
+          "identifier": "/us/usc/t9/s11"
+        },
+        {
+          "number": "12",
+          "numText": "§ 12.",
+          "heading": "Notice of motions to vacate or modify; service; stay of proceedings",
+          "identifier": "/us/usc/t9/s12"
+        },
+        {
+          "number": "13",
+          "numText": "§ 13.",
+          "heading": "Papers filed with order on motions; judgment; docketing; force and effect; enforcement",
+          "identifier": "/us/usc/t9/s13"
+        },
+        {
+          "number": "14",
+          "numText": "§ 14.",
+          "heading": "Contracts not affected",
+          "identifier": "/us/usc/t9/s14"
+        },
+        {
+          "number": "15",
+          "numText": "§ 15.",
+          "heading": "Inapplicability of the Act of State doctrine",
+          "identifier": "/us/usc/t9/s15"
+        },
+        {
+          "number": "16",
+          "numText": "§ 16.",
+          "heading": "Appeals",
+          "identifier": "/us/usc/t9/s16"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "CONVENTION ON THE RECOGNITION AND ENFORCEMENT OF FOREIGN ARBITRAL AWARDS",
+      "identifier": "/us/usc/t9/ch2",
+      "children": [
+        {
+          "number": "201",
+          "numText": "§ 201.",
+          "heading": "Enforcement of Convention",
+          "identifier": "/us/usc/t9/s201"
+        },
+        {
+          "number": "202",
+          "numText": "§ 202.",
+          "heading": "Agreement or award falling under the Convention",
+          "identifier": "/us/usc/t9/s202"
+        },
+        {
+          "number": "203",
+          "numText": "§ 203.",
+          "heading": "Jurisdiction; amount in controversy",
+          "identifier": "/us/usc/t9/s203"
+        },
+        {
+          "number": "204",
+          "numText": "§ 204.",
+          "heading": "Venue",
+          "identifier": "/us/usc/t9/s204"
+        },
+        {
+          "number": "205",
+          "numText": "§ 205.",
+          "heading": "Removal of cases from State courts",
+          "identifier": "/us/usc/t9/s205"
+        },
+        {
+          "number": "206",
+          "numText": "§ 206.",
+          "heading": "Order to compel arbitration; appointment of arbitrators",
+          "identifier": "/us/usc/t9/s206"
+        },
+        {
+          "number": "207",
+          "numText": "§ 207.",
+          "heading": "Award of arbitrators; confirmation; jurisdiction; proceeding",
+          "identifier": "/us/usc/t9/s207"
+        },
+        {
+          "number": "208",
+          "numText": "§ 208.",
+          "heading": "Application",
+          "identifier": "/us/usc/t9/s208"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "INTER-AMERICAN CONVENTION ON INTERNATIONAL COMMERCIAL ARBITRATION",
+      "identifier": "/us/usc/t9/ch3",
+      "children": [
+        {
+          "number": "301",
+          "numText": "§ 301.",
+          "heading": "Enforcement of Convention",
+          "identifier": "/us/usc/t9/s301"
+        },
+        {
+          "number": "302",
+          "numText": "§ 302.",
+          "heading": "Incorporation by reference",
+          "identifier": "/us/usc/t9/s302"
+        },
+        {
+          "number": "303",
+          "numText": "§ 303.",
+          "heading": "Order to compel arbitration; appointment of arbitrators; locale",
+          "identifier": "/us/usc/t9/s303"
+        },
+        {
+          "number": "304",
+          "numText": "§ 304.",
+          "heading": "Recognition and enforcement of foreign arbitral decisions and awards; reciprocity",
+          "identifier": "/us/usc/t9/s304"
+        },
+        {
+          "number": "305",
+          "numText": "§ 305.",
+          "heading": "Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958",
+          "identifier": "/us/usc/t9/s305"
+        },
+        {
+          "number": "306",
+          "numText": "§ 306.",
+          "heading": "Applicable rules of Inter-American Commercial Arbitration Commission",
+          "identifier": "/us/usc/t9/s306"
+        },
+        {
+          "number": "307",
+          "numText": "§ 307.",
+          "heading": "Application",
+          "identifier": "/us/usc/t9/s307"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "ARBITRATION OF DISPUTES INVOLVING SEXUAL ASSAULT AND SEXUAL HARASSMENT",
+      "identifier": "/us/usc/t9/ch4",
+      "children": [
+        {
+          "number": "401",
+          "numText": "§ 401.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t9/s401"
+        },
+        {
+          "number": "402",
+          "numText": "§ 402.",
+          "heading": "No validity or enforceability",
+          "identifier": "/us/usc/t9/s402"
+        }
+      ]
+    }
+  ]
+}

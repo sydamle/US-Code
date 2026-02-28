@@ -1,0 +1,2909 @@
+{
+  "number": "14",
+  "name": "Coast Guard",
+  "identifier": "/us/usc/t14",
+  "version": "Online@119-73not60",
+  "updated": "2025-08-11",
+  "children": [
+    {
+      "type": "subtitle",
+      "number": "I",
+      "heading": "ESTABLISHMENT, POWERS, DUTIES, AND ADMINISTRATION",
+      "identifier": "/us/usc/t14/stI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "1",
+          "heading": "ESTABLISHMENT AND DUTIES",
+          "identifier": "/us/usc/t14/stI/ch1",
+          "children": [
+            {
+              "number": "101",
+              "numText": "§ 101.",
+              "heading": "Establishment of Coast Guard",
+              "identifier": "/us/usc/t14/s101"
+            },
+            {
+              "number": "102",
+              "numText": "§ 102.",
+              "heading": "Primary duties",
+              "identifier": "/us/usc/t14/s102"
+            },
+            {
+              "number": "103",
+              "numText": "§ 103.",
+              "heading": "Department in which the Coast Guard operates",
+              "identifier": "/us/usc/t14/s103"
+            },
+            {
+              "number": "104",
+              "numText": "§ 104.",
+              "heading": "Removing restrictions",
+              "identifier": "/us/usc/t14/s104"
+            },
+            {
+              "number": "105",
+              "numText": "§ 105.",
+              "heading": "Secretary defined",
+              "identifier": "/us/usc/t14/s105"
+            },
+            {
+              "number": "106",
+              "numText": "§ 106.",
+              "heading": "Commandant defined",
+              "identifier": "/us/usc/t14/s106"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "3",
+          "heading": "COMPOSITION AND ORGANIZATION",
+          "identifier": "/us/usc/t14/stI/ch3",
+          "children": [
+            {
+              "number": "301",
+              "numText": "§ 301.",
+              "heading": "Grades and ratings",
+              "identifier": "/us/usc/t14/s301"
+            },
+            {
+              "number": "302",
+              "numText": "§ 302.",
+              "heading": "Commandant; appointment",
+              "identifier": "/us/usc/t14/s302"
+            },
+            {
+              "number": "303",
+              "numText": "§ 303.",
+              "heading": "Retirement of Commandant or Vice Commandant",
+              "identifier": "/us/usc/t14/s303"
+            },
+            {
+              "number": "304",
+              "numText": "§ 304.",
+              "heading": "Vice Commandant; appointment",
+              "identifier": "/us/usc/t14/s304"
+            },
+            {
+              "number": "305",
+              "numText": "§ 305.",
+              "heading": "Vice admirals",
+              "identifier": "/us/usc/t14/s305"
+            },
+            {
+              "number": "306",
+              "numText": "§ 306.",
+              "heading": "Retirement",
+              "identifier": "/us/usc/t14/s306"
+            },
+            {
+              "number": "307",
+              "numText": "§ 307.",
+              "heading": "Vice admirals and admiral, continuity of grade",
+              "identifier": "/us/usc/t14/s307"
+            },
+            {
+              "number": "308",
+              "numText": "§ 308.",
+              "heading": "Chief Acquisition Officer",
+              "identifier": "/us/usc/t14/s308"
+            },
+            {
+              "number": "309",
+              "numText": "§ 309.",
+              "heading": "Office of the Coast Guard Reserve; Director",
+              "identifier": "/us/usc/t14/s309"
+            },
+            {
+              "number": "310",
+              "numText": "§ 310.",
+              "heading": "Chief of Staff to President: appointment",
+              "identifier": "/us/usc/t14/s310"
+            },
+            {
+              "number": "311",
+              "numText": "§ 311.",
+              "heading": "Captains of the port",
+              "identifier": "/us/usc/t14/s311"
+            },
+            {
+              "number": "312",
+              "numText": "§ 312.",
+              "heading": "Prevention and response workforces",
+              "identifier": "/us/usc/t14/s312"
+            },
+            {
+              "number": "313",
+              "numText": "§ 313.",
+              "heading": "Centers of expertise for Coast Guard prevention and response",
+              "identifier": "/us/usc/t14/s313"
+            },
+            {
+              "number": "314",
+              "numText": "§ 314.",
+              "heading": "Marine industry training program",
+              "identifier": "/us/usc/t14/s314"
+            },
+            {
+              "number": "315",
+              "numText": "§ 315.",
+              "heading": "Training for congressional affairs personnel",
+              "identifier": "/us/usc/t14/s315"
+            },
+            {
+              "number": "316",
+              "numText": "§ 316.",
+              "heading": "National Coast Guard Museum",
+              "identifier": "/us/usc/t14/s316"
+            },
+            {
+              "number": "317",
+              "numText": "§ 317.",
+              "heading": "United States Coast Guard Band; composition; director",
+              "identifier": "/us/usc/t14/s317"
+            },
+            {
+              "number": "318",
+              "numText": "§ 318.",
+              "heading": "Environmental Compliance and Restoration Program",
+              "identifier": "/us/usc/t14/s318"
+            },
+            {
+              "number": "319",
+              "numText": "§ 319.",
+              "heading": "Unmanned system program and autonomous control and computer vision technology project",
+              "identifier": "/us/usc/t14/s319"
+            },
+            {
+              "number": "320",
+              "numText": "§ 320.",
+              "heading": "Coast Guard Junior Reserve Officers’ Training Corps",
+              "identifier": "/us/usc/t14/s320"
+            },
+            {
+              "number": "321",
+              "numText": "§ 321.",
+              "heading": "Congressional affairs; Director",
+              "identifier": "/us/usc/t14/s321"
+            },
+            {
+              "number": "322",
+              "numText": "§ 322.",
+              "heading": "Redistricting notification requirement",
+              "identifier": "/us/usc/t14/s322"
+            },
+            {
+              "number": "323",
+              "numText": "§ 323.",
+              "heading": "Western Alaska Oil Spill Planning Criteria Program",
+              "identifier": "/us/usc/t14/s323"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "5",
+          "heading": "FUNCTIONS AND POWERS",
+          "identifier": "/us/usc/t14/stI/ch5",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL POWERS",
+              "identifier": "/us/usc/t14/stI/ch5/schI",
+              "children": [
+                {
+                  "number": "501",
+                  "numText": "§ 501.",
+                  "heading": "Secretary; general powers",
+                  "identifier": "/us/usc/t14/s501"
+                },
+                {
+                  "number": "502",
+                  "numText": "§ 502.",
+                  "heading": "Delegation of powers by the Secretary",
+                  "identifier": "/us/usc/t14/s502"
+                },
+                {
+                  "number": "503",
+                  "numText": "§ 503.",
+                  "heading": "Regulations",
+                  "identifier": "/us/usc/t14/s503"
+                },
+                {
+                  "number": "504",
+                  "numText": "§ 504.",
+                  "heading": "Commandant; general powers",
+                  "identifier": "/us/usc/t14/s504"
+                },
+                {
+                  "number": "505",
+                  "numText": "§ 505.",
+                  "heading": "Functions and powers vested in the Commandant",
+                  "identifier": "/us/usc/t14/s505"
+                },
+                {
+                  "number": "506",
+                  "numText": "§ 506.",
+                  "heading": "Prospective payment of funds necessary to provide medical care",
+                  "identifier": "/us/usc/t14/s506"
+                },
+                {
+                  "number": "507",
+                  "numText": "§ 507.",
+                  "heading": "Appointment of judges",
+                  "identifier": "/us/usc/t14/s507"
+                },
+                {
+                  "number": "508",
+                  "numText": "§ 508.",
+                  "heading": "Coast Guard health-care professionals; licensure portability",
+                  "identifier": "/us/usc/t14/s508"
+                },
+                {
+                  "number": "509",
+                  "numText": "§ 509.",
+                  "heading": "Space-available travel on Coast Guard aircraft",
+                  "identifier": "/us/usc/t14/s509"
+                },
+                {
+                  "number": "510",
+                  "numText": "§ 510.",
+                  "heading": "Conveyance of Coast Guard vessels for public purposes",
+                  "identifier": "/us/usc/t14/s510"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "LIFE SAVING AND LAW ENFORCEMENT AUTHORITIES",
+              "identifier": "/us/usc/t14/stI/ch5/schII",
+              "children": [
+                {
+                  "number": "521",
+                  "numText": "§ 521.",
+                  "heading": "Saving life and property",
+                  "identifier": "/us/usc/t14/s521"
+                },
+                {
+                  "number": "522",
+                  "numText": "§ 522.",
+                  "heading": "Law enforcement",
+                  "identifier": "/us/usc/t14/s522"
+                },
+                {
+                  "number": "523",
+                  "numText": "§ 523.",
+                  "heading": "Enforcement authority",
+                  "identifier": "/us/usc/t14/s523"
+                },
+                {
+                  "number": "524",
+                  "numText": "§ 524.",
+                  "heading": "Enforcement of coastwise trade laws",
+                  "identifier": "/us/usc/t14/s524"
+                },
+                {
+                  "number": "525",
+                  "numText": "§ 525.",
+                  "heading": "Special agents of the Coast Guard Investigative Service law enforcement authority",
+                  "identifier": "/us/usc/t14/s525"
+                },
+                {
+                  "number": "526",
+                  "numText": "§ 526.",
+                  "heading": "Stopping vessels; indemnity for firing at or into vessel",
+                  "identifier": "/us/usc/t14/s526"
+                },
+                {
+                  "number": "527",
+                  "numText": "§ 527.",
+                  "heading": "Safety of vessels of the Armed Forces",
+                  "identifier": "/us/usc/t14/s527"
+                },
+                {
+                  "number": "528",
+                  "numText": "§ 528.",
+                  "heading": "Protecting against unmanned aircraft",
+                  "identifier": "/us/usc/t14/s528"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "AIDS TO NAVIGATION",
+              "identifier": "/us/usc/t14/stI/ch5/schIII",
+              "children": [
+                {
+                  "number": "541",
+                  "numText": "§ 541.",
+                  "heading": "Aids to navigation authorized",
+                  "identifier": "/us/usc/t14/s541"
+                },
+                {
+                  "number": "542",
+                  "numText": "§ 542.",
+                  "heading": "Unauthorized aids to maritime navigation; penalty",
+                  "identifier": "/us/usc/t14/s542"
+                },
+                {
+                  "number": "543",
+                  "numText": "§ 543.",
+                  "heading": "Interference with aids to navigation; penalty",
+                  "identifier": "/us/usc/t14/s543"
+                },
+                {
+                  "number": "544",
+                  "numText": "§ 544.",
+                  "heading": "Aids to maritime navigation; penalty",
+                  "identifier": "/us/usc/t14/s544"
+                },
+                {
+                  "number": "545",
+                  "numText": "§ 545.",
+                  "heading": "Marking of obstructions",
+                  "identifier": "/us/usc/t14/s545"
+                },
+                {
+                  "number": "546",
+                  "numText": "§ 546.",
+                  "heading": "Deposit of damage payments",
+                  "identifier": "/us/usc/t14/s546"
+                },
+                {
+                  "number": "547",
+                  "numText": "§ 547.",
+                  "heading": "Rewards for apprehension of persons interfering with aids to navigation",
+                  "identifier": "/us/usc/t14/s547"
+                },
+                {
+                  "number": "548",
+                  "numText": "§ 548.",
+                  "heading": "Prohibition against officers and employees being interested in contracts for materials",
+                  "identifier": "/us/usc/t14/s548"
+                },
+                {
+                  "number": "549",
+                  "numText": "§ 549.",
+                  "heading": "Lighthouse and other sites; necessity and sufficiency of cession by State of jurisdiction",
+                  "identifier": "/us/usc/t14/s549"
+                },
+                {
+                  "number": "550",
+                  "numText": "§ 550.",
+                  "heading": "Marking pierheads in certain lakes",
+                  "identifier": "/us/usc/t14/s550"
+                },
+                {
+                  "number": "548",
+                  "numText": "§ 548.",
+                  "heading": "Marking anchorage grounds by Commandant of the Coast Guard",
+                  "identifier": "/us/usc/t14/s548"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "MISCELLANEOUS",
+              "identifier": "/us/usc/t14/stI/ch5/schIV",
+              "children": [
+                {
+                  "number": "561",
+                  "numText": "§ 561.",
+                  "heading": "Icebreaking in polar regions",
+                  "identifier": "/us/usc/t14/s561"
+                },
+                {
+                  "number": "562",
+                  "numText": "§ 562.",
+                  "heading": "Appeals and waivers",
+                  "identifier": "/us/usc/t14/s562"
+                },
+                {
+                  "number": "563",
+                  "numText": "§ 563.",
+                  "heading": "Notification of certain determinations",
+                  "identifier": "/us/usc/t14/s563"
+                },
+                {
+                  "number": "564",
+                  "numText": "§ 564.",
+                  "heading": "Administration of sexual assault forensic examination kits",
+                  "identifier": "/us/usc/t14/s564"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "7",
+          "heading": "COOPERATION",
+          "identifier": "/us/usc/t14/stI/ch7",
+          "children": [
+            {
+              "number": "701",
+              "numText": "§ 701.",
+              "heading": "Cooperation with other agencies, States, territories, and political subdivisions",
+              "identifier": "/us/usc/t14/s701"
+            },
+            {
+              "number": "702",
+              "numText": "§ 702.",
+              "heading": "State Department",
+              "identifier": "/us/usc/t14/s702"
+            },
+            {
+              "number": "703",
+              "numText": "§ 703.",
+              "heading": "Treasury Department",
+              "identifier": "/us/usc/t14/s703"
+            },
+            {
+              "number": "704",
+              "numText": "§ 704.",
+              "heading": "Department of the Army and Department of the Air Force",
+              "identifier": "/us/usc/t14/s704"
+            },
+            {
+              "number": "705",
+              "numText": "§ 705.",
+              "heading": "Navy Department",
+              "identifier": "/us/usc/t14/s705"
+            },
+            {
+              "number": "706",
+              "numText": "§ 706.",
+              "heading": "United States Postal Service",
+              "identifier": "/us/usc/t14/s706"
+            },
+            {
+              "number": "707",
+              "numText": "§ 707.",
+              "heading": "Department of Commerce",
+              "identifier": "/us/usc/t14/s707"
+            },
+            {
+              "number": "708",
+              "numText": "§ 708.",
+              "heading": "Department of Health and Human Services",
+              "identifier": "/us/usc/t14/s708"
+            },
+            {
+              "number": "709",
+              "numText": "§ 709.",
+              "heading": "Maritime instruction",
+              "identifier": "/us/usc/t14/s709"
+            },
+            {
+              "number": "710",
+              "numText": "§ 710.",
+              "heading": "Assistance to foreign governments and maritime authorities",
+              "identifier": "/us/usc/t14/s710"
+            },
+            {
+              "number": "711",
+              "numText": "§ 711.",
+              "heading": "Coast Guard officers as attachés to missions",
+              "identifier": "/us/usc/t14/s711"
+            },
+            {
+              "number": "712",
+              "numText": "§ 712.",
+              "heading": "Contracts with Government-owned establishments for work and material",
+              "identifier": "/us/usc/t14/s712"
+            },
+            {
+              "number": "713",
+              "numText": "§ 713.",
+              "heading": "Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide or obtain goods and services",
+              "identifier": "/us/usc/t14/s713"
+            },
+            {
+              "number": "714",
+              "numText": "§ 714.",
+              "heading": "Arctic maritime domain awareness",
+              "identifier": "/us/usc/t14/s714"
+            },
+            {
+              "number": "715",
+              "numText": "§ 715.",
+              "heading": "Oceanographic research",
+              "identifier": "/us/usc/t14/s715"
+            },
+            {
+              "number": "716",
+              "numText": "§ 716.",
+              "heading": "Arctic maritime transportation",
+              "identifier": "/us/usc/t14/s716"
+            },
+            {
+              "number": "717",
+              "numText": "§ 717.",
+              "heading": "Agreements",
+              "identifier": "/us/usc/t14/s717"
+            },
+            {
+              "number": "718",
+              "numText": "§ 718.",
+              "heading": "Training; emergency response providers",
+              "identifier": "/us/usc/t14/s718"
+            },
+            {
+              "number": "719",
+              "numText": "§ 719.",
+              "heading": "Research projects; transactions other than contracts and grants",
+              "identifier": "/us/usc/t14/s719"
+            },
+            {
+              "number": "720",
+              "numText": "§ 720.",
+              "heading": "VHF communications services",
+              "identifier": "/us/usc/t14/s720"
+            },
+            {
+              "number": "721",
+              "numText": "§ 721.",
+              "heading": "Responses to safety recommendations",
+              "identifier": "/us/usc/t14/s721"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "9",
+          "heading": "ADMINISTRATION",
+          "identifier": "/us/usc/t14/stI/ch9",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "REAL AND PERSONAL PROPERTY",
+              "identifier": "/us/usc/t14/stI/ch9/schI",
+              "children": [
+                {
+                  "number": "901",
+                  "numText": "§ 901.",
+                  "heading": "Disposal of certain material",
+                  "identifier": "/us/usc/t14/s901"
+                },
+                {
+                  "number": "902",
+                  "numText": "§ 902.",
+                  "heading": "Employment of draftsmen and engineers",
+                  "identifier": "/us/usc/t14/s902"
+                },
+                {
+                  "number": "903",
+                  "numText": "§ 903.",
+                  "heading": "Use of certain appropriated funds",
+                  "identifier": "/us/usc/t14/s903"
+                },
+                {
+                  "number": "904",
+                  "numText": "§ 904.",
+                  "heading": "Local hire",
+                  "identifier": "/us/usc/t14/s904"
+                },
+                {
+                  "number": "905",
+                  "numText": "§ 905.",
+                  "heading": "Procurement authority for family housing",
+                  "identifier": "/us/usc/t14/s905"
+                },
+                {
+                  "number": "906",
+                  "numText": "§ 906.",
+                  "heading": "Air Station Cape Cod Improvements",
+                  "identifier": "/us/usc/t14/s906"
+                },
+                {
+                  "number": "907",
+                  "numText": "§ 907.",
+                  "heading": "Long-term lease of special purpose facilities",
+                  "identifier": "/us/usc/t14/s907"
+                },
+                {
+                  "number": "908",
+                  "numText": "§ 908.",
+                  "heading": "Long-term lease authority for lighthouse property",
+                  "identifier": "/us/usc/t14/s908"
+                },
+                {
+                  "number": "909",
+                  "numText": "§ 909.",
+                  "heading": "Small boat station rescue capability",
+                  "identifier": "/us/usc/t14/s909"
+                },
+                {
+                  "number": "910",
+                  "numText": "§ 910.",
+                  "heading": "Small boat station closures",
+                  "identifier": "/us/usc/t14/s910"
+                },
+                {
+                  "number": "911",
+                  "numText": "§ 911.",
+                  "heading": "Search and rescue center standards",
+                  "identifier": "/us/usc/t14/s911"
+                },
+                {
+                  "number": "912",
+                  "numText": "§ 912.",
+                  "heading": "Air facility closures",
+                  "identifier": "/us/usc/t14/s912"
+                },
+                {
+                  "number": "913",
+                  "numText": "§ 913.",
+                  "heading": "Turnkey selection procedures",
+                  "identifier": "/us/usc/t14/s913"
+                },
+                {
+                  "number": "914",
+                  "numText": "§ 914.",
+                  "heading": "Disposition of infrastructure related to E–LORAN",
+                  "identifier": "/us/usc/t14/s914"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "MISCELLANEOUS",
+              "identifier": "/us/usc/t14/stI/ch9/schII",
+              "children": [
+                {
+                  "number": "931",
+                  "numText": "§ 931.",
+                  "heading": "Oaths required for boards",
+                  "identifier": "/us/usc/t14/s931"
+                },
+                {
+                  "number": "932",
+                  "numText": "§ 932.",
+                  "heading": "Administration of oaths",
+                  "identifier": "/us/usc/t14/s932"
+                },
+                {
+                  "number": "933",
+                  "numText": "§ 933.",
+                  "heading": "Coast Guard ensigns and pennants",
+                  "identifier": "/us/usc/t14/s933"
+                },
+                {
+                  "number": "934",
+                  "numText": "§ 934.",
+                  "heading": "Penalty for unauthorized use of words “Coast Guard”",
+                  "identifier": "/us/usc/t14/s934"
+                },
+                {
+                  "number": "935",
+                  "numText": "§ 935.",
+                  "heading": "Coast Guard band recordings for commercial sale",
+                  "identifier": "/us/usc/t14/s935"
+                },
+                {
+                  "number": "936",
+                  "numText": "§ 936.",
+                  "heading": "Confidentiality of medical quality assurance records; qualified immunity for participants",
+                  "identifier": "/us/usc/t14/s936"
+                },
+                {
+                  "number": "937",
+                  "numText": "§ 937.",
+                  "heading": "Admiralty claims against the United States",
+                  "identifier": "/us/usc/t14/s937"
+                },
+                {
+                  "number": "938",
+                  "numText": "§ 938.",
+                  "heading": "Claims for damage to property of the United States",
+                  "identifier": "/us/usc/t14/s938"
+                },
+                {
+                  "number": "939",
+                  "numText": "§ 939.",
+                  "heading": "Accounting for industrial work",
+                  "identifier": "/us/usc/t14/s939"
+                },
+                {
+                  "number": "940",
+                  "numText": "§ 940.",
+                  "heading": "Supplies and equipment from stock",
+                  "identifier": "/us/usc/t14/s940"
+                },
+                {
+                  "number": "941",
+                  "numText": "§ 941.",
+                  "heading": "Coast Guard Supply Fund",
+                  "identifier": "/us/usc/t14/s941"
+                },
+                {
+                  "number": "942",
+                  "numText": "§ 942.",
+                  "heading": "Public and commercial vessels and other watercraft; sale of fuel, supplies, and services",
+                  "identifier": "/us/usc/t14/s942"
+                },
+                {
+                  "number": "943",
+                  "numText": "§ 943.",
+                  "heading": "Arms and ammunition; immunity from taxation",
+                  "identifier": "/us/usc/t14/s943"
+                },
+                {
+                  "number": "944",
+                  "numText": "§ 944.",
+                  "heading": "Confidential investigative expenses",
+                  "identifier": "/us/usc/t14/s944"
+                },
+                {
+                  "number": "945",
+                  "numText": "§ 945.",
+                  "heading": "Assistance to film producers",
+                  "identifier": "/us/usc/t14/s945"
+                },
+                {
+                  "number": "946",
+                  "numText": "§ 946.",
+                  "heading": "User fees",
+                  "identifier": "/us/usc/t14/s946"
+                },
+                {
+                  "number": "947",
+                  "numText": "§ 947.",
+                  "heading": "Vessel construction bonding requirements",
+                  "identifier": "/us/usc/t14/s947"
+                },
+                {
+                  "number": "948",
+                  "numText": "§ 948.",
+                  "heading": "Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care",
+                  "identifier": "/us/usc/t14/s948"
+                },
+                {
+                  "number": "949",
+                  "numText": "§ 949.",
+                  "heading": "Telephone installation and charges",
+                  "identifier": "/us/usc/t14/s949"
+                },
+                {
+                  "number": "950",
+                  "numText": "§ 950.",
+                  "heading": "Designation, powers, and accountability of deputy disbursing officials",
+                  "identifier": "/us/usc/t14/s950"
+                },
+                {
+                  "number": "951",
+                  "numText": "§ 951.",
+                  "heading": "Aircraft accident investigations",
+                  "identifier": "/us/usc/t14/s951"
+                },
+                {
+                  "number": "952",
+                  "numText": "§ 952.",
+                  "heading": "Construction of Coast Guard vessels and assignment of vessel projects",
+                  "identifier": "/us/usc/t14/s952"
+                },
+                {
+                  "number": "953",
+                  "numText": "§ 953.",
+                  "heading": "Support for Coast Guard Academy",
+                  "identifier": "/us/usc/t14/s953"
+                },
+                {
+                  "number": "954",
+                  "numText": "§ 954.",
+                  "heading": "Mixed-funded athletic and recreational extracurricular programs",
+                  "identifier": "/us/usc/t14/s954"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "11",
+          "heading": "ACQUISITIONS",
+          "identifier": "/us/usc/t14/stI/ch11",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL PROVISIONS",
+              "identifier": "/us/usc/t14/stI/ch11/schI",
+              "children": [
+                {
+                  "number": "1101",
+                  "numText": "§ 1101.",
+                  "heading": "Acquisition directorate",
+                  "identifier": "/us/usc/t14/s1101"
+                },
+                {
+                  "number": "1102",
+                  "numText": "§ 1102.",
+                  "heading": "Improvements in Coast Guard acquisition management",
+                  "identifier": "/us/usc/t14/s1102"
+                },
+                {
+                  "number": "1103",
+                  "numText": "§ 1103.",
+                  "heading": "Role of Vice Commandant in major acquisition programs",
+                  "identifier": "/us/usc/t14/s1103"
+                },
+                {
+                  "number": "1104",
+                  "numText": "§ 1104.",
+                  "heading": "Recognition of Coast Guard personnel for excellence in acquisition",
+                  "identifier": "/us/usc/t14/s1104"
+                },
+                {
+                  "number": "1105",
+                  "numText": "§ 1105.",
+                  "heading": "Prohibition on use of lead systems integrators",
+                  "identifier": "/us/usc/t14/s1105"
+                },
+                {
+                  "number": "1106",
+                  "numText": "§ 1106.",
+                  "heading": "Required contract terms",
+                  "identifier": "/us/usc/t14/s1106"
+                },
+                {
+                  "number": "1107",
+                  "numText": "§ 1107.",
+                  "heading": "Extension of major acquisition program contracts",
+                  "identifier": "/us/usc/t14/s1107"
+                },
+                {
+                  "number": "1108",
+                  "numText": "§ 1108.",
+                  "heading": "Department of Defense consultation",
+                  "identifier": "/us/usc/t14/s1108"
+                },
+                {
+                  "number": "1109",
+                  "numText": "§ 1109.",
+                  "heading": "Undefinitized contractual actions",
+                  "identifier": "/us/usc/t14/s1109"
+                },
+                {
+                  "number": "1110",
+                  "numText": "§ 1110.",
+                  "heading": "Elevation of disputes to the Chief Acquisition Officer",
+                  "identifier": "/us/usc/t14/s1110"
+                },
+                {
+                  "number": "1111",
+                  "numText": "§ 1111.",
+                  "heading": "Acquisition workforce authorities",
+                  "identifier": "/us/usc/t14/s1111"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "IMPROVED ACQUISITION PROCESS AND PROCEDURES",
+              "identifier": "/us/usc/t14/stI/ch11/schII",
+              "children": [
+                {
+                  "number": "1131",
+                  "numText": "§ 1131.",
+                  "heading": "Identification of major system acquisitions",
+                  "identifier": "/us/usc/t14/s1131"
+                },
+                {
+                  "number": "1132",
+                  "numText": "§ 1132.",
+                  "heading": "Acquisition",
+                  "identifier": "/us/usc/t14/s1132"
+                },
+                {
+                  "number": "1133",
+                  "numText": "§ 1133.",
+                  "heading": "Preliminary development and demonstration",
+                  "identifier": "/us/usc/t14/s1133"
+                },
+                {
+                  "number": "1134",
+                  "numText": "§ 1134.",
+                  "heading": "Acquisition, production, deployment, and support",
+                  "identifier": "/us/usc/t14/s1134"
+                },
+                {
+                  "number": "1135",
+                  "numText": "§ 1135.",
+                  "heading": "Acquisition program baseline breach",
+                  "identifier": "/us/usc/t14/s1135"
+                },
+                {
+                  "number": "1136",
+                  "numText": "§ 1136.",
+                  "heading": "Acquisition approval authority",
+                  "identifier": "/us/usc/t14/s1136"
+                },
+                {
+                  "number": "1137",
+                  "numText": "§ 1137.",
+                  "heading": "Contracting for major acquisitions programs",
+                  "identifier": "/us/usc/t14/s1137"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "PROCUREMENT",
+              "identifier": "/us/usc/t14/stI/ch11/schIII",
+              "children": [
+                {
+                  "number": "1151",
+                  "numText": "§ 1151.",
+                  "heading": "Restriction on construction of vessels in foreign shipyards",
+                  "identifier": "/us/usc/t14/s1151"
+                },
+                {
+                  "number": "1152",
+                  "numText": "§ 1152.",
+                  "heading": "Advance procurement funding",
+                  "identifier": "/us/usc/t14/s1152"
+                },
+                {
+                  "number": "1153",
+                  "numText": "§ 1153.",
+                  "heading": "Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards",
+                  "identifier": "/us/usc/t14/s1153"
+                },
+                {
+                  "number": "1154",
+                  "numText": "§ 1154.",
+                  "heading": "Procurement of buoy chain",
+                  "identifier": "/us/usc/t14/s1154"
+                },
+                {
+                  "number": "1155",
+                  "numText": "§ 1155.",
+                  "heading": "Contract termination",
+                  "identifier": "/us/usc/t14/s1155"
+                },
+                {
+                  "number": "1156",
+                  "numText": "§ 1156.",
+                  "heading": "Limitation on unmanned aircraft systems",
+                  "identifier": "/us/usc/t14/s1156"
+                },
+                {
+                  "number": "1157",
+                  "numText": "§ 1157.",
+                  "heading": "Extraordinary relief",
+                  "identifier": "/us/usc/t14/s1157"
+                },
+                {
+                  "number": "1158",
+                  "numText": "§ 1158.",
+                  "heading": "Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs",
+                  "identifier": "/us/usc/t14/s1158"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "DEFINITIONS",
+              "identifier": "/us/usc/t14/stI/ch11/schIV",
+              "children": [
+                {
+                  "number": "1171",
+                  "numText": "§ 1171.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t14/s1171"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "V",
+              "heading": "COAST GUARD MISSION READINESS",
+              "identifier": "/us/usc/t14/stI/ch11/schV",
+              "children": [
+                {
+                  "number": "1181",
+                  "numText": "§ 1181.",
+                  "heading": "Special appropriations",
+                  "identifier": "/us/usc/t14/s1181"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "II",
+      "heading": "PERSONNEL",
+      "identifier": "/us/usc/t14/stII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "19",
+          "heading": "COAST GUARD ACADEMY",
+          "identifier": "/us/usc/t14/stII/ch19",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "ADMINISTRATION",
+              "identifier": "/us/usc/t14/stII/ch19/schI",
+              "children": [
+                {
+                  "number": "1901",
+                  "numText": "§ 1901.",
+                  "heading": "Administration of Academy",
+                  "identifier": "/us/usc/t14/s1901"
+                },
+                {
+                  "number": "1902",
+                  "numText": "§ 1902.",
+                  "heading": "Policy on sexual harassment and sexual violence",
+                  "identifier": "/us/usc/t14/s1902"
+                },
+                {
+                  "number": "1903",
+                  "numText": "§ 1903.",
+                  "heading": "Annual Board of Visitors",
+                  "identifier": "/us/usc/t14/s1903"
+                },
+                {
+                  "number": "1904",
+                  "numText": "§ 1904.",
+                  "heading": "Advisory Board on Women at the Coast Guard Academy",
+                  "identifier": "/us/usc/t14/s1904"
+                },
+                {
+                  "number": "1905",
+                  "numText": "§ 1905.",
+                  "heading": "Coast Guard Academy minority outreach team program",
+                  "identifier": "/us/usc/t14/s1905"
+                },
+                {
+                  "number": "1906",
+                  "numText": "§ 1906.",
+                  "heading": "Participation in Federal, State, or other educational research grants",
+                  "identifier": "/us/usc/t14/s1906"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "CADETS",
+              "identifier": "/us/usc/t14/stII/ch19/schII",
+              "children": [
+                {
+                  "number": "1921",
+                  "numText": "§ 1921.",
+                  "heading": "Corps of Cadets authorized strength",
+                  "identifier": "/us/usc/t14/s1921"
+                },
+                {
+                  "number": "1922",
+                  "numText": "§ 1922.",
+                  "heading": "Appointments",
+                  "identifier": "/us/usc/t14/s1922"
+                },
+                {
+                  "number": "1923",
+                  "numText": "§ 1923.",
+                  "heading": "Admission of foreign nationals for instruction; restrictions; conditions",
+                  "identifier": "/us/usc/t14/s1923"
+                },
+                {
+                  "number": "1924",
+                  "numText": "§ 1924.",
+                  "heading": "Conduct",
+                  "identifier": "/us/usc/t14/s1924"
+                },
+                {
+                  "number": "1925",
+                  "numText": "§ 1925.",
+                  "heading": "Agreement",
+                  "identifier": "/us/usc/t14/s1925"
+                },
+                {
+                  "number": "1926",
+                  "numText": "§ 1926.",
+                  "heading": "Cadet applicants; preappointment travel to Academy",
+                  "identifier": "/us/usc/t14/s1926"
+                },
+                {
+                  "number": "1927",
+                  "numText": "§ 1927.",
+                  "heading": "Cadets; initial clothing allowance",
+                  "identifier": "/us/usc/t14/s1927"
+                },
+                {
+                  "number": "1928",
+                  "numText": "§ 1928.",
+                  "heading": "Cadets; degree of bachelor of science",
+                  "identifier": "/us/usc/t14/s1928"
+                },
+                {
+                  "number": "1929",
+                  "numText": "§ 1929.",
+                  "heading": "Cadets; appointment as ensign",
+                  "identifier": "/us/usc/t14/s1929"
+                },
+                {
+                  "number": "1930",
+                  "numText": "§ 1930.",
+                  "heading": "Cadets: charges and fees for attendance; limitation",
+                  "identifier": "/us/usc/t14/s1930"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "FACULTY",
+              "identifier": "/us/usc/t14/stII/ch19/schIII",
+              "children": [
+                {
+                  "number": "1941",
+                  "numText": "§ 1941.",
+                  "heading": "Civilian teaching staff",
+                  "identifier": "/us/usc/t14/s1941"
+                },
+                {
+                  "number": "1942",
+                  "numText": "§ 1942.",
+                  "heading": "Permanent commissioned teaching staff; composition",
+                  "identifier": "/us/usc/t14/s1942"
+                },
+                {
+                  "number": "1943",
+                  "numText": "§ 1943.",
+                  "heading": "Appointment of permanent commissioned teaching staff",
+                  "identifier": "/us/usc/t14/s1943"
+                },
+                {
+                  "number": "1944",
+                  "numText": "§ 1944.",
+                  "heading": "Grade of permanent commissioned teaching staff",
+                  "identifier": "/us/usc/t14/s1944"
+                },
+                {
+                  "number": "1945",
+                  "numText": "§ 1945.",
+                  "heading": "Retirement of permanent commissioned teaching staff",
+                  "identifier": "/us/usc/t14/s1945"
+                },
+                {
+                  "number": "1946",
+                  "numText": "§ 1946.",
+                  "heading": "Credit for service as member of civilian teaching staff",
+                  "identifier": "/us/usc/t14/s1946"
+                },
+                {
+                  "number": "1947",
+                  "numText": "§ 1947.",
+                  "heading": "Assignment of personnel as instructors",
+                  "identifier": "/us/usc/t14/s1947"
+                },
+                {
+                  "number": "1948",
+                  "numText": "§ 1948.",
+                  "heading": "Marine safety curriculum",
+                  "identifier": "/us/usc/t14/s1948"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "21",
+          "heading": "PERSONNEL; OFFICERS",
+          "identifier": "/us/usc/t14/stII/ch21",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "APPOINTMENT AND PROMOTION",
+              "identifier": "/us/usc/t14/stII/ch21/schI",
+              "children": [
+                {
+                  "number": "2101",
+                  "numText": "§ 2101.",
+                  "heading": "Original appointment of permanent commissioned officers",
+                  "identifier": "/us/usc/t14/s2101"
+                },
+                {
+                  "number": "2102",
+                  "numText": "§ 2102.",
+                  "heading": "Active duty promotion list",
+                  "identifier": "/us/usc/t14/s2102"
+                },
+                {
+                  "number": "2103",
+                  "numText": "§ 2103.",
+                  "heading": "Number and distribution of commissioned officers on active duty promotion list",
+                  "identifier": "/us/usc/t14/s2103"
+                },
+                {
+                  "number": "2104",
+                  "numText": "§ 2104.",
+                  "heading": "Appointment of temporary officers",
+                  "identifier": "/us/usc/t14/s2104"
+                },
+                {
+                  "number": "2105",
+                  "numText": "§ 2105.",
+                  "heading": "Rank of warrant officers",
+                  "identifier": "/us/usc/t14/s2105"
+                },
+                {
+                  "number": "2106",
+                  "numText": "§ 2106.",
+                  "heading": "Selection boards; convening of boards",
+                  "identifier": "/us/usc/t14/s2106"
+                },
+                {
+                  "number": "2107",
+                  "numText": "§ 2107.",
+                  "heading": "Selection boards; composition of boards",
+                  "identifier": "/us/usc/t14/s2107"
+                },
+                {
+                  "number": "2108",
+                  "numText": "§ 2108.",
+                  "heading": "Selection boards; notice of convening; communication with board",
+                  "identifier": "/us/usc/t14/s2108"
+                },
+                {
+                  "number": "2109",
+                  "numText": "§ 2109.",
+                  "heading": "Selection boards; oath of members",
+                  "identifier": "/us/usc/t14/s2109"
+                },
+                {
+                  "number": "2110",
+                  "numText": "§ 2110.",
+                  "heading": "Number of officers to be selected for promotion",
+                  "identifier": "/us/usc/t14/s2110"
+                },
+                {
+                  "number": "2111",
+                  "numText": "§ 2111.",
+                  "heading": "Promotion zones",
+                  "identifier": "/us/usc/t14/s2111"
+                },
+                {
+                  "number": "2112",
+                  "numText": "§ 2112.",
+                  "heading": "Promotion year; defined",
+                  "identifier": "/us/usc/t14/s2112"
+                },
+                {
+                  "number": "2113",
+                  "numText": "§ 2113.",
+                  "heading": "Eligibility of officers for consideration for promotion",
+                  "identifier": "/us/usc/t14/s2113"
+                },
+                {
+                  "number": "2114",
+                  "numText": "§ 2114.",
+                  "heading": "United States Deputy Marshals in Alaska",
+                  "identifier": "/us/usc/t14/s2114"
+                },
+                {
+                  "number": "2115",
+                  "numText": "§ 2115.",
+                  "heading": "Selection boards; information to be furnished boards",
+                  "identifier": "/us/usc/t14/s2115"
+                },
+                {
+                  "number": "2116",
+                  "numText": "§ 2116.",
+                  "heading": "Officers to be recommended for promotion",
+                  "identifier": "/us/usc/t14/s2116"
+                },
+                {
+                  "number": "2117",
+                  "numText": "§ 2117.",
+                  "heading": "Selection boards; reports",
+                  "identifier": "/us/usc/t14/s2117"
+                },
+                {
+                  "number": "2118",
+                  "numText": "§ 2118.",
+                  "heading": "Selection boards; submission of reports",
+                  "identifier": "/us/usc/t14/s2118"
+                },
+                {
+                  "number": "2119",
+                  "numText": "§ 2119.",
+                  "heading": "Failure of selection for promotion",
+                  "identifier": "/us/usc/t14/s2119"
+                },
+                {
+                  "number": "2120",
+                  "numText": "§ 2120.",
+                  "heading": "Special selection boards; correction of errors",
+                  "identifier": "/us/usc/t14/s2120"
+                },
+                {
+                  "number": "2120a",
+                  "numText": "§ 2120a.",
+                  "heading": "Special selection review boards",
+                  "identifier": "/us/usc/t14/s2120a"
+                },
+                {
+                  "number": "2121",
+                  "numText": "§ 2121.",
+                  "heading": "Promotions; appointments",
+                  "identifier": "/us/usc/t14/s2121"
+                },
+                {
+                  "number": "2122",
+                  "numText": "§ 2122.",
+                  "heading": "Removal of officer from list of selectees for promotion",
+                  "identifier": "/us/usc/t14/s2122"
+                },
+                {
+                  "number": "2123",
+                  "numText": "§ 2123.",
+                  "heading": "Promotions; acceptance; oath of office",
+                  "identifier": "/us/usc/t14/s2123"
+                },
+                {
+                  "number": "2124",
+                  "numText": "§ 2124.",
+                  "heading": "Promotions; pay and allowances",
+                  "identifier": "/us/usc/t14/s2124"
+                },
+                {
+                  "number": "2125",
+                  "numText": "§ 2125.",
+                  "heading": "Wartime temporary service promotions",
+                  "identifier": "/us/usc/t14/s2125"
+                },
+                {
+                  "number": "2126",
+                  "numText": "§ 2126.",
+                  "heading": "Promotion of officers not included on active duty promotion list",
+                  "identifier": "/us/usc/t14/s2126"
+                },
+                {
+                  "number": "2127",
+                  "numText": "§ 2127.",
+                  "heading": "Recall to active duty during war or national emergency",
+                  "identifier": "/us/usc/t14/s2127"
+                },
+                {
+                  "number": "2128",
+                  "numText": "§ 2128.",
+                  "heading": "Recall to active duty with consent of officer",
+                  "identifier": "/us/usc/t14/s2128"
+                },
+                {
+                  "number": "2129",
+                  "numText": "§ 2129.",
+                  "heading": "Aviation cadets; appointment as Reserve officers",
+                  "identifier": "/us/usc/t14/s2129"
+                },
+                {
+                  "number": "2130",
+                  "numText": "§ 2130.",
+                  "heading": "Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant",
+                  "identifier": "/us/usc/t14/s2130"
+                },
+                {
+                  "number": "2131",
+                  "numText": "§ 2131.",
+                  "heading": "College student pre-commissioning initiative",
+                  "identifier": "/us/usc/t14/s2131"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "DISCHARGES; RETIREMENTS; REVOCATION OF COMMISSIONS; SEPARATION FOR CAUSE",
+              "identifier": "/us/usc/t14/stII/ch21/schII",
+              "children": [
+                {
+                  "number": "2141",
+                  "numText": "§ 2141.",
+                  "heading": "Revocation of commissions during first five years of commissioned service",
+                  "identifier": "/us/usc/t14/s2141"
+                },
+                {
+                  "number": "2142",
+                  "numText": "§ 2142.",
+                  "heading": "Regular lieutenants (junior grade); separation for failure of selection for promotion",
+                  "identifier": "/us/usc/t14/s2142"
+                },
+                {
+                  "number": "2143",
+                  "numText": "§ 2143.",
+                  "heading": "Regular lieutenants; separation for failure of selection for promotion; continuation",
+                  "identifier": "/us/usc/t14/s2143"
+                },
+                {
+                  "number": "2144",
+                  "numText": "§ 2144.",
+                  "heading": "Regular Coast Guard; officers serving under temporary appointments",
+                  "identifier": "/us/usc/t14/s2144"
+                },
+                {
+                  "number": "2145",
+                  "numText": "§ 2145.",
+                  "heading": "Regular lieutenant commanders and commanders; retirement for failure of selection for promotion",
+                  "identifier": "/us/usc/t14/s2145"
+                },
+                {
+                  "number": "2146",
+                  "numText": "§ 2146.",
+                  "heading": "Discharge in lieu of retirement; separation pay",
+                  "identifier": "/us/usc/t14/s2146"
+                },
+                {
+                  "number": "2147",
+                  "numText": "§ 2147.",
+                  "heading": "Regular warrant officers: separation pay",
+                  "identifier": "/us/usc/t14/s2147"
+                },
+                {
+                  "number": "2148",
+                  "numText": "§ 2148.",
+                  "heading": "Separation for failure of selection for promotion or continuation; time of",
+                  "identifier": "/us/usc/t14/s2148"
+                },
+                {
+                  "number": "2149",
+                  "numText": "§ 2149.",
+                  "heading": "Regular captains; retirement",
+                  "identifier": "/us/usc/t14/s2149"
+                },
+                {
+                  "number": "2150",
+                  "numText": "§ 2150.",
+                  "heading": "Captains; continuation on active duty; involuntary retirement",
+                  "identifier": "/us/usc/t14/s2150"
+                },
+                {
+                  "number": "2151",
+                  "numText": "§ 2151.",
+                  "heading": "Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement",
+                  "identifier": "/us/usc/t14/s2151"
+                },
+                {
+                  "number": "2152",
+                  "numText": "§ 2152.",
+                  "heading": "Voluntary retirement after twenty years’ service",
+                  "identifier": "/us/usc/t14/s2152"
+                },
+                {
+                  "number": "2153",
+                  "numText": "§ 2153.",
+                  "heading": "Voluntary retirement after thirty years’ service",
+                  "identifier": "/us/usc/t14/s2153"
+                },
+                {
+                  "number": "2154",
+                  "numText": "§ 2154.",
+                  "heading": "Compulsory retirement",
+                  "identifier": "/us/usc/t14/s2154"
+                },
+                {
+                  "number": "2155",
+                  "numText": "§ 2155.",
+                  "heading": "Retirement for physical disability after selection for promotion; grade in which retired",
+                  "identifier": "/us/usc/t14/s2155"
+                },
+                {
+                  "number": "2156",
+                  "numText": "§ 2156.",
+                  "heading": "Deferment of retirement or separation for medical reasons",
+                  "identifier": "/us/usc/t14/s2156"
+                },
+                {
+                  "number": "2157",
+                  "numText": "§ 2157.",
+                  "heading": "Flag officers",
+                  "identifier": "/us/usc/t14/s2157"
+                },
+                {
+                  "number": "2158",
+                  "numText": "§ 2158.",
+                  "heading": "Review of records of officers",
+                  "identifier": "/us/usc/t14/s2158"
+                },
+                {
+                  "number": "2159",
+                  "numText": "§ 2159.",
+                  "heading": "Boards of inquiry",
+                  "identifier": "/us/usc/t14/s2159"
+                },
+                {
+                  "number": "2160",
+                  "numText": "§ 2160.",
+                  "heading": "Boards of review",
+                  "identifier": "/us/usc/t14/s2160"
+                },
+                {
+                  "number": "2161",
+                  "numText": "§ 2161.",
+                  "heading": "Composition of boards",
+                  "identifier": "/us/usc/t14/s2161"
+                },
+                {
+                  "number": "2162",
+                  "numText": "§ 2162.",
+                  "heading": "Rights and procedures",
+                  "identifier": "/us/usc/t14/s2162"
+                },
+                {
+                  "number": "2163",
+                  "numText": "§ 2163.",
+                  "heading": "Removal of officer from active duty; action by Secretary",
+                  "identifier": "/us/usc/t14/s2163"
+                },
+                {
+                  "number": "2164",
+                  "numText": "§ 2164.",
+                  "heading": "Officers considered for removal; retirement or discharge; separation benefits",
+                  "identifier": "/us/usc/t14/s2164"
+                },
+                {
+                  "number": "2165",
+                  "numText": "§ 2165.",
+                  "heading": "Relief of retired officer promoted while on active duty",
+                  "identifier": "/us/usc/t14/s2165"
+                },
+                {
+                  "number": "2166",
+                  "numText": "§ 2166.",
+                  "heading": "Continuation on active duty; Coast Guard officers with certain critical skills",
+                  "identifier": "/us/usc/t14/s2166"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "GENERAL PROVISIONS",
+              "identifier": "/us/usc/t14/stII/ch21/schIII",
+              "children": [
+                {
+                  "number": "2181",
+                  "numText": "§ 2181.",
+                  "heading": "Physical fitness of officers",
+                  "identifier": "/us/usc/t14/s2181"
+                },
+                {
+                  "number": "2182",
+                  "numText": "§ 2182.",
+                  "heading": "Multirater assessment of certain personnel",
+                  "identifier": "/us/usc/t14/s2182"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "23",
+          "heading": "PERSONNEL; ENLISTED",
+          "identifier": "/us/usc/t14/stII/ch23",
+          "children": [
+            {
+              "number": "2301",
+              "numText": "§ 2301.",
+              "heading": "Recruiting campaigns",
+              "identifier": "/us/usc/t14/s2301"
+            },
+            {
+              "number": "2302",
+              "numText": "§ 2302.",
+              "heading": "Enlistments; term, grade",
+              "identifier": "/us/usc/t14/s2302"
+            },
+            {
+              "number": "2303",
+              "numText": "§ 2303.",
+              "heading": "Promotion",
+              "identifier": "/us/usc/t14/s2303"
+            },
+            {
+              "number": "2304",
+              "numText": "§ 2304.",
+              "heading": "Compulsory retirement at age of sixty-two",
+              "identifier": "/us/usc/t14/s2304"
+            },
+            {
+              "number": "2305",
+              "numText": "§ 2305.",
+              "heading": "Voluntary retirement after thirty years’ service",
+              "identifier": "/us/usc/t14/s2305"
+            },
+            {
+              "number": "2306",
+              "numText": "§ 2306.",
+              "heading": "Voluntary retirement after twenty years’ service",
+              "identifier": "/us/usc/t14/s2306"
+            },
+            {
+              "number": "2307",
+              "numText": "§ 2307.",
+              "heading": "Retirement of enlisted members: increase in retired pay",
+              "identifier": "/us/usc/t14/s2307"
+            },
+            {
+              "number": "2308",
+              "numText": "§ 2308.",
+              "heading": "Recall to active duty during war or national emergency",
+              "identifier": "/us/usc/t14/s2308"
+            },
+            {
+              "number": "2309",
+              "numText": "§ 2309.",
+              "heading": "Recall to active duty with consent of member",
+              "identifier": "/us/usc/t14/s2309"
+            },
+            {
+              "number": "2310",
+              "numText": "§ 2310.",
+              "heading": "Relief of retired enlisted member promoted while on active duty",
+              "identifier": "/us/usc/t14/s2310"
+            },
+            {
+              "number": "2311",
+              "numText": "§ 2311.",
+              "heading": "Retirement in cases where higher grade or rating has been held",
+              "identifier": "/us/usc/t14/s2311"
+            },
+            {
+              "number": "2312",
+              "numText": "§ 2312.",
+              "heading": "Extension of enlistments",
+              "identifier": "/us/usc/t14/s2312"
+            },
+            {
+              "number": "2313",
+              "numText": "§ 2313.",
+              "heading": "Retention beyond term of enlistment in case of disability",
+              "identifier": "/us/usc/t14/s2313"
+            },
+            {
+              "number": "2314",
+              "numText": "§ 2314.",
+              "heading": "Detention beyond term of enlistment",
+              "identifier": "/us/usc/t14/s2314"
+            },
+            {
+              "number": "2315",
+              "numText": "§ 2315.",
+              "heading": "Inclusion of certain conditions in enlistment contract",
+              "identifier": "/us/usc/t14/s2315"
+            },
+            {
+              "number": "2316",
+              "numText": "§ 2316.",
+              "heading": "Discharge within three months before expiration of enlistment",
+              "identifier": "/us/usc/t14/s2316"
+            },
+            {
+              "number": "2317",
+              "numText": "§ 2317.",
+              "heading": "Aviation cadets; procurement; transfer",
+              "identifier": "/us/usc/t14/s2317"
+            },
+            {
+              "number": "2318",
+              "numText": "§ 2318.",
+              "heading": "Aviation cadets; benefits",
+              "identifier": "/us/usc/t14/s2318"
+            },
+            {
+              "number": "2319",
+              "numText": "§ 2319.",
+              "heading": "Critical skill training bonus",
+              "identifier": "/us/usc/t14/s2319"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "25",
+          "heading": "PERSONNEL; GENERAL PROVISIONS",
+          "identifier": "/us/usc/t14/stII/ch25",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL PROVISIONS",
+              "identifier": "/us/usc/t14/stII/ch25/schI",
+              "children": [
+                {
+                  "number": "2501",
+                  "numText": "§ 2501.",
+                  "heading": "Grade on retirement",
+                  "identifier": "/us/usc/t14/s2501"
+                },
+                {
+                  "number": "2502",
+                  "numText": "§ 2502.",
+                  "heading": "Retirement",
+                  "identifier": "/us/usc/t14/s2502"
+                },
+                {
+                  "number": "2503",
+                  "numText": "§ 2503.",
+                  "heading": "Status of recalled personnel",
+                  "identifier": "/us/usc/t14/s2503"
+                },
+                {
+                  "number": "2504",
+                  "numText": "§ 2504.",
+                  "heading": "Computation of retired pay",
+                  "identifier": "/us/usc/t14/s2504"
+                },
+                {
+                  "number": "2505",
+                  "numText": "§ 2505.",
+                  "heading": "Limitations on retirement and retired pay",
+                  "identifier": "/us/usc/t14/s2505"
+                },
+                {
+                  "number": "2506",
+                  "numText": "§ 2506.",
+                  "heading": "Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution",
+                  "identifier": "/us/usc/t14/s2506"
+                },
+                {
+                  "number": "2507",
+                  "numText": "§ 2507.",
+                  "heading": "Board for Correction of Military Records deadline",
+                  "identifier": "/us/usc/t14/s2507"
+                },
+                {
+                  "number": "2508",
+                  "numText": "§ 2508.",
+                  "heading": "Emergency leave retention authority",
+                  "identifier": "/us/usc/t14/s2508"
+                },
+                {
+                  "number": "2509",
+                  "numText": "§ 2509.",
+                  "heading": "Prohibition of certain involuntary administrative separations",
+                  "identifier": "/us/usc/t14/s2509"
+                },
+                {
+                  "number": "2510",
+                  "numText": "§ 2510.",
+                  "heading": "Sea service letters",
+                  "identifier": "/us/usc/t14/s2510"
+                },
+                {
+                  "number": "2511",
+                  "numText": "§ 2511.",
+                  "heading": "Investigations of flag officers and Senior Executive Service employees",
+                  "identifier": "/us/usc/t14/s2511"
+                },
+                {
+                  "number": "2512",
+                  "numText": "§ 2512.",
+                  "heading": "Leave policies for the Coast Guard",
+                  "identifier": "/us/usc/t14/s2512"
+                },
+                {
+                  "number": "2513",
+                  "numText": "§ 2513.",
+                  "heading": "Computation of length of service",
+                  "identifier": "/us/usc/t14/s2513"
+                },
+                {
+                  "number": "2514",
+                  "numText": "§ 2514.",
+                  "heading": "Career flexibility to enhance retention of members",
+                  "identifier": "/us/usc/t14/s2514"
+                },
+                {
+                  "number": "2515",
+                  "numText": "§ 2515.",
+                  "heading": "Calculation of active service",
+                  "identifier": "/us/usc/t14/s2515"
+                },
+                {
+                  "number": "2516",
+                  "numText": "§ 2516.",
+                  "heading": "Members asserting post-traumatic stress disorder or traumatic brain injury",
+                  "identifier": "/us/usc/t14/s2516"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "ADVISORY BOARD ON WOMEN IN THE COAST GUARD",
+              "identifier": "/us/usc/t14/stII/ch25/schII",
+              "children": [
+                {
+                  "number": "2521",
+                  "numText": "§ 2521.",
+                  "heading": "Advisory Board on Women in the Coast Guard",
+                  "identifier": "/us/usc/t14/s2521"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "REPEALED]",
+              "identifier": "/us/usc/t14/stII/ch25/schIII",
+              "children": [
+                {
+                  "number": "2531 to 2534",
+                  "numText": "[§§ 2531 to 2534.",
+                  "heading": "Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166]",
+                  "identifier": "/us/usc/t14/s2531...2534"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "27",
+          "heading": "PAY, ALLOWANCES, AWARDS, AND OTHER RIGHTS AND BENEFITS",
+          "identifier": "/us/usc/t14/stII/ch27",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "PERSONNEL RIGHTS AND BENEFITS",
+              "identifier": "/us/usc/t14/stII/ch27/schI",
+              "children": [
+                {
+                  "number": "2701",
+                  "numText": "§ 2701.",
+                  "heading": "Procurement of personnel",
+                  "identifier": "/us/usc/t14/s2701"
+                },
+                {
+                  "number": "2702",
+                  "numText": "§ 2702.",
+                  "heading": "Training",
+                  "identifier": "/us/usc/t14/s2702"
+                },
+                {
+                  "number": "2703",
+                  "numText": "§ 2703.",
+                  "heading": "Contingent expenses",
+                  "identifier": "/us/usc/t14/s2703"
+                },
+                {
+                  "number": "2704",
+                  "numText": "§ 2704.",
+                  "heading": "Equipment to prevent accidents",
+                  "identifier": "/us/usc/t14/s2704"
+                },
+                {
+                  "number": "2705",
+                  "numText": "[§ 2705.",
+                  "heading": "Repealed. Pub. L. 115–282, title III, § 316, Dec. 4, 2018, 132 Stat. 4250]",
+                  "identifier": "/us/usc/t14/s2705"
+                },
+                {
+                  "number": "2706",
+                  "numText": "§ 2706.",
+                  "heading": "Right to wear uniform",
+                  "identifier": "/us/usc/t14/s2706"
+                },
+                {
+                  "number": "2707",
+                  "numText": "§ 2707.",
+                  "heading": "Protection of uniform",
+                  "identifier": "/us/usc/t14/s2707"
+                },
+                {
+                  "number": "2708",
+                  "numText": "§ 2708.",
+                  "heading": "Clothing for officers and enlisted personnel",
+                  "identifier": "/us/usc/t14/s2708"
+                },
+                {
+                  "number": "2709",
+                  "numText": "§ 2709.",
+                  "heading": "Procurement and sale of stores to members and civilian employees",
+                  "identifier": "/us/usc/t14/s2709"
+                },
+                {
+                  "number": "2710",
+                  "numText": "§ 2710.",
+                  "heading": "Disposition of effects of decedents",
+                  "identifier": "/us/usc/t14/s2710"
+                },
+                {
+                  "number": "2711",
+                  "numText": "§ 2711.",
+                  "heading": "Deserters; payment of expenses incident to apprehension and delivery; penalties",
+                  "identifier": "/us/usc/t14/s2711"
+                },
+                {
+                  "number": "2712",
+                  "numText": "§ 2712.",
+                  "heading": "Payment for the apprehension of stragglers",
+                  "identifier": "/us/usc/t14/s2712"
+                },
+                {
+                  "number": "2713",
+                  "numText": "§ 2713.",
+                  "heading": "Employment assistance",
+                  "identifier": "/us/usc/t14/s2713"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "AWARDS",
+              "identifier": "/us/usc/t14/stII/ch27/schII",
+              "children": [
+                {
+                  "number": "2731",
+                  "numText": "§ 2731.",
+                  "heading": "Delegation of powers to make awards; rules and regulations",
+                  "identifier": "/us/usc/t14/s2731"
+                },
+                {
+                  "number": "2732",
+                  "numText": "§ 2732.",
+                  "heading": "Medal of honor",
+                  "identifier": "/us/usc/t14/s2732"
+                },
+                {
+                  "number": "2733",
+                  "numText": "§ 2733.",
+                  "heading": "Medal of honor: duplicate medal",
+                  "identifier": "/us/usc/t14/s2733"
+                },
+                {
+                  "number": "2734",
+                  "numText": "§ 2734.",
+                  "heading": "Medal of honor: presentation of Medal of Honor Flag",
+                  "identifier": "/us/usc/t14/s2734"
+                },
+                {
+                  "number": "2735",
+                  "numText": "§ 2735.",
+                  "heading": "Coast Guard cross",
+                  "identifier": "/us/usc/t14/s2735"
+                },
+                {
+                  "number": "2736",
+                  "numText": "§ 2736.",
+                  "heading": "Distinguished service medal",
+                  "identifier": "/us/usc/t14/s2736"
+                },
+                {
+                  "number": "2737",
+                  "numText": "§ 2737.",
+                  "heading": "Silver star medal",
+                  "identifier": "/us/usc/t14/s2737"
+                },
+                {
+                  "number": "2738",
+                  "numText": "§ 2738.",
+                  "heading": "Distinguished flying cross",
+                  "identifier": "/us/usc/t14/s2738"
+                },
+                {
+                  "number": "2739",
+                  "numText": "§ 2739.",
+                  "heading": "Coast Guard medal",
+                  "identifier": "/us/usc/t14/s2739"
+                },
+                {
+                  "number": "2740",
+                  "numText": "§ 2740.",
+                  "heading": "Insignia for additional awards",
+                  "identifier": "/us/usc/t14/s2740"
+                },
+                {
+                  "number": "2741",
+                  "numText": "§ 2741.",
+                  "heading": "Time limit on award; report concerning deed",
+                  "identifier": "/us/usc/t14/s2741"
+                },
+                {
+                  "number": "2742",
+                  "numText": "§ 2742.",
+                  "heading": "Honorable subsequent service as condition to award",
+                  "identifier": "/us/usc/t14/s2742"
+                },
+                {
+                  "number": "2743",
+                  "numText": "§ 2743.",
+                  "heading": "Posthumous awards",
+                  "identifier": "/us/usc/t14/s2743"
+                },
+                {
+                  "number": "2744",
+                  "numText": "§ 2744.",
+                  "heading": "Life-saving medals",
+                  "identifier": "/us/usc/t14/s2744"
+                },
+                {
+                  "number": "2745",
+                  "numText": "§ 2745.",
+                  "heading": "Replacement of medals",
+                  "identifier": "/us/usc/t14/s2745"
+                },
+                {
+                  "number": "2746",
+                  "numText": "§ 2746.",
+                  "heading": "Award of other medals",
+                  "identifier": "/us/usc/t14/s2746"
+                },
+                {
+                  "number": "2747",
+                  "numText": "§ 2747.",
+                  "heading": "Awards and insignia for excellence in service or conduct",
+                  "identifier": "/us/usc/t14/s2747"
+                },
+                {
+                  "number": "2748",
+                  "numText": "§ 2748.",
+                  "heading": "Presentation of United States flag upon retirement",
+                  "identifier": "/us/usc/t14/s2748"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "PAYMENTS",
+              "identifier": "/us/usc/t14/stII/ch27/schIII",
+              "children": [
+                {
+                  "number": "2761",
+                  "numText": "§ 2761.",
+                  "heading": "Individuals discharged as result of court-martial; allowances to",
+                  "identifier": "/us/usc/t14/s2761"
+                },
+                {
+                  "number": "2762",
+                  "numText": "§ 2762.",
+                  "heading": "Shore patrol duty; payment of expenses",
+                  "identifier": "/us/usc/t14/s2762"
+                },
+                {
+                  "number": "2763",
+                  "numText": "§ 2763.",
+                  "heading": "Compensatory absence from duty for military personnel at isolated duty stations",
+                  "identifier": "/us/usc/t14/s2763"
+                },
+                {
+                  "number": "2764",
+                  "numText": "§ 2764.",
+                  "heading": "Monetary allowance for transportation of household effects",
+                  "identifier": "/us/usc/t14/s2764"
+                },
+                {
+                  "number": "2765",
+                  "numText": "§ 2765.",
+                  "heading": "Retroactive payment of pay and allowances delayed by administrative error or oversight",
+                  "identifier": "/us/usc/t14/s2765"
+                },
+                {
+                  "number": "2766",
+                  "numText": "§ 2766.",
+                  "heading": "Travel card management",
+                  "identifier": "/us/usc/t14/s2766"
+                },
+                {
+                  "number": "2767",
+                  "numText": "§ 2767.",
+                  "heading": "Reimbursement for medical-related travel expenses for certain individuals residing on islands in the continental United States",
+                  "identifier": "/us/usc/t14/s2767"
+                },
+                {
+                  "number": "2768",
+                  "numText": "§ 2768.",
+                  "heading": "Annual audit of pay and allowances of members undergoing permanent change of station",
+                  "identifier": "/us/usc/t14/s2768"
+                },
+                {
+                  "number": "2769",
+                  "numText": "§ 2769.",
+                  "heading": "Remission of indebtedness",
+                  "identifier": "/us/usc/t14/s2769"
+                },
+                {
+                  "number": "2770",
+                  "numText": "§ 2770.",
+                  "heading": "Special instruction at universities",
+                  "identifier": "/us/usc/t14/s2770"
+                },
+                {
+                  "number": "2771",
+                  "numText": "§ 2771.",
+                  "heading": "Attendance at professional meetings",
+                  "identifier": "/us/usc/t14/s2771"
+                },
+                {
+                  "number": "2772",
+                  "numText": "§ 2772.",
+                  "heading": "Education loan repayment program for members on active duty in specified military specialties",
+                  "identifier": "/us/usc/t14/s2772"
+                },
+                {
+                  "number": "2773",
+                  "numText": "§ 2773.",
+                  "heading": "Rations or commutation therefor in money",
+                  "identifier": "/us/usc/t14/s2773"
+                },
+                {
+                  "number": "2774",
+                  "numText": "§ 2774.",
+                  "heading": "Sales of ration supplies to messes",
+                  "identifier": "/us/usc/t14/s2774"
+                },
+                {
+                  "number": "2775",
+                  "numText": "§ 2775.",
+                  "heading": "Flight rations",
+                  "identifier": "/us/usc/t14/s2775"
+                },
+                {
+                  "number": "2776",
+                  "numText": "§ 2776.",
+                  "heading": "Payments at time of discharge for good of service",
+                  "identifier": "/us/usc/t14/s2776"
+                },
+                {
+                  "number": "2777",
+                  "numText": "§ 2777.",
+                  "heading": "Clothing for destitute shipwrecked individuals",
+                  "identifier": "/us/usc/t14/s2777"
+                },
+                {
+                  "number": "2778",
+                  "numText": "§ 2778.",
+                  "heading": "Advancement of public funds to personnel",
+                  "identifier": "/us/usc/t14/s2778"
+                },
+                {
+                  "number": "2779",
+                  "numText": "§ 2779.",
+                  "heading": "Transportation to and from certain places of employment",
+                  "identifier": "/us/usc/t14/s2779"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "29",
+          "heading": "COAST GUARD FAMILY SUPPORT, CHILD CARE, AND HOUSING",
+          "identifier": "/us/usc/t14/stII/ch29",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "COAST GUARD FAMILIES",
+              "identifier": "/us/usc/t14/stII/ch29/schI",
+              "children": [
+                {
+                  "number": "2901",
+                  "numText": "§ 2901.",
+                  "heading": "Work-life policies and programs",
+                  "identifier": "/us/usc/t14/s2901"
+                },
+                {
+                  "number": "2902",
+                  "numText": "§ 2902.",
+                  "heading": "Surveys of Coast Guard families",
+                  "identifier": "/us/usc/t14/s2902"
+                },
+                {
+                  "number": "2903",
+                  "numText": "§ 2903.",
+                  "heading": "Reimbursement for adoption expenses",
+                  "identifier": "/us/usc/t14/s2903"
+                },
+                {
+                  "number": "2904",
+                  "numText": "§ 2904.",
+                  "heading": "Education and training opportunities for Coast Guard spouses",
+                  "identifier": "/us/usc/t14/s2904"
+                },
+                {
+                  "number": "2905",
+                  "numText": "§ 2905.",
+                  "heading": "Youth sponsorship initiatives",
+                  "identifier": "/us/usc/t14/s2905"
+                },
+                {
+                  "number": "2906",
+                  "numText": "§ 2906.",
+                  "heading": "Dependent school children",
+                  "identifier": "/us/usc/t14/s2906"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "COAST GUARD CHILD CARE",
+              "identifier": "/us/usc/t14/stII/ch29/schII",
+              "children": [
+                {
+                  "number": "2921",
+                  "numText": "§ 2921.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t14/s2921"
+                },
+                {
+                  "number": "2922",
+                  "numText": "§ 2922.",
+                  "heading": "Child development services",
+                  "identifier": "/us/usc/t14/s2922"
+                },
+                {
+                  "number": "2923",
+                  "numText": "§ 2923.",
+                  "heading": "Child development center standards and inspections",
+                  "identifier": "/us/usc/t14/s2923"
+                },
+                {
+                  "number": "2924",
+                  "numText": "§ 2924.",
+                  "heading": "Child development center employees",
+                  "identifier": "/us/usc/t14/s2924"
+                },
+                {
+                  "number": "2925",
+                  "numText": "§ 2925.",
+                  "heading": "Parent partnerships with child development centers",
+                  "identifier": "/us/usc/t14/s2925"
+                },
+                {
+                  "number": "2926",
+                  "numText": "§ 2926.",
+                  "heading": "Family child care providers",
+                  "identifier": "/us/usc/t14/s2926"
+                },
+                {
+                  "number": "2927",
+                  "numText": "§ 2927.",
+                  "heading": "Child care subsidy program",
+                  "identifier": "/us/usc/t14/s2927"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "HOUSING",
+              "identifier": "/us/usc/t14/stII/ch29/schIII",
+              "children": [
+                {
+                  "number": "2941",
+                  "numText": "§ 2941.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t14/s2941"
+                },
+                {
+                  "number": "2942",
+                  "numText": "§ 2942.",
+                  "heading": "General authority",
+                  "identifier": "/us/usc/t14/s2942"
+                },
+                {
+                  "number": "2943",
+                  "numText": "§ 2943.",
+                  "heading": "Leasing and hiring of quarters; rental of in­adequate housing",
+                  "identifier": "/us/usc/t14/s2943"
+                },
+                {
+                  "number": "2944",
+                  "numText": "§ 2944.",
+                  "heading": "Retired service members and dependents serving on advisory committees",
+                  "identifier": "/us/usc/t14/s2944"
+                },
+                {
+                  "number": "2945",
+                  "numText": "§ 2945.",
+                  "heading": "Conveyance of real property",
+                  "identifier": "/us/usc/t14/s2945"
+                },
+                {
+                  "number": "2946",
+                  "numText": "§ 2946.",
+                  "heading": "Coast Guard Housing Fund",
+                  "identifier": "/us/usc/t14/s2946"
+                },
+                {
+                  "number": "2947",
+                  "numText": "§ 2947.",
+                  "heading": "Reports",
+                  "identifier": "/us/usc/t14/s2947"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "III",
+      "heading": "COAST GUARD RESERVE AND AUXILIARY",
+      "identifier": "/us/usc/t14/stIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "37",
+          "heading": "COAST GUARD RESERVE",
+          "identifier": "/us/usc/t14/stIII/ch37",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "ADMINISTRATION",
+              "identifier": "/us/usc/t14/stIII/ch37/schI",
+              "children": [
+                {
+                  "number": "3701",
+                  "numText": "§ 3701.",
+                  "heading": "Organization",
+                  "identifier": "/us/usc/t14/s3701"
+                },
+                {
+                  "number": "3702",
+                  "numText": "§ 3702.",
+                  "heading": "Authorized strength",
+                  "identifier": "/us/usc/t14/s3702"
+                },
+                {
+                  "number": "3703",
+                  "numText": "§ 3703.",
+                  "heading": "Coast Guard Reserve Boards",
+                  "identifier": "/us/usc/t14/s3703"
+                },
+                {
+                  "number": "3704",
+                  "numText": "§ 3704.",
+                  "heading": "Grades and ratings; military authority",
+                  "identifier": "/us/usc/t14/s3704"
+                },
+                {
+                  "number": "3705",
+                  "numText": "§ 3705.",
+                  "heading": "Benefits",
+                  "identifier": "/us/usc/t14/s3705"
+                },
+                {
+                  "number": "3706",
+                  "numText": "§ 3706.",
+                  "heading": "Temporary members of the Reserve; eligibility and compensation",
+                  "identifier": "/us/usc/t14/s3706"
+                },
+                {
+                  "number": "3707",
+                  "numText": "§ 3707.",
+                  "heading": "Temporary members of the Reserve; disability or death benefits",
+                  "identifier": "/us/usc/t14/s3707"
+                },
+                {
+                  "number": "3708",
+                  "numText": "§ 3708.",
+                  "heading": "Temporary members of the Reserve; certificate of honorable service",
+                  "identifier": "/us/usc/t14/s3708"
+                },
+                {
+                  "number": "3709",
+                  "numText": "§ 3709.",
+                  "heading": "Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade",
+                  "identifier": "/us/usc/t14/s3709"
+                },
+                {
+                  "number": "3710",
+                  "numText": "§ 3710.",
+                  "heading": "Reserve student pre-commissioning assistance program",
+                  "identifier": "/us/usc/t14/s3710"
+                },
+                {
+                  "number": "3711",
+                  "numText": "§ 3711.",
+                  "heading": "Appointment or wartime promotion; retention of grade upon release from active duty",
+                  "identifier": "/us/usc/t14/s3711"
+                },
+                {
+                  "number": "3712",
+                  "numText": "§ 3712.",
+                  "heading": "Exclusiveness of service",
+                  "identifier": "/us/usc/t14/s3712"
+                },
+                {
+                  "number": "3713",
+                  "numText": "§ 3713.",
+                  "heading": "Active duty for emergency augmentation of regular forces",
+                  "identifier": "/us/usc/t14/s3713"
+                },
+                {
+                  "number": "3714",
+                  "numText": "§ 3714.",
+                  "heading": "Enlistment of members engaged in schooling",
+                  "identifier": "/us/usc/t14/s3714"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "PERSONNEL",
+              "identifier": "/us/usc/t14/stIII/ch37/schII",
+              "children": [
+                {
+                  "number": "3731",
+                  "numText": "§ 3731.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t14/s3731"
+                },
+                {
+                  "number": "3732",
+                  "numText": "§ 3732.",
+                  "heading": "Applicability of this subchapter",
+                  "identifier": "/us/usc/t14/s3732"
+                },
+                {
+                  "number": "3733",
+                  "numText": "§ 3733.",
+                  "heading": "Suspension of this subchapter in time of war or national emergency",
+                  "identifier": "/us/usc/t14/s3733"
+                },
+                {
+                  "number": "3734",
+                  "numText": "§ 3734.",
+                  "heading": "Effect of this subchapter on retirement and retired pay",
+                  "identifier": "/us/usc/t14/s3734"
+                },
+                {
+                  "number": "3735",
+                  "numText": "§ 3735.",
+                  "heading": "Authorized number of officers",
+                  "identifier": "/us/usc/t14/s3735"
+                },
+                {
+                  "number": "3736",
+                  "numText": "§ 3736.",
+                  "heading": "Precedence",
+                  "identifier": "/us/usc/t14/s3736"
+                },
+                {
+                  "number": "3737",
+                  "numText": "§ 3737.",
+                  "heading": "Running mates",
+                  "identifier": "/us/usc/t14/s3737"
+                },
+                {
+                  "number": "3738",
+                  "numText": "§ 3738.",
+                  "heading": "Constructive credit upon initial appointment",
+                  "identifier": "/us/usc/t14/s3738"
+                },
+                {
+                  "number": "3738a",
+                  "numText": "§ 3738a.",
+                  "heading": "Direct commissioning authority for individuals with critical skills",
+                  "identifier": "/us/usc/t14/s3738a"
+                },
+                {
+                  "number": "3739",
+                  "numText": "§ 3739.",
+                  "heading": "Promotion of Reserve officers on active duty",
+                  "identifier": "/us/usc/t14/s3739"
+                },
+                {
+                  "number": "3740",
+                  "numText": "§ 3740.",
+                  "heading": "Promotion; recommendations of selection boards",
+                  "identifier": "/us/usc/t14/s3740"
+                },
+                {
+                  "number": "3741",
+                  "numText": "§ 3741.",
+                  "heading": "Selection boards; appointment",
+                  "identifier": "/us/usc/t14/s3741"
+                },
+                {
+                  "number": "3742",
+                  "numText": "§ 3742.",
+                  "heading": "Establishment of promotion zones under running mate system",
+                  "identifier": "/us/usc/t14/s3742"
+                },
+                {
+                  "number": "3743",
+                  "numText": "§ 3743.",
+                  "heading": "Eligibility for promotion",
+                  "identifier": "/us/usc/t14/s3743"
+                },
+                {
+                  "number": "3744",
+                  "numText": "§ 3744.",
+                  "heading": "Recommendation for promotion of an officer previously removed from an active status",
+                  "identifier": "/us/usc/t14/s3744"
+                },
+                {
+                  "number": "3745",
+                  "numText": "§ 3745.",
+                  "heading": "Qualifications for promotion",
+                  "identifier": "/us/usc/t14/s3745"
+                },
+                {
+                  "number": "3746",
+                  "numText": "§ 3746.",
+                  "heading": "Promotion; acceptance; oath of office",
+                  "identifier": "/us/usc/t14/s3746"
+                },
+                {
+                  "number": "3747",
+                  "numText": "§ 3747.",
+                  "heading": "Date of rank upon promotion; entitlement to pay",
+                  "identifier": "/us/usc/t14/s3747"
+                },
+                {
+                  "number": "3748",
+                  "numText": "§ 3748.",
+                  "heading": "Type of promotion; temporary",
+                  "identifier": "/us/usc/t14/s3748"
+                },
+                {
+                  "number": "3749",
+                  "numText": "§ 3749.",
+                  "heading": "Effect of removal by the President or failure of consent of the Senate",
+                  "identifier": "/us/usc/t14/s3749"
+                },
+                {
+                  "number": "3750",
+                  "numText": "§ 3750.",
+                  "heading": "Failure of selection for promotion",
+                  "identifier": "/us/usc/t14/s3750"
+                },
+                {
+                  "number": "3751",
+                  "numText": "§ 3751.",
+                  "heading": "Failure of selection and removal from an active status",
+                  "identifier": "/us/usc/t14/s3751"
+                },
+                {
+                  "number": "3752",
+                  "numText": "§ 3752.",
+                  "heading": "Retention boards; removal from an active status to provide a flow of promotion",
+                  "identifier": "/us/usc/t14/s3752"
+                },
+                {
+                  "number": "3753",
+                  "numText": "§ 3753.",
+                  "heading": "Maximum ages for retention in an active status",
+                  "identifier": "/us/usc/t14/s3753"
+                },
+                {
+                  "number": "3754",
+                  "numText": "§ 3754.",
+                  "heading": "Rear admiral and rear admiral (lower half); maximum service in grade",
+                  "identifier": "/us/usc/t14/s3754"
+                },
+                {
+                  "number": "3755",
+                  "numText": "§ 3755.",
+                  "heading": "Appointment of a former Navy or Coast Guard officer",
+                  "identifier": "/us/usc/t14/s3755"
+                },
+                {
+                  "number": "3756",
+                  "numText": "§ 3756.",
+                  "heading": "Grade on entry upon active duty",
+                  "identifier": "/us/usc/t14/s3756"
+                },
+                {
+                  "number": "3757",
+                  "numText": "§ 3757.",
+                  "heading": "Recall of a retired officer; grade upon release",
+                  "identifier": "/us/usc/t14/s3757"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "39",
+          "heading": "COAST GUARD AUXILIARY",
+          "identifier": "/us/usc/t14/stIII/ch39",
+          "children": [
+            {
+              "number": "3901",
+              "numText": "§ 3901.",
+              "heading": "Administration of the Coast Guard Auxiliary",
+              "identifier": "/us/usc/t14/s3901"
+            },
+            {
+              "number": "3902",
+              "numText": "§ 3902.",
+              "heading": "Purpose of the Coast Guard Auxiliary",
+              "identifier": "/us/usc/t14/s3902"
+            },
+            {
+              "number": "3903",
+              "numText": "§ 3903.",
+              "heading": "Eligibility; enrollments",
+              "identifier": "/us/usc/t14/s3903"
+            },
+            {
+              "number": "3904",
+              "numText": "§ 3904.",
+              "heading": "Members of the Auxiliary; status",
+              "identifier": "/us/usc/t14/s3904"
+            },
+            {
+              "number": "3905",
+              "numText": "§ 3905.",
+              "heading": "Disenrollment",
+              "identifier": "/us/usc/t14/s3905"
+            },
+            {
+              "number": "3906",
+              "numText": "§ 3906.",
+              "heading": "Membership in other organizations",
+              "identifier": "/us/usc/t14/s3906"
+            },
+            {
+              "number": "3907",
+              "numText": "§ 3907.",
+              "heading": "Use of member’s facilities",
+              "identifier": "/us/usc/t14/s3907"
+            },
+            {
+              "number": "3908",
+              "numText": "§ 3908.",
+              "heading": "Vessel deemed public vessel",
+              "identifier": "/us/usc/t14/s3908"
+            },
+            {
+              "number": "3909",
+              "numText": "§ 3909.",
+              "heading": "Aircraft deemed public aircraft",
+              "identifier": "/us/usc/t14/s3909"
+            },
+            {
+              "number": "3910",
+              "numText": "§ 3910.",
+              "heading": "Radio station deemed government station",
+              "identifier": "/us/usc/t14/s3910"
+            },
+            {
+              "number": "3911",
+              "numText": "§ 3911.",
+              "heading": "Availability of appropriations",
+              "identifier": "/us/usc/t14/s3911"
+            },
+            {
+              "number": "3912",
+              "numText": "§ 3912.",
+              "heading": "Assignment and performance of duties",
+              "identifier": "/us/usc/t14/s3912"
+            },
+            {
+              "number": "3913",
+              "numText": "§ 3913.",
+              "heading": "Injury or death in line of duty",
+              "identifier": "/us/usc/t14/s3913"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "41",
+          "heading": "GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY",
+          "identifier": "/us/usc/t14/stIII/ch41",
+          "children": [
+            {
+              "number": "4101",
+              "numText": "§ 4101.",
+              "heading": "Flags; pennants; uniforms and insignia",
+              "identifier": "/us/usc/t14/s4101"
+            },
+            {
+              "number": "4102",
+              "numText": "§ 4102.",
+              "heading": "Penalty",
+              "identifier": "/us/usc/t14/s4102"
+            },
+            {
+              "number": "4103",
+              "numText": "§ 4103.",
+              "heading": "Limitation on rights of members of the Auxiliary and temporary members of the Reserve",
+              "identifier": "/us/usc/t14/s4103"
+            },
+            {
+              "number": "4104",
+              "numText": "§ 4104.",
+              "heading": "Availability of facilities and appropriations",
+              "identifier": "/us/usc/t14/s4104"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "IV",
+      "heading": "COAST GUARD AUTHORIZATIONS AND REPORTS TO CONGRESS",
+      "identifier": "/us/usc/t14/stIV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "49",
+          "heading": "AUTHORIZATIONS",
+          "identifier": "/us/usc/t14/stIV/ch49",
+          "children": [
+            {
+              "number": "4901",
+              "numText": "§ 4901.",
+              "heading": "Requirement for prior authorization of appropriations",
+              "identifier": "/us/usc/t14/s4901"
+            },
+            {
+              "number": "4902",
+              "numText": "§ 4902.",
+              "heading": "Authorizations of appropriations",
+              "identifier": "/us/usc/t14/s4902"
+            },
+            {
+              "number": "4903",
+              "numText": "§ 4903.",
+              "heading": "Authorization of personnel end strengths",
+              "identifier": "/us/usc/t14/s4903"
+            },
+            {
+              "number": "4904",
+              "numText": "§ 4904.",
+              "heading": "Authorized levels of military strength and training",
+              "identifier": "/us/usc/t14/s4904"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "51",
+          "heading": "REPORTS",
+          "identifier": "/us/usc/t14/stIV/ch51",
+          "children": [
+            {
+              "number": "5101",
+              "numText": "§ 5101.",
+              "heading": "Transmission of annual Coast Guard authorization request",
+              "identifier": "/us/usc/t14/s5101"
+            },
+            {
+              "number": "5102",
+              "numText": "§ 5102.",
+              "heading": "Capital investment plan",
+              "identifier": "/us/usc/t14/s5102"
+            },
+            {
+              "number": "5103",
+              "numText": "§ 5103.",
+              "heading": "Major acquisitions",
+              "identifier": "/us/usc/t14/s5103"
+            },
+            {
+              "number": "5104",
+              "numText": "§ 5104.",
+              "heading": "Manpower requirements plan",
+              "identifier": "/us/usc/t14/s5104"
+            },
+            {
+              "number": "5105",
+              "numText": "§ 5105.",
+              "heading": "Inventory of real property",
+              "identifier": "/us/usc/t14/s5105"
+            },
+            {
+              "number": "5106",
+              "numText": "§ 5106.",
+              "heading": "Annual performance report",
+              "identifier": "/us/usc/t14/s5106"
+            },
+            {
+              "number": "5107",
+              "numText": "§ 5107.",
+              "heading": "Major acquisition program risk assessment",
+              "identifier": "/us/usc/t14/s5107"
+            },
+            {
+              "number": "5108",
+              "numText": "§ 5108.",
+              "heading": "Unfunded priorities list",
+              "identifier": "/us/usc/t14/s5108"
+            },
+            {
+              "number": "5109",
+              "numText": "§ 5109.",
+              "heading": "Report on gender diversity in the Coast Guard",
+              "identifier": "/us/usc/t14/s5109"
+            },
+            {
+              "number": "5110",
+              "numText": "§ 5110.",
+              "heading": "Mission need statement",
+              "identifier": "/us/usc/t14/s5110"
+            },
+            {
+              "number": "5111",
+              "numText": "§ 5111.",
+              "heading": "Report on diversity at Coast Guard Academy",
+              "identifier": "/us/usc/t14/s5111"
+            },
+            {
+              "number": "5112",
+              "numText": "§ 5112.",
+              "heading": "Sexual assault and sexual harassment in the Coast Guard",
+              "identifier": "/us/usc/t14/s5112"
+            },
+            {
+              "number": "5113",
+              "numText": "§ 5113.",
+              "heading": "Officers not on active duty promotion list",
+              "identifier": "/us/usc/t14/s5113"
+            },
+            {
+              "number": "5114",
+              "numText": "§ 5114.",
+              "heading": "Expenses of performing and executing defense readiness missions",
+              "identifier": "/us/usc/t14/s5114"
+            },
+            {
+              "number": "5115",
+              "numText": "§ 5115.",
+              "heading": "Major grants, contracts, or other transactions",
+              "identifier": "/us/usc/t14/s5115"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+name: Check for US Code Updates
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: us-code-update
+  cancel-in-progress: true
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+    outputs:
+      update_available: ${{ steps.check.outputs.update_available }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check for new release point
+        id: check
+        run: |
+          set +e
+          # Run once, capture stdout and stderr separately
+          STDOUT=$(python3 scripts/check_release.py 2>check_stderr.log)
+          EXIT_CODE=$?
+          cat check_stderr.log
+          rm -f check_stderr.log
+
+          if [ $EXIT_CODE -eq 0 ]; then
+            RELEASE=$(echo "$STDOUT" | grep '^NEW_RELEASE=' | cut -d= -f2)
+            echo "update_available=true" >> "$GITHUB_OUTPUT"
+            echo "new_release=$RELEASE" >> "$GITHUB_OUTPUT"
+            echo "New release found: $RELEASE"
+          elif [ $EXIT_CODE -eq 1 ]; then
+            echo "update_available=false" >> "$GITHUB_OUTPUT"
+            echo "Already up to date."
+          else
+            echo "Error checking for updates."
+            exit 1
+          fi
+
+      - name: Set up Node
+        if: steps.check.outputs.update_available == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install Node dependencies
+        if: steps.check.outputs.update_available == 'true'
+        run: npm ci
+
+      - name: Fetch and parse all titles
+        if: steps.check.outputs.update_available == 'true'
+        run: |
+          RELEASE=${{ steps.check.outputs.new_release }} bash scripts/fetch_all_titles.sh
+        timeout-minutes: 120
+
+      - name: Build site
+        if: steps.check.outputs.update_available == 'true'
+        run: npm run build
+
+      - name: Commit updated data
+        if: steps.check.outputs.update_available == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/ public/data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update US Code to release point ${{ steps.check.outputs.new_release }}"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        if: steps.check.outputs.update_available == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: check-and-update
+    if: needs.check-and-update.outputs.update_available == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

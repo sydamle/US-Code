@@ -1,0 +1,1791 @@
+{
+  "number": "41",
+  "name": "Public Contracts",
+  "identifier": "/us/usc/t41",
+  "version": "Online@119-73not60",
+  "updated": "2025-03-03",
+  "children": [
+    {
+      "type": "subtitle",
+      "number": "I",
+      "heading": "Federal Procurement Policy",
+      "identifier": "/us/usc/t41/stI",
+      "children": [
+        {
+          "type": "division",
+          "number": "A",
+          "heading": "General",
+          "identifier": "/us/usc/t41/stI/dA",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "1",
+              "heading": "DEFINITIONS",
+              "identifier": "/us/usc/t41/stI/dA/ch1",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "SUBTITLE DEFINITIONS",
+                  "identifier": "/us/usc/t41/stI/dA/ch1/schI",
+                  "children": [
+                    {
+                      "number": "101",
+                      "numText": "§ 101.",
+                      "heading": "Administrator",
+                      "identifier": "/us/usc/t41/s101"
+                    },
+                    {
+                      "number": "102",
+                      "numText": "§ 102.",
+                      "heading": "Commercial component",
+                      "identifier": "/us/usc/t41/s102"
+                    },
+                    {
+                      "number": "103",
+                      "numText": "§ 103.",
+                      "heading": "Commercial product",
+                      "identifier": "/us/usc/t41/s103"
+                    },
+                    {
+                      "number": "103a",
+                      "numText": "§ 103a.",
+                      "heading": "Commercial service",
+                      "identifier": "/us/usc/t41/s103a"
+                    },
+                    {
+                      "number": "104",
+                      "numText": "§ 104.",
+                      "heading": "Commercially available off-the-shelf item",
+                      "identifier": "/us/usc/t41/s104"
+                    },
+                    {
+                      "number": "105",
+                      "numText": "§ 105.",
+                      "heading": "Component",
+                      "identifier": "/us/usc/t41/s105"
+                    },
+                    {
+                      "number": "106",
+                      "numText": "§ 106.",
+                      "heading": "Federal Acquisition Regulation",
+                      "identifier": "/us/usc/t41/s106"
+                    },
+                    {
+                      "number": "107",
+                      "numText": "§ 107.",
+                      "heading": "Full and open competition",
+                      "identifier": "/us/usc/t41/s107"
+                    },
+                    {
+                      "number": "108",
+                      "numText": "§ 108.",
+                      "heading": "Item and item of supply",
+                      "identifier": "/us/usc/t41/s108"
+                    },
+                    {
+                      "number": "109",
+                      "numText": "§ 109.",
+                      "heading": "Major system",
+                      "identifier": "/us/usc/t41/s109"
+                    },
+                    {
+                      "number": "110",
+                      "numText": "§ 110.",
+                      "heading": "Nondevelopmental item",
+                      "identifier": "/us/usc/t41/s110"
+                    },
+                    {
+                      "number": "111",
+                      "numText": "§ 111.",
+                      "heading": "Procurement",
+                      "identifier": "/us/usc/t41/s111"
+                    },
+                    {
+                      "number": "112",
+                      "numText": "§ 112.",
+                      "heading": "Procurement system",
+                      "identifier": "/us/usc/t41/s112"
+                    },
+                    {
+                      "number": "113",
+                      "numText": "§ 113.",
+                      "heading": "Responsible source",
+                      "identifier": "/us/usc/t41/s113"
+                    },
+                    {
+                      "number": "114",
+                      "numText": "§ 114.",
+                      "heading": "Standards",
+                      "identifier": "/us/usc/t41/s114"
+                    },
+                    {
+                      "number": "115",
+                      "numText": "§ 115.",
+                      "heading": "Supplies",
+                      "identifier": "/us/usc/t41/s115"
+                    },
+                    {
+                      "number": "116",
+                      "numText": "§ 116.",
+                      "heading": "Technical data",
+                      "identifier": "/us/usc/t41/s116"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "DIVISION B DEFINITIONS",
+                  "identifier": "/us/usc/t41/stI/dA/ch1/schII",
+                  "children": [
+                    {
+                      "number": "131",
+                      "numText": "§ 131.",
+                      "heading": "Acquisition",
+                      "identifier": "/us/usc/t41/s131"
+                    },
+                    {
+                      "number": "132",
+                      "numText": "§ 132.",
+                      "heading": "Competitive procedures",
+                      "identifier": "/us/usc/t41/s132"
+                    },
+                    {
+                      "number": "133",
+                      "numText": "§ 133.",
+                      "heading": "Executive agency",
+                      "identifier": "/us/usc/t41/s133"
+                    },
+                    {
+                      "number": "134",
+                      "numText": "§ 134.",
+                      "heading": "Simplified acquisition threshold",
+                      "identifier": "/us/usc/t41/s134"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "DIVISION C DEFINITIONS",
+                  "identifier": "/us/usc/t41/stI/dA/ch1/schIII",
+                  "children": [
+                    {
+                      "number": "151",
+                      "numText": "§ 151.",
+                      "heading": "Agency head",
+                      "identifier": "/us/usc/t41/s151"
+                    },
+                    {
+                      "number": "152",
+                      "numText": "§ 152.",
+                      "heading": "Competitive procedures",
+                      "identifier": "/us/usc/t41/s152"
+                    },
+                    {
+                      "number": "153",
+                      "numText": "§ 153.",
+                      "heading": "Simplified acquisition threshold for contract in support of humanitarian or peacekeeping operation",
+                      "identifier": "/us/usc/t41/s153"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "division",
+          "number": "B",
+          "heading": "Office of Federal Procurement Policy",
+          "identifier": "/us/usc/t41/stI/dB",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "11",
+              "heading": "ESTABLISHMENT OF OFFICE AND AUTHORITY AND FUNCTIONS OF ADMINISTRATOR",
+              "identifier": "/us/usc/t41/stI/dB/ch11",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "GENERAL",
+                  "identifier": "/us/usc/t41/stI/dB/ch11/schI",
+                  "children": [
+                    {
+                      "number": "1101",
+                      "numText": "§ 1101.",
+                      "heading": "Office of Federal Procurement Policy",
+                      "identifier": "/us/usc/t41/s1101"
+                    },
+                    {
+                      "number": "1102",
+                      "numText": "§ 1102.",
+                      "heading": "Administrator",
+                      "identifier": "/us/usc/t41/s1102"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR",
+                  "identifier": "/us/usc/t41/stI/dB/ch11/schII",
+                  "children": [
+                    {
+                      "number": "1121",
+                      "numText": "§ 1121.",
+                      "heading": "General authority",
+                      "identifier": "/us/usc/t41/s1121"
+                    },
+                    {
+                      "number": "1122",
+                      "numText": "§ 1122.",
+                      "heading": "Functions",
+                      "identifier": "/us/usc/t41/s1122"
+                    },
+                    {
+                      "number": "1123",
+                      "numText": "§ 1123.",
+                      "heading": "Small business concerns",
+                      "identifier": "/us/usc/t41/s1123"
+                    },
+                    {
+                      "number": "1124",
+                      "numText": "§ 1124.",
+                      "heading": "Tests of innovative procurement methods and procedures",
+                      "identifier": "/us/usc/t41/s1124"
+                    },
+                    {
+                      "number": "1125",
+                      "numText": "§ 1125.",
+                      "heading": "Recipients of Federal grants or assistance",
+                      "identifier": "/us/usc/t41/s1125"
+                    },
+                    {
+                      "number": "1126",
+                      "numText": "§ 1126.",
+                      "heading": "Policy regarding consideration of contractor past performance",
+                      "identifier": "/us/usc/t41/s1126"
+                    },
+                    {
+                      "number": "1127",
+                      "numText": "§ 1127.",
+                      "heading": "Determining benchmark compensation amount",
+                      "identifier": "/us/usc/t41/s1127"
+                    },
+                    {
+                      "number": "1128",
+                      "numText": "§ 1128.",
+                      "heading": "Maintaining necessary capability with respect to acquisition of architectural and engineering services",
+                      "identifier": "/us/usc/t41/s1128"
+                    },
+                    {
+                      "number": "1129",
+                      "numText": "§ 1129.",
+                      "heading": "Center of excellence in contracting for services",
+                      "identifier": "/us/usc/t41/s1129"
+                    },
+                    {
+                      "number": "1130",
+                      "numText": "§ 1130.",
+                      "heading": "Effect of division on other law",
+                      "identifier": "/us/usc/t41/s1130"
+                    },
+                    {
+                      "number": "1131",
+                      "numText": "§ 1131.",
+                      "heading": "Annual report",
+                      "identifier": "/us/usc/t41/s1131"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "12",
+              "heading": "FEDERAL ACQUISITION INSTITUTE",
+              "identifier": "/us/usc/t41/stI/dB/ch12",
+              "children": [
+                {
+                  "number": "1201",
+                  "numText": "§ 1201.",
+                  "heading": "Federal Acquisition Institute",
+                  "identifier": "/us/usc/t41/s1201"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "13",
+              "heading": "ACQUISITION COUNCILS",
+              "identifier": "/us/usc/t41/stI/dB/ch13",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "FEDERAL ACQUISITION REGULATORY COUNCIL",
+                  "identifier": "/us/usc/t41/stI/dB/ch13/schI",
+                  "children": [
+                    {
+                      "number": "1301",
+                      "numText": "§ 1301.",
+                      "heading": "Definition",
+                      "identifier": "/us/usc/t41/s1301"
+                    },
+                    {
+                      "number": "1302",
+                      "numText": "§ 1302.",
+                      "heading": "Establishment and membership",
+                      "identifier": "/us/usc/t41/s1302"
+                    },
+                    {
+                      "number": "1303",
+                      "numText": "§ 1303.",
+                      "heading": "Functions and authority",
+                      "identifier": "/us/usc/t41/s1303"
+                    },
+                    {
+                      "number": "1304",
+                      "numText": "§ 1304.",
+                      "heading": "Contract clauses and certifications",
+                      "identifier": "/us/usc/t41/s1304"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "CHIEF ACQUISITION OFFICERS COUNCIL",
+                  "identifier": "/us/usc/t41/stI/dB/ch13/schII",
+                  "children": [
+                    {
+                      "number": "1311",
+                      "numText": "§ 1311.",
+                      "heading": "Establishment and membership",
+                      "identifier": "/us/usc/t41/s1311"
+                    },
+                    {
+                      "number": "1312",
+                      "numText": "§ 1312.",
+                      "heading": "Functions",
+                      "identifier": "/us/usc/t41/s1312"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "FEDERAL ACQUISITION SUPPLY CHAIN SECURITY",
+                  "identifier": "/us/usc/t41/stI/dB/ch13/schIII",
+                  "children": [
+                    {
+                      "number": "1321",
+                      "numText": "§ 1321.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t41/s1321"
+                    },
+                    {
+                      "number": "1322",
+                      "numText": "§ 1322.",
+                      "heading": "Federal Acquisition Security Council establishment and membership",
+                      "identifier": "/us/usc/t41/s1322"
+                    },
+                    {
+                      "number": "1323",
+                      "numText": "§ 1323.",
+                      "heading": "Functions and authorities",
+                      "identifier": "/us/usc/t41/s1323"
+                    },
+                    {
+                      "number": "1324",
+                      "numText": "§ 1324.",
+                      "heading": "Strategic plan",
+                      "identifier": "/us/usc/t41/s1324"
+                    },
+                    {
+                      "number": "1325",
+                      "numText": "§ 1325.",
+                      "heading": "Annual report",
+                      "identifier": "/us/usc/t41/s1325"
+                    },
+                    {
+                      "number": "1326",
+                      "numText": "§ 1326.",
+                      "heading": "Requirements for executive agencies",
+                      "identifier": "/us/usc/t41/s1326"
+                    },
+                    {
+                      "number": "1327",
+                      "numText": "§ 1327.",
+                      "heading": "Judicial review procedures",
+                      "identifier": "/us/usc/t41/s1327"
+                    },
+                    {
+                      "number": "1328",
+                      "numText": "§ 1328.",
+                      "heading": "Termination",
+                      "identifier": "/us/usc/t41/s1328"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "15",
+              "heading": "COST ACCOUNTING STANDARDS",
+              "identifier": "/us/usc/t41/stI/dB/ch15",
+              "children": [
+                {
+                  "number": "1501",
+                  "numText": "§ 1501.",
+                  "heading": "Cost Accounting Standards Board",
+                  "identifier": "/us/usc/t41/s1501"
+                },
+                {
+                  "number": "1502",
+                  "numText": "§ 1502.",
+                  "heading": "Cost accounting standards",
+                  "identifier": "/us/usc/t41/s1502"
+                },
+                {
+                  "number": "1503",
+                  "numText": "§ 1503.",
+                  "heading": "Contract price adjustment",
+                  "identifier": "/us/usc/t41/s1503"
+                },
+                {
+                  "number": "1504",
+                  "numText": "§ 1504.",
+                  "heading": "Effect on other standards and regulations",
+                  "identifier": "/us/usc/t41/s1504"
+                },
+                {
+                  "number": "1505",
+                  "numText": "§ 1505.",
+                  "heading": "Examinations",
+                  "identifier": "/us/usc/t41/s1505"
+                },
+                {
+                  "number": "1506",
+                  "numText": "§ 1506.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t41/s1506"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "17",
+              "heading": "AGENCY RESPONSIBILITIES AND PROCEDURES",
+              "identifier": "/us/usc/t41/stI/dB/ch17",
+              "children": [
+                {
+                  "number": "1701",
+                  "numText": "§ 1701.",
+                  "heading": "Cooperation with the Administrator",
+                  "identifier": "/us/usc/t41/s1701"
+                },
+                {
+                  "number": "1702",
+                  "numText": "§ 1702.",
+                  "heading": "Chief Acquisition Officers and senior procurement executives",
+                  "identifier": "/us/usc/t41/s1702"
+                },
+                {
+                  "number": "1703",
+                  "numText": "§ 1703.",
+                  "heading": "Acquisition workforce",
+                  "identifier": "/us/usc/t41/s1703"
+                },
+                {
+                  "number": "1704",
+                  "numText": "§ 1704.",
+                  "heading": "Planning and policy-making for acquisition workforce",
+                  "identifier": "/us/usc/t41/s1704"
+                },
+                {
+                  "number": "1705",
+                  "numText": "§ 1705.",
+                  "heading": "Advocates for competition",
+                  "identifier": "/us/usc/t41/s1705"
+                },
+                {
+                  "number": "1706",
+                  "numText": "§ 1706.",
+                  "heading": "Personnel evaluation",
+                  "identifier": "/us/usc/t41/s1706"
+                },
+                {
+                  "number": "1707",
+                  "numText": "§ 1707.",
+                  "heading": "Publication of proposed regulations",
+                  "identifier": "/us/usc/t41/s1707"
+                },
+                {
+                  "number": "1708",
+                  "numText": "§ 1708.",
+                  "heading": "Procurement notice",
+                  "identifier": "/us/usc/t41/s1708"
+                },
+                {
+                  "number": "1709",
+                  "numText": "§ 1709.",
+                  "heading": "Contracting functions performed by Federal personnel",
+                  "identifier": "/us/usc/t41/s1709"
+                },
+                {
+                  "number": "1710",
+                  "numText": "§ 1710.",
+                  "heading": "Public-private competition required before conversion to contractor performance",
+                  "identifier": "/us/usc/t41/s1710"
+                },
+                {
+                  "number": "1711",
+                  "numText": "§ 1711.",
+                  "heading": "Value engineering",
+                  "identifier": "/us/usc/t41/s1711"
+                },
+                {
+                  "number": "1712",
+                  "numText": "§ 1712.",
+                  "heading": "Record requirements",
+                  "identifier": "/us/usc/t41/s1712"
+                },
+                {
+                  "number": "1713",
+                  "numText": "§ 1713.",
+                  "heading": "Procurement data",
+                  "identifier": "/us/usc/t41/s1713"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "19",
+              "heading": "SIMPLIFIED ACQUISITION PROCEDURES",
+              "identifier": "/us/usc/t41/stI/dB/ch19",
+              "children": [
+                {
+                  "number": "1901",
+                  "numText": "§ 1901.",
+                  "heading": "Simplified acquisition procedures",
+                  "identifier": "/us/usc/t41/s1901"
+                },
+                {
+                  "number": "1902",
+                  "numText": "§ 1902.",
+                  "heading": "Procedures applicable to purchases below micro-purchase threshold",
+                  "identifier": "/us/usc/t41/s1902"
+                },
+                {
+                  "number": "1903",
+                  "numText": "§ 1903.",
+                  "heading": "Special emergency procurement authority",
+                  "identifier": "/us/usc/t41/s1903"
+                },
+                {
+                  "number": "1904",
+                  "numText": "§ 1904.",
+                  "heading": "Certain transactions for defense against attack",
+                  "identifier": "/us/usc/t41/s1904"
+                },
+                {
+                  "number": "1905",
+                  "numText": "§ 1905.",
+                  "heading": "List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold",
+                  "identifier": "/us/usc/t41/s1905"
+                },
+                {
+                  "number": "1906",
+                  "numText": "§ 1906.",
+                  "heading": "List of laws inapplicable to procurements of commercial products and commercial services",
+                  "identifier": "/us/usc/t41/s1906"
+                },
+                {
+                  "number": "1907",
+                  "numText": "§ 1907.",
+                  "heading": "List of laws inapplicable to procurements of commercially available off-the-shelf items",
+                  "identifier": "/us/usc/t41/s1907"
+                },
+                {
+                  "number": "1908",
+                  "numText": "§ 1908.",
+                  "heading": "Inflation adjustment of acquisition-related dollar thresholds",
+                  "identifier": "/us/usc/t41/s1908"
+                },
+                {
+                  "number": "1909",
+                  "numText": "§ 1909.",
+                  "heading": "Management of purchase cards",
+                  "identifier": "/us/usc/t41/s1909"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "21",
+              "heading": "RESTRICTIONS ON OBTAINING AND DISCLOSING CERTAIN INFORMATION",
+              "identifier": "/us/usc/t41/stI/dB/ch21",
+              "children": [
+                {
+                  "number": "2101",
+                  "numText": "§ 2101.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t41/s2101"
+                },
+                {
+                  "number": "2102",
+                  "numText": "§ 2102.",
+                  "heading": "Prohibitions on disclosing and obtaining procurement information",
+                  "identifier": "/us/usc/t41/s2102"
+                },
+                {
+                  "number": "2103",
+                  "numText": "§ 2103.",
+                  "heading": "Actions required of procurement officers when contacted regarding non-Federal employment",
+                  "identifier": "/us/usc/t41/s2103"
+                },
+                {
+                  "number": "2104",
+                  "numText": "§ 2104.",
+                  "heading": "Prohibition on former official’s acceptance of compensation from contractor",
+                  "identifier": "/us/usc/t41/s2104"
+                },
+                {
+                  "number": "2105",
+                  "numText": "§ 2105.",
+                  "heading": "Penalties and administrative actions",
+                  "identifier": "/us/usc/t41/s2105"
+                },
+                {
+                  "number": "2106",
+                  "numText": "§ 2106.",
+                  "heading": "Reporting information believed to constitute evidence of offense",
+                  "identifier": "/us/usc/t41/s2106"
+                },
+                {
+                  "number": "2107",
+                  "numText": "§ 2107.",
+                  "heading": "Savings provisions",
+                  "identifier": "/us/usc/t41/s2107"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "23",
+              "heading": "MISCELLANEOUS",
+              "identifier": "/us/usc/t41/stI/dB/ch23",
+              "children": [
+                {
+                  "number": "2301",
+                  "numText": "§ 2301.",
+                  "heading": "Use of electronic commerce in Federal procurement",
+                  "identifier": "/us/usc/t41/s2301"
+                },
+                {
+                  "number": "2302",
+                  "numText": "§ 2302.",
+                  "heading": "Rights in technical data",
+                  "identifier": "/us/usc/t41/s2302"
+                },
+                {
+                  "number": "2303",
+                  "numText": "§ 2303.",
+                  "heading": "Ethics safeguards related to contractor conflicts of interest",
+                  "identifier": "/us/usc/t41/s2303"
+                },
+                {
+                  "number": "2304",
+                  "numText": "§ 2304.",
+                  "heading": "Conflict of interest standards for consultants",
+                  "identifier": "/us/usc/t41/s2304"
+                },
+                {
+                  "number": "2305",
+                  "numText": "§ 2305.",
+                  "heading": "Authority of Director of Office of Management and Budget not affected",
+                  "identifier": "/us/usc/t41/s2305"
+                },
+                {
+                  "number": "2306",
+                  "numText": "§ 2306.",
+                  "heading": "Openness of meetings",
+                  "identifier": "/us/usc/t41/s2306"
+                },
+                {
+                  "number": "2307",
+                  "numText": "§ 2307.",
+                  "heading": "Comptroller General’s access to information",
+                  "identifier": "/us/usc/t41/s2307"
+                },
+                {
+                  "number": "2308",
+                  "numText": "§ 2308.",
+                  "heading": "Modular contracting for information technology",
+                  "identifier": "/us/usc/t41/s2308"
+                },
+                {
+                  "number": "2309",
+                  "numText": "§ 2309.",
+                  "heading": "Protection of constitutional rights of contractors",
+                  "identifier": "/us/usc/t41/s2309"
+                },
+                {
+                  "number": "2310",
+                  "numText": "§ 2310.",
+                  "heading": "Performance-based contracts or task orders for services to be treated as contracts for the procurement of commercial items",
+                  "identifier": "/us/usc/t41/s2310"
+                },
+                {
+                  "number": "2311",
+                  "numText": "§ 2311.",
+                  "heading": "Enhanced transparency on interagency contracting and other transactions",
+                  "identifier": "/us/usc/t41/s2311"
+                },
+                {
+                  "number": "2312",
+                  "numText": "§ 2312.",
+                  "heading": "Contingency Contracting Corps",
+                  "identifier": "/us/usc/t41/s2312"
+                },
+                {
+                  "number": "2313",
+                  "numText": "§ 2313.",
+                  "heading": "Database for Federal agency contract and grant officers and suspension and debarment officials",
+                  "identifier": "/us/usc/t41/s2313"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "division",
+          "number": "C",
+          "heading": "Procurement",
+          "identifier": "/us/usc/t41/stI/dC",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "31",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t41/stI/dC/ch31",
+              "children": [
+                {
+                  "number": "3101",
+                  "numText": "§ 3101.",
+                  "heading": "Applicability",
+                  "identifier": "/us/usc/t41/s3101"
+                },
+                {
+                  "number": "3102",
+                  "numText": "§ 3102.",
+                  "heading": "Delegation and assignment of powers, functions, and responsibilities",
+                  "identifier": "/us/usc/t41/s3102"
+                },
+                {
+                  "number": "3103",
+                  "numText": "§ 3103.",
+                  "heading": "Acquisition programs",
+                  "identifier": "/us/usc/t41/s3103"
+                },
+                {
+                  "number": "3104",
+                  "numText": "§ 3104.",
+                  "heading": "Small business concerns",
+                  "identifier": "/us/usc/t41/s3104"
+                },
+                {
+                  "number": "3105",
+                  "numText": "§ 3105.",
+                  "heading": "New contracts and grants and merit-based selection procedures",
+                  "identifier": "/us/usc/t41/s3105"
+                },
+                {
+                  "number": "3106",
+                  "numText": "§ 3106.",
+                  "heading": "Erection, repair, or furnishing of public buildings and improvements not authorized, and certain contracts not permitted, by this division",
+                  "identifier": "/us/usc/t41/s3106"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "33",
+              "heading": "PLANNING AND SOLICITATION",
+              "identifier": "/us/usc/t41/stI/dC/ch33",
+              "children": [
+                {
+                  "number": "3301",
+                  "numText": "§ 3301.",
+                  "heading": "Full and open competition",
+                  "identifier": "/us/usc/t41/s3301"
+                },
+                {
+                  "number": "3302",
+                  "numText": "§ 3302.",
+                  "heading": "Requirements for purchase of property and services pursuant to multiple award contracts",
+                  "identifier": "/us/usc/t41/s3302"
+                },
+                {
+                  "number": "3303",
+                  "numText": "§ 3303.",
+                  "heading": "Exclusion of particular source or restriction of solicitation to small business concerns",
+                  "identifier": "/us/usc/t41/s3303"
+                },
+                {
+                  "number": "3304",
+                  "numText": "§ 3304.",
+                  "heading": "Use of noncompetitive procedures",
+                  "identifier": "/us/usc/t41/s3304"
+                },
+                {
+                  "number": "3305",
+                  "numText": "§ 3305.",
+                  "heading": "Simplified procedures for small purchases",
+                  "identifier": "/us/usc/t41/s3305"
+                },
+                {
+                  "number": "3306",
+                  "numText": "§ 3306.",
+                  "heading": "Planning and solicitation requirements",
+                  "identifier": "/us/usc/t41/s3306"
+                },
+                {
+                  "number": "3307",
+                  "numText": "§ 3307.",
+                  "heading": "Preference for commercial products and commercial services",
+                  "identifier": "/us/usc/t41/s3307"
+                },
+                {
+                  "number": "3308",
+                  "numText": "§ 3308.",
+                  "heading": "Planning for future competition in contracts for major systems",
+                  "identifier": "/us/usc/t41/s3308"
+                },
+                {
+                  "number": "3309",
+                  "numText": "§ 3309.",
+                  "heading": "Design-build selection procedures",
+                  "identifier": "/us/usc/t41/s3309"
+                },
+                {
+                  "number": "3310",
+                  "numText": "§ 3310.",
+                  "heading": "Quantities to order",
+                  "identifier": "/us/usc/t41/s3310"
+                },
+                {
+                  "number": "3311",
+                  "numText": "§ 3311.",
+                  "heading": "Qualification requirement",
+                  "identifier": "/us/usc/t41/s3311"
+                },
+                {
+                  "number": "3312",
+                  "numText": "§ 3312.",
+                  "heading": "Database on price trends of items and services under Federal contracts",
+                  "identifier": "/us/usc/t41/s3312"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "35",
+              "heading": "TRUTHFUL COST OR PRICING DATA",
+              "identifier": "/us/usc/t41/stI/dC/ch35",
+              "children": [
+                {
+                  "number": "3501",
+                  "numText": "§ 3501.",
+                  "heading": "General",
+                  "identifier": "/us/usc/t41/s3501"
+                },
+                {
+                  "number": "3502",
+                  "numText": "§ 3502.",
+                  "heading": "Required cost or pricing data and certification",
+                  "identifier": "/us/usc/t41/s3502"
+                },
+                {
+                  "number": "3503",
+                  "numText": "§ 3503.",
+                  "heading": "Exceptions",
+                  "identifier": "/us/usc/t41/s3503"
+                },
+                {
+                  "number": "3504",
+                  "numText": "§ 3504.",
+                  "heading": "Cost or pricing data on below-threshold contracts",
+                  "identifier": "/us/usc/t41/s3504"
+                },
+                {
+                  "number": "3505",
+                  "numText": "§ 3505.",
+                  "heading": "Submission of other information",
+                  "identifier": "/us/usc/t41/s3505"
+                },
+                {
+                  "number": "3506",
+                  "numText": "§ 3506.",
+                  "heading": "Price reductions for defective cost or pricing data",
+                  "identifier": "/us/usc/t41/s3506"
+                },
+                {
+                  "number": "3507",
+                  "numText": "§ 3507.",
+                  "heading": "Interest and penalties for certain overpayments",
+                  "identifier": "/us/usc/t41/s3507"
+                },
+                {
+                  "number": "3508",
+                  "numText": "§ 3508.",
+                  "heading": "Right to examine contractor records",
+                  "identifier": "/us/usc/t41/s3508"
+                },
+                {
+                  "number": "3509",
+                  "numText": "§ 3509.",
+                  "heading": "Notification of violations of Federal criminal law or overpayments",
+                  "identifier": "/us/usc/t41/s3509"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "37",
+              "heading": "AWARDING OF CONTRACTS",
+              "identifier": "/us/usc/t41/stI/dC/ch37",
+              "children": [
+                {
+                  "number": "3701",
+                  "numText": "§ 3701.",
+                  "heading": "Basis of award and rejection",
+                  "identifier": "/us/usc/t41/s3701"
+                },
+                {
+                  "number": "3702",
+                  "numText": "§ 3702.",
+                  "heading": "Sealed bids",
+                  "identifier": "/us/usc/t41/s3702"
+                },
+                {
+                  "number": "3703",
+                  "numText": "§ 3703.",
+                  "heading": "Competitive proposals",
+                  "identifier": "/us/usc/t41/s3703"
+                },
+                {
+                  "number": "3704",
+                  "numText": "§ 3704.",
+                  "heading": "Post-award debriefings",
+                  "identifier": "/us/usc/t41/s3704"
+                },
+                {
+                  "number": "3705",
+                  "numText": "§ 3705.",
+                  "heading": "Pre-award debriefings",
+                  "identifier": "/us/usc/t41/s3705"
+                },
+                {
+                  "number": "3706",
+                  "numText": "§ 3706.",
+                  "heading": "Encouragement of alternative dispute resolution",
+                  "identifier": "/us/usc/t41/s3706"
+                },
+                {
+                  "number": "3707",
+                  "numText": "§ 3707.",
+                  "heading": "Antitrust violations",
+                  "identifier": "/us/usc/t41/s3707"
+                },
+                {
+                  "number": "3708",
+                  "numText": "§ 3708.",
+                  "heading": "Protests",
+                  "identifier": "/us/usc/t41/s3708"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "39",
+              "heading": "SPECIFIC TYPES OF CONTRACTS",
+              "identifier": "/us/usc/t41/stI/dC/ch39",
+              "children": [
+                {
+                  "number": "3901",
+                  "numText": "§ 3901.",
+                  "heading": "Contracts awarded using procedures other than sealed-bid procedures",
+                  "identifier": "/us/usc/t41/s3901"
+                },
+                {
+                  "number": "3902",
+                  "numText": "§ 3902.",
+                  "heading": "Severable services contracts for periods crossing fiscal years",
+                  "identifier": "/us/usc/t41/s3902"
+                },
+                {
+                  "number": "3903",
+                  "numText": "§ 3903.",
+                  "heading": "Multiyear contracts",
+                  "identifier": "/us/usc/t41/s3903"
+                },
+                {
+                  "number": "3904",
+                  "numText": "§ 3904.",
+                  "heading": "Contract authority for severable services contracts and multiyear contracts",
+                  "identifier": "/us/usc/t41/s3904"
+                },
+                {
+                  "number": "3905",
+                  "numText": "§ 3905.",
+                  "heading": "Cost contracts",
+                  "identifier": "/us/usc/t41/s3905"
+                },
+                {
+                  "number": "3906",
+                  "numText": "§ 3906.",
+                  "heading": "Cost-reimbursement contracts",
+                  "identifier": "/us/usc/t41/s3906"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "41",
+              "heading": "TASK AND DELIVERY ORDER CONTRACTS",
+              "identifier": "/us/usc/t41/stI/dC/ch41",
+              "children": [
+                {
+                  "number": "4101",
+                  "numText": "§ 4101.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t41/s4101"
+                },
+                {
+                  "number": "4102",
+                  "numText": "§ 4102.",
+                  "heading": "Authorities or responsibilities not affected",
+                  "identifier": "/us/usc/t41/s4102"
+                },
+                {
+                  "number": "4103",
+                  "numText": "§ 4103.",
+                  "heading": "General authority",
+                  "identifier": "/us/usc/t41/s4103"
+                },
+                {
+                  "number": "4104",
+                  "numText": "§ 4104.",
+                  "heading": "Guidance on use of task and delivery order contracts",
+                  "identifier": "/us/usc/t41/s4104"
+                },
+                {
+                  "number": "4105",
+                  "numText": "§ 4105.",
+                  "heading": "Advisory and assistance services",
+                  "identifier": "/us/usc/t41/s4105"
+                },
+                {
+                  "number": "4106",
+                  "numText": "§ 4106.",
+                  "heading": "Orders",
+                  "identifier": "/us/usc/t41/s4106"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "43",
+              "heading": "ALLOWABLE COSTS",
+              "identifier": "/us/usc/t41/stI/dC/ch43",
+              "children": [
+                {
+                  "number": "4301",
+                  "numText": "§ 4301.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t41/s4301"
+                },
+                {
+                  "number": "4302",
+                  "numText": "§ 4302.",
+                  "heading": "Adjustment of threshold amount of covered contract",
+                  "identifier": "/us/usc/t41/s4302"
+                },
+                {
+                  "number": "4303",
+                  "numText": "§ 4303.",
+                  "heading": "Effect of submission of unallowable costs",
+                  "identifier": "/us/usc/t41/s4303"
+                },
+                {
+                  "number": "4304",
+                  "numText": "§ 4304.",
+                  "heading": "Specific costs not allowable",
+                  "identifier": "/us/usc/t41/s4304"
+                },
+                {
+                  "number": "4305",
+                  "numText": "§ 4305.",
+                  "heading": "Required regulations",
+                  "identifier": "/us/usc/t41/s4305"
+                },
+                {
+                  "number": "4306",
+                  "numText": "§ 4306.",
+                  "heading": "Applicability of regulations to subcontractors",
+                  "identifier": "/us/usc/t41/s4306"
+                },
+                {
+                  "number": "4307",
+                  "numText": "§ 4307.",
+                  "heading": "Contractor certification",
+                  "identifier": "/us/usc/t41/s4307"
+                },
+                {
+                  "number": "4308",
+                  "numText": "§ 4308.",
+                  "heading": "Penalties for submission of cost known to be unallowable",
+                  "identifier": "/us/usc/t41/s4308"
+                },
+                {
+                  "number": "4309",
+                  "numText": "§ 4309.",
+                  "heading": "Burden of proof on contractor",
+                  "identifier": "/us/usc/t41/s4309"
+                },
+                {
+                  "number": "4310",
+                  "numText": "§ 4310.",
+                  "heading": "Proceeding costs not allowable",
+                  "identifier": "/us/usc/t41/s4310"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "45",
+              "heading": "CONTRACT FINANCING",
+              "identifier": "/us/usc/t41/stI/dC/ch45",
+              "children": [
+                {
+                  "number": "4501",
+                  "numText": "§ 4501.",
+                  "heading": "Authority of executive agency",
+                  "identifier": "/us/usc/t41/s4501"
+                },
+                {
+                  "number": "4502",
+                  "numText": "§ 4502.",
+                  "heading": "Payment",
+                  "identifier": "/us/usc/t41/s4502"
+                },
+                {
+                  "number": "4503",
+                  "numText": "§ 4503.",
+                  "heading": "Security for advance payments",
+                  "identifier": "/us/usc/t41/s4503"
+                },
+                {
+                  "number": "4504",
+                  "numText": "§ 4504.",
+                  "heading": "Conditions for progress payments",
+                  "identifier": "/us/usc/t41/s4504"
+                },
+                {
+                  "number": "4505",
+                  "numText": "§ 4505.",
+                  "heading": "Payments for commercial products and commercial services",
+                  "identifier": "/us/usc/t41/s4505"
+                },
+                {
+                  "number": "4506",
+                  "numText": "§ 4506.",
+                  "heading": "Action in case of fraud",
+                  "identifier": "/us/usc/t41/s4506"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "47",
+              "heading": "MISCELLANEOUS",
+              "identifier": "/us/usc/t41/stI/dC/ch47",
+              "children": [
+                {
+                  "number": "4701",
+                  "numText": "§ 4701.",
+                  "heading": "Determinations and decisions",
+                  "identifier": "/us/usc/t41/s4701"
+                },
+                {
+                  "number": "4702",
+                  "numText": "§ 4702.",
+                  "heading": "Prohibition on release of contractor proposals",
+                  "identifier": "/us/usc/t41/s4702"
+                },
+                {
+                  "number": "4703",
+                  "numText": "§ 4703.",
+                  "heading": "Validation of proprietary data restrictions",
+                  "identifier": "/us/usc/t41/s4703"
+                },
+                {
+                  "number": "4704",
+                  "numText": "§ 4704.",
+                  "heading": "Prohibition of contractors limiting subcontractor sales directly to Federal Government",
+                  "identifier": "/us/usc/t41/s4704"
+                },
+                {
+                  "number": "4705",
+                  "numText": "§ 4705.",
+                  "heading": "Protection of contractor employees from reprisal for disclosure of certain information",
+                  "identifier": "/us/usc/t41/s4705"
+                },
+                {
+                  "number": "4706",
+                  "numText": "§ 4706.",
+                  "heading": "Examination of facilities and records of contractor",
+                  "identifier": "/us/usc/t41/s4706"
+                },
+                {
+                  "number": "4707",
+                  "numText": "§ 4707.",
+                  "heading": "Remission of liquidated damages",
+                  "identifier": "/us/usc/t41/s4707"
+                },
+                {
+                  "number": "4708",
+                  "numText": "§ 4708.",
+                  "heading": "Payment of reimbursable indirect costs in cost-type research and development contracts with educational institutions",
+                  "identifier": "/us/usc/t41/s4708"
+                },
+                {
+                  "number": "4709",
+                  "numText": "§ 4709.",
+                  "heading": "Implementation of electronic commerce capability",
+                  "identifier": "/us/usc/t41/s4709"
+                },
+                {
+                  "number": "4710",
+                  "numText": "§ 4710.",
+                  "heading": "Limitations on tiering of subcontractors",
+                  "identifier": "/us/usc/t41/s4710"
+                },
+                {
+                  "number": "4711",
+                  "numText": "§ 4711.",
+                  "heading": "Linking of award and incentive fees to acquisition outcomes",
+                  "identifier": "/us/usc/t41/s4711"
+                },
+                {
+                  "number": "4712",
+                  "numText": "§ 4712.",
+                  "heading": "Enhancement of contractor protection from reprisal for disclosure of certain information",
+                  "identifier": "/us/usc/t41/s4712"
+                },
+                {
+                  "number": "4713",
+                  "numText": "§ 4713.",
+                  "heading": "Authorities relating to mitigating supply chain risks in the procurement of covered articles",
+                  "identifier": "/us/usc/t41/s4713"
+                },
+                {
+                  "number": "4714",
+                  "numText": "§ 4714.",
+                  "heading": "Prohibition on criminal history inquiries by contractors prior to conditional offer",
+                  "identifier": "/us/usc/t41/s4714"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "II",
+      "heading": "Other Advertising and Contract Provisions",
+      "identifier": "/us/usc/t41/stII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "61",
+          "heading": "ADVERTISING",
+          "identifier": "/us/usc/t41/stII/ch61",
+          "children": [
+            {
+              "number": "6101",
+              "numText": "§ 6101.",
+              "heading": "Advertising requirement for Federal Government purchases and sales",
+              "identifier": "/us/usc/t41/s6101"
+            },
+            {
+              "number": "6102",
+              "numText": "§ 6102.",
+              "heading": "Exceptions from advertising requirement",
+              "identifier": "/us/usc/t41/s6102"
+            },
+            {
+              "number": "6103",
+              "numText": "§ 6103.",
+              "heading": "Opening of bids",
+              "identifier": "/us/usc/t41/s6103"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "63",
+          "heading": "GENERAL CONTRACT PROVISIONS",
+          "identifier": "/us/usc/t41/stII/ch63",
+          "children": [
+            {
+              "number": "6301",
+              "numText": "§ 6301.",
+              "heading": "Authorization requirement",
+              "identifier": "/us/usc/t41/s6301"
+            },
+            {
+              "number": "6302",
+              "numText": "§ 6302.",
+              "heading": "Contracts for fuel made by Secretary of the Army",
+              "identifier": "/us/usc/t41/s6302"
+            },
+            {
+              "number": "6303",
+              "numText": "§ 6303.",
+              "heading": "Certain contracts limited to appropriated amounts",
+              "identifier": "/us/usc/t41/s6303"
+            },
+            {
+              "number": "6304",
+              "numText": "§ 6304.",
+              "heading": "Certain contracts limited to one-year term",
+              "identifier": "/us/usc/t41/s6304"
+            },
+            {
+              "number": "6305",
+              "numText": "§ 6305.",
+              "heading": "Prohibition on transfer of contract and certain allowable assignments",
+              "identifier": "/us/usc/t41/s6305"
+            },
+            {
+              "number": "6306",
+              "numText": "§ 6306.",
+              "heading": "Prohibition on Members of Congress making contracts with Federal Government",
+              "identifier": "/us/usc/t41/s6306"
+            },
+            {
+              "number": "6307",
+              "numText": "§ 6307.",
+              "heading": "Contracts with Federal Government-owned establishments and availability of appropriations",
+              "identifier": "/us/usc/t41/s6307"
+            },
+            {
+              "number": "6308",
+              "numText": "§ 6308.",
+              "heading": "Contracts for transportation of Federal Government securities",
+              "identifier": "/us/usc/t41/s6308"
+            },
+            {
+              "number": "6309",
+              "numText": "§ 6309.",
+              "heading": "Honorable discharge certificate in lieu of birth certificate",
+              "identifier": "/us/usc/t41/s6309"
+            },
+            {
+              "number": "6310",
+              "numText": "§ 6310.",
+              "heading": "Requirement for agencies to buy domestically made United States flags",
+              "identifier": "/us/usc/t41/s6310"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "65",
+          "heading": "CONTRACTS FOR MATERIALS, SUPPLIES, ARTICLES, AND EQUIPMENT EXCEEDING $10,000",
+          "identifier": "/us/usc/t41/stII/ch65",
+          "children": [
+            {
+              "number": "6501",
+              "numText": "§ 6501.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t41/s6501"
+            },
+            {
+              "number": "6502",
+              "numText": "§ 6502.",
+              "heading": "Required contract terms",
+              "identifier": "/us/usc/t41/s6502"
+            },
+            {
+              "number": "6503",
+              "numText": "§ 6503.",
+              "heading": "Breach or violation of required contract terms",
+              "identifier": "/us/usc/t41/s6503"
+            },
+            {
+              "number": "6504",
+              "numText": "§ 6504.",
+              "heading": "Three-year prohibition on new contracts in case of breach or violation",
+              "identifier": "/us/usc/t41/s6504"
+            },
+            {
+              "number": "6505",
+              "numText": "§ 6505.",
+              "heading": "Exclusions",
+              "identifier": "/us/usc/t41/s6505"
+            },
+            {
+              "number": "6506",
+              "numText": "§ 6506.",
+              "heading": "Administrative provisions",
+              "identifier": "/us/usc/t41/s6506"
+            },
+            {
+              "number": "6507",
+              "numText": "§ 6507.",
+              "heading": "Hearing authority and procedures",
+              "identifier": "/us/usc/t41/s6507"
+            },
+            {
+              "number": "6508",
+              "numText": "§ 6508.",
+              "heading": "Authority to make exceptions",
+              "identifier": "/us/usc/t41/s6508"
+            },
+            {
+              "number": "6509",
+              "numText": "§ 6509.",
+              "heading": "Other procedures",
+              "identifier": "/us/usc/t41/s6509"
+            },
+            {
+              "number": "6510",
+              "numText": "§ 6510.",
+              "heading": "Manufacturers and regular dealers",
+              "identifier": "/us/usc/t41/s6510"
+            },
+            {
+              "number": "6511",
+              "numText": "§ 6511.",
+              "heading": "Effect on other law",
+              "identifier": "/us/usc/t41/s6511"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "67",
+          "heading": "SERVICE CONTRACT LABOR STANDARDS",
+          "identifier": "/us/usc/t41/stII/ch67",
+          "children": [
+            {
+              "number": "6701",
+              "numText": "§ 6701.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t41/s6701"
+            },
+            {
+              "number": "6702",
+              "numText": "§ 6702.",
+              "heading": "Contracts to which this chapter applies",
+              "identifier": "/us/usc/t41/s6702"
+            },
+            {
+              "number": "6703",
+              "numText": "§ 6703.",
+              "heading": "Required contract terms",
+              "identifier": "/us/usc/t41/s6703"
+            },
+            {
+              "number": "6704",
+              "numText": "§ 6704.",
+              "heading": "Limitation on minimum wage",
+              "identifier": "/us/usc/t41/s6704"
+            },
+            {
+              "number": "6705",
+              "numText": "§ 6705.",
+              "heading": "Violations",
+              "identifier": "/us/usc/t41/s6705"
+            },
+            {
+              "number": "6706",
+              "numText": "§ 6706.",
+              "heading": "Three-year prohibition on new contracts in case of violation",
+              "identifier": "/us/usc/t41/s6706"
+            },
+            {
+              "number": "6707",
+              "numText": "§ 6707.",
+              "heading": "Enforcement and administration of chapter",
+              "identifier": "/us/usc/t41/s6707"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "III",
+      "heading": "Contract Disputes",
+      "identifier": "/us/usc/t41/stIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "71",
+          "heading": "CONTRACT DISPUTES",
+          "identifier": "/us/usc/t41/stIII/ch71",
+          "children": [
+            {
+              "number": "7101",
+              "numText": "§ 7101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t41/s7101"
+            },
+            {
+              "number": "7102",
+              "numText": "§ 7102.",
+              "heading": "Applicability of chapter",
+              "identifier": "/us/usc/t41/s7102"
+            },
+            {
+              "number": "7103",
+              "numText": "§ 7103.",
+              "heading": "Decision by contracting officer",
+              "identifier": "/us/usc/t41/s7103"
+            },
+            {
+              "number": "7104",
+              "numText": "§ 7104.",
+              "heading": "Contractor’s right of appeal from decision by contracting officer",
+              "identifier": "/us/usc/t41/s7104"
+            },
+            {
+              "number": "7105",
+              "numText": "§ 7105.",
+              "heading": "Agency boards",
+              "identifier": "/us/usc/t41/s7105"
+            },
+            {
+              "number": "7106",
+              "numText": "§ 7106.",
+              "heading": "Agency board procedures for accelerated and small claims",
+              "identifier": "/us/usc/t41/s7106"
+            },
+            {
+              "number": "7107",
+              "numText": "§ 7107.",
+              "heading": "Judicial review of agency board decisions",
+              "identifier": "/us/usc/t41/s7107"
+            },
+            {
+              "number": "7108",
+              "numText": "§ 7108.",
+              "heading": "Payment of claims",
+              "identifier": "/us/usc/t41/s7108"
+            },
+            {
+              "number": "7109",
+              "numText": "§ 7109.",
+              "heading": "Interest",
+              "identifier": "/us/usc/t41/s7109"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "IV",
+      "heading": "Miscellaneous",
+      "identifier": "/us/usc/t41/stIV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "81",
+          "heading": "DRUG-FREE WORKPLACE",
+          "identifier": "/us/usc/t41/stIV/ch81",
+          "children": [
+            {
+              "number": "8101",
+              "numText": "§ 8101.",
+              "heading": "Definitions and construction",
+              "identifier": "/us/usc/t41/s8101"
+            },
+            {
+              "number": "8102",
+              "numText": "§ 8102.",
+              "heading": "Drug-free workplace requirements for Federal contractors",
+              "identifier": "/us/usc/t41/s8102"
+            },
+            {
+              "number": "8103",
+              "numText": "§ 8103.",
+              "heading": "Drug-free workplace requirements for Federal grant recipients",
+              "identifier": "/us/usc/t41/s8103"
+            },
+            {
+              "number": "8104",
+              "numText": "§ 8104.",
+              "heading": "Employee sanctions and remedies",
+              "identifier": "/us/usc/t41/s8104"
+            },
+            {
+              "number": "8105",
+              "numText": "§ 8105.",
+              "heading": "Waiver",
+              "identifier": "/us/usc/t41/s8105"
+            },
+            {
+              "number": "8106",
+              "numText": "§ 8106.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t41/s8106"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "83",
+          "heading": "BUY AMERICAN",
+          "identifier": "/us/usc/t41/stIV/ch83",
+          "children": [
+            {
+              "number": "8301",
+              "numText": "§ 8301.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t41/s8301"
+            },
+            {
+              "number": "8302",
+              "numText": "§ 8302.",
+              "heading": "American materials required for public use",
+              "identifier": "/us/usc/t41/s8302"
+            },
+            {
+              "number": "8303",
+              "numText": "§ 8303.",
+              "heading": "Contracts for public works",
+              "identifier": "/us/usc/t41/s8303"
+            },
+            {
+              "number": "8304",
+              "numText": "§ 8304.",
+              "heading": "Waiver rescission",
+              "identifier": "/us/usc/t41/s8304"
+            },
+            {
+              "number": "8305",
+              "numText": "§ 8305.",
+              "heading": "Annual report",
+              "identifier": "/us/usc/t41/s8305"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "85",
+          "heading": "COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED",
+          "identifier": "/us/usc/t41/stIV/ch85",
+          "children": [
+            {
+              "number": "8501",
+              "numText": "§ 8501.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t41/s8501"
+            },
+            {
+              "number": "8502",
+              "numText": "§ 8502.",
+              "heading": "Committee for Purchase From People Who Are Blind or Severely Disabled",
+              "identifier": "/us/usc/t41/s8502"
+            },
+            {
+              "number": "8503",
+              "numText": "§ 8503.",
+              "heading": "Duties and powers of the Committee",
+              "identifier": "/us/usc/t41/s8503"
+            },
+            {
+              "number": "8504",
+              "numText": "§ 8504.",
+              "heading": "Procurement requirements for the Federal Government",
+              "identifier": "/us/usc/t41/s8504"
+            },
+            {
+              "number": "8505",
+              "numText": "§ 8505.",
+              "heading": "Audit",
+              "identifier": "/us/usc/t41/s8505"
+            },
+            {
+              "number": "8506",
+              "numText": "§ 8506.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t41/s8506"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "87",
+          "heading": "KICKBACKS",
+          "identifier": "/us/usc/t41/stIV/ch87",
+          "children": [
+            {
+              "number": "8701",
+              "numText": "§ 8701.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t41/s8701"
+            },
+            {
+              "number": "8702",
+              "numText": "§ 8702.",
+              "heading": "Prohibited conduct",
+              "identifier": "/us/usc/t41/s8702"
+            },
+            {
+              "number": "8703",
+              "numText": "§ 8703.",
+              "heading": "Contractor responsibilities",
+              "identifier": "/us/usc/t41/s8703"
+            },
+            {
+              "number": "8704",
+              "numText": "§ 8704.",
+              "heading": "Inspection authority",
+              "identifier": "/us/usc/t41/s8704"
+            },
+            {
+              "number": "8705",
+              "numText": "§ 8705.",
+              "heading": "Administrative offsets",
+              "identifier": "/us/usc/t41/s8705"
+            },
+            {
+              "number": "8706",
+              "numText": "§ 8706.",
+              "heading": "Civil actions",
+              "identifier": "/us/usc/t41/s8706"
+            },
+            {
+              "number": "8707",
+              "numText": "§ 8707.",
+              "heading": "Criminal penalties",
+              "identifier": "/us/usc/t41/s8707"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

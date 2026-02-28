@@ -1,0 +1,3587 @@
+{
+  "number": "40",
+  "name": "Public Buildings, Property, And Works",
+  "identifier": "/us/usc/t40",
+  "version": "Online@119-73not60",
+  "updated": "2025-02-10",
+  "children": [
+    {
+      "type": "subtitle",
+      "number": "I",
+      "heading": "FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES",
+      "identifier": "/us/usc/t40/stI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "1",
+          "heading": "GENERAL",
+          "identifier": "/us/usc/t40/stI/ch1",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "PURPOSE AND DEFINITIONS",
+              "identifier": "/us/usc/t40/stI/ch1/schI",
+              "children": [
+                {
+                  "number": "101",
+                  "numText": "§ 101.",
+                  "heading": "Purpose",
+                  "identifier": "/us/usc/t40/s101"
+                },
+                {
+                  "number": "102",
+                  "numText": "§ 102.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t40/s102"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "SCOPE",
+              "identifier": "/us/usc/t40/stI/ch1/schII",
+              "children": [
+                {
+                  "number": "111",
+                  "numText": "§ 111.",
+                  "heading": "Application to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41",
+                  "identifier": "/us/usc/t40/s111"
+                },
+                {
+                  "number": "112",
+                  "numText": "§ 112.",
+                  "heading": "Applicability of certain policies, procedures, and directives in effect on July 1, 1949",
+                  "identifier": "/us/usc/t40/s112"
+                },
+                {
+                  "number": "113",
+                  "numText": "§ 113.",
+                  "heading": "Limitations",
+                  "identifier": "/us/usc/t40/s113"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "ADMINISTRATIVE AND GENERAL",
+              "identifier": "/us/usc/t40/stI/ch1/schIII",
+              "children": [
+                {
+                  "number": "121",
+                  "numText": "§ 121.",
+                  "heading": "Administrative",
+                  "identifier": "/us/usc/t40/s121"
+                },
+                {
+                  "number": "122",
+                  "numText": "§ 122.",
+                  "heading": "Prohibition on sex discrimination",
+                  "identifier": "/us/usc/t40/s122"
+                },
+                {
+                  "number": "123",
+                  "numText": "§ 123.",
+                  "heading": "Civil remedies for fraud",
+                  "identifier": "/us/usc/t40/s123"
+                },
+                {
+                  "number": "124",
+                  "numText": "§ 124.",
+                  "heading": "Agency use of amounts for property management",
+                  "identifier": "/us/usc/t40/s124"
+                },
+                {
+                  "number": "125",
+                  "numText": "§ 125.",
+                  "heading": "Library memberships",
+                  "identifier": "/us/usc/t40/s125"
+                },
+                {
+                  "number": "126",
+                  "numText": "§ 126.",
+                  "heading": "Reports to Congress",
+                  "identifier": "/us/usc/t40/s126"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "3",
+          "heading": "ORGANIZATION OF GENERAL SERVICES ADMINISTRATION",
+          "identifier": "/us/usc/t40/stI/ch3",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t40/stI/ch3/schI",
+              "children": [
+                {
+                  "number": "301",
+                  "numText": "§ 301.",
+                  "heading": "Establishment",
+                  "identifier": "/us/usc/t40/s301"
+                },
+                {
+                  "number": "302",
+                  "numText": "§ 302.",
+                  "heading": "Administrator and Deputy Administrator",
+                  "identifier": "/us/usc/t40/s302"
+                },
+                {
+                  "number": "303",
+                  "numText": "§ 303.",
+                  "heading": "Federal Acquisition Service",
+                  "identifier": "/us/usc/t40/s303"
+                },
+                {
+                  "number": "304",
+                  "numText": "§ 304.",
+                  "heading": "Federal information centers",
+                  "identifier": "/us/usc/t40/s304"
+                },
+                {
+                  "number": "305",
+                  "numText": "§ 305.",
+                  "heading": "Electronic Government and information technologies",
+                  "identifier": "/us/usc/t40/s305"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "ADMINISTRATIVE",
+              "identifier": "/us/usc/t40/stI/ch3/schII",
+              "children": [
+                {
+                  "number": "311",
+                  "numText": "§ 311.",
+                  "heading": "Personnel",
+                  "identifier": "/us/usc/t40/s311"
+                },
+                {
+                  "number": "312",
+                  "numText": "[§ 312.",
+                  "heading": "Repealed. Pub. L. 111–8, div. D, title V, § 518(c)(1), Mar. 11, 2009, 123 Stat. 665]",
+                  "identifier": "/us/usc/t40/s312"
+                },
+                {
+                  "number": "313",
+                  "numText": "§ 313.",
+                  "heading": "Tests of materials",
+                  "identifier": "/us/usc/t40/s313"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "FUNDS",
+              "identifier": "/us/usc/t40/stI/ch3/schIII",
+              "children": [
+                {
+                  "number": "321",
+                  "numText": "§ 321.",
+                  "heading": "Acquisition Services Fund",
+                  "identifier": "/us/usc/t40/s321"
+                },
+                {
+                  "number": "322",
+                  "numText": "[§ 322.",
+                  "heading": "Repealed. Pub. L. 109–313, § 3(h)(1), Oct. 6, 2006, 120 Stat. 1736]",
+                  "identifier": "/us/usc/t40/s322"
+                },
+                {
+                  "number": "323",
+                  "numText": "§ 323.",
+                  "heading": "Consumer Information Center Fund 11 So in original. Probably should be “Federal Citizen Services Fund”.",
+                  "identifier": "/us/usc/t40/s323"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "5",
+          "heading": "PROPERTY MANAGEMENT",
+          "identifier": "/us/usc/t40/stI/ch5",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "PROCUREMENT AND WAREHOUSING",
+              "identifier": "/us/usc/t40/stI/ch5/schI",
+              "children": [
+                {
+                  "number": "501",
+                  "numText": "§ 501.",
+                  "heading": "Services for executive agencies",
+                  "identifier": "/us/usc/t40/s501"
+                },
+                {
+                  "number": "502",
+                  "numText": "§ 502.",
+                  "heading": "Services for other entities",
+                  "identifier": "/us/usc/t40/s502"
+                },
+                {
+                  "number": "503",
+                  "numText": "§ 503.",
+                  "heading": "Exchange or sale of similar items",
+                  "identifier": "/us/usc/t40/s503"
+                },
+                {
+                  "number": "504",
+                  "numText": "§ 504.",
+                  "heading": "Agency cooperation for inspection",
+                  "identifier": "/us/usc/t40/s504"
+                },
+                {
+                  "number": "505",
+                  "numText": "§ 505.",
+                  "heading": "Exchange or transfer of medical supplies",
+                  "identifier": "/us/usc/t40/s505"
+                },
+                {
+                  "number": "506",
+                  "numText": "§ 506.",
+                  "heading": "Inventory controls and systems",
+                  "identifier": "/us/usc/t40/s506"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "USE OF PROPERTY",
+              "identifier": "/us/usc/t40/stI/ch5/schII",
+              "children": [
+                {
+                  "number": "521",
+                  "numText": "§ 521.",
+                  "heading": "Policies and methods",
+                  "identifier": "/us/usc/t40/s521"
+                },
+                {
+                  "number": "522",
+                  "numText": "§ 522.",
+                  "heading": "Reimbursement for transfer of excess property",
+                  "identifier": "/us/usc/t40/s522"
+                },
+                {
+                  "number": "523",
+                  "numText": "§ 523.",
+                  "heading": "Excess real property located on Indian reservations",
+                  "identifier": "/us/usc/t40/s523"
+                },
+                {
+                  "number": "524",
+                  "numText": "§ 524.",
+                  "heading": "Duties of executive agencies",
+                  "identifier": "/us/usc/t40/s524"
+                },
+                {
+                  "number": "525",
+                  "numText": "§ 525.",
+                  "heading": "Excess personal property for federal agency grantees",
+                  "identifier": "/us/usc/t40/s525"
+                },
+                {
+                  "number": "526",
+                  "numText": "§ 526.",
+                  "heading": "Temporary assignment of excess real property",
+                  "identifier": "/us/usc/t40/s526"
+                },
+                {
+                  "number": "527",
+                  "numText": "§ 527.",
+                  "heading": "Abandonment, destruction, or donation of property",
+                  "identifier": "/us/usc/t40/s527"
+                },
+                {
+                  "number": "528",
+                  "numText": "§ 528.",
+                  "heading": "Utilization of excess furniture",
+                  "identifier": "/us/usc/t40/s528"
+                },
+                {
+                  "number": "529",
+                  "numText": "§ 529.",
+                  "heading": "Annual executive agency reports on excess personal property",
+                  "identifier": "/us/usc/t40/s529"
+                },
+                {
+                  "number": "530",
+                  "numText": "§ 530.",
+                  "heading": "Internal guidance on excess personal property",
+                  "identifier": "/us/usc/t40/s530"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "DISPOSING OF PROPERTY",
+              "identifier": "/us/usc/t40/stI/ch5/schIII",
+              "children": [
+                {
+                  "number": "541",
+                  "numText": "§ 541.",
+                  "heading": "Supervision and direction",
+                  "identifier": "/us/usc/t40/s541"
+                },
+                {
+                  "number": "542",
+                  "numText": "§ 542.",
+                  "heading": "Care and handling",
+                  "identifier": "/us/usc/t40/s542"
+                },
+                {
+                  "number": "543",
+                  "numText": "§ 543.",
+                  "heading": "Method of disposition",
+                  "identifier": "/us/usc/t40/s543"
+                },
+                {
+                  "number": "544",
+                  "numText": "§ 544.",
+                  "heading": "Validity of transfer instruments",
+                  "identifier": "/us/usc/t40/s544"
+                },
+                {
+                  "number": "545",
+                  "numText": "§ 545.",
+                  "heading": "Procedure for disposal",
+                  "identifier": "/us/usc/t40/s545"
+                },
+                {
+                  "number": "546",
+                  "numText": "§ 546.",
+                  "heading": "Contractor inventories",
+                  "identifier": "/us/usc/t40/s546"
+                },
+                {
+                  "number": "547",
+                  "numText": "§ 547.",
+                  "heading": "Agricultural commodities, foods, and cotton or woolen goods",
+                  "identifier": "/us/usc/t40/s547"
+                },
+                {
+                  "number": "548",
+                  "numText": "§ 548.",
+                  "heading": "Surplus vessels",
+                  "identifier": "/us/usc/t40/s548"
+                },
+                {
+                  "number": "549",
+                  "numText": "§ 549.",
+                  "heading": "Donation of personal property through state agencies",
+                  "identifier": "/us/usc/t40/s549"
+                },
+                {
+                  "number": "549a",
+                  "numText": "§ 549a.",
+                  "heading": "Donation of personal property through nonprofit refurbishers",
+                  "identifier": "/us/usc/t40/s549a"
+                },
+                {
+                  "number": "550",
+                  "numText": "§ 550.",
+                  "heading": "Disposal of real property for certain purposes",
+                  "identifier": "/us/usc/t40/s550"
+                },
+                {
+                  "number": "551",
+                  "numText": "§ 551.",
+                  "heading": "Donations to American Red Cross",
+                  "identifier": "/us/usc/t40/s551"
+                },
+                {
+                  "number": "552",
+                  "numText": "§ 552.",
+                  "heading": "Abandoned or unclaimed property on Government premises",
+                  "identifier": "/us/usc/t40/s552"
+                },
+                {
+                  "number": "553",
+                  "numText": "§ 553.",
+                  "heading": "Property for correctional facility, law enforcement, and emergency management response purposes",
+                  "identifier": "/us/usc/t40/s553"
+                },
+                {
+                  "number": "554",
+                  "numText": "§ 554.",
+                  "heading": "Property for development or operation of a port facility",
+                  "identifier": "/us/usc/t40/s554"
+                },
+                {
+                  "number": "555",
+                  "numText": "§ 555.",
+                  "heading": "Donation of law enforcement canines to handlers",
+                  "identifier": "/us/usc/t40/s555"
+                },
+                {
+                  "number": "556",
+                  "numText": "§ 556.",
+                  "heading": "Disposal of dredge vessels",
+                  "identifier": "/us/usc/t40/s556"
+                },
+                {
+                  "number": "557",
+                  "numText": "§ 557.",
+                  "heading": "Donation of books to Free Public Library",
+                  "identifier": "/us/usc/t40/s557"
+                },
+                {
+                  "number": "558",
+                  "numText": "§ 558.",
+                  "heading": "Donation of forfeited vessels",
+                  "identifier": "/us/usc/t40/s558"
+                },
+                {
+                  "number": "559",
+                  "numText": "§ 559.",
+                  "heading": "Advice of Attorney General with respect to antitrust law",
+                  "identifier": "/us/usc/t40/s559"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "PROCEEDS FROM SALE OR TRANSFER",
+              "identifier": "/us/usc/t40/stI/ch5/schIV",
+              "children": [
+                {
+                  "number": "571",
+                  "numText": "§ 571.",
+                  "heading": "General rules for deposit and use of proceeds",
+                  "identifier": "/us/usc/t40/s571"
+                },
+                {
+                  "number": "572",
+                  "numText": "§ 572.",
+                  "heading": "Real property",
+                  "identifier": "/us/usc/t40/s572"
+                },
+                {
+                  "number": "573",
+                  "numText": "§ 573.",
+                  "heading": "Personal property",
+                  "identifier": "/us/usc/t40/s573"
+                },
+                {
+                  "number": "574",
+                  "numText": "§ 574.",
+                  "heading": "Other rules regarding proceeds",
+                  "identifier": "/us/usc/t40/s574"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "V",
+              "heading": "OPERATION OF BUILDINGS AND RELATED ACTIVITIES",
+              "identifier": "/us/usc/t40/stI/ch5/schV",
+              "children": [
+                {
+                  "number": "581",
+                  "numText": "§ 581.",
+                  "heading": "General authority of Administrator of General Services",
+                  "identifier": "/us/usc/t40/s581"
+                },
+                {
+                  "number": "582",
+                  "numText": "§ 582.",
+                  "heading": "Management of buildings by Administrator of General Services",
+                  "identifier": "/us/usc/t40/s582"
+                },
+                {
+                  "number": "583",
+                  "numText": "§ 583.",
+                  "heading": "Construction of buildings",
+                  "identifier": "/us/usc/t40/s583"
+                },
+                {
+                  "number": "584",
+                  "numText": "§ 584.",
+                  "heading": "Assignment and reassignment of space",
+                  "identifier": "/us/usc/t40/s584"
+                },
+                {
+                  "number": "585",
+                  "numText": "§ 585.",
+                  "heading": "Lease agreements",
+                  "identifier": "/us/usc/t40/s585"
+                },
+                {
+                  "number": "586",
+                  "numText": "§ 586.",
+                  "heading": "Charges for space and services",
+                  "identifier": "/us/usc/t40/s586"
+                },
+                {
+                  "number": "587",
+                  "numText": "§ 587.",
+                  "heading": "Telecommuting and other alternative workplace arrangements",
+                  "identifier": "/us/usc/t40/s587"
+                },
+                {
+                  "number": "588",
+                  "numText": "§ 588.",
+                  "heading": "Movement and supply of office furniture",
+                  "identifier": "/us/usc/t40/s588"
+                },
+                {
+                  "number": "589",
+                  "numText": "§ 589.",
+                  "heading": "Installation, repair, and replacement of sidewalks",
+                  "identifier": "/us/usc/t40/s589"
+                },
+                {
+                  "number": "590",
+                  "numText": "§ 590.",
+                  "heading": "Child care",
+                  "identifier": "/us/usc/t40/s590"
+                },
+                {
+                  "number": "591",
+                  "numText": "§ 591.",
+                  "heading": "Purchase of electricity",
+                  "identifier": "/us/usc/t40/s591"
+                },
+                {
+                  "number": "592",
+                  "numText": "§ 592.",
+                  "heading": "Federal Buildings Fund",
+                  "identifier": "/us/usc/t40/s592"
+                },
+                {
+                  "number": "593",
+                  "numText": "§ 593.",
+                  "heading": "Protection for veterans preference employees",
+                  "identifier": "/us/usc/t40/s593"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VI",
+              "heading": "MOTOR VEHICLE POOLS AND TRANSPORTATION SYSTEMS",
+              "identifier": "/us/usc/t40/stI/ch5/schVI",
+              "children": [
+                {
+                  "number": "601",
+                  "numText": "§ 601.",
+                  "heading": "Purposes",
+                  "identifier": "/us/usc/t40/s601"
+                },
+                {
+                  "number": "602",
+                  "numText": "§ 602.",
+                  "heading": "Authority to establish motor vehicle pools and transportation systems",
+                  "identifier": "/us/usc/t40/s602"
+                },
+                {
+                  "number": "603",
+                  "numText": "§ 603.",
+                  "heading": "Process for establishing motor vehicle pools and transportation systems",
+                  "identifier": "/us/usc/t40/s603"
+                },
+                {
+                  "number": "604",
+                  "numText": "§ 604.",
+                  "heading": "Treatment of assets taken over to establish motor vehicle pools and transportation systems",
+                  "identifier": "/us/usc/t40/s604"
+                },
+                {
+                  "number": "605",
+                  "numText": "§ 605.",
+                  "heading": "Payment of costs",
+                  "identifier": "/us/usc/t40/s605"
+                },
+                {
+                  "number": "606",
+                  "numText": "§ 606.",
+                  "heading": "Regulations related to operation",
+                  "identifier": "/us/usc/t40/s606"
+                },
+                {
+                  "number": "607",
+                  "numText": "§ 607.",
+                  "heading": "Records",
+                  "identifier": "/us/usc/t40/s607"
+                },
+                {
+                  "number": "608",
+                  "numText": "§ 608.",
+                  "heading": "Scrip, tokens, tickets",
+                  "identifier": "/us/usc/t40/s608"
+                },
+                {
+                  "number": "609",
+                  "numText": "§ 609.",
+                  "heading": "Identification of vehicles",
+                  "identifier": "/us/usc/t40/s609"
+                },
+                {
+                  "number": "610",
+                  "numText": "§ 610.",
+                  "heading": "Discontinuance of motor vehicle pool or system",
+                  "identifier": "/us/usc/t40/s610"
+                },
+                {
+                  "number": "611",
+                  "numText": "§ 611.",
+                  "heading": "Duty to report violations",
+                  "identifier": "/us/usc/t40/s611"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VII",
+              "heading": "PROPERTY MANAGEMENT",
+              "identifier": "/us/usc/t40/stI/ch5/schVII",
+              "children": [
+                {
+                  "number": "621",
+                  "numText": "§ 621.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t40/s621"
+                },
+                {
+                  "number": "622",
+                  "numText": "§ 622.",
+                  "heading": "Collocation among United States Postal Service properties",
+                  "identifier": "/us/usc/t40/s622"
+                },
+                {
+                  "number": "623",
+                  "numText": "§ 623.",
+                  "heading": "Establishment of a Federal Real Property Council",
+                  "identifier": "/us/usc/t40/s623"
+                },
+                {
+                  "number": "624",
+                  "numText": "§ 624.",
+                  "heading": "Information on certain leasing authorities",
+                  "identifier": "/us/usc/t40/s624"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "7",
+          "heading": "FOREIGN EXCESS PROPERTY",
+          "identifier": "/us/usc/t40/stI/ch7",
+          "children": [
+            {
+              "number": "701",
+              "numText": "§ 701.",
+              "heading": "Administrative",
+              "identifier": "/us/usc/t40/s701"
+            },
+            {
+              "number": "702",
+              "numText": "§ 702.",
+              "heading": "Return of foreign excess property to United States",
+              "identifier": "/us/usc/t40/s702"
+            },
+            {
+              "number": "703",
+              "numText": "§ 703.",
+              "heading": "Donation of medical supplies for use in foreign country",
+              "identifier": "/us/usc/t40/s703"
+            },
+            {
+              "number": "704",
+              "numText": "§ 704.",
+              "heading": "Other methods of disposal",
+              "identifier": "/us/usc/t40/s704"
+            },
+            {
+              "number": "705",
+              "numText": "§ 705.",
+              "heading": "Handling of proceeds from disposal",
+              "identifier": "/us/usc/t40/s705"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "9",
+          "heading": "URBAN LAND USE",
+          "identifier": "/us/usc/t40/stI/ch9",
+          "children": [
+            {
+              "number": "901",
+              "numText": "§ 901.",
+              "heading": "Purpose and policy",
+              "identifier": "/us/usc/t40/s901"
+            },
+            {
+              "number": "902",
+              "numText": "§ 902.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s902"
+            },
+            {
+              "number": "903",
+              "numText": "§ 903.",
+              "heading": "Acquisition and use",
+              "identifier": "/us/usc/t40/s903"
+            },
+            {
+              "number": "904",
+              "numText": "§ 904.",
+              "heading": "Disposal",
+              "identifier": "/us/usc/t40/s904"
+            },
+            {
+              "number": "905",
+              "numText": "§ 905.",
+              "heading": "Waiver",
+              "identifier": "/us/usc/t40/s905"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "11",
+          "heading": "SELECTION OF ARCHITECTS AND ENGINEERS",
+          "identifier": "/us/usc/t40/stI/ch11",
+          "children": [
+            {
+              "number": "1101",
+              "numText": "§ 1101.",
+              "heading": "Policy",
+              "identifier": "/us/usc/t40/s1101"
+            },
+            {
+              "number": "1102",
+              "numText": "§ 1102.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s1102"
+            },
+            {
+              "number": "1103",
+              "numText": "§ 1103.",
+              "heading": "Selection procedure",
+              "identifier": "/us/usc/t40/s1103"
+            },
+            {
+              "number": "1104",
+              "numText": "§ 1104.",
+              "heading": "Negotiation of contract",
+              "identifier": "/us/usc/t40/s1104"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "13",
+          "heading": "PUBLIC PROPERTY",
+          "identifier": "/us/usc/t40/stI/ch13",
+          "children": [
+            {
+              "number": "1301",
+              "numText": "§ 1301.",
+              "heading": "Charge of property transferred to the Federal Government",
+              "identifier": "/us/usc/t40/s1301"
+            },
+            {
+              "number": "1302",
+              "numText": "§ 1302.",
+              "heading": "Lease of buildings",
+              "identifier": "/us/usc/t40/s1302"
+            },
+            {
+              "number": "1303",
+              "numText": "§ 1303.",
+              "heading": "Disposition of surplus real property",
+              "identifier": "/us/usc/t40/s1303"
+            },
+            {
+              "number": "1304",
+              "numText": "§ 1304.",
+              "heading": "Transfer of federal property to States",
+              "identifier": "/us/usc/t40/s1304"
+            },
+            {
+              "number": "1305",
+              "numText": "§ 1305.",
+              "heading": "Disposition of land acquired by devise",
+              "identifier": "/us/usc/t40/s1305"
+            },
+            {
+              "number": "1306",
+              "numText": "§ 1306.",
+              "heading": "Disposition of abandoned or forfeited personal property",
+              "identifier": "/us/usc/t40/s1306"
+            },
+            {
+              "number": "1307",
+              "numText": "§ 1307.",
+              "heading": "Disposition of securities",
+              "identifier": "/us/usc/t40/s1307"
+            },
+            {
+              "number": "1308",
+              "numText": "§ 1308.",
+              "heading": "Disposition of unfit horses and mules",
+              "identifier": "/us/usc/t40/s1308"
+            },
+            {
+              "number": "1309",
+              "numText": "§ 1309.",
+              "heading": "Preservation, sale, or collection of wrecked, abandoned, or derelict property",
+              "identifier": "/us/usc/t40/s1309"
+            },
+            {
+              "number": "1310",
+              "numText": "§ 1310.",
+              "heading": "Sale of war supplies, land, and buildings",
+              "identifier": "/us/usc/t40/s1310"
+            },
+            {
+              "number": "1311",
+              "numText": "§ 1311.",
+              "heading": "Authority of President to obtain release",
+              "identifier": "/us/usc/t40/s1311"
+            },
+            {
+              "number": "1312",
+              "numText": "§ 1312.",
+              "heading": "Release of real estate in certain cases",
+              "identifier": "/us/usc/t40/s1312"
+            },
+            {
+              "number": "1313",
+              "numText": "§ 1313.",
+              "heading": "Releasing property from attachment",
+              "identifier": "/us/usc/t40/s1313"
+            },
+            {
+              "number": "1314",
+              "numText": "§ 1314.",
+              "heading": "Easements",
+              "identifier": "/us/usc/t40/s1314"
+            },
+            {
+              "number": "1315",
+              "numText": "§ 1315.",
+              "heading": "Law enforcement authority of Secretary of Homeland Security for protection of public property",
+              "identifier": "/us/usc/t40/s1315"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "II",
+      "heading": "PUBLIC BUILDINGS AND WORKS",
+      "identifier": "/us/usc/t40/stII",
+      "children": [
+        {
+          "type": "part",
+          "number": "A",
+          "heading": "GENERAL",
+          "identifier": "/us/usc/t40/stII/ptA",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "31",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t40/stII/ptA/ch31",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "OVERSIGHT AND REGULATION OF PUBLIC BUILDINGS",
+                  "identifier": "/us/usc/t40/stII/ptA/ch31/schI",
+                  "children": [
+                    {
+                      "number": "3101",
+                      "numText": "§ 3101.",
+                      "heading": "Public buildings under control of Administrator of General Services",
+                      "identifier": "/us/usc/t40/s3101"
+                    },
+                    {
+                      "number": "3102",
+                      "numText": "§ 3102.",
+                      "heading": "Naming or designating buildings",
+                      "identifier": "/us/usc/t40/s3102"
+                    },
+                    {
+                      "number": "3103",
+                      "numText": "§ 3103.",
+                      "heading": "Admission of guide dogs or other service animals accompanying individuals with disabilities",
+                      "identifier": "/us/usc/t40/s3103"
+                    },
+                    {
+                      "number": "3104",
+                      "numText": "§ 3104.",
+                      "heading": "Furniture for new buildings",
+                      "identifier": "/us/usc/t40/s3104"
+                    },
+                    {
+                      "number": "3105",
+                      "numText": "§ 3105.",
+                      "heading": "Buildings not to be draped in mourning",
+                      "identifier": "/us/usc/t40/s3105"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "ACQUIRING LAND",
+                  "identifier": "/us/usc/t40/stII/ptA/ch31/schII",
+                  "children": [
+                    {
+                      "number": "3111",
+                      "numText": "§ 3111.",
+                      "heading": "Approval of sufficiency of title prior to acquisition",
+                      "identifier": "/us/usc/t40/s3111"
+                    },
+                    {
+                      "number": "3112",
+                      "numText": "§ 3112.",
+                      "heading": "Federal jurisdiction",
+                      "identifier": "/us/usc/t40/s3112"
+                    },
+                    {
+                      "number": "3113",
+                      "numText": "§ 3113.",
+                      "heading": "Acquisition by condemnation",
+                      "identifier": "/us/usc/t40/s3113"
+                    },
+                    {
+                      "number": "3114",
+                      "numText": "§ 3114.",
+                      "heading": "Declaration of taking",
+                      "identifier": "/us/usc/t40/s3114"
+                    },
+                    {
+                      "number": "3115",
+                      "numText": "§ 3115.",
+                      "heading": "Irrevocable commitment of Federal Government to pay ultimate award when fixed",
+                      "identifier": "/us/usc/t40/s3115"
+                    },
+                    {
+                      "number": "3116",
+                      "numText": "§ 3116.",
+                      "heading": "Interest as part of just compensation",
+                      "identifier": "/us/usc/t40/s3116"
+                    },
+                    {
+                      "number": "3117",
+                      "numText": "§ 3117.",
+                      "heading": "Exclusion of certain property by stipulation of Attorney General",
+                      "identifier": "/us/usc/t40/s3117"
+                    },
+                    {
+                      "number": "3118",
+                      "numText": "§ 3118.",
+                      "heading": "Right of taking as addition to existing rights",
+                      "identifier": "/us/usc/t40/s3118"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "BONDS",
+                  "identifier": "/us/usc/t40/stII/ptA/ch31/schIII",
+                  "children": [
+                    {
+                      "number": "3131",
+                      "numText": "§ 3131.",
+                      "heading": "Bonds of contractors of public buildings or works",
+                      "identifier": "/us/usc/t40/s3131"
+                    },
+                    {
+                      "number": "3132",
+                      "numText": "§ 3132.",
+                      "heading": "Alternatives to payment bonds provided by Federal Acquisition Regulation",
+                      "identifier": "/us/usc/t40/s3132"
+                    },
+                    {
+                      "number": "3133",
+                      "numText": "§ 3133.",
+                      "heading": "Rights of persons furnishing labor or material",
+                      "identifier": "/us/usc/t40/s3133"
+                    },
+                    {
+                      "number": "3134",
+                      "numText": "§ 3134.",
+                      "heading": "Waivers for certain contracts",
+                      "identifier": "/us/usc/t40/s3134"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "IV",
+                  "heading": "WAGE RATE REQUIREMENTS",
+                  "identifier": "/us/usc/t40/stII/ptA/ch31/schIV",
+                  "children": [
+                    {
+                      "number": "3141",
+                      "numText": "§ 3141.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t40/s3141"
+                    },
+                    {
+                      "number": "3142",
+                      "numText": "§ 3142.",
+                      "heading": "Rate of wages for laborers and mechanics",
+                      "identifier": "/us/usc/t40/s3142"
+                    },
+                    {
+                      "number": "3143",
+                      "numText": "§ 3143.",
+                      "heading": "Termination of work on failure to pay agreed wages",
+                      "identifier": "/us/usc/t40/s3143"
+                    },
+                    {
+                      "number": "3144",
+                      "numText": "§ 3144.",
+                      "heading": "Authority to pay wages and list contractors violating contracts",
+                      "identifier": "/us/usc/t40/s3144"
+                    },
+                    {
+                      "number": "3145",
+                      "numText": "§ 3145.",
+                      "heading": "Regulations governing contractors and subcontractors",
+                      "identifier": "/us/usc/t40/s3145"
+                    },
+                    {
+                      "number": "3146",
+                      "numText": "§ 3146.",
+                      "heading": "Effect on other federal laws",
+                      "identifier": "/us/usc/t40/s3146"
+                    },
+                    {
+                      "number": "3147",
+                      "numText": "§ 3147.",
+                      "heading": "Suspension of this subchapter during a national emergency",
+                      "identifier": "/us/usc/t40/s3147"
+                    },
+                    {
+                      "number": "3148",
+                      "numText": "§ 3148.",
+                      "heading": "Application of this subchapter to certain contracts",
+                      "identifier": "/us/usc/t40/s3148"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "V",
+                  "heading": "VOLUNTEER SERVICES",
+                  "identifier": "/us/usc/t40/stII/ptA/ch31/schV",
+                  "children": [
+                    {
+                      "number": "3161",
+                      "numText": "§ 3161.",
+                      "heading": "Purpose",
+                      "identifier": "/us/usc/t40/s3161"
+                    },
+                    {
+                      "number": "3162",
+                      "numText": "§ 3162.",
+                      "heading": "Waiver for individuals who perform volunteer services",
+                      "identifier": "/us/usc/t40/s3162"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "VI",
+                  "heading": "MISCELLANEOUS",
+                  "identifier": "/us/usc/t40/stII/ptA/ch31/schVI",
+                  "children": [
+                    {
+                      "number": "3171",
+                      "numText": "§ 3171.",
+                      "heading": "Contract authority when appropriation is for less than full amount",
+                      "identifier": "/us/usc/t40/s3171"
+                    },
+                    {
+                      "number": "3172",
+                      "numText": "§ 3172.",
+                      "heading": "Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government",
+                      "identifier": "/us/usc/t40/s3172"
+                    },
+                    {
+                      "number": "3173",
+                      "numText": "§ 3173.",
+                      "heading": "Working capital fund for General Services Administration",
+                      "identifier": "/us/usc/t40/s3173"
+                    },
+                    {
+                      "number": "3174",
+                      "numText": "§ 3174.",
+                      "heading": "Operation of public utility communications services serving governmental activities",
+                      "identifier": "/us/usc/t40/s3174"
+                    },
+                    {
+                      "number": "3175",
+                      "numText": "§ 3175.",
+                      "heading": "Acceptance of gifts of property",
+                      "identifier": "/us/usc/t40/s3175"
+                    },
+                    {
+                      "number": "3176",
+                      "numText": "§ 3176.",
+                      "heading": "Administrator of General Services to furnish services in continental United States to international bodies",
+                      "identifier": "/us/usc/t40/s3176"
+                    },
+                    {
+                      "number": "3177",
+                      "numText": "§ 3177.",
+                      "heading": "Use of photovoltaic energy in public buildings",
+                      "identifier": "/us/usc/t40/s3177"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "33",
+              "heading": "ACQUISITION, CONSTRUCTION, AND ALTERATION",
+              "identifier": "/us/usc/t40/stII/ptA/ch33",
+              "children": [
+                {
+                  "number": "3301",
+                  "numText": "§ 3301.",
+                  "heading": "Definitions and nonapplication",
+                  "identifier": "/us/usc/t40/s3301"
+                },
+                {
+                  "number": "3302",
+                  "numText": "§ 3302.",
+                  "heading": "Prohibition on construction of buildings except by Administrator of General Services",
+                  "identifier": "/us/usc/t40/s3302"
+                },
+                {
+                  "number": "3303",
+                  "numText": "§ 3303.",
+                  "heading": "Continuing investigation and survey of public buildings",
+                  "identifier": "/us/usc/t40/s3303"
+                },
+                {
+                  "number": "3304",
+                  "numText": "§ 3304.",
+                  "heading": "Acquisition of buildings and sites",
+                  "identifier": "/us/usc/t40/s3304"
+                },
+                {
+                  "number": "3305",
+                  "numText": "§ 3305.",
+                  "heading": "Construction and alteration of buildings",
+                  "identifier": "/us/usc/t40/s3305"
+                },
+                {
+                  "number": "3306",
+                  "numText": "§ 3306.",
+                  "heading": "Accommodating federal agencies",
+                  "identifier": "/us/usc/t40/s3306"
+                },
+                {
+                  "number": "3307",
+                  "numText": "§ 3307.",
+                  "heading": "Congressional approval of proposed projects",
+                  "identifier": "/us/usc/t40/s3307"
+                },
+                {
+                  "number": "3308",
+                  "numText": "§ 3308.",
+                  "heading": "Architectural or engineering services",
+                  "identifier": "/us/usc/t40/s3308"
+                },
+                {
+                  "number": "3309",
+                  "numText": "§ 3309.",
+                  "heading": "Buildings and sites in the District of Columbia",
+                  "identifier": "/us/usc/t40/s3309"
+                },
+                {
+                  "number": "3310",
+                  "numText": "§ 3310.",
+                  "heading": "Special rules for leased buildings",
+                  "identifier": "/us/usc/t40/s3310"
+                },
+                {
+                  "number": "3311",
+                  "numText": "§ 3311.",
+                  "heading": "State administration of criminal and health and safety laws",
+                  "identifier": "/us/usc/t40/s3311"
+                },
+                {
+                  "number": "3312",
+                  "numText": "§ 3312.",
+                  "heading": "Compliance with nationally recognized codes",
+                  "identifier": "/us/usc/t40/s3312"
+                },
+                {
+                  "number": "3313",
+                  "numText": "§ 3313.",
+                  "heading": "Procurement of life-cycle cost effective and energy efficient lighting systems",
+                  "identifier": "/us/usc/t40/s3313"
+                },
+                {
+                  "number": "3314",
+                  "numText": "§ 3314.",
+                  "heading": "Baby changing facilities in restrooms",
+                  "identifier": "/us/usc/t40/s3314"
+                },
+                {
+                  "number": "3315",
+                  "numText": "§ 3315.",
+                  "heading": "Delegation",
+                  "identifier": "/us/usc/t40/s3315"
+                },
+                {
+                  "number": "3316",
+                  "numText": "§ 3316.",
+                  "heading": "Report to Congress",
+                  "identifier": "/us/usc/t40/s3316"
+                },
+                {
+                  "number": "3317",
+                  "numText": "§ 3317.",
+                  "heading": "Certain authority not affected",
+                  "identifier": "/us/usc/t40/s3317"
+                },
+                {
+                  "number": "3318",
+                  "numText": "§ 3318.",
+                  "heading": "Lactation room in public buildings",
+                  "identifier": "/us/usc/t40/s3318"
+                },
+                {
+                  "number": "3318",
+                  "numText": "§ 3318.",
+                  "heading": "Availability of Federal building project information",
+                  "identifier": "/us/usc/t40/s3318"
+                },
+                {
+                  "number": "3319",
+                  "numText": "§ 3319.",
+                  "heading": "Interagency space coordination",
+                  "identifier": "/us/usc/t40/s3319"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "35",
+              "heading": "NON-FEDERAL PUBLIC WORKS",
+              "identifier": "/us/usc/t40/stII/ptA/ch35",
+              "children": [
+                {
+                  "number": "3501",
+                  "numText": "§ 3501.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t40/s3501"
+                },
+                {
+                  "number": "3502",
+                  "numText": "§ 3502.",
+                  "heading": "Planned public works",
+                  "identifier": "/us/usc/t40/s3502"
+                },
+                {
+                  "number": "3503",
+                  "numText": "§ 3503.",
+                  "heading": "Revolving fund",
+                  "identifier": "/us/usc/t40/s3503"
+                },
+                {
+                  "number": "3504",
+                  "numText": "§ 3504.",
+                  "heading": "Surveys of public works planning",
+                  "identifier": "/us/usc/t40/s3504"
+                },
+                {
+                  "number": "3505",
+                  "numText": "§ 3505.",
+                  "heading": "Forgiveness of outstanding advances",
+                  "identifier": "/us/usc/t40/s3505"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "37",
+              "heading": "CONTRACT WORK HOURS AND SAFETY STANDARDS",
+              "identifier": "/us/usc/t40/stII/ptA/ch37",
+              "children": [
+                {
+                  "number": "3701",
+                  "numText": "§ 3701.",
+                  "heading": "Definition and application",
+                  "identifier": "/us/usc/t40/s3701"
+                },
+                {
+                  "number": "3702",
+                  "numText": "§ 3702.",
+                  "heading": "Work hours",
+                  "identifier": "/us/usc/t40/s3702"
+                },
+                {
+                  "number": "3703",
+                  "numText": "§ 3703.",
+                  "heading": "Report of violations and withholding of amounts for unpaid wages and liquidated damages",
+                  "identifier": "/us/usc/t40/s3703"
+                },
+                {
+                  "number": "3704",
+                  "numText": "§ 3704.",
+                  "heading": "Health and safety standards in building trades and construction industry",
+                  "identifier": "/us/usc/t40/s3704"
+                },
+                {
+                  "number": "3705",
+                  "numText": "§ 3705.",
+                  "heading": "Safety programs",
+                  "identifier": "/us/usc/t40/s3705"
+                },
+                {
+                  "number": "3706",
+                  "numText": "§ 3706.",
+                  "heading": "Limitations, variations, tolerances, and exemptions",
+                  "identifier": "/us/usc/t40/s3706"
+                },
+                {
+                  "number": "3707",
+                  "numText": "§ 3707.",
+                  "heading": "Contractor certification or contract clause in acquisition of commercial items not required",
+                  "identifier": "/us/usc/t40/s3707"
+                },
+                {
+                  "number": "3708",
+                  "numText": "§ 3708.",
+                  "heading": "Criminal penalties",
+                  "identifier": "/us/usc/t40/s3708"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "part",
+          "number": "B",
+          "heading": "UNITED STATES CAPITOL",
+          "identifier": "/us/usc/t40/stII/ptB",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "51",
+              "heading": "UNITED STATES CAPITOL BUILDINGS AND GROUNDS",
+              "identifier": "/us/usc/t40/stII/ptB/ch51",
+              "children": [
+                {
+                  "number": "5101",
+                  "numText": "§ 5101.",
+                  "heading": "Definition",
+                  "identifier": "/us/usc/t40/s5101"
+                },
+                {
+                  "number": "5102",
+                  "numText": "§ 5102.",
+                  "heading": "Legal description and jurisdiction of United States Capitol Grounds",
+                  "identifier": "/us/usc/t40/s5102"
+                },
+                {
+                  "number": "5103",
+                  "numText": "§ 5103.",
+                  "heading": "Restrictions on public use of United States Capitol Grounds",
+                  "identifier": "/us/usc/t40/s5103"
+                },
+                {
+                  "number": "5104",
+                  "numText": "§ 5104.",
+                  "heading": "Unlawful activities",
+                  "identifier": "/us/usc/t40/s5104"
+                },
+                {
+                  "number": "5105",
+                  "numText": "§ 5105.",
+                  "heading": "Assistance to authorities by Capitol employees",
+                  "identifier": "/us/usc/t40/s5105"
+                },
+                {
+                  "number": "5106",
+                  "numText": "§ 5106.",
+                  "heading": "Suspension of prohibitions",
+                  "identifier": "/us/usc/t40/s5106"
+                },
+                {
+                  "number": "5107",
+                  "numText": "§ 5107.",
+                  "heading": "Concerts on grounds",
+                  "identifier": "/us/usc/t40/s5107"
+                },
+                {
+                  "number": "5108",
+                  "numText": "§ 5108.",
+                  "heading": "Audit of private organizations",
+                  "identifier": "/us/usc/t40/s5108"
+                },
+                {
+                  "number": "5109",
+                  "numText": "§ 5109.",
+                  "heading": "Penalties",
+                  "identifier": "/us/usc/t40/s5109"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "part",
+          "number": "C",
+          "heading": "FEDERAL BUILDING COMPLEXES",
+          "identifier": "/us/usc/t40/stII/ptC",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "61",
+              "heading": "UNITED STATES SUPREME COURT BUILDING AND GROUNDS",
+              "identifier": "/us/usc/t40/stII/ptC/ch61",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "GENERAL",
+                  "identifier": "/us/usc/t40/stII/ptC/ch61/schI",
+                  "children": [
+                    {
+                      "number": "6101",
+                      "numText": "§ 6101.",
+                      "heading": "Definitions and application",
+                      "identifier": "/us/usc/t40/s6101"
+                    },
+                    {
+                      "number": "6102",
+                      "numText": "§ 6102.",
+                      "heading": "Regulations",
+                      "identifier": "/us/usc/t40/s6102"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "BUILDINGS AND GROUNDS",
+                  "identifier": "/us/usc/t40/stII/ptC/ch61/schII",
+                  "children": [
+                    {
+                      "number": "6111",
+                      "numText": "§ 6111.",
+                      "heading": "Supreme Court Building",
+                      "identifier": "/us/usc/t40/s6111"
+                    },
+                    {
+                      "number": "6112",
+                      "numText": "§ 6112.",
+                      "heading": "Supreme Court Building and grounds employees",
+                      "identifier": "/us/usc/t40/s6112"
+                    },
+                    {
+                      "number": "6113",
+                      "numText": "§ 6113.",
+                      "heading": "Duties of the Superintendent of the Supreme Court Building",
+                      "identifier": "/us/usc/t40/s6113"
+                    },
+                    {
+                      "number": "6114",
+                      "numText": "§ 6114.",
+                      "heading": "Oliver Wendell Holmes Garden",
+                      "identifier": "/us/usc/t40/s6114"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "POLICING AUTHORITY",
+                  "identifier": "/us/usc/t40/stII/ptC/ch61/schIII",
+                  "children": [
+                    {
+                      "number": "6121",
+                      "numText": "§ 6121.",
+                      "heading": "General",
+                      "identifier": "/us/usc/t40/s6121"
+                    },
+                    {
+                      "number": "6122",
+                      "numText": "§ 6122.",
+                      "heading": "Designation of members of the Supreme Court Police",
+                      "identifier": "/us/usc/t40/s6122"
+                    },
+                    {
+                      "number": "6123",
+                      "numText": "§ 6123.",
+                      "heading": "Authority of Metropolitan Police of the District of Columbia",
+                      "identifier": "/us/usc/t40/s6123"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "IV",
+                  "heading": "PROHIBITIONS AND PENALTIES",
+                  "identifier": "/us/usc/t40/stII/ptC/ch61/schIV",
+                  "children": [
+                    {
+                      "number": "6131",
+                      "numText": "§ 6131.",
+                      "heading": "Public travel in Supreme Court grounds",
+                      "identifier": "/us/usc/t40/s6131"
+                    },
+                    {
+                      "number": "6132",
+                      "numText": "§ 6132.",
+                      "heading": "Sale of articles, signs, and solicitation in Supreme Court Building and grounds",
+                      "identifier": "/us/usc/t40/s6132"
+                    },
+                    {
+                      "number": "6133",
+                      "numText": "§ 6133.",
+                      "heading": "Property in the Supreme Court Building and grounds",
+                      "identifier": "/us/usc/t40/s6133"
+                    },
+                    {
+                      "number": "6134",
+                      "numText": "§ 6134.",
+                      "heading": "Firearms, fireworks, speeches, and objectionable language in the Supreme Court Building and grounds",
+                      "identifier": "/us/usc/t40/s6134"
+                    },
+                    {
+                      "number": "6135",
+                      "numText": "§ 6135.",
+                      "heading": "Parades, assemblages, and display of flags in the Supreme Court Building and grounds",
+                      "identifier": "/us/usc/t40/s6135"
+                    },
+                    {
+                      "number": "6136",
+                      "numText": "§ 6136.",
+                      "heading": "Suspension of prohibitions against use of Supreme Court grounds",
+                      "identifier": "/us/usc/t40/s6136"
+                    },
+                    {
+                      "number": "6137",
+                      "numText": "§ 6137.",
+                      "heading": "Penalties",
+                      "identifier": "/us/usc/t40/s6137"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "63",
+              "heading": "SMITHSONIAN INSTITUTION, NATIONAL GALLERY OF ART, AND JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS",
+              "identifier": "/us/usc/t40/stII/ptC/ch63",
+              "children": [
+                {
+                  "number": "6301",
+                  "numText": "§ 6301.",
+                  "heading": "Definition",
+                  "identifier": "/us/usc/t40/s6301"
+                },
+                {
+                  "number": "6302",
+                  "numText": "§ 6302.",
+                  "heading": "Public use of grounds",
+                  "identifier": "/us/usc/t40/s6302"
+                },
+                {
+                  "number": "6303",
+                  "numText": "§ 6303.",
+                  "heading": "Unlawful activities",
+                  "identifier": "/us/usc/t40/s6303"
+                },
+                {
+                  "number": "6304",
+                  "numText": "§ 6304.",
+                  "heading": "Additional regulations",
+                  "identifier": "/us/usc/t40/s6304"
+                },
+                {
+                  "number": "6305",
+                  "numText": "§ 6305.",
+                  "heading": "Suspension of regulations",
+                  "identifier": "/us/usc/t40/s6305"
+                },
+                {
+                  "number": "6306",
+                  "numText": "§ 6306.",
+                  "heading": "Policing of buildings and grounds",
+                  "identifier": "/us/usc/t40/s6306"
+                },
+                {
+                  "number": "6307",
+                  "numText": "§ 6307.",
+                  "heading": "Penalties",
+                  "identifier": "/us/usc/t40/s6307"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "65",
+              "heading": "THURGOOD MARSHALL FEDERAL JUDICIARY BUILDING",
+              "identifier": "/us/usc/t40/stII/ptC/ch65",
+              "children": [
+                {
+                  "number": "6501",
+                  "numText": "§ 6501.",
+                  "heading": "Definition",
+                  "identifier": "/us/usc/t40/s6501"
+                },
+                {
+                  "number": "6502",
+                  "numText": "§ 6502.",
+                  "heading": "Thurgood Marshall Federal Judiciary Building",
+                  "identifier": "/us/usc/t40/s6502"
+                },
+                {
+                  "number": "6503",
+                  "numText": "§ 6503.",
+                  "heading": "Commission for the Judiciary Office Building",
+                  "identifier": "/us/usc/t40/s6503"
+                },
+                {
+                  "number": "6504",
+                  "numText": "§ 6504.",
+                  "heading": "Lease of building",
+                  "identifier": "/us/usc/t40/s6504"
+                },
+                {
+                  "number": "6505",
+                  "numText": "§ 6505.",
+                  "heading": "Structural and mechanical care and security",
+                  "identifier": "/us/usc/t40/s6505"
+                },
+                {
+                  "number": "6506",
+                  "numText": "§ 6506.",
+                  "heading": "Allocation of space",
+                  "identifier": "/us/usc/t40/s6506"
+                },
+                {
+                  "number": "6507",
+                  "numText": "§ 6507.",
+                  "heading": "Account in Treasury",
+                  "identifier": "/us/usc/t40/s6507"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "67",
+              "heading": "PENNSYLVANIA AVENUE DEVELOPMENT",
+              "identifier": "/us/usc/t40/stII/ptC/ch67",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "TRANSFER AND ASSIGNMENT OF RIGHTS, AUTHORITIES, TITLE, AND INTERESTS",
+                  "identifier": "/us/usc/t40/stII/ptC/ch67/schI",
+                  "children": [
+                    {
+                      "number": "6701",
+                      "numText": "§ 6701.",
+                      "heading": "Transfer of rights and authorities of Pennsylvania Avenue Development Corporation",
+                      "identifier": "/us/usc/t40/s6701"
+                    },
+                    {
+                      "number": "6702",
+                      "numText": "§ 6702.",
+                      "heading": "Transfer and assignment of rights, title, and interests in property",
+                      "identifier": "/us/usc/t40/s6702"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "PENNSYLVANIA AVENUE DEVELOPMENT",
+                  "identifier": "/us/usc/t40/stII/ptC/ch67/schII",
+                  "children": [
+                    {
+                      "number": "6711",
+                      "numText": "§ 6711.",
+                      "heading": "Definition",
+                      "identifier": "/us/usc/t40/s6711"
+                    },
+                    {
+                      "number": "6712",
+                      "numText": "§ 6712.",
+                      "heading": "Powers of other agencies and instrumentalities in the development area",
+                      "identifier": "/us/usc/t40/s6712"
+                    },
+                    {
+                      "number": "6713",
+                      "numText": "§ 6713.",
+                      "heading": "Certification of new construction",
+                      "identifier": "/us/usc/t40/s6713"
+                    },
+                    {
+                      "number": "6714",
+                      "numText": "§ 6714.",
+                      "heading": "Relocation services",
+                      "identifier": "/us/usc/t40/s6714"
+                    },
+                    {
+                      "number": "6715",
+                      "numText": "§ 6715.",
+                      "heading": "Coordination with District of Columbia",
+                      "identifier": "/us/usc/t40/s6715"
+                    },
+                    {
+                      "number": "6716",
+                      "numText": "§ 6716.",
+                      "heading": "Reports",
+                      "identifier": "/us/usc/t40/s6716"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "FEDERAL TRIANGLE DEVELOPMENT",
+                  "identifier": "/us/usc/t40/stII/ptC/ch67/schIII",
+                  "children": [
+                    {
+                      "number": "6731",
+                      "numText": "§ 6731.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t40/s6731"
+                    },
+                    {
+                      "number": "6732",
+                      "numText": "§ 6732.",
+                      "heading": "Federal Triangle development area",
+                      "identifier": "/us/usc/t40/s6732"
+                    },
+                    {
+                      "number": "6733",
+                      "numText": "§ 6733.",
+                      "heading": "Federal Triangle property",
+                      "identifier": "/us/usc/t40/s6733"
+                    },
+                    {
+                      "number": "6734",
+                      "numText": "§ 6734.",
+                      "heading": "Ronald Reagan Building and International Trade Center",
+                      "identifier": "/us/usc/t40/s6734"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "69",
+              "heading": "UNION STATION REDEVELOPMENT",
+              "identifier": "/us/usc/t40/stII/ptC/ch69",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "UNION STATION COMPLEX",
+                  "identifier": "/us/usc/t40/stII/ptC/ch69/schI",
+                  "children": [
+                    {
+                      "number": "6901",
+                      "numText": "§ 6901.",
+                      "heading": "Definition",
+                      "identifier": "/us/usc/t40/s6901"
+                    },
+                    {
+                      "number": "6902",
+                      "numText": "§ 6902.",
+                      "heading": "Assignment of right, title, and interest in the Union Station complex to the Secretary of Transportation",
+                      "identifier": "/us/usc/t40/s6902"
+                    },
+                    {
+                      "number": "6903",
+                      "numText": "§ 6903.",
+                      "heading": "Agreements and contracts",
+                      "identifier": "/us/usc/t40/s6903"
+                    },
+                    {
+                      "number": "6904",
+                      "numText": "§ 6904.",
+                      "heading": "Acquisition, maintenance, and use of property",
+                      "identifier": "/us/usc/t40/s6904"
+                    },
+                    {
+                      "number": "6905",
+                      "numText": "§ 6905.",
+                      "heading": "Service on board of directors of Union Station Redevelopment Corporation",
+                      "identifier": "/us/usc/t40/s6905"
+                    },
+                    {
+                      "number": "6906",
+                      "numText": "§ 6906.",
+                      "heading": "Union Station Fund",
+                      "identifier": "/us/usc/t40/s6906"
+                    },
+                    {
+                      "number": "6907",
+                      "numText": "§ 6907.",
+                      "heading": "Use of other appropriated amounts",
+                      "identifier": "/us/usc/t40/s6907"
+                    },
+                    {
+                      "number": "6908",
+                      "numText": "§ 6908.",
+                      "heading": "Parking facility",
+                      "identifier": "/us/usc/t40/s6908"
+                    },
+                    {
+                      "number": "6909",
+                      "numText": "§ 6909.",
+                      "heading": "Supplying steam or chilled water to Union Station complex",
+                      "identifier": "/us/usc/t40/s6909"
+                    },
+                    {
+                      "number": "6910",
+                      "numText": "§ 6910.",
+                      "heading": "Authorization of appropriations",
+                      "identifier": "/us/usc/t40/s6910"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "NATIONAL VISITOR FACILITIES ADVISORY COMMISSION",
+                  "identifier": "/us/usc/t40/stII/ptC/ch69/schII",
+                  "children": [
+                    {
+                      "number": "6921",
+                      "numText": "§ 6921.",
+                      "heading": "Establishment, composition, and meetings",
+                      "identifier": "/us/usc/t40/s6921"
+                    },
+                    {
+                      "number": "6922",
+                      "numText": "§ 6922.",
+                      "heading": "Duties",
+                      "identifier": "/us/usc/t40/s6922"
+                    },
+                    {
+                      "number": "6923",
+                      "numText": "§ 6923.",
+                      "heading": "Compensation and expenses",
+                      "identifier": "/us/usc/t40/s6923"
+                    },
+                    {
+                      "number": "6924",
+                      "numText": "§ 6924.",
+                      "heading": "Reports and recommendations",
+                      "identifier": "/us/usc/t40/s6924"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "part",
+          "number": "D",
+          "heading": "PUBLIC BUILDINGS, GROUNDS, AND PARKS IN THE DISTRICT OF COLUMBIA",
+          "identifier": "/us/usc/t40/stII/ptD",
+          "children": [
+            {
+              "type": "chapter",
+              "number": "81",
+              "heading": "ADMINISTRATIVE",
+              "identifier": "/us/usc/t40/stII/ptD/ch81",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "GENERAL",
+                  "identifier": "/us/usc/t40/stII/ptD/ch81/schI",
+                  "children": [
+                    {
+                      "number": "8101",
+                      "numText": "§ 8101.",
+                      "heading": "Supervision of public buildings and grounds in District of Columbia not otherwise provided for by law",
+                      "identifier": "/us/usc/t40/s8101"
+                    },
+                    {
+                      "number": "8102",
+                      "numText": "§ 8102.",
+                      "heading": "Protection of Federal Government buildings in District of Columbia",
+                      "identifier": "/us/usc/t40/s8102"
+                    },
+                    {
+                      "number": "8103",
+                      "numText": "§ 8103.",
+                      "heading": "Application of District of Columbia laws to public buildings and grounds",
+                      "identifier": "/us/usc/t40/s8103"
+                    },
+                    {
+                      "number": "8104",
+                      "numText": "§ 8104.",
+                      "heading": "Regulation of private and semipublic buildings adjacent to public buildings and grounds",
+                      "identifier": "/us/usc/t40/s8104"
+                    },
+                    {
+                      "number": "8105",
+                      "numText": "§ 8105.",
+                      "heading": "Approval by Administrator of General Services",
+                      "identifier": "/us/usc/t40/s8105"
+                    },
+                    {
+                      "number": "8106",
+                      "numText": "§ 8106.",
+                      "heading": "Buildings on reservations, parks, or public grounds",
+                      "identifier": "/us/usc/t40/s8106"
+                    },
+                    {
+                      "number": "8107",
+                      "numText": "§ 8107.",
+                      "heading": "Advertisements and sales in or around Washington Monument",
+                      "identifier": "/us/usc/t40/s8107"
+                    },
+                    {
+                      "number": "8108",
+                      "numText": "§ 8108.",
+                      "heading": "Use of public buildings for public ceremonies",
+                      "identifier": "/us/usc/t40/s8108"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "JURISDICTION",
+                  "identifier": "/us/usc/t40/stII/ptD/ch81/schII",
+                  "children": [
+                    {
+                      "number": "8121",
+                      "numText": "§ 8121.",
+                      "heading": "Improper appropriation of streets",
+                      "identifier": "/us/usc/t40/s8121"
+                    },
+                    {
+                      "number": "8122",
+                      "numText": "§ 8122.",
+                      "heading": "Jurisdiction over portion of Constitution Avenue",
+                      "identifier": "/us/usc/t40/s8122"
+                    },
+                    {
+                      "number": "8123",
+                      "numText": "§ 8123.",
+                      "heading": "Record of transfer of jurisdiction between Director of National Park Service and Mayor of District of Columbia",
+                      "identifier": "/us/usc/t40/s8123"
+                    },
+                    {
+                      "number": "8124",
+                      "numText": "§ 8124.",
+                      "heading": "Transfer of jurisdiction between Federal and District of Columbia authorities",
+                      "identifier": "/us/usc/t40/s8124"
+                    },
+                    {
+                      "number": "8125",
+                      "numText": "§ 8125.",
+                      "heading": "Public spaces resulting from filling of canals",
+                      "identifier": "/us/usc/t40/s8125"
+                    },
+                    {
+                      "number": "8126",
+                      "numText": "§ 8126.",
+                      "heading": "Temporary occupancy of Potomac Park by Secretary of Agriculture",
+                      "identifier": "/us/usc/t40/s8126"
+                    },
+                    {
+                      "number": "8127",
+                      "numText": "§ 8127.",
+                      "heading": "Part of Washington Aqueduct for playground purposes",
+                      "identifier": "/us/usc/t40/s8127"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "SERVICES FOR FACILITIES",
+                  "identifier": "/us/usc/t40/stII/ptD/ch81/schIII",
+                  "children": [
+                    {
+                      "number": "8141",
+                      "numText": "§ 8141.",
+                      "heading": "Contract to rent buildings in the District of Columbia not to be made until appropriation enacted",
+                      "identifier": "/us/usc/t40/s8141"
+                    },
+                    {
+                      "number": "8142",
+                      "numText": "§ 8142.",
+                      "heading": "Rent of other buildings",
+                      "identifier": "/us/usc/t40/s8142"
+                    },
+                    {
+                      "number": "8143",
+                      "numText": "§ 8143.",
+                      "heading": "Heat",
+                      "identifier": "/us/usc/t40/s8143"
+                    },
+                    {
+                      "number": "8144",
+                      "numText": "§ 8144.",
+                      "heading": "Delivery of fuel for use during ensuing fiscal year",
+                      "identifier": "/us/usc/t40/s8144"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "IV",
+                  "heading": "MISCELLANEOUS",
+                  "identifier": "/us/usc/t40/stII/ptD/ch81/schIV",
+                  "children": [
+                    {
+                      "number": "8161",
+                      "numText": "§ 8161.",
+                      "heading": "Reservation of parking spaces for Members of Congress",
+                      "identifier": "/us/usc/t40/s8161"
+                    },
+                    {
+                      "number": "8162",
+                      "numText": "§ 8162.",
+                      "heading": "Ailanthus trees prohibited",
+                      "identifier": "/us/usc/t40/s8162"
+                    },
+                    {
+                      "number": "8163",
+                      "numText": "§ 8163.",
+                      "heading": "Use of greenhouses and nursery for trees, shrubs, and plants",
+                      "identifier": "/us/usc/t40/s8163"
+                    },
+                    {
+                      "number": "8164",
+                      "numText": "§ 8164.",
+                      "heading": "E. Barrett Prettyman United States Courthouse",
+                      "identifier": "/us/usc/t40/s8164"
+                    },
+                    {
+                      "number": "8165",
+                      "numText": "§ 8165.",
+                      "heading": "Services for Office of Personnel Management",
+                      "identifier": "/us/usc/t40/s8165"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "83",
+              "heading": "WASHINGTON METROPOLITAN REGION DEVELOPMENT",
+              "identifier": "/us/usc/t40/stII/ptD/ch83",
+              "children": [
+                {
+                  "number": "8301",
+                  "numText": "§ 8301.",
+                  "heading": "Definition",
+                  "identifier": "/us/usc/t40/s8301"
+                },
+                {
+                  "number": "8302",
+                  "numText": "§ 8302.",
+                  "heading": "Necessity for coordination in the development of the Washington metropolitan region",
+                  "identifier": "/us/usc/t40/s8302"
+                },
+                {
+                  "number": "8303",
+                  "numText": "§ 8303.",
+                  "heading": "Declaration of policy of coordinated development and management",
+                  "identifier": "/us/usc/t40/s8303"
+                },
+                {
+                  "number": "8304",
+                  "numText": "§ 8304.",
+                  "heading": "Priority projects",
+                  "identifier": "/us/usc/t40/s8304"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "85",
+              "heading": "NATIONAL CAPITAL SERVICE AREA AND DIRECTOR",
+              "identifier": "/us/usc/t40/stII/ptD/ch85",
+              "children": [
+                {
+                  "number": "8501",
+                  "numText": "§ 8501.",
+                  "heading": "National Capital Service Area",
+                  "identifier": "/us/usc/t40/s8501"
+                },
+                {
+                  "number": "8502",
+                  "numText": "§ 8502.",
+                  "heading": "National Capital Service Director",
+                  "identifier": "/us/usc/t40/s8502"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "87",
+              "heading": "PHYSICAL DEVELOPMENT OF NATIONAL CAPITAL REGION",
+              "identifier": "/us/usc/t40/stII/ptD/ch87",
+              "children": [
+                {
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "GENERAL",
+                  "identifier": "/us/usc/t40/stII/ptD/ch87/schI",
+                  "children": [
+                    {
+                      "number": "8701",
+                      "numText": "§ 8701.",
+                      "heading": "Findings and purposes",
+                      "identifier": "/us/usc/t40/s8701"
+                    },
+                    {
+                      "number": "8702",
+                      "numText": "§ 8702.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t40/s8702"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "PLANNING AGENCIES",
+                  "identifier": "/us/usc/t40/stII/ptD/ch87/schII",
+                  "children": [
+                    {
+                      "number": "8711",
+                      "numText": "§ 8711.",
+                      "heading": "National Capital Planning Commission",
+                      "identifier": "/us/usc/t40/s8711"
+                    },
+                    {
+                      "number": "8712",
+                      "numText": "§ 8712.",
+                      "heading": "Mayor of the District of Columbia",
+                      "identifier": "/us/usc/t40/s8712"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "III",
+                  "heading": "PLANNING PROCESS",
+                  "identifier": "/us/usc/t40/stII/ptD/ch87/schIII",
+                  "children": [
+                    {
+                      "number": "8721",
+                      "numText": "§ 8721.",
+                      "heading": "Comprehensive plan for the National Capital",
+                      "identifier": "/us/usc/t40/s8721"
+                    },
+                    {
+                      "number": "8722",
+                      "numText": "§ 8722.",
+                      "heading": "Proposed federal and district developments and projects",
+                      "identifier": "/us/usc/t40/s8722"
+                    },
+                    {
+                      "number": "8723",
+                      "numText": "§ 8723.",
+                      "heading": "Capital improvements",
+                      "identifier": "/us/usc/t40/s8723"
+                    },
+                    {
+                      "number": "8724",
+                      "numText": "§ 8724.",
+                      "heading": "Zoning regulations and maps",
+                      "identifier": "/us/usc/t40/s8724"
+                    },
+                    {
+                      "number": "8725",
+                      "numText": "§ 8725.",
+                      "heading": "Recommendations on platting and subdividing land",
+                      "identifier": "/us/usc/t40/s8725"
+                    },
+                    {
+                      "number": "8726",
+                      "numText": "§ 8726.",
+                      "heading": "Authorization of appropriations",
+                      "identifier": "/us/usc/t40/s8726"
+                    }
+                  ]
+                },
+                {
+                  "type": "subchapter",
+                  "number": "IV",
+                  "heading": "ACQUIRING AND DISPOSING OF LAND",
+                  "identifier": "/us/usc/t40/stII/ptD/ch87/schIV",
+                  "children": [
+                    {
+                      "number": "8731",
+                      "numText": "§ 8731.",
+                      "heading": "Acquiring land for park, parkway, or playground purposes",
+                      "identifier": "/us/usc/t40/s8731"
+                    },
+                    {
+                      "number": "8732",
+                      "numText": "§ 8732.",
+                      "heading": "Acquiring land subject to limited rights reserved to grantor and limited permanent rights in land adjoining park property",
+                      "identifier": "/us/usc/t40/s8732"
+                    },
+                    {
+                      "number": "8733",
+                      "numText": "§ 8733.",
+                      "heading": "Lease of land acquired for park, parkway, or playground purposes",
+                      "identifier": "/us/usc/t40/s8733"
+                    },
+                    {
+                      "number": "8734",
+                      "numText": "§ 8734.",
+                      "heading": "Sale of land by Mayor",
+                      "identifier": "/us/usc/t40/s8734"
+                    },
+                    {
+                      "number": "8735",
+                      "numText": "§ 8735.",
+                      "heading": "Sale of land by Secretary of the Interior",
+                      "identifier": "/us/usc/t40/s8735"
+                    },
+                    {
+                      "number": "8736",
+                      "numText": "§ 8736.",
+                      "heading": "Execution of deeds",
+                      "identifier": "/us/usc/t40/s8736"
+                    },
+                    {
+                      "number": "8737",
+                      "numText": "§ 8737.",
+                      "heading": "Authorization of appropriations",
+                      "identifier": "/us/usc/t40/s8737"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "89",
+              "heading": "NATIONAL CAPITAL MEMORIALS AND COMMEMORATIVE WORKS",
+              "identifier": "/us/usc/t40/stII/ptD/ch89",
+              "children": [
+                {
+                  "number": "8901",
+                  "numText": "§ 8901.",
+                  "heading": "Purposes",
+                  "identifier": "/us/usc/t40/s8901"
+                },
+                {
+                  "number": "8902",
+                  "numText": "§ 8902.",
+                  "heading": "Definitions and nonapplication",
+                  "identifier": "/us/usc/t40/s8902"
+                },
+                {
+                  "number": "8903",
+                  "numText": "§ 8903.",
+                  "heading": "Congressional authorization of commemorative works",
+                  "identifier": "/us/usc/t40/s8903"
+                },
+                {
+                  "number": "8904",
+                  "numText": "§ 8904.",
+                  "heading": "National Capital Memorial Advisory Commission",
+                  "identifier": "/us/usc/t40/s8904"
+                },
+                {
+                  "number": "8905",
+                  "numText": "§ 8905.",
+                  "heading": "Site and design approval",
+                  "identifier": "/us/usc/t40/s8905"
+                },
+                {
+                  "number": "8906",
+                  "numText": "§ 8906.",
+                  "heading": "Criteria for issuance of construction permit",
+                  "identifier": "/us/usc/t40/s8906"
+                },
+                {
+                  "number": "8907",
+                  "numText": "§ 8907.",
+                  "heading": "Temporary site designation",
+                  "identifier": "/us/usc/t40/s8907"
+                },
+                {
+                  "number": "8908",
+                  "numText": "§ 8908.",
+                  "heading": "Areas I and II",
+                  "identifier": "/us/usc/t40/s8908"
+                },
+                {
+                  "number": "8909",
+                  "numText": "§ 8909.",
+                  "heading": "Administrative",
+                  "identifier": "/us/usc/t40/s8909"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "91",
+              "heading": "COMMISSION OF FINE ARTS",
+              "identifier": "/us/usc/t40/stII/ptD/ch91",
+              "children": [
+                {
+                  "number": "9101",
+                  "numText": "§ 9101.",
+                  "heading": "Establishment, composition, and vacancies",
+                  "identifier": "/us/usc/t40/s9101"
+                },
+                {
+                  "number": "9102",
+                  "numText": "§ 9102.",
+                  "heading": "Duties",
+                  "identifier": "/us/usc/t40/s9102"
+                },
+                {
+                  "number": "9103",
+                  "numText": "§ 9103.",
+                  "heading": "Personnel",
+                  "identifier": "/us/usc/t40/s9103"
+                },
+                {
+                  "number": "9104",
+                  "numText": "§ 9104.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t40/s9104"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "93",
+              "heading": "THEODORE ROOSEVELT ISLAND",
+              "identifier": "/us/usc/t40/stII/ptD/ch93",
+              "children": [
+                {
+                  "number": "9301",
+                  "numText": "§ 9301.",
+                  "heading": "Maintenance and administration",
+                  "identifier": "/us/usc/t40/s9301"
+                },
+                {
+                  "number": "9302",
+                  "numText": "§ 9302.",
+                  "heading": "Consent of Theodore Roosevelt Association required for development",
+                  "identifier": "/us/usc/t40/s9302"
+                },
+                {
+                  "number": "9303",
+                  "numText": "§ 9303.",
+                  "heading": "Access to Theodore Roosevelt Island",
+                  "identifier": "/us/usc/t40/s9303"
+                },
+                {
+                  "number": "9304",
+                  "numText": "§ 9304.",
+                  "heading": "Source of appropriations",
+                  "identifier": "/us/usc/t40/s9304"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "95",
+              "heading": "WASHINGTON AQUEDUCT AND OTHER PUBLIC WORKS IN THE DISTRICT OF COLUMBIA",
+              "identifier": "/us/usc/t40/stII/ptD/ch95",
+              "children": [
+                {
+                  "number": "9501",
+                  "numText": "§ 9501.",
+                  "heading": "Chief of Engineers",
+                  "identifier": "/us/usc/t40/s9501"
+                },
+                {
+                  "number": "9502",
+                  "numText": "§ 9502.",
+                  "heading": "Authority of Chief of Engineers",
+                  "identifier": "/us/usc/t40/s9502"
+                },
+                {
+                  "number": "9503",
+                  "numText": "§ 9503.",
+                  "heading": "Record of property",
+                  "identifier": "/us/usc/t40/s9503"
+                },
+                {
+                  "number": "9504",
+                  "numText": "§ 9504.",
+                  "heading": "Reports",
+                  "identifier": "/us/usc/t40/s9504"
+                },
+                {
+                  "number": "9505",
+                  "numText": "§ 9505.",
+                  "heading": "Paying for main pipes",
+                  "identifier": "/us/usc/t40/s9505"
+                },
+                {
+                  "number": "9506",
+                  "numText": "§ 9506.",
+                  "heading": "Civil penalty",
+                  "identifier": "/us/usc/t40/s9506"
+                },
+                {
+                  "number": "9507",
+                  "numText": "§ 9507.",
+                  "heading": "Control of expenditures",
+                  "identifier": "/us/usc/t40/s9507"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "III",
+      "heading": "INFORMATION TECHNOLOGY MANAGEMENT",
+      "identifier": "/us/usc/t40/stIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "111",
+          "heading": "GENERAL",
+          "identifier": "/us/usc/t40/stIII/ch111",
+          "children": [
+            {
+              "number": "11101",
+              "numText": "§ 11101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s11101"
+            },
+            {
+              "number": "11102",
+              "numText": "§ 11102.",
+              "heading": "Sense of Congress",
+              "identifier": "/us/usc/t40/s11102"
+            },
+            {
+              "number": "11103",
+              "numText": "§ 11103.",
+              "heading": "Applicability to national security systems",
+              "identifier": "/us/usc/t40/s11103"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "113",
+          "heading": "RESPONSIBILITY FOR ACQUISITIONS OF INFORMATION TECHNOLOGY",
+          "identifier": "/us/usc/t40/stIII/ch113",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "DIRECTOR OF OFFICE OF MANAGEMENT AND BUDGET",
+              "identifier": "/us/usc/t40/stIII/ch113/schI",
+              "children": [
+                {
+                  "number": "11301",
+                  "numText": "§ 11301.",
+                  "heading": "Responsibility of Director",
+                  "identifier": "/us/usc/t40/s11301"
+                },
+                {
+                  "number": "11302",
+                  "numText": "§ 11302.",
+                  "heading": "Capital planning and investment control",
+                  "identifier": "/us/usc/t40/s11302"
+                },
+                {
+                  "number": "11303",
+                  "numText": "§ 11303.",
+                  "heading": "Performance-based and results-based management",
+                  "identifier": "/us/usc/t40/s11303"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "EXECUTIVE AGENCIES",
+              "identifier": "/us/usc/t40/stIII/ch113/schII",
+              "children": [
+                {
+                  "number": "11311",
+                  "numText": "§ 11311.",
+                  "heading": "Responsibilities",
+                  "identifier": "/us/usc/t40/s11311"
+                },
+                {
+                  "number": "11312",
+                  "numText": "§ 11312.",
+                  "heading": "Capital planning and investment control",
+                  "identifier": "/us/usc/t40/s11312"
+                },
+                {
+                  "number": "11313",
+                  "numText": "§ 11313.",
+                  "heading": "Performance and results-based management",
+                  "identifier": "/us/usc/t40/s11313"
+                },
+                {
+                  "number": "11314",
+                  "numText": "§ 11314.",
+                  "heading": "Authority to acquire and manage information technology",
+                  "identifier": "/us/usc/t40/s11314"
+                },
+                {
+                  "number": "11315",
+                  "numText": "§ 11315.",
+                  "heading": "Agency Chief Information Officer",
+                  "identifier": "/us/usc/t40/s11315"
+                },
+                {
+                  "number": "11316",
+                  "numText": "§ 11316.",
+                  "heading": "Accountability",
+                  "identifier": "/us/usc/t40/s11316"
+                },
+                {
+                  "number": "11317",
+                  "numText": "§ 11317.",
+                  "heading": "Significant deviations",
+                  "identifier": "/us/usc/t40/s11317"
+                },
+                {
+                  "number": "11318",
+                  "numText": "§ 11318.",
+                  "heading": "Interagency support",
+                  "identifier": "/us/usc/t40/s11318"
+                },
+                {
+                  "number": "11319",
+                  "numText": "§ 11319.",
+                  "heading": "Resources, planning, and portfolio management",
+                  "identifier": "/us/usc/t40/s11319"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "OTHER RESPONSIBILITIES",
+              "identifier": "/us/usc/t40/stIII/ch113/schIII",
+              "children": [
+                {
+                  "number": "11331",
+                  "numText": "§ 11331.",
+                  "heading": "Responsibilities for Federal information systems standards",
+                  "identifier": "/us/usc/t40/s11331"
+                },
+                {
+                  "number": "11332",
+                  "numText": "[§ 11332.",
+                  "heading": "Repealed. Pub. L. 107–296, title X, § 1005(a)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, § 305(a), Dec. 17, 2002, 116 Stat. 2960]",
+                  "identifier": "/us/usc/t40/s11332"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "115",
+          "heading": "INFORMATION TECHNOLOGY ACQUISITION PILOT PROGRAM",
+          "identifier": "/us/usc/t40/stIII/ch115",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "CONDUCT OF PILOT PROGRAM",
+              "identifier": "/us/usc/t40/stIII/ch115/schI",
+              "children": [
+                {
+                  "number": "11501",
+                  "numText": "§ 11501.",
+                  "heading": "Authority to conduct pilot program",
+                  "identifier": "/us/usc/t40/s11501"
+                },
+                {
+                  "number": "11502",
+                  "numText": "§ 11502.",
+                  "heading": "Evaluation criteria and plans",
+                  "identifier": "/us/usc/t40/s11502"
+                },
+                {
+                  "number": "11503",
+                  "numText": "§ 11503.",
+                  "heading": "Report",
+                  "identifier": "/us/usc/t40/s11503"
+                },
+                {
+                  "number": "11504",
+                  "numText": "§ 11504.",
+                  "heading": "Recommended legislation",
+                  "identifier": "/us/usc/t40/s11504"
+                },
+                {
+                  "number": "11505",
+                  "numText": "§ 11505.",
+                  "heading": "Rule of construction",
+                  "identifier": "/us/usc/t40/s11505"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "SPECIFIC PILOT PROGRAM",
+              "identifier": "/us/usc/t40/stIII/ch115/schII",
+              "children": [
+                {
+                  "number": "11521",
+                  "numText": "[§ 11521.",
+                  "heading": "Repealed. Pub. L. 107–347, title II, § 210(h)(1), Dec. 17, 2002, 116 Stat. 2938]",
+                  "identifier": "/us/usc/t40/s11521"
+                },
+                {
+                  "number": "11522",
+                  "numText": "[§ 11522.",
+                  "heading": "Repealed. Pub. L. 107–314, div. A, title VIII, § 825(b)(1), Dec. 2, 2002, 116 Stat. 2615]",
+                  "identifier": "/us/usc/t40/s11522"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "117",
+          "heading": "ADDITIONAL INFORMATION RESOURCES MANAGEMENT MATTERS",
+          "identifier": "/us/usc/t40/stIII/ch117",
+          "children": [
+            {
+              "number": "11701",
+              "numText": "§ 11701.",
+              "heading": "Identification of excess and surplus computer equipment",
+              "identifier": "/us/usc/t40/s11701"
+            },
+            {
+              "number": "11702",
+              "numText": "§ 11702.",
+              "heading": "Index of certain information in information systems included in directory established under section 4101 of title 44",
+              "identifier": "/us/usc/t40/s11702"
+            },
+            {
+              "number": "11703",
+              "numText": "§ 11703.",
+              "heading": "Procurement procedures",
+              "identifier": "/us/usc/t40/s11703"
+            },
+            {
+              "number": "11704",
+              "numText": "[§ 11704.",
+              "heading": "Renumbered § 11703]",
+              "identifier": "/us/usc/t40/s11704"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "IV",
+      "heading": "APPALACHIAN REGIONAL DEVELOPMENT",
+      "identifier": "/us/usc/t40/stIV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "141",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t40/stIV/ch141",
+          "children": [
+            {
+              "number": "14101",
+              "numText": "§ 14101.",
+              "heading": "Findings and purposes",
+              "identifier": "/us/usc/t40/s14101"
+            },
+            {
+              "number": "14102",
+              "numText": "§ 14102.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s14102"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "143",
+          "heading": "APPALACHIAN REGIONAL COMMISSION",
+          "identifier": "/us/usc/t40/stIV/ch143",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "ORGANIZATION AND ADMINISTRATION",
+              "identifier": "/us/usc/t40/stIV/ch143/schI",
+              "children": [
+                {
+                  "number": "14301",
+                  "numText": "§ 14301.",
+                  "heading": "Establishment, membership, and employees",
+                  "identifier": "/us/usc/t40/s14301"
+                },
+                {
+                  "number": "14302",
+                  "numText": "§ 14302.",
+                  "heading": "Decisions",
+                  "identifier": "/us/usc/t40/s14302"
+                },
+                {
+                  "number": "14303",
+                  "numText": "§ 14303.",
+                  "heading": "Functions",
+                  "identifier": "/us/usc/t40/s14303"
+                },
+                {
+                  "number": "14304",
+                  "numText": "§ 14304.",
+                  "heading": "Recommendations",
+                  "identifier": "/us/usc/t40/s14304"
+                },
+                {
+                  "number": "14305",
+                  "numText": "§ 14305.",
+                  "heading": "Liaison between Federal Government and Commission",
+                  "identifier": "/us/usc/t40/s14305"
+                },
+                {
+                  "number": "14306",
+                  "numText": "§ 14306.",
+                  "heading": "Administrative powers and expenses",
+                  "identifier": "/us/usc/t40/s14306"
+                },
+                {
+                  "number": "14307",
+                  "numText": "§ 14307.",
+                  "heading": "Meetings",
+                  "identifier": "/us/usc/t40/s14307"
+                },
+                {
+                  "number": "14308",
+                  "numText": "§ 14308.",
+                  "heading": "Information",
+                  "identifier": "/us/usc/t40/s14308"
+                },
+                {
+                  "number": "14309",
+                  "numText": "§ 14309.",
+                  "heading": "Personal financial interests",
+                  "identifier": "/us/usc/t40/s14309"
+                },
+                {
+                  "number": "14310",
+                  "numText": "§ 14310.",
+                  "heading": "Annual report",
+                  "identifier": "/us/usc/t40/s14310"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "FINANCIAL ASSISTANCE",
+              "identifier": "/us/usc/t40/stIV/ch143/schII",
+              "children": [
+                {
+                  "number": "14321",
+                  "numText": "§ 14321.",
+                  "heading": "Grants and other assistance",
+                  "identifier": "/us/usc/t40/s14321"
+                },
+                {
+                  "number": "14322",
+                  "numText": "§ 14322.",
+                  "heading": "Approval of development plans, strategy statements, and projects",
+                  "identifier": "/us/usc/t40/s14322"
+                },
+                {
+                  "number": "14323",
+                  "numText": "§ 14323.",
+                  "heading": "Congressional notification",
+                  "identifier": "/us/usc/t40/s14323"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "145",
+          "heading": "SPECIAL APPALACHIAN PROGRAMS",
+          "identifier": "/us/usc/t40/stIV/ch145",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "PROGRAMS",
+              "identifier": "/us/usc/t40/stIV/ch145/schI",
+              "children": [
+                {
+                  "number": "14501",
+                  "numText": "§ 14501.",
+                  "heading": "Appalachian development highway system",
+                  "identifier": "/us/usc/t40/s14501"
+                },
+                {
+                  "number": "14502",
+                  "numText": "§ 14502.",
+                  "heading": "Demonstration health projects",
+                  "identifier": "/us/usc/t40/s14502"
+                },
+                {
+                  "number": "14503",
+                  "numText": "§ 14503.",
+                  "heading": "Assistance for proposed low- and middle-income housing projects",
+                  "identifier": "/us/usc/t40/s14503"
+                },
+                {
+                  "number": "14504",
+                  "numText": "§ 14504.",
+                  "heading": "Telecommunications and technology initiative",
+                  "identifier": "/us/usc/t40/s14504"
+                },
+                {
+                  "number": "14505",
+                  "numText": "§ 14505.",
+                  "heading": "Entrepreneurship initiative",
+                  "identifier": "/us/usc/t40/s14505"
+                },
+                {
+                  "number": "14506",
+                  "numText": "§ 14506.",
+                  "heading": "Regional skills partnerships",
+                  "identifier": "/us/usc/t40/s14506"
+                },
+                {
+                  "number": "14507",
+                  "numText": "§ 14507.",
+                  "heading": "Supplements to federal grant programs",
+                  "identifier": "/us/usc/t40/s14507"
+                },
+                {
+                  "number": "14508",
+                  "numText": "§ 14508.",
+                  "heading": "Economic and energy development initiative",
+                  "identifier": "/us/usc/t40/s14508"
+                },
+                {
+                  "number": "14509",
+                  "numText": "§ 14509.",
+                  "heading": "High-speed broadband deployment initiative",
+                  "identifier": "/us/usc/t40/s14509"
+                },
+                {
+                  "number": "14510",
+                  "numText": "§ 14510.",
+                  "heading": "Drug abuse mitigation initiative",
+                  "identifier": "/us/usc/t40/s14510"
+                },
+                {
+                  "number": "14511",
+                  "numText": "§ 14511.",
+                  "heading": "Appalachian regional energy hub initiative",
+                  "identifier": "/us/usc/t40/s14511"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "ADMINISTRATIVE",
+              "identifier": "/us/usc/t40/stIV/ch145/schII",
+              "children": [
+                {
+                  "number": "14521",
+                  "numText": "§ 14521.",
+                  "heading": "Required level of expenditure",
+                  "identifier": "/us/usc/t40/s14521"
+                },
+                {
+                  "number": "14522",
+                  "numText": "§ 14522.",
+                  "heading": "Consent of States",
+                  "identifier": "/us/usc/t40/s14522"
+                },
+                {
+                  "number": "14523",
+                  "numText": "§ 14523.",
+                  "heading": "Program implementation",
+                  "identifier": "/us/usc/t40/s14523"
+                },
+                {
+                  "number": "14524",
+                  "numText": "§ 14524.",
+                  "heading": "Program development criteria",
+                  "identifier": "/us/usc/t40/s14524"
+                },
+                {
+                  "number": "14525",
+                  "numText": "§ 14525.",
+                  "heading": "State development planning process",
+                  "identifier": "/us/usc/t40/s14525"
+                },
+                {
+                  "number": "14526",
+                  "numText": "§ 14526.",
+                  "heading": "Distressed, at-risk, and economically strong counties",
+                  "identifier": "/us/usc/t40/s14526"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "147",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t40/stIV/ch147",
+          "children": [
+            {
+              "number": "14701",
+              "numText": "§ 14701.",
+              "heading": "Applicable labor standards",
+              "identifier": "/us/usc/t40/s14701"
+            },
+            {
+              "number": "14702",
+              "numText": "§ 14702.",
+              "heading": "Nondiscrimination",
+              "identifier": "/us/usc/t40/s14702"
+            },
+            {
+              "number": "14703",
+              "numText": "§ 14703.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t40/s14703"
+            },
+            {
+              "number": "14704",
+              "numText": "§ 14704.",
+              "heading": "Termination",
+              "identifier": "/us/usc/t40/s14704"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "V",
+      "heading": "REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT",
+      "identifier": "/us/usc/t40/stV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "151",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t40/stV/ch151",
+          "children": [
+            {
+              "number": "15101",
+              "numText": "§ 15101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s15101"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "153",
+          "heading": "REGIONAL COMMISSIONS",
+          "identifier": "/us/usc/t40/stV/ch153",
+          "children": [
+            {
+              "number": "15301",
+              "numText": "§ 15301.",
+              "heading": "Establishment, membership, and employees",
+              "identifier": "/us/usc/t40/s15301"
+            },
+            {
+              "number": "15302",
+              "numText": "§ 15302.",
+              "heading": "Decisions",
+              "identifier": "/us/usc/t40/s15302"
+            },
+            {
+              "number": "15303",
+              "numText": "§ 15303.",
+              "heading": "Functions",
+              "identifier": "/us/usc/t40/s15303"
+            },
+            {
+              "number": "15304",
+              "numText": "§ 15304.",
+              "heading": "Administrative powers and expenses",
+              "identifier": "/us/usc/t40/s15304"
+            },
+            {
+              "number": "15305",
+              "numText": "§ 15305.",
+              "heading": "Meetings",
+              "identifier": "/us/usc/t40/s15305"
+            },
+            {
+              "number": "15306",
+              "numText": "§ 15306.",
+              "heading": "Personal financial interests",
+              "identifier": "/us/usc/t40/s15306"
+            },
+            {
+              "number": "15307",
+              "numText": "§ 15307.",
+              "heading": "Tribal participation",
+              "identifier": "/us/usc/t40/s15307"
+            },
+            {
+              "number": "15308",
+              "numText": "§ 15308.",
+              "heading": "Transfer of funds among Federal agencies",
+              "identifier": "/us/usc/t40/s15308"
+            },
+            {
+              "number": "15309",
+              "numText": "§ 15309.",
+              "heading": "Annual report",
+              "identifier": "/us/usc/t40/s15309"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "155",
+          "heading": "FINANCIAL ASSISTANCE",
+          "identifier": "/us/usc/t40/stV/ch155",
+          "children": [
+            {
+              "number": "15501",
+              "numText": "§ 15501.",
+              "heading": "Economic and infrastructure development grants",
+              "identifier": "/us/usc/t40/s15501"
+            },
+            {
+              "number": "15502",
+              "numText": "§ 15502.",
+              "heading": "Comprehensive economic and infrastructure development plans",
+              "identifier": "/us/usc/t40/s15502"
+            },
+            {
+              "number": "15503",
+              "numText": "§ 15503.",
+              "heading": "Approval of applications for assistance",
+              "identifier": "/us/usc/t40/s15503"
+            },
+            {
+              "number": "15504",
+              "numText": "§ 15504.",
+              "heading": "Program development criteria",
+              "identifier": "/us/usc/t40/s15504"
+            },
+            {
+              "number": "15505",
+              "numText": "§ 15505.",
+              "heading": "Local development districts and organizations",
+              "identifier": "/us/usc/t40/s15505"
+            },
+            {
+              "number": "15506",
+              "numText": "§ 15506.",
+              "heading": "Supplements to Federal grant programs",
+              "identifier": "/us/usc/t40/s15506"
+            },
+            {
+              "number": "15507",
+              "numText": "§ 15507.",
+              "heading": "Payment of non-Federal share for certain Federal grant programs",
+              "identifier": "/us/usc/t40/s15507"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "157",
+          "heading": "ADMINISTRATIVE PROVISIONS",
+          "identifier": "/us/usc/t40/stV/ch157",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "GENERAL PROVISIONS",
+              "identifier": "/us/usc/t40/stV/ch157/schI",
+              "children": [
+                {
+                  "number": "15701",
+                  "numText": "§ 15701.",
+                  "heading": "Consent of States",
+                  "identifier": "/us/usc/t40/s15701"
+                },
+                {
+                  "number": "15702",
+                  "numText": "§ 15702.",
+                  "heading": "Distressed counties and areas",
+                  "identifier": "/us/usc/t40/s15702"
+                },
+                {
+                  "number": "15703",
+                  "numText": "§ 15703.",
+                  "heading": "Counties eligible for assistance in more than one region",
+                  "identifier": "/us/usc/t40/s15703"
+                },
+                {
+                  "number": "15704",
+                  "numText": "§ 15704.",
+                  "heading": "Inspector General; records",
+                  "identifier": "/us/usc/t40/s15704"
+                },
+                {
+                  "number": "15705",
+                  "numText": "§ 15705.",
+                  "heading": "Biannual meetings of representatives of all Commissions",
+                  "identifier": "/us/usc/t40/s15705"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "DESIGNATION OF REGIONS",
+              "identifier": "/us/usc/t40/stV/ch157/schII",
+              "children": [
+                {
+                  "number": "15731",
+                  "numText": "§ 15731.",
+                  "heading": "Southeast Crescent Regional Commission",
+                  "identifier": "/us/usc/t40/s15731"
+                },
+                {
+                  "number": "15732",
+                  "numText": "§ 15732.",
+                  "heading": "Southwest Border Regional Commission",
+                  "identifier": "/us/usc/t40/s15732"
+                },
+                {
+                  "number": "15733",
+                  "numText": "§ 15733.",
+                  "heading": "Northern Border Regional Commission",
+                  "identifier": "/us/usc/t40/s15733"
+                },
+                {
+                  "number": "15734",
+                  "numText": "§ 15734.",
+                  "heading": "Great Lakes Authority",
+                  "identifier": "/us/usc/t40/s15734"
+                },
+                {
+                  "number": "15735",
+                  "numText": "§ 15735.",
+                  "heading": "Mid-Atlantic Regional Commission.",
+                  "identifier": "/us/usc/t40/s15735"
+                },
+                {
+                  "number": "15736",
+                  "numText": "§ 15736.",
+                  "heading": "Southern New England Regional Commission",
+                  "identifier": "/us/usc/t40/s15736"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "AUTHORIZATION OF APPROPRIATIONS",
+              "identifier": "/us/usc/t40/stV/ch157/schIII",
+              "children": [
+                {
+                  "number": "15751",
+                  "numText": "§ 15751.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t40/s15751"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "159",
+          "heading": "ADDITIONAL REGIONAL COMMISSION PROGRAMS",
+          "identifier": "/us/usc/t40/stV/ch159",
+          "children": [
+            {
+              "number": "15901",
+              "numText": "§ 15901.",
+              "heading": "State capacity building grant program",
+              "identifier": "/us/usc/t40/s15901"
+            },
+            {
+              "number": "15902",
+              "numText": "§ 15902.",
+              "heading": "Demonstration health projects",
+              "identifier": "/us/usc/t40/s15902"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "VI",
+      "heading": "MISCELLANEOUS",
+      "identifier": "/us/usc/t40/stVI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "171",
+          "heading": "SAFETY STANDARDS FOR MOTOR VEHICLES",
+          "identifier": "/us/usc/t40/stVI/ch171",
+          "children": [
+            {
+              "number": "17101",
+              "numText": "§ 17101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s17101"
+            },
+            {
+              "number": "17102",
+              "numText": "§ 17102.",
+              "heading": "Prohibition on acquisition or purchase of motor vehicles by Federal Government",
+              "identifier": "/us/usc/t40/s17102"
+            },
+            {
+              "number": "17103",
+              "numText": "§ 17103.",
+              "heading": "Commercial standards for passenger safety devices",
+              "identifier": "/us/usc/t40/s17103"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "173",
+          "heading": "GOVERNMENT LOSSES IN SHIPMENT",
+          "identifier": "/us/usc/t40/stVI/ch173",
+          "children": [
+            {
+              "number": "17301",
+              "numText": "§ 17301.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s17301"
+            },
+            {
+              "number": "17302",
+              "numText": "§ 17302.",
+              "heading": "Compliance",
+              "identifier": "/us/usc/t40/s17302"
+            },
+            {
+              "number": "17303",
+              "numText": "§ 17303.",
+              "heading": "Fund for the payment of Government losses in shipment",
+              "identifier": "/us/usc/t40/s17303"
+            },
+            {
+              "number": "17304",
+              "numText": "§ 17304.",
+              "heading": "Claim for replacement",
+              "identifier": "/us/usc/t40/s17304"
+            },
+            {
+              "number": "17305",
+              "numText": "§ 17305.",
+              "heading": "Replacing lost, destroyed, or damaged stamps, securities, obligations, or money",
+              "identifier": "/us/usc/t40/s17305"
+            },
+            {
+              "number": "17306",
+              "numText": "§ 17306.",
+              "heading": "Agreements of indemnity",
+              "identifier": "/us/usc/t40/s17306"
+            },
+            {
+              "number": "17307",
+              "numText": "§ 17307.",
+              "heading": "Purchase of insurance",
+              "identifier": "/us/usc/t40/s17307"
+            },
+            {
+              "number": "17308",
+              "numText": "§ 17308.",
+              "heading": "Presumption of lawful conduct",
+              "identifier": "/us/usc/t40/s17308"
+            },
+            {
+              "number": "17309",
+              "numText": "§ 17309.",
+              "heading": "Rules and regulations",
+              "identifier": "/us/usc/t40/s17309"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "175",
+          "heading": "FEDERAL MOTOR VEHICLE EXPENDITURE CONTROL",
+          "identifier": "/us/usc/t40/stVI/ch175",
+          "children": [
+            {
+              "number": "17501",
+              "numText": "§ 17501.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s17501"
+            },
+            {
+              "number": "17502",
+              "numText": "§ 17502.",
+              "heading": "Monitoring system",
+              "identifier": "/us/usc/t40/s17502"
+            },
+            {
+              "number": "17503",
+              "numText": "§ 17503.",
+              "heading": "Data collection",
+              "identifier": "/us/usc/t40/s17503"
+            },
+            {
+              "number": "17504",
+              "numText": "§ 17504.",
+              "heading": "Agency statements with respect to motor vehicle use",
+              "identifier": "/us/usc/t40/s17504"
+            },
+            {
+              "number": "17505",
+              "numText": "§ 17505.",
+              "heading": "Presidential report",
+              "identifier": "/us/usc/t40/s17505"
+            },
+            {
+              "number": "17506",
+              "numText": "§ 17506.",
+              "heading": "Reduction of storage and disposal costs",
+              "identifier": "/us/usc/t40/s17506"
+            },
+            {
+              "number": "17507",
+              "numText": "§ 17507.",
+              "heading": "Savings",
+              "identifier": "/us/usc/t40/s17507"
+            },
+            {
+              "number": "17508",
+              "numText": "§ 17508.",
+              "heading": "Compliance",
+              "identifier": "/us/usc/t40/s17508"
+            },
+            {
+              "number": "17509",
+              "numText": "§ 17509.",
+              "heading": "Applicability",
+              "identifier": "/us/usc/t40/s17509"
+            },
+            {
+              "number": "17510",
+              "numText": "§ 17510.",
+              "heading": "Cooperation",
+              "identifier": "/us/usc/t40/s17510"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "177",
+          "heading": "ALASKA COMMUNICATIONS DISPOSAL",
+          "identifier": "/us/usc/t40/stVI/ch177",
+          "children": [
+            {
+              "number": "17701",
+              "numText": "§ 17701.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s17701"
+            },
+            {
+              "number": "17702",
+              "numText": "§ 17702.",
+              "heading": "Transfer of Government-owned long-lines communication facilities in and to Alaska",
+              "identifier": "/us/usc/t40/s17702"
+            },
+            {
+              "number": "17703",
+              "numText": "§ 17703.",
+              "heading": "National defense considerations and qualification of transferee",
+              "identifier": "/us/usc/t40/s17703"
+            },
+            {
+              "number": "17704",
+              "numText": "§ 17704.",
+              "heading": "Contents of agreements for transfer",
+              "identifier": "/us/usc/t40/s17704"
+            },
+            {
+              "number": "17705",
+              "numText": "§ 17705.",
+              "heading": "Approval of Federal Communications Commission",
+              "identifier": "/us/usc/t40/s17705"
+            },
+            {
+              "number": "17706",
+              "numText": "§ 17706.",
+              "heading": "Gross proceeds as miscellaneous receipts in the Treasury",
+              "identifier": "/us/usc/t40/s17706"
+            },
+            {
+              "number": "17707",
+              "numText": "§ 17707.",
+              "heading": "Reports",
+              "identifier": "/us/usc/t40/s17707"
+            },
+            {
+              "number": "17708",
+              "numText": "§ 17708.",
+              "heading": "Nonapplication",
+              "identifier": "/us/usc/t40/s17708"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "179",
+          "heading": "ALASKA FEDERAL-CIVILIAN ENERGY EFFICIENCY SWAP",
+          "identifier": "/us/usc/t40/stVI/ch179",
+          "children": [
+            {
+              "number": "17901",
+              "numText": "§ 17901.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s17901"
+            },
+            {
+              "number": "17902",
+              "numText": "§ 17902.",
+              "heading": "Sale of electric energy",
+              "identifier": "/us/usc/t40/s17902"
+            },
+            {
+              "number": "17903",
+              "numText": "§ 17903.",
+              "heading": "Purchase of electric power",
+              "identifier": "/us/usc/t40/s17903"
+            },
+            {
+              "number": "17904",
+              "numText": "§ 17904.",
+              "heading": "Implementation powers and limitations",
+              "identifier": "/us/usc/t40/s17904"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "181",
+          "heading": "TELECOMMUNICATIONS ACCESSIBILITY FOR HEARING-IMPAIRED AND SPEECH-IMPAIRED INDIVIDUALS",
+          "identifier": "/us/usc/t40/stVI/ch181",
+          "children": [
+            {
+              "number": "18101",
+              "numText": "§ 18101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s18101"
+            },
+            {
+              "number": "18102",
+              "numText": "§ 18102.",
+              "heading": "Federal telecommunications system",
+              "identifier": "/us/usc/t40/s18102"
+            },
+            {
+              "number": "18103",
+              "numText": "§ 18103.",
+              "heading": "Research and development",
+              "identifier": "/us/usc/t40/s18103"
+            },
+            {
+              "number": "18104",
+              "numText": "§ 18104.",
+              "heading": "TTY installation by Congress",
+              "identifier": "/us/usc/t40/s18104"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "183",
+          "heading": "NATIONAL CAPITAL AREA INTEREST ARBITRATION STANDARDS",
+          "identifier": "/us/usc/t40/stVI/ch183",
+          "children": [
+            {
+              "number": "18301",
+              "numText": "§ 18301.",
+              "heading": "Findings and purposes",
+              "identifier": "/us/usc/t40/s18301"
+            },
+            {
+              "number": "18302",
+              "numText": "§ 18302.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t40/s18302"
+            },
+            {
+              "number": "18303",
+              "numText": "§ 18303.",
+              "heading": "Standards for arbitrators",
+              "identifier": "/us/usc/t40/s18303"
+            },
+            {
+              "number": "18304",
+              "numText": "§ 18304.",
+              "heading": "Procedures for enforcement of awards",
+              "identifier": "/us/usc/t40/s18304"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

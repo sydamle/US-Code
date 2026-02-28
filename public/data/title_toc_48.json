@@ -1,0 +1,4519 @@
+{
+  "number": "48",
+  "name": "Territories And Insular Possessions",
+  "identifier": "/us/usc/t48",
+  "version": "Online@119-73not60",
+  "updated": "2025-01-24",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "BUREAU OF INSULAR AFFAIRS",
+      "identifier": "/us/usc/t48/ch1",
+      "children": [
+        {
+          "number": "1",
+          "numText": "§ 1.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1"
+        },
+        {
+          "number": "2",
+          "numText": "§ 2.",
+          "heading": "Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641",
+          "identifier": "/us/usc/t48/s2"
+        },
+        {
+          "number": "3",
+          "numText": "§ 3.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 640",
+          "identifier": "/us/usc/t48/s3"
+        },
+        {
+          "number": "4, 5",
+          "numText": "§§ 4, 5.",
+          "heading": "Repealed. Dec. 16, 1930, ch. 14, § 1, 46 Stat. 1029",
+          "identifier": "/us/usc/t48/s4 /us/usc/t48/s5"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "ALASKA",
+      "identifier": "/us/usc/t48/ch2",
+      "children": [
+        {
+          "number": "21 to 27",
+          "numText": "§§ 21 to 27.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s21...27"
+        },
+        {
+          "number": "28",
+          "numText": "§ 28.",
+          "heading": "Repealed. Dec. 16, 1930, ch. 14, § 1, 46 Stat. 1029",
+          "identifier": "/us/usc/t48/s28"
+        },
+        {
+          "number": "29 to 38",
+          "numText": "§§ 29 to 38.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s29...38"
+        },
+        {
+          "number": "39",
+          "numText": "§ 39.",
+          "heading": "Repealed. Oct. 31, 1951, ch. 654, § 1(118)–(124), 65 Stat. 706",
+          "identifier": "/us/usc/t48/s39"
+        },
+        {
+          "number": "40, 41",
+          "numText": "§§ 40, 41.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s40 /us/usc/t48/s41"
+        },
+        {
+          "number": "42",
+          "numText": "§ 42.",
+          "heading": "Repealed. Dec. 16, 1930, ch. 14, § 1, 46 Stat. 1029",
+          "identifier": "/us/usc/t48/s42"
+        },
+        {
+          "number": "43 to 45",
+          "numText": "§§ 43 to 45.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s43...45"
+        },
+        {
+          "number": "46",
+          "numText": "§ 46.",
+          "heading": "Repealed. July 28, 1956, ch. 772, title III, § 301(a)(2), 70 Stat. 712",
+          "identifier": "/us/usc/t48/s46"
+        },
+        {
+          "number": "46–1 to 46–3",
+          "numText": "§§ 46–1 to 46–3.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s46–1...46–3"
+        },
+        {
+          "number": "46a",
+          "numText": "§ 46a.",
+          "heading": "Repealed. July 1, 1944, ch. 373, title VII, § 711, formerly title VI, § 611, 58 Stat. 714; renumbered Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049",
+          "identifier": "/us/usc/t48/s46a"
+        },
+        {
+          "number": "46b to 48a",
+          "numText": "§§ 46b to 48a.",
+          "heading": "Repealed. July 28, 1956, ch. 772, title III, § 301(a)(1), (3), (5), 70 Stat. 712",
+          "identifier": "/us/usc/t48/s46b...48a"
+        },
+        {
+          "number": "49",
+          "numText": "§ 49.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s49"
+        },
+        {
+          "number": "50, 50a",
+          "numText": "§§ 50, 50a.",
+          "heading": "Repealed. July 28, 1956, ch. 772, title III, § 301(a)(4), 70 Stat. 712",
+          "identifier": "/us/usc/t48/s50 /us/usc/t48/s50a"
+        },
+        {
+          "number": "50b to 50d–1",
+          "numText": "§§ 50b to 50d–1.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s50b...50d–1"
+        },
+        {
+          "number": "50e",
+          "numText": "§ 50e.",
+          "heading": "Appropriations for benefit of natives; purchase of supplies for resale to natives, cooperatives, and Department employees",
+          "identifier": "/us/usc/t48/s50e"
+        },
+        {
+          "number": "50f",
+          "numText": "§ 50f.",
+          "heading": "Disposal of miscellaneous revenues from schools, hospitals, and other Indian Service facilities",
+          "identifier": "/us/usc/t48/s50f"
+        },
+        {
+          "number": "50g to 58",
+          "numText": "§§ 50g to 58.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s50g...58"
+        },
+        {
+          "number": "61 to 64",
+          "numText": "§§ 61 to 64.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s61...64"
+        },
+        {
+          "number": "65",
+          "numText": "§ 65.",
+          "heading": "Repealed. Dec. 16, 1930, ch. 14, § 1, 46 Stat. 1029",
+          "identifier": "/us/usc/t48/s65"
+        },
+        {
+          "number": "65a",
+          "numText": "§ 65a.",
+          "heading": "Repealed. Apr. 3, 1944, ch. 155, § 2, 58 Stat. 187",
+          "identifier": "/us/usc/t48/s65a"
+        },
+        {
+          "number": "65b, 66",
+          "numText": "§§ 65b, 66.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s65b /us/usc/t48/s66"
+        },
+        {
+          "number": "67 to 72",
+          "numText": "§§ 67 to 72.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642",
+          "identifier": "/us/usc/t48/s67...72"
+        },
+        {
+          "number": "73, 73a",
+          "numText": "§§ 73, 73a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s73 /us/usc/t48/s73a"
+        },
+        {
+          "number": "74, 75",
+          "numText": "§§ 74, 75.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642",
+          "identifier": "/us/usc/t48/s74 /us/usc/t48/s75"
+        },
+        {
+          "number": "76 to 92",
+          "numText": "§§ 76 to 92.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s76...92"
+        },
+        {
+          "number": "101 to 122",
+          "numText": "§§ 101 to 122.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s101...122"
+        },
+        {
+          "number": "131",
+          "numText": "§ 131.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s131"
+        },
+        {
+          "number": "132, 134",
+          "numText": "§§ 132, 134.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 8, 1966, 80 Stat. 640",
+          "identifier": "/us/usc/t48/s132 /us/usc/t48/s134"
+        },
+        {
+          "number": "135 to 149",
+          "numText": "§§ 135 to 149.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s135...149"
+        },
+        {
+          "number": "161 to 170a",
+          "numText": "§§ 161 to 170a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s161...170a"
+        },
+        {
+          "number": "171",
+          "numText": "§ 171.",
+          "heading": "Repealed. Pub. L. 87–304, § 9(a)(1), Sept. 26, 1961, 75 Stat. 664",
+          "identifier": "/us/usc/t48/s171"
+        },
+        {
+          "number": "172, 173",
+          "numText": "§§ 172, 173.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s172 /us/usc/t48/s173"
+        },
+        {
+          "number": "174",
+          "numText": "§ 174.",
+          "heading": "Repealed. Oct. 31, 1951, ch. 654, § 1(125), 65 Stat. 706",
+          "identifier": "/us/usc/t48/s174"
+        },
+        {
+          "number": "175, 175a",
+          "numText": "§§ 175, 175a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s175 /us/usc/t48/s175a"
+        },
+        {
+          "number": "191 to 213",
+          "numText": "§§ 191 to 213.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s191...213"
+        },
+        {
+          "number": "220 to 224",
+          "numText": "§§ 220 to 224.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s220...224"
+        },
+        {
+          "number": "225",
+          "numText": "§ 225.",
+          "heading": "Repealed. Pub. L. 85–296, Sept. 4, 1957, 71 Stat. 617",
+          "identifier": "/us/usc/t48/s225"
+        },
+        {
+          "number": "226 to 239",
+          "numText": "§§ 226 to 239.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s226...239"
+        },
+        {
+          "number": "240",
+          "numText": "§ 240.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 637",
+          "identifier": "/us/usc/t48/s240"
+        },
+        {
+          "number": "241 to 248b",
+          "numText": "§§ 241 to 248b.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s241...248b"
+        },
+        {
+          "number": "250 to 250p",
+          "numText": "§§ 250 to 250p.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s250...250p"
+        },
+        {
+          "number": "261 to 291",
+          "numText": "§§ 261 to 291.",
+          "heading": "Repealed. Apr. 13, 1934, ch. 119, § 1, 48 Stat. 583",
+          "identifier": "/us/usc/t48/s261...291"
+        },
+        {
+          "number": "292, 293",
+          "numText": "§§ 292, 293.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s292 /us/usc/t48/s293"
+        },
+        {
+          "number": "301",
+          "numText": "§ 301.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s301"
+        },
+        {
+          "number": "301a",
+          "numText": "§ 301a.",
+          "heading": "Repealed. Pub. L. 97–468, title VI, § 615(a)(2), Jan. 14, 1983, 96 Stat. 2578",
+          "identifier": "/us/usc/t48/s301a"
+        },
+        {
+          "number": "302 to 308",
+          "numText": "§§ 302 to 308.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s302...308"
+        },
+        {
+          "number": "309",
+          "numText": "§ 309.",
+          "heading": "Repealed. Feb. 10, 1939, ch. 2, § 4(a), 53 Stat. 1",
+          "identifier": "/us/usc/t48/s309"
+        },
+        {
+          "number": "310, 311",
+          "numText": "§§ 310, 311.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s310 /us/usc/t48/s311"
+        },
+        {
+          "number": "312 to 312d",
+          "numText": "§§ 312 to 312d.",
+          "heading": "Repealed. Pub. L. 104–58, title I, § 104(g)(1), Nov. 28, 1995, 109 Stat. 560",
+          "identifier": "/us/usc/t48/s312...312d"
+        },
+        {
+          "number": "315 to 315i",
+          "numText": "§§ 315 to 315i.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s315...315i"
+        },
+        {
+          "number": "321",
+          "numText": "§ 321.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s321"
+        },
+        {
+          "number": "321a to 325",
+          "numText": "§§ 321a to 325.",
+          "heading": "Repealed. Pub. L. 86–70, § 21(d)(6), (7), June 25, 1959, 73 Stat. 146",
+          "identifier": "/us/usc/t48/s321a...325"
+        },
+        {
+          "number": "326 to 330",
+          "numText": "§§ 326 to 330.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s326...330"
+        },
+        {
+          "number": "331 to 337",
+          "numText": "§§ 331 to 337.",
+          "heading": "Repealed. Dec. 16, 1930, ch. 14, § 1, 46 Stat. 1029",
+          "identifier": "/us/usc/t48/s331...337"
+        },
+        {
+          "number": "338 to 338g",
+          "numText": "§§ 338 to 338g.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s338...338g"
+        },
+        {
+          "number": "341",
+          "numText": "§ 341.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s341"
+        },
+        {
+          "number": "351, 352",
+          "numText": "§§ 351, 352.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s351 /us/usc/t48/s352"
+        },
+        {
+          "number": "353",
+          "numText": "§ 353.",
+          "heading": "Repealed. Pub. L. 85–508, § 6(k), July 7, 1958, 72 Stat. 343",
+          "identifier": "/us/usc/t48/s353"
+        },
+        {
+          "number": "353a to 362",
+          "numText": "§§ 353a to 362.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s353a...362"
+        },
+        {
+          "number": "363",
+          "numText": "§ 363.",
+          "heading": "Repealed. June 14, 1926, ch. 578, § 5, as added June 4, 1954, ch. 263, 68 Stat. 175",
+          "identifier": "/us/usc/t48/s363"
+        },
+        {
+          "number": "364 to 365",
+          "numText": "§§ 364 to 365.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s364...365"
+        },
+        {
+          "number": "366 to 367",
+          "numText": "§§ 366 to 367.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s366...367"
+        },
+        {
+          "number": "367a",
+          "numText": "§ 367a.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s367a"
+        },
+        {
+          "number": "368",
+          "numText": "§ 368.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s368"
+        },
+        {
+          "number": "371 to 371c",
+          "numText": "§§ 371 to 371c.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s371...371c"
+        },
+        {
+          "number": "372",
+          "numText": "§ 372.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s372"
+        },
+        {
+          "number": "373 to 385",
+          "numText": "§§ 373 to 385.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s373...385"
+        },
+        {
+          "number": "386",
+          "numText": "§ 386.",
+          "heading": "Repealed. Pub. L. 87–260, § 1, Sept. 21, 1961, 75 Stat. 541",
+          "identifier": "/us/usc/t48/s386"
+        },
+        {
+          "number": "387 to 391",
+          "numText": "§§ 387 to 391.",
+          "heading": "Repealed. May 4, 1934, ch. 211, § 1, 48 Stat. 663",
+          "identifier": "/us/usc/t48/s387...391"
+        },
+        {
+          "number": "392",
+          "numText": "§ 392.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s392"
+        },
+        {
+          "number": "395 to 405",
+          "numText": "§§ 395 to 405.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s395...405"
+        },
+        {
+          "number": "411 to 423",
+          "numText": "§§ 411 to 423.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s411...423"
+        },
+        {
+          "number": "431",
+          "numText": "§ 431.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s431"
+        },
+        {
+          "number": "432",
+          "numText": "§ 432.",
+          "heading": "Repealed. Pub. L. 86–252, § 1, Sept. 9, 1959, 73 Stat. 490",
+          "identifier": "/us/usc/t48/s432"
+        },
+        {
+          "number": "433",
+          "numText": "§ 433.",
+          "heading": "Repealed. Pub. L. 85–508, § 20, July 7, 1958, 72 Stat. 351",
+          "identifier": "/us/usc/t48/s433"
+        },
+        {
+          "number": "434 to 445",
+          "numText": "§§ 434 to 445.",
+          "heading": "Repealed. Pub. L. 86–252, § 1, Sept. 9, 1959, 73 Stat. 490",
+          "identifier": "/us/usc/t48/s434...445"
+        },
+        {
+          "number": "445a",
+          "numText": "§ 445a.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s445a"
+        },
+        {
+          "number": "446 to 452",
+          "numText": "§§ 446 to 452.",
+          "heading": "Repealed. Pub. L. 86–252, § 1, Sept. 9, 1959, 73 Stat. 490",
+          "identifier": "/us/usc/t48/s446...452"
+        },
+        {
+          "number": "453",
+          "numText": "§ 453.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s453"
+        },
+        {
+          "number": "455 to 456h",
+          "numText": "§§ 455 to 456h.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s455...456h"
+        },
+        {
+          "number": "461 to 466",
+          "numText": "§§ 461 to 466.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s461...466"
+        },
+        {
+          "number": "471 to 471o",
+          "numText": "§§ 471 to 471o.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s471...471o"
+        },
+        {
+          "number": "472, 472a",
+          "numText": "§§ 472, 472a.",
+          "heading": "Repealed. Oct. 31, 1951, ch. 654, § 1(126), 65 Stat. 706",
+          "identifier": "/us/usc/t48/s472 /us/usc/t48/s472a"
+        },
+        {
+          "number": "473 to 484d",
+          "numText": "§§ 473 to 484d.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s473...484d"
+        },
+        {
+          "number": "484e",
+          "numText": "§ 484e.",
+          "heading": "Repealed. Aug. 2, 1954, ch. 649, title II, § 205, 68 Stat. 622",
+          "identifier": "/us/usc/t48/s484e"
+        },
+        {
+          "number": "485 to 486j",
+          "numText": "§§ 485 to 486j.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s485...486j"
+        },
+        {
+          "number": "487 to 487b",
+          "numText": "§§ 487 to 487b.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s487...487b"
+        },
+        {
+          "number": "488 to 488f",
+          "numText": "§§ 488 to 488f.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s488...488f"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "HAWAII",
+      "identifier": "/us/usc/t48/ch3",
+      "children": [
+        {
+          "number": "491 to 503",
+          "numText": "§§ 491 to 503.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s491...503"
+        },
+        {
+          "number": "504",
+          "numText": "§ 504.",
+          "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(6), 66 Stat. 279",
+          "identifier": "/us/usc/t48/s504"
+        },
+        {
+          "number": "505 to 518",
+          "numText": "§§ 505 to 518.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s505...518"
+        },
+        {
+          "number": "518a",
+          "numText": "§ 518a.",
+          "heading": "Repealed. July 25, 1947, ch. 327, § 1, 61 Stat. 449",
+          "identifier": "/us/usc/t48/s518a"
+        },
+        {
+          "number": "519",
+          "numText": "§ 519.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s519"
+        },
+        {
+          "number": "520",
+          "numText": "§ 520.",
+          "heading": "Repealed. Mar. 26, 1934, ch. 88, § 1, 48 Stat. 467",
+          "identifier": "/us/usc/t48/s520"
+        },
+        {
+          "number": "531 to 535",
+          "numText": "§§ 531 to 535.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s531...535"
+        },
+        {
+          "number": "536",
+          "numText": "§ 536.",
+          "heading": "Repealed. Pub. L. 86–3, § 14(e), Mar. 18, 1959, 73 Stat. 10",
+          "identifier": "/us/usc/t48/s536"
+        },
+        {
+          "number": "537, 538",
+          "numText": "§§ 537, 538.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s537 /us/usc/t48/s538"
+        },
+        {
+          "number": "539",
+          "numText": "§ 539.",
+          "heading": "Repealed. Pub. L. 86–3, § 14(e), Mar. 18, 1959, 73 Stat. 10",
+          "identifier": "/us/usc/t48/s539"
+        },
+        {
+          "number": "540",
+          "numText": "§ 540.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s540"
+        },
+        {
+          "number": "541",
+          "numText": "§ 541.",
+          "heading": "Repealed. Pub. L. 96–470, title I, § 110, Oct. 19, 1980, 94 Stat. 2239",
+          "identifier": "/us/usc/t48/s541"
+        },
+        {
+          "number": "542 to 546",
+          "numText": "§§ 542 to 546.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s542...546"
+        },
+        {
+          "number": "561 to 599",
+          "numText": "§§ 561 to 599.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s561...599"
+        },
+        {
+          "number": "611 to 620",
+          "numText": "§§ 611 to 620.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s611...620"
+        },
+        {
+          "number": "631 to 633",
+          "numText": "§§ 631 to 633.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s631...633"
+        },
+        {
+          "number": "634, 634a",
+          "numText": "§§ 634, 634a.",
+          "heading": "Repealed. Pub. L. 86–3, § 14(e), Mar. 18, 1959, 73 Stat. 10",
+          "identifier": "/us/usc/t48/s634 /us/usc/t48/s634a"
+        },
+        {
+          "number": "634b, 634c",
+          "numText": "§§ 634b, 634c.",
+          "heading": "Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992",
+          "identifier": "/us/usc/t48/s634b /us/usc/t48/s634c"
+        },
+        {
+          "number": "635, 636",
+          "numText": "§§ 635, 636.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s635 /us/usc/t48/s636"
+        },
+        {
+          "number": "641 to 644",
+          "numText": "§§ 641 to 644.",
+          "heading": "Repealed. June 25, 1948, ch. 646, §§ 8, 39, 62 Stat. 986, 992",
+          "identifier": "/us/usc/t48/s641...644"
+        },
+        {
+          "number": "644a",
+          "numText": "§ 644a.",
+          "heading": "Jurisdiction of district court of cases arising on or within Midway, Wake, Johnston, Sand, etc., Islands; laws applicable to jury trials",
+          "identifier": "/us/usc/t48/s644a"
+        },
+        {
+          "number": "645",
+          "numText": "§ 645.",
+          "heading": "Repealed. Pub. L. 86–3, § 14(f), Mar. 18, 1959, 73 Stat. 10",
+          "identifier": "/us/usc/t48/s645"
+        },
+        {
+          "number": "646",
+          "numText": "§ 646.",
+          "heading": "Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992",
+          "identifier": "/us/usc/t48/s646"
+        },
+        {
+          "number": "651",
+          "numText": "§ 651.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s651"
+        },
+        {
+          "number": "661 to 678",
+          "numText": "§§ 661 to 678.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s661...678"
+        },
+        {
+          "number": "691 to 718",
+          "numText": "§§ 691 to 718.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s691...718"
+        },
+        {
+          "number": "721 to 723",
+          "numText": "§§ 721 to 723.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s721...723"
+        },
+        {
+          "number": "724",
+          "numText": "§ 724.",
+          "heading": "Repealed. Aug. 2, 1954, ch. 649, title II, § 205, 68 Stat. 622",
+          "identifier": "/us/usc/t48/s724"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "PUERTO RICO",
+      "identifier": "/us/usc/t48/ch4",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t48/ch4/schI",
+          "children": [
+            {
+              "number": "731",
+              "numText": "§ 731.",
+              "heading": "Territory included under name Puerto Rico",
+              "identifier": "/us/usc/t48/s731"
+            },
+            {
+              "number": "731a",
+              "numText": "§ 731a.",
+              "heading": "Change of name; Puerto Rico",
+              "identifier": "/us/usc/t48/s731a"
+            },
+            {
+              "number": "731b",
+              "numText": "§ 731b.",
+              "heading": "Organization of a government pursuant to a constitution",
+              "identifier": "/us/usc/t48/s731b"
+            },
+            {
+              "number": "731c",
+              "numText": "§ 731c.",
+              "heading": "Submission of sections 731b to 731e of this title to people of Puerto Rico for referendum; convening of constitutional convention; requisites of constitution",
+              "identifier": "/us/usc/t48/s731c"
+            },
+            {
+              "number": "731d",
+              "numText": "§ 731d.",
+              "heading": "Ratification of constitution by Congress",
+              "identifier": "/us/usc/t48/s731d"
+            },
+            {
+              "number": "731e",
+              "numText": "§ 731e.",
+              "heading": "Chapter continued in force and effect",
+              "identifier": "/us/usc/t48/s731e"
+            },
+            {
+              "number": "732",
+              "numText": "§ 732.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s732"
+            },
+            {
+              "number": "733",
+              "numText": "§ 733.",
+              "heading": "Citizens; former Spanish subjects and children; body politic; name",
+              "identifier": "/us/usc/t48/s733"
+            },
+            {
+              "number": "733a",
+              "numText": "§ 733a.",
+              "heading": "Citizens; residence in island of citizens of United States",
+              "identifier": "/us/usc/t48/s733a"
+            },
+            {
+              "number": "733a–1",
+              "numText": "§ 733a–1.",
+              "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(14), 66 Stat. 279",
+              "identifier": "/us/usc/t48/s733a–1"
+            },
+            {
+              "number": "733b",
+              "numText": "§ 733b.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s733b"
+            },
+            {
+              "number": "734",
+              "numText": "§ 734.",
+              "heading": "United States laws extended to Puerto Rico; internal revenue receipts covered into treasury",
+              "identifier": "/us/usc/t48/s734"
+            },
+            {
+              "number": "734a",
+              "numText": "§ 734a.",
+              "heading": "Extension of industrial alcohol and internal revenue laws to Puerto Rico",
+              "identifier": "/us/usc/t48/s734a"
+            },
+            {
+              "number": "735",
+              "numText": "§ 735.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s735"
+            },
+            {
+              "number": "736",
+              "numText": "§ 736.",
+              "heading": "Puerto Rican law modified",
+              "identifier": "/us/usc/t48/s736"
+            },
+            {
+              "number": "737",
+              "numText": "§ 737.",
+              "heading": "Privileges and immunities",
+              "identifier": "/us/usc/t48/s737"
+            },
+            {
+              "number": "738",
+              "numText": "§ 738.",
+              "heading": "Free interchange of merchandise with United States",
+              "identifier": "/us/usc/t48/s738"
+            },
+            {
+              "number": "739",
+              "numText": "§ 739.",
+              "heading": "Duties on foreign imports; books and pamphlets in English language",
+              "identifier": "/us/usc/t48/s739"
+            },
+            {
+              "number": "740",
+              "numText": "§ 740.",
+              "heading": "Duties and taxes to constitute fund for benefit of Puerto Rico; ports of entry",
+              "identifier": "/us/usc/t48/s740"
+            },
+            {
+              "number": "741",
+              "numText": "§ 741.",
+              "heading": "Export duties, taxes, etc.; bonds to anticipate revenues",
+              "identifier": "/us/usc/t48/s741"
+            },
+            {
+              "number": "741a",
+              "numText": "§ 741a.",
+              "heading": "Internal-revenue taxes; levy and collection; discrimination",
+              "identifier": "/us/usc/t48/s741a"
+            },
+            {
+              "number": "742",
+              "numText": "§ 742.",
+              "heading": "Acknowledgment of deeds",
+              "identifier": "/us/usc/t48/s742"
+            },
+            {
+              "number": "743",
+              "numText": "§ 743.",
+              "heading": "Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714",
+              "identifier": "/us/usc/t48/s743"
+            },
+            {
+              "number": "744",
+              "numText": "§ 744.",
+              "heading": "Coasting trade laws",
+              "identifier": "/us/usc/t48/s744"
+            },
+            {
+              "number": "745",
+              "numText": "§ 745.",
+              "heading": "Tax exempt bonds",
+              "identifier": "/us/usc/t48/s745"
+            },
+            {
+              "number": "745a",
+              "numText": "§ 745a.",
+              "heading": "Public improvement bonds sold to United States or agency thereof excluded from public indebtedness",
+              "identifier": "/us/usc/t48/s745a"
+            },
+            {
+              "number": "745b",
+              "numText": "§ 745b.",
+              "heading": "Refunding bonds excluded temporarily in computing indebtedness",
+              "identifier": "/us/usc/t48/s745b"
+            },
+            {
+              "number": "746",
+              "numText": "§ 746.",
+              "heading": "Public lands and buildings; reservations; rights prior to July 1, 1902",
+              "identifier": "/us/usc/t48/s746"
+            },
+            {
+              "number": "747",
+              "numText": "§ 747.",
+              "heading": "Public property transferred; “control” defined",
+              "identifier": "/us/usc/t48/s747"
+            },
+            {
+              "number": "748",
+              "numText": "§ 748.",
+              "heading": "Conveyance by President to people of lands, buildings, etc.",
+              "identifier": "/us/usc/t48/s748"
+            },
+            {
+              "number": "749",
+              "numText": "§ 749.",
+              "heading": "Harbors and navigable waters transferred; definitions",
+              "identifier": "/us/usc/t48/s749"
+            },
+            {
+              "number": "750",
+              "numText": "§ 750.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s750"
+            },
+            {
+              "number": "751",
+              "numText": "§ 751.",
+              "heading": "Interstate commerce and certain other laws inapplicable to Puerto Rico",
+              "identifier": "/us/usc/t48/s751"
+            },
+            {
+              "number": "752",
+              "numText": "§ 752.",
+              "heading": "Corporate real estate holdings",
+              "identifier": "/us/usc/t48/s752"
+            },
+            {
+              "number": "753, 754",
+              "numText": "§§ 753, 754.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), (4), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s753 /us/usc/t48/s754"
+            },
+            {
+              "number": "755",
+              "numText": "§ 755.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s755"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "THE EXECUTIVE AND GOVERNMENT OFFICIALS",
+          "identifier": "/us/usc/t48/ch4/schII",
+          "children": [
+            {
+              "number": "771 to 793",
+              "numText": "§§ 771 to 793.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s771...793"
+            },
+            {
+              "number": "793a",
+              "numText": "§ 793a.",
+              "heading": "Repealed. June 30, 1954, ch. 428, § 1, 68 Stat. 336",
+              "identifier": "/us/usc/t48/s793a"
+            },
+            {
+              "number": "793b",
+              "numText": "§ 793b.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s793b"
+            },
+            {
+              "number": "794",
+              "numText": "§ 794.",
+              "heading": "Official reports",
+              "identifier": "/us/usc/t48/s794"
+            },
+            {
+              "number": "795",
+              "numText": "§ 795.",
+              "heading": "Government expenses payable out of revenues",
+              "identifier": "/us/usc/t48/s795"
+            },
+            {
+              "number": "796 to 799",
+              "numText": "§§ 796 to 799.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s796...799"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "THE LEGISLATURE",
+          "identifier": "/us/usc/t48/ch4/schIII",
+          "children": [
+            {
+              "number": "811 to 820",
+              "numText": "§§ 811 to 820.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s811...820"
+            },
+            {
+              "number": "821",
+              "numText": "§ 821.",
+              "heading": "Legislative power",
+              "identifier": "/us/usc/t48/s821"
+            },
+            {
+              "number": "822, 823",
+              "numText": "§§ 822, 823.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s822 /us/usc/t48/s823"
+            },
+            {
+              "number": "823a",
+              "numText": "§ 823a.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s823a"
+            },
+            {
+              "number": "824 to 844",
+              "numText": "§§ 824 to 844.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s824...844"
+            },
+            {
+              "number": "845",
+              "numText": "§ 845.",
+              "heading": "Income tax laws; modification or repeal by legislature",
+              "identifier": "/us/usc/t48/s845"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "THE JUDICIARY",
+          "identifier": "/us/usc/t48/ch4/schIV",
+          "children": [
+            {
+              "number": "861",
+              "numText": "§ 861.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s861"
+            },
+            {
+              "number": "862",
+              "numText": "§ 862.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s862"
+            },
+            {
+              "number": "863",
+              "numText": "§ 863.",
+              "heading": "Repealed. Pub. L. 91–272, § 13, June 2, 1970, 84 Stat. 298",
+              "identifier": "/us/usc/t48/s863"
+            },
+            {
+              "number": "864",
+              "numText": "§ 864.",
+              "heading": "Appeals, certiorari, removal of causes, etc.; use of English language",
+              "identifier": "/us/usc/t48/s864"
+            },
+            {
+              "number": "865",
+              "numText": "§ 865.",
+              "heading": "Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992",
+              "identifier": "/us/usc/t48/s865"
+            },
+            {
+              "number": "866",
+              "numText": "§ 866.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s866"
+            },
+            {
+              "number": "867",
+              "numText": "§ 867.",
+              "heading": "Repealed. Pub. L. 90–274, § 103(g), Mar. 27, 1968, 82 Stat. 63",
+              "identifier": "/us/usc/t48/s867"
+            },
+            {
+              "number": "868",
+              "numText": "§ 868.",
+              "heading": "Fees part of United States revenues",
+              "identifier": "/us/usc/t48/s868"
+            },
+            {
+              "number": "869",
+              "numText": "§ 869.",
+              "heading": "Fees payable by United States out of revenue of Puerto Rico",
+              "identifier": "/us/usc/t48/s869"
+            },
+            {
+              "number": "870",
+              "numText": "§ 870.",
+              "heading": "Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992",
+              "identifier": "/us/usc/t48/s870"
+            },
+            {
+              "number": "871",
+              "numText": "§ 871.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s871"
+            },
+            {
+              "number": "872",
+              "numText": "§ 872.",
+              "heading": "Habeas corpus; mandamus; suit to restrain assessment or collection of taxes",
+              "identifier": "/us/usc/t48/s872"
+            },
+            {
+              "number": "873",
+              "numText": "§ 873.",
+              "heading": "Repealed. July 3, 1950, ch. 446, § 5(2), 64 Stat. 320",
+              "identifier": "/us/usc/t48/s873"
+            },
+            {
+              "number": "873a",
+              "numText": "§ 873a.",
+              "heading": "Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992",
+              "identifier": "/us/usc/t48/s873a"
+            },
+            {
+              "number": "874",
+              "numText": "§ 874.",
+              "heading": "Judicial process; officials to be citizens of United States; oath",
+              "identifier": "/us/usc/t48/s874"
+            },
+            {
+              "number": "875, 876",
+              "numText": "§§ 875, 876.",
+              "heading": "Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992",
+              "identifier": "/us/usc/t48/s875 /us/usc/t48/s876"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "RESIDENT COMMISSIONER",
+          "identifier": "/us/usc/t48/ch4/schV",
+          "children": [
+            {
+              "number": "891",
+              "numText": "§ 891.",
+              "heading": "Resident Commissioner; election",
+              "identifier": "/us/usc/t48/s891"
+            },
+            {
+              "number": "892",
+              "numText": "§ 892.",
+              "heading": "Qualifications of Commissioner; appointment to fill vacancy",
+              "identifier": "/us/usc/t48/s892"
+            },
+            {
+              "number": "893",
+              "numText": "§ 893.",
+              "heading": "Salary of Commissioner; allowances; franking privilege",
+              "identifier": "/us/usc/t48/s893"
+            },
+            {
+              "number": "894",
+              "numText": "§ 894.",
+              "heading": "Salary and traveling expenses; payment",
+              "identifier": "/us/usc/t48/s894"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "SLUM CLEARANCE AND URBAN REDEVELOPMENT PROJECTS",
+          "identifier": "/us/usc/t48/ch4/schVI",
+          "children": [
+            {
+              "number": "910",
+              "numText": "§ 910.",
+              "heading": "Slum clearance and urban redevelopment and renewal projects; powers of government",
+              "identifier": "/us/usc/t48/s910"
+            },
+            {
+              "number": "910a",
+              "numText": "§ 910a.",
+              "heading": "Authorization of loans, conveyances, etc., by government and municipalities",
+              "identifier": "/us/usc/t48/s910a"
+            },
+            {
+              "number": "910b",
+              "numText": "§ 910b.",
+              "heading": "Ratification of prior acts",
+              "identifier": "/us/usc/t48/s910b"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "LOW RENT HOUSING PROJECTS AND ELIMINATION OF SUB-STANDARD HOUSING",
+          "identifier": "/us/usc/t48/ch4/schVII",
+          "children": [
+            {
+              "number": "911",
+              "numText": "§ 911.",
+              "heading": "Legislative authorization to create authorities",
+              "identifier": "/us/usc/t48/s911"
+            },
+            {
+              "number": "912",
+              "numText": "§ 912.",
+              "heading": "Authority to appoint commissioners; powers of authorities",
+              "identifier": "/us/usc/t48/s912"
+            },
+            {
+              "number": "913",
+              "numText": "§ 913.",
+              "heading": "Authorization of loans, conveyances, etc., by municipalities",
+              "identifier": "/us/usc/t48/s913"
+            },
+            {
+              "number": "914",
+              "numText": "§ 914.",
+              "heading": "Issuance of bonds and obligations",
+              "identifier": "/us/usc/t48/s914"
+            },
+            {
+              "number": "915",
+              "numText": "§ 915.",
+              "heading": "Bonds as public debt",
+              "identifier": "/us/usc/t48/s915"
+            },
+            {
+              "number": "916",
+              "numText": "§ 916.",
+              "heading": "Ratification of previous legislation",
+              "identifier": "/us/usc/t48/s916"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "PHILIPPINE ISLANDS",
+      "identifier": "/us/usc/t48/ch5",
+      "children": [
+        {
+          "number": "1001 to 1008",
+          "numText": "§§ 1001 to 1008.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1001...1008"
+        },
+        {
+          "number": "1009",
+          "numText": "§ 1009.",
+          "heading": "Repealed. Oct. 31, 1951, ch. 655, § 56(d), 65 Stat. 729",
+          "identifier": "/us/usc/t48/s1009"
+        },
+        {
+          "number": "1010 to 1019",
+          "numText": "§§ 1010 to 1019.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1010...1019"
+        },
+        {
+          "number": "1041 to 1055",
+          "numText": "§§ 1041 to 1055.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1041...1055"
+        },
+        {
+          "number": "1071 to 1078",
+          "numText": "§§ 1071 to 1078.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1071...1078"
+        },
+        {
+          "number": "1091 to 1094",
+          "numText": "§§ 1091 to 1094.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1091...1094"
+        },
+        {
+          "number": "1111 to 1125",
+          "numText": "§§ 1111 to 1125.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1111...1125"
+        },
+        {
+          "number": "1141 to 1156",
+          "numText": "§§ 1141 to 1156.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1141...1156"
+        },
+        {
+          "number": "1157",
+          "numText": "§ 1157.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1157"
+        },
+        {
+          "number": "1171 to 1173",
+          "numText": "§§ 1171 to 1173.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1171...1173"
+        },
+        {
+          "number": "1191 to 1202",
+          "numText": "§§ 1191 to 1202.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1191...1202"
+        },
+        {
+          "number": "1221 to 1226",
+          "numText": "§§ 1221 to 1226.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1221...1226"
+        },
+        {
+          "number": "1231 to 1234",
+          "numText": "§§ 1231 to 1234.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1231...1234"
+        },
+        {
+          "number": "1235 to 1236",
+          "numText": "§§ 1235 to 1236.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1235...1236"
+        },
+        {
+          "number": "1236a",
+          "numText": "§ 1236a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1236a"
+        },
+        {
+          "number": "1236b to 1237c",
+          "numText": "§§ 1236b to 1237c.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1236b...1237c"
+        },
+        {
+          "number": "1238",
+          "numText": "§ 1238.",
+          "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(35), 66 Stat. 279",
+          "identifier": "/us/usc/t48/s1238"
+        },
+        {
+          "number": "1238a, 1239",
+          "numText": "§§ 1238a, 1239.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1238a /us/usc/t48/s1239"
+        },
+        {
+          "number": "1240",
+          "numText": "§ 1240.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1240"
+        },
+        {
+          "number": "1241 to 1243",
+          "numText": "§§ 1241 to 1243.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1241...1243"
+        },
+        {
+          "number": "1244",
+          "numText": "§ 1244.",
+          "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(35), 66 Stat. 279",
+          "identifier": "/us/usc/t48/s1244"
+        },
+        {
+          "number": "1245",
+          "numText": "§ 1245.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1245"
+        },
+        {
+          "number": "1246",
+          "numText": "§ 1246.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1246"
+        },
+        {
+          "number": "1247",
+          "numText": "§ 1247.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1247"
+        },
+        {
+          "number": "1247a",
+          "numText": "§ 1247a.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1247a"
+        },
+        {
+          "number": "1248, 1249",
+          "numText": "§§ 1248, 1249.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1248 /us/usc/t48/s1249"
+        },
+        {
+          "number": "1251 to 1257",
+          "numText": "§§ 1251 to 1257.",
+          "heading": "Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(38), 66 Stat. 280",
+          "identifier": "/us/usc/t48/s1251...1257"
+        },
+        {
+          "number": "1261 to 1264",
+          "numText": "§§ 1261 to 1264.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1261...1264"
+        },
+        {
+          "number": "1266 to 1270b",
+          "numText": "§§ 1266 to 1270b.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1266...1270b"
+        },
+        {
+          "number": "1272 to 1272g",
+          "numText": "§§ 1272 to 1272g.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1272...1272g"
+        },
+        {
+          "number": "1274 to 1274i",
+          "numText": "§§ 1274 to 1274i.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1274...1274i"
+        },
+        {
+          "number": "1276 to 1276e",
+          "numText": "§§ 1276 to 1276e.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1276...1276e"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "CANAL ZONE",
+      "identifier": "/us/usc/t48/ch6",
+      "children": [
+        {
+          "number": "1301 to 1304",
+          "numText": "§§ 1301 to 1304.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1301...1304"
+        },
+        {
+          "number": "1304a to 1304c",
+          "numText": "§§ 1304a to 1304c.",
+          "heading": "Repealed. Aug. 10, 1949, ch. 415, § 9(c), 63 Stat. 597",
+          "identifier": "/us/usc/t48/s1304a...1304c"
+        },
+        {
+          "number": "1305 to 1314",
+          "numText": "§§ 1305 to 1314.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1305...1314"
+        },
+        {
+          "number": "1314a",
+          "numText": "§ 1314a.",
+          "heading": "Repealed. Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701",
+          "identifier": "/us/usc/t48/s1314a"
+        },
+        {
+          "number": "1314b to 1314e",
+          "numText": "§§ 1314b to 1314e.",
+          "heading": "Repealed. Aug. 10, 1949, ch. 415, § 9(d), 63 Stat. 597",
+          "identifier": "/us/usc/t48/s1314b...1314e"
+        },
+        {
+          "number": "1314f to 1315a",
+          "numText": "§§ 1314f to 1315a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1314f...1315a"
+        },
+        {
+          "number": "1316",
+          "numText": "§ 1316.",
+          "heading": "Repealed. Sept. 26, 1950, ch. 1049, § 13(3), 64 Stat. 1043",
+          "identifier": "/us/usc/t48/s1316"
+        },
+        {
+          "number": "1317 to 1319",
+          "numText": "§§ 1317 to 1319.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1317...1319"
+        },
+        {
+          "number": "1320",
+          "numText": "§ 1320.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642",
+          "identifier": "/us/usc/t48/s1320"
+        },
+        {
+          "number": "1321, 1322",
+          "numText": "§§ 1321, 1322.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1321 /us/usc/t48/s1322"
+        },
+        {
+          "number": "1323 to 1323–3",
+          "numText": "§§ 1323 to 1323–3.",
+          "heading": "Repealed. Sept. 26, 1950, ch. 1049, § 13(2), 64 Stat. 1043",
+          "identifier": "/us/usc/t48/s1323...1323–3"
+        },
+        {
+          "number": "1323a",
+          "numText": "§ 1323a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1323a"
+        },
+        {
+          "number": "1323b",
+          "numText": "§ 1323b.",
+          "heading": "Repealed. Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701",
+          "identifier": "/us/usc/t48/s1323b"
+        },
+        {
+          "number": "1323c",
+          "numText": "§ 1323c.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1323c"
+        },
+        {
+          "number": "1323d to 1323h",
+          "numText": "§§ 1323d to 1323h.",
+          "heading": "Repealed. Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701",
+          "identifier": "/us/usc/t48/s1323d...1323h"
+        },
+        {
+          "number": "1323i",
+          "numText": "§ 1323i.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1323i"
+        },
+        {
+          "number": "1323j",
+          "numText": "§ 1323j.",
+          "heading": "Repealed. Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701",
+          "identifier": "/us/usc/t48/s1323j"
+        },
+        {
+          "number": "1323k",
+          "numText": "§ 1323k.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1323k"
+        },
+        {
+          "number": "1324, 1325",
+          "numText": "§§ 1324, 1325.",
+          "heading": "Repealed. Feb. 16, 1933, ch. 89, § 4, 47 Stat. 812",
+          "identifier": "/us/usc/t48/s1324 /us/usc/t48/s1325"
+        },
+        {
+          "number": "1325a to 1327",
+          "numText": "§§ 1325a to 1327.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1325a...1327"
+        },
+        {
+          "number": "1328, 1329",
+          "numText": "§§ 1328, 1329.",
+          "heading": "Repealed. Sept. 26, 1950, ch. 1049, § 13(1), 64 Stat. 1043",
+          "identifier": "/us/usc/t48/s1328 /us/usc/t48/s1329"
+        },
+        {
+          "number": "1330 to 1336h",
+          "numText": "§§ 1330 to 1336h.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1330...1336h"
+        },
+        {
+          "number": "1336i",
+          "numText": "§ 1336i.",
+          "heading": "Repealed. June 24, 1936, ch. 754, § 10, 49 Stat. 1906",
+          "identifier": "/us/usc/t48/s1336i"
+        },
+        {
+          "number": "1336j, 1336k",
+          "numText": "§§ 1336j, 1336k.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1336j /us/usc/t48/s1336k"
+        },
+        {
+          "number": "1337",
+          "numText": "§ 1337.",
+          "heading": "Repealed. Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701",
+          "identifier": "/us/usc/t48/s1337"
+        },
+        {
+          "number": "1337a to 1337c",
+          "numText": "§§ 1337a to 1337c.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1337a...1337c"
+        },
+        {
+          "number": "1341 to 1344",
+          "numText": "§§ 1341 to 1344.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1341...1344"
+        },
+        {
+          "number": "1344–1",
+          "numText": "§ 1344–1.",
+          "heading": "Repealed. Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701",
+          "identifier": "/us/usc/t48/s1344–1"
+        },
+        {
+          "number": "1344a to 1355",
+          "numText": "§§ 1344a to 1355.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1344a...1355"
+        },
+        {
+          "number": "1356",
+          "numText": "§ 1356.",
+          "heading": "Repealed. June 25, 1948, ch. 646, § 35, 62 Stat. 991",
+          "identifier": "/us/usc/t48/s1356"
+        },
+        {
+          "number": "1357, 1358",
+          "numText": "§§ 1357, 1358.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1357 /us/usc/t48/s1358"
+        },
+        {
+          "number": "1361",
+          "numText": "§ 1361.",
+          "heading": "Repealed. Sept. 26, 1950, ch. 1049, § 13(7), 64 Stat. 1043",
+          "identifier": "/us/usc/t48/s1361"
+        },
+        {
+          "number": "1361a to 1361l",
+          "numText": "§§ 1361a to 1361l.",
+          "heading": "Repealed. Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701",
+          "identifier": "/us/usc/t48/s1361a...1361l"
+        },
+        {
+          "number": "1371 to 1371b",
+          "numText": "§§ 1371 to 1371b.",
+          "heading": "Repealed. July 21, 1949, ch. 356, § 1(b), 63 Stat. 475",
+          "identifier": "/us/usc/t48/s1371...1371b"
+        },
+        {
+          "number": "1371b–1",
+          "numText": "§ 1371b–1.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648",
+          "identifier": "/us/usc/t48/s1371b–1"
+        },
+        {
+          "number": "1371c to 1371p",
+          "numText": "§§ 1371c to 1371p.",
+          "heading": "Repealed. July 21, 1949, ch. 356, § 1(b), 63 Stat. 475",
+          "identifier": "/us/usc/t48/s1371c...1371p"
+        },
+        {
+          "number": "1372",
+          "numText": "§ 1372.",
+          "heading": "Repealed. Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701",
+          "identifier": "/us/usc/t48/s1372"
+        },
+        {
+          "number": "1373 to 1374d",
+          "numText": "§§ 1373 to 1374d.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1373...1374d"
+        },
+        {
+          "number": "1381, 1382",
+          "numText": "§§ 1381, 1382.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1381 /us/usc/t48/s1382"
+        },
+        {
+          "number": "1383",
+          "numText": "§ 1383.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 650",
+          "identifier": "/us/usc/t48/s1383"
+        },
+        {
+          "number": "1384 to 1387",
+          "numText": "§§ 1384 to 1387.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1384...1387"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "VIRGIN ISLANDS",
+      "identifier": "/us/usc/t48/ch7",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t48/ch7/schI",
+          "children": [
+            {
+              "number": "1391",
+              "numText": "§ 1391.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 643",
+              "identifier": "/us/usc/t48/s1391"
+            },
+            {
+              "number": "1392",
+              "numText": "§ 1392.",
+              "heading": "Local laws continued; courts",
+              "identifier": "/us/usc/t48/s1392"
+            },
+            {
+              "number": "1392a",
+              "numText": "§ 1392a.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 650, 654",
+              "identifier": "/us/usc/t48/s1392a"
+            },
+            {
+              "number": "1392b",
+              "numText": "§ 1392b.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 308(c), Oct. 19, 1982, 96 Stat. 1710",
+              "identifier": "/us/usc/t48/s1392b"
+            },
+            {
+              "number": "1393",
+              "numText": "§ 1393.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 308(a), Oct. 19, 1982, 96 Stat. 1710",
+              "identifier": "/us/usc/t48/s1393"
+            },
+            {
+              "number": "1394",
+              "numText": "§ 1394.",
+              "heading": "Customs duties and internal-revenue taxes",
+              "identifier": "/us/usc/t48/s1394"
+            },
+            {
+              "number": "1395",
+              "numText": "§ 1395.",
+              "heading": "Tax laws continued; tax on sugar",
+              "identifier": "/us/usc/t48/s1395"
+            },
+            {
+              "number": "1396",
+              "numText": "§ 1396.",
+              "heading": "Duties and taxes covered into Virgin Islands treasury",
+              "identifier": "/us/usc/t48/s1396"
+            },
+            {
+              "number": "1397",
+              "numText": "§ 1397.",
+              "heading": "Income tax laws of United States in force; payment of proceeds; levy of surtax on all taxpayers",
+              "identifier": "/us/usc/t48/s1397"
+            },
+            {
+              "number": "1398",
+              "numText": "§ 1398.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s1398"
+            },
+            {
+              "number": "1399",
+              "numText": "§ 1399.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 308(b), Oct. 19, 1982, 96 Stat. 1710",
+              "identifier": "/us/usc/t48/s1399"
+            },
+            {
+              "number": "1400",
+              "numText": "§ 1400.",
+              "heading": "Repealed. Pub. L. 98–454, title VII, § 709, Oct. 5, 1984, 98 Stat. 1741",
+              "identifier": "/us/usc/t48/s1400"
+            },
+            {
+              "number": "1401 to 1401e",
+              "numText": "§§ 1401 to 1401e.",
+              "heading": "Repealed. Pub. L. 110–40, § 1(a), June 29, 2007, 121 Stat. 232",
+              "identifier": "/us/usc/t48/s1401...1401e"
+            },
+            {
+              "number": "1401f",
+              "numText": "§ 1401f.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s1401f"
+            },
+            {
+              "number": "1402",
+              "numText": "§ 1402.",
+              "heading": "Extension of industrial alcohol and internal revenue laws to Virgin Islands",
+              "identifier": "/us/usc/t48/s1402"
+            },
+            {
+              "number": "1403",
+              "numText": "§ 1403.",
+              "heading": "Issuance of bonds or other obligations by government or municipalities; use of proceeds; limit on public indebtedness; terms, execution, interest rate, and sale price; taxes",
+              "identifier": "/us/usc/t48/s1403"
+            },
+            {
+              "number": "1403a",
+              "numText": "§ 1403a.",
+              "heading": "Expenditure of bond proceeds for public improvements",
+              "identifier": "/us/usc/t48/s1403a"
+            },
+            {
+              "number": "1403b",
+              "numText": "§ 1403b.",
+              "heading": "Bond liability of United States",
+              "identifier": "/us/usc/t48/s1403b"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "CIVIL GOVERNMENT",
+          "identifier": "/us/usc/t48/ch7/schII",
+          "children": [
+            {
+              "number": "1405",
+              "numText": "§ 1405.",
+              "heading": "Geographical application of subchapter; land and waters included in term “Virgin Islands”",
+              "identifier": "/us/usc/t48/s1405"
+            },
+            {
+              "number": "1405a, 1405b",
+              "numText": "§§ 1405a, 1405b.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1405a /us/usc/t48/s1405b"
+            },
+            {
+              "number": "1405c",
+              "numText": "§ 1405c.",
+              "heading": "Transfer of property to government",
+              "identifier": "/us/usc/t48/s1405c"
+            },
+            {
+              "number": "1405d to 1405g",
+              "numText": "§§ 1405d to 1405g.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1405d...1405g"
+            },
+            {
+              "number": "1405h, 1405i",
+              "numText": "§§ 1405h, 1405i.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649",
+              "identifier": "/us/usc/t48/s1405h /us/usc/t48/s1405i"
+            },
+            {
+              "number": "1405j to 1405p",
+              "numText": "§§ 1405j to 1405p.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1405j...1405p"
+            },
+            {
+              "number": "1405q",
+              "numText": "§ 1405q.",
+              "heading": "Laws continued in force until modified; patent, trade mark, and copyright laws extended to Virgin Islands; jurisdiction of district court",
+              "identifier": "/us/usc/t48/s1405q"
+            },
+            {
+              "number": "1405r",
+              "numText": "§ 1405r.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1405r"
+            },
+            {
+              "number": "1405s to 1405t",
+              "numText": "§§ 1405s to 1405t.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649, 651, 655",
+              "identifier": "/us/usc/t48/s1405s...1405t"
+            },
+            {
+              "number": "1405u to 1405w",
+              "numText": "§§ 1405u to 1405w.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1405u...1405w"
+            },
+            {
+              "number": "1405w–1",
+              "numText": "§ 1405w–1.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s1405w–1"
+            },
+            {
+              "number": "1405x",
+              "numText": "§ 1405x.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1405x"
+            },
+            {
+              "number": "1405y",
+              "numText": "§ 1405y.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649, 650, 654, 657",
+              "identifier": "/us/usc/t48/s1405y"
+            },
+            {
+              "number": "1405z to 1406e",
+              "numText": "§§ 1405z to 1406e.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1405z...1406e"
+            },
+            {
+              "number": "1406f",
+              "numText": "§ 1406f.",
+              "heading": "Judicial process; title of criminal prosecutions",
+              "identifier": "/us/usc/t48/s1406f"
+            },
+            {
+              "number": "1406g",
+              "numText": "§ 1406g.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1406g"
+            },
+            {
+              "number": "1406h",
+              "numText": "§ 1406h.",
+              "heading": "Taxes, duties and fees as funds for benefit of municipalities; appropriations",
+              "identifier": "/us/usc/t48/s1406h"
+            },
+            {
+              "number": "1406i",
+              "numText": "§ 1406i.",
+              "heading": "Taxes and fees; power to assess and collect; ports of entry; export duties",
+              "identifier": "/us/usc/t48/s1406i"
+            },
+            {
+              "number": "1406j",
+              "numText": "§ 1406j.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649",
+              "identifier": "/us/usc/t48/s1406j"
+            },
+            {
+              "number": "1406k",
+              "numText": "§ 1406k.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 307, Oct. 19, 1982, 96 Stat. 1709",
+              "identifier": "/us/usc/t48/s1406k"
+            },
+            {
+              "number": "1406l",
+              "numText": "§ 1406l.",
+              "heading": "Effective date",
+              "identifier": "/us/usc/t48/s1406l"
+            },
+            {
+              "number": "1406m",
+              "numText": "§ 1406m.",
+              "heading": "Short title",
+              "identifier": "/us/usc/t48/s1406m"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "VIRGIN ISLANDS CORPORATION",
+          "identifier": "/us/usc/t48/ch7/schIII",
+          "children": [
+            {
+              "number": "1407 to 1407i",
+              "numText": "§§ 1407 to 1407i.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 308(e), Oct. 19, 1982, 96 Stat. 1710",
+              "identifier": "/us/usc/t48/s1407...1407i"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "PUBLIC HOUSING",
+          "identifier": "/us/usc/t48/ch7/schIV",
+          "children": [
+            {
+              "number": "1408",
+              "numText": "§ 1408.",
+              "heading": "Legislative authority to create authorities; appointment of members; powers of authorities",
+              "identifier": "/us/usc/t48/s1408"
+            },
+            {
+              "number": "1408a",
+              "numText": "§ 1408a.",
+              "heading": "Issuance of notes, bonds, and obligations",
+              "identifier": "/us/usc/t48/s1408a"
+            },
+            {
+              "number": "1408b",
+              "numText": "§ 1408b.",
+              "heading": "Authorization of loans, conveyances, etc., by government and municipalities",
+              "identifier": "/us/usc/t48/s1408b"
+            },
+            {
+              "number": "1408c",
+              "numText": "§ 1408c.",
+              "heading": "Grants-in-aid by Federal Government",
+              "identifier": "/us/usc/t48/s1408c"
+            },
+            {
+              "number": "1408d",
+              "numText": "§ 1408d.",
+              "heading": "Ratification of prior acts",
+              "identifier": "/us/usc/t48/s1408d"
+            },
+            {
+              "number": "1408e",
+              "numText": "§ 1408e.",
+              "heading": "Additional powers",
+              "identifier": "/us/usc/t48/s1408e"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "INTERNAL DEVELOPMENT",
+          "identifier": "/us/usc/t48/ch7/schV",
+          "children": [
+            {
+              "number": "1409 to 1409j",
+              "numText": "§§ 1409 to 1409j.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 308(d), Oct. 19, 1982, 96 Stat. 1710",
+              "identifier": "/us/usc/t48/s1409...1409j"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "AGRICULTURAL PROGRAM",
+          "identifier": "/us/usc/t48/ch7/schVI",
+          "children": [
+            {
+              "number": "1409m to 1409o",
+              "numText": "§§ 1409m to 1409o.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 308(f), Oct. 19, 1982, 96 Stat. 1710",
+              "identifier": "/us/usc/t48/s1409m...1409o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8",
+      "heading": "GUANO ISLANDS",
+      "identifier": "/us/usc/t48/ch8",
+      "children": [
+        {
+          "number": "1411",
+          "numText": "§ 1411.",
+          "heading": "Guano districts; claim by United States",
+          "identifier": "/us/usc/t48/s1411"
+        },
+        {
+          "number": "1412",
+          "numText": "§ 1412.",
+          "heading": "Notice of discovery of guano and proofs",
+          "identifier": "/us/usc/t48/s1412"
+        },
+        {
+          "number": "1413",
+          "numText": "§ 1413.",
+          "heading": "Completion of proof on death of discoverer",
+          "identifier": "/us/usc/t48/s1413"
+        },
+        {
+          "number": "1414",
+          "numText": "§ 1414.",
+          "heading": "Exclusive privileges of discoverer",
+          "identifier": "/us/usc/t48/s1414"
+        },
+        {
+          "number": "1415",
+          "numText": "§ 1415.",
+          "heading": "Restrictions upon exportation",
+          "identifier": "/us/usc/t48/s1415"
+        },
+        {
+          "number": "1416",
+          "numText": "§ 1416.",
+          "heading": "Regulation of trade",
+          "identifier": "/us/usc/t48/s1416"
+        },
+        {
+          "number": "1417",
+          "numText": "§ 1417.",
+          "heading": "Criminal jurisdiction",
+          "identifier": "/us/usc/t48/s1417"
+        },
+        {
+          "number": "1418",
+          "numText": "§ 1418.",
+          "heading": "Employment of land and naval forces in protection of rights",
+          "identifier": "/us/usc/t48/s1418"
+        },
+        {
+          "number": "1419",
+          "numText": "§ 1419.",
+          "heading": "Right to abandon islands",
+          "identifier": "/us/usc/t48/s1419"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8A",
+      "heading": "GUAM",
+      "identifier": "/us/usc/t48/ch8A",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t48/ch8A/schI",
+          "children": [
+            {
+              "number": "1421",
+              "numText": "§ 1421.",
+              "heading": "Territory included under name Guam",
+              "identifier": "/us/usc/t48/s1421"
+            },
+            {
+              "number": "1421a",
+              "numText": "§ 1421a.",
+              "heading": "Unincorporated territory; capital; powers of government; suits against government; type of government; supervision",
+              "identifier": "/us/usc/t48/s1421a"
+            },
+            {
+              "number": "1421b",
+              "numText": "§ 1421b.",
+              "heading": "Bill of rights",
+              "identifier": "/us/usc/t48/s1421b"
+            },
+            {
+              "number": "1421c",
+              "numText": "§ 1421c.",
+              "heading": "Certain laws continued in force; modification or repeal of laws",
+              "identifier": "/us/usc/t48/s1421c"
+            },
+            {
+              "number": "1421d",
+              "numText": "§ 1421d.",
+              "heading": "Salaries and allowances of officers and employees",
+              "identifier": "/us/usc/t48/s1421d"
+            },
+            {
+              "number": "1421e",
+              "numText": "§ 1421e.",
+              "heading": "Duty on articles",
+              "identifier": "/us/usc/t48/s1421e"
+            },
+            {
+              "number": "1421f",
+              "numText": "§ 1421f.",
+              "heading": "Title to property transferred",
+              "identifier": "/us/usc/t48/s1421f"
+            },
+            {
+              "number": "1421f–1",
+              "numText": "§ 1421f–1.",
+              "heading": "Acknowledgment of deeds",
+              "identifier": "/us/usc/t48/s1421f–1"
+            },
+            {
+              "number": "1421g",
+              "numText": "§ 1421g.",
+              "heading": "Establishment and maintenance of public bodies and offices",
+              "identifier": "/us/usc/t48/s1421g"
+            },
+            {
+              "number": "1421h",
+              "numText": "§ 1421h.",
+              "heading": "Duties, taxes, and fees; proceeds collected to constitute fund for benefit of Guam; prerequisites, amount, etc., remitted prior to commencement of next fiscal year",
+              "identifier": "/us/usc/t48/s1421h"
+            },
+            {
+              "number": "1421i",
+              "numText": "§ 1421i.",
+              "heading": "Income tax",
+              "identifier": "/us/usc/t48/s1421i"
+            },
+            {
+              "number": "1421j",
+              "numText": "§ 1421j.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t48/s1421j"
+            },
+            {
+              "number": "1421k",
+              "numText": "§ 1421k.",
+              "heading": "Designation of naval or military reservations; closed port",
+              "identifier": "/us/usc/t48/s1421k"
+            },
+            {
+              "number": "1421k–1",
+              "numText": "§ 1421k–1.",
+              "heading": "Repealed. Pub. L. 104–186, title II, § 224(2), Aug. 20, 1996, 110 Stat. 1752",
+              "identifier": "/us/usc/t48/s1421k–1"
+            },
+            {
+              "number": "1421l",
+              "numText": "§ 1421l.",
+              "heading": "Repealed. June 27, 1952, ch. 477, § 403(a)(42), 66 Stat. 280",
+              "identifier": "/us/usc/t48/s1421l"
+            },
+            {
+              "number": "1421m",
+              "numText": "§ 1421m.",
+              "heading": "Repealed. Pub. L. 91–513, title III, § 1101(a)(8), Oct. 27, 1970, 84 Stat. 1292",
+              "identifier": "/us/usc/t48/s1421m"
+            },
+            {
+              "number": "1421n",
+              "numText": "§ 1421n.",
+              "heading": "Applicability of Federal copyright laws",
+              "identifier": "/us/usc/t48/s1421n"
+            },
+            {
+              "number": "1421o",
+              "numText": "§ 1421o.",
+              "heading": "Federal assistance for fire control, watershed protection, and reforestation",
+              "identifier": "/us/usc/t48/s1421o"
+            },
+            {
+              "number": "1421p",
+              "numText": "§ 1421p.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t48/s1421p"
+            },
+            {
+              "number": "1421q",
+              "numText": "§ 1421q.",
+              "heading": "Applicability of Federal laws",
+              "identifier": "/us/usc/t48/s1421q"
+            },
+            {
+              "number": "1421q–1",
+              "numText": "§ 1421q–1.",
+              "heading": "Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands",
+              "identifier": "/us/usc/t48/s1421q–1"
+            },
+            {
+              "number": "1421r",
+              "numText": "§ 1421r.",
+              "heading": "Port of Guam Improvement Enterprise Program",
+              "identifier": "/us/usc/t48/s1421r"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "THE EXECUTIVE BRANCH",
+          "identifier": "/us/usc/t48/ch8A/schII",
+          "children": [
+            {
+              "number": "1422",
+              "numText": "§ 1422.",
+              "heading": "Governor and Lieutenant Governor; term of office; qualifications; powers and duties; annual report to Congress",
+              "identifier": "/us/usc/t48/s1422"
+            },
+            {
+              "number": "1422a",
+              "numText": "§ 1422a.",
+              "heading": "Removal of Governor, Lieutenant Governor, or member of legislature; referendum election",
+              "identifier": "/us/usc/t48/s1422a"
+            },
+            {
+              "number": "1422b",
+              "numText": "§ 1422b.",
+              "heading": "Vacancy in office of Governor or Lieutenant Governor",
+              "identifier": "/us/usc/t48/s1422b"
+            },
+            {
+              "number": "1422c",
+              "numText": "§ 1422c.",
+              "heading": "Executive agencies and instrumentalities",
+              "identifier": "/us/usc/t48/s1422c"
+            },
+            {
+              "number": "1422d",
+              "numText": "§ 1422d.",
+              "heading": "Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior",
+              "identifier": "/us/usc/t48/s1422d"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "THE LEGISLATURE",
+          "identifier": "/us/usc/t48/ch8A/schIII",
+          "children": [
+            {
+              "number": "1423",
+              "numText": "§ 1423.",
+              "heading": "Legislature of Guam",
+              "identifier": "/us/usc/t48/s1423"
+            },
+            {
+              "number": "1423a",
+              "numText": "§ 1423a.",
+              "heading": "Power of legislature; limitation on indebtedness of Guam; bond issues; guarantees for purchase by Federal Financing Bank of Guam Power Authority bonds or other obligations; interest rates; default",
+              "identifier": "/us/usc/t48/s1423a"
+            },
+            {
+              "number": "1423b",
+              "numText": "§ 1423b.",
+              "heading": "Selection and qualification of members; officers; rules and regulations; quorum",
+              "identifier": "/us/usc/t48/s1423b"
+            },
+            {
+              "number": "1423c",
+              "numText": "§ 1423c.",
+              "heading": "Privileges of members",
+              "identifier": "/us/usc/t48/s1423c"
+            },
+            {
+              "number": "1423d",
+              "numText": "§ 1423d.",
+              "heading": "Oath of office",
+              "identifier": "/us/usc/t48/s1423d"
+            },
+            {
+              "number": "1423e",
+              "numText": "§ 1423e.",
+              "heading": "Prohibition against acceptance of salary increases or newly created offices",
+              "identifier": "/us/usc/t48/s1423e"
+            },
+            {
+              "number": "1423f",
+              "numText": "§ 1423f.",
+              "heading": "Qualifications of members",
+              "identifier": "/us/usc/t48/s1423f"
+            },
+            {
+              "number": "1423g",
+              "numText": "§ 1423g.",
+              "heading": "Vacancies",
+              "identifier": "/us/usc/t48/s1423g"
+            },
+            {
+              "number": "1423h",
+              "numText": "§ 1423h.",
+              "heading": "Regular and special sessions",
+              "identifier": "/us/usc/t48/s1423h"
+            },
+            {
+              "number": "1423i",
+              "numText": "§ 1423i.",
+              "heading": "Approval of bills",
+              "identifier": "/us/usc/t48/s1423i"
+            },
+            {
+              "number": "1423j",
+              "numText": "§ 1423j.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t48/s1423j"
+            },
+            {
+              "number": "1423k",
+              "numText": "§ 1423k.",
+              "heading": "Right of petition",
+              "identifier": "/us/usc/t48/s1423k"
+            },
+            {
+              "number": "1423l",
+              "numText": "§ 1423l.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s1423l"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "THE JUDICIARY",
+          "identifier": "/us/usc/t48/ch8A/schIV",
+          "children": [
+            {
+              "number": "1424",
+              "numText": "§ 1424.",
+              "heading": "District Court of Guam; local courts; jurisdiction",
+              "identifier": "/us/usc/t48/s1424"
+            },
+            {
+              "number": "1424–1",
+              "numText": "§ 1424–1.",
+              "heading": "Jurisdiction and powers of local courts",
+              "identifier": "/us/usc/t48/s1424–1"
+            },
+            {
+              "number": "1424–2",
+              "numText": "§ 1424–2.",
+              "heading": "Relations between courts of United States and courts of Guam",
+              "identifier": "/us/usc/t48/s1424–2"
+            },
+            {
+              "number": "1424–3",
+              "numText": "§ 1424–3.",
+              "heading": "Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules; appeals to appellate court",
+              "identifier": "/us/usc/t48/s1424–3"
+            },
+            {
+              "number": "1424–4",
+              "numText": "§ 1424–4.",
+              "heading": "Criminal offenses; procedure; definitions",
+              "identifier": "/us/usc/t48/s1424–4"
+            },
+            {
+              "number": "1424a",
+              "numText": "§ 1424a.",
+              "heading": "Repealed. Oct. 31, 1951, ch. 655, § 56(e), 65 Stat. 729",
+              "identifier": "/us/usc/t48/s1424a"
+            },
+            {
+              "number": "1424b",
+              "numText": "§ 1424b.",
+              "heading": "Judge of District Court; appointment, tenure, removal, and compensation; appointment of United States attorney and marshal",
+              "identifier": "/us/usc/t48/s1424b"
+            },
+            {
+              "number": "1424c",
+              "numText": "§ 1424c.",
+              "heading": "Review of claims respecting land on Guam",
+              "identifier": "/us/usc/t48/s1424c"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "PUBLIC HOUSING AND URBAN RENEWAL",
+          "identifier": "/us/usc/t48/ch8A/schV",
+          "children": [
+            {
+              "number": "1425",
+              "numText": "§ 1425.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s1425"
+            },
+            {
+              "number": "1425a",
+              "numText": "§ 1425a.",
+              "heading": "Legislative authority to create authorities; appointment of members; powers of authorities",
+              "identifier": "/us/usc/t48/s1425a"
+            },
+            {
+              "number": "1425b",
+              "numText": "§ 1425b.",
+              "heading": "Issuance of notes, bonds, and obligations",
+              "identifier": "/us/usc/t48/s1425b"
+            },
+            {
+              "number": "1425c",
+              "numText": "§ 1425c.",
+              "heading": "Authorization of loans, conveyances, etc.",
+              "identifier": "/us/usc/t48/s1425c"
+            },
+            {
+              "number": "1425d",
+              "numText": "§ 1425d.",
+              "heading": "Ratification of prior act",
+              "identifier": "/us/usc/t48/s1425d"
+            },
+            {
+              "number": "1425e",
+              "numText": "§ 1425e.",
+              "heading": "Additional powers",
+              "identifier": "/us/usc/t48/s1425e"
+            },
+            {
+              "number": "1426",
+              "numText": "§ 1426.",
+              "heading": "Repealed. Aug. 2, 1954, ch. 649, title II, § 205, 68 Stat. 622",
+              "identifier": "/us/usc/t48/s1426"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "GUAM DEVELOPMENT FUND",
+          "identifier": "/us/usc/t48/ch8A/schVI",
+          "children": [
+            {
+              "number": "1428",
+              "numText": "§ 1428.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t48/s1428"
+            },
+            {
+              "number": "1428a",
+              "numText": "§ 1428a.",
+              "heading": "Submission of plan for use of funds; contents of plan; term, interest rate, and premium charge of loan",
+              "identifier": "/us/usc/t48/s1428a"
+            },
+            {
+              "number": "1428b",
+              "numText": "§ 1428b.",
+              "heading": "Prerequisite for loan or loan guarantee; maximum participation in available funds; reserves for loan guarantees",
+              "identifier": "/us/usc/t48/s1428b"
+            },
+            {
+              "number": "1428c",
+              "numText": "§ 1428c.",
+              "heading": "Accounting procedures",
+              "identifier": "/us/usc/t48/s1428c"
+            },
+            {
+              "number": "1428d",
+              "numText": "§ 1428d.",
+              "heading": "Report for inclusion in annual report by Governor",
+              "identifier": "/us/usc/t48/s1428d"
+            },
+            {
+              "number": "1428e",
+              "numText": "§ 1428e.",
+              "heading": "Audit of books and records of agency, or agencies, administering loan funds",
+              "identifier": "/us/usc/t48/s1428e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "SAMOA, TUTUILA, MANUA, SWAINS ISLAND, AND TRUST TERRITORY OF THE PACIFIC ISLANDS",
+      "identifier": "/us/usc/t48/ch9",
+      "children": [
+        {
+          "number": "1431 to 1440",
+          "numText": "§§ 1431 to 1440.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1431...1440"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "10",
+      "heading": "TERRITORIAL PROVISIONS OF A GENERAL NATURE",
+      "identifier": "/us/usc/t48/ch10",
+      "children": [
+        {
+          "number": "1451",
+          "numText": "§ 1451.",
+          "heading": "Rights of Indians not impaired; boundaries",
+          "identifier": "/us/usc/t48/s1451"
+        },
+        {
+          "number": "1452",
+          "numText": "§ 1452.",
+          "heading": "Regulation of Indians",
+          "identifier": "/us/usc/t48/s1452"
+        },
+        {
+          "number": "1453 to 1455",
+          "numText": "§§ 1453 to 1455.",
+          "heading": "Repealed. Pub. L. 98–213, § 16(c)–(f), Dec. 8, 1983, 97 Stat. 1462",
+          "identifier": "/us/usc/t48/s1453...1455"
+        },
+        {
+          "number": "1456",
+          "numText": "§ 1456.",
+          "heading": "Repealed. Sept. 12, 1950, ch. 946, title III, § 301(106), 64 Stat. 844",
+          "identifier": "/us/usc/t48/s1456"
+        },
+        {
+          "number": "1457 to 1469–1",
+          "numText": "§§ 1457 to 1469–1.",
+          "heading": "Repealed. Pub. L. 98–213, § 16(a), (g)–(u), Dec. 8, 1983, 97 Stat. 1462, 1463",
+          "identifier": "/us/usc/t48/s1457...1469–1"
+        },
+        {
+          "number": "1469a",
+          "numText": "§ 1469a.",
+          "heading": "Congressional declaration of policy respecting “Insular Areas”",
+          "identifier": "/us/usc/t48/s1469a"
+        },
+        {
+          "number": "1469a–1",
+          "numText": "§ 1469a–1.",
+          "heading": "Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited",
+          "identifier": "/us/usc/t48/s1469a–1"
+        },
+        {
+          "number": "1469b",
+          "numText": "§ 1469b.",
+          "heading": "Auditing of transactions of territorial and local governments",
+          "identifier": "/us/usc/t48/s1469b"
+        },
+        {
+          "number": "1469c",
+          "numText": "§ 1469c.",
+          "heading": "Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements",
+          "identifier": "/us/usc/t48/s1469c"
+        },
+        {
+          "number": "1469d",
+          "numText": "§ 1469d.",
+          "heading": "General technical assistance",
+          "identifier": "/us/usc/t48/s1469d"
+        },
+        {
+          "number": "1469e",
+          "numText": "§ 1469e.",
+          "heading": "Insular government purchases",
+          "identifier": "/us/usc/t48/s1469e"
+        },
+        {
+          "number": "1470",
+          "numText": "§ 1470.",
+          "heading": "Repealed. Pub. L. 98–213, § 16(v), Dec. 8, 1983, 97 Stat. 1463",
+          "identifier": "/us/usc/t48/s1470"
+        },
+        {
+          "number": "1470a",
+          "numText": "§ 1470a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1470a"
+        },
+        {
+          "number": "1471 to 1479",
+          "numText": "§§ 1471 to 1479.",
+          "heading": "Repealed. Pub. L. 98–213, § 16(w)–(ee), Dec. 8, 1983, 97 Stat. 1463",
+          "identifier": "/us/usc/t48/s1471...1479"
+        },
+        {
+          "number": "1480 to 1480b",
+          "numText": "§§ 1480 to 1480b.",
+          "heading": "Repealed. Pub. L. 95–584, § 1, Nov. 2, 1978, 92 Stat. 2483",
+          "identifier": "/us/usc/t48/s1480...1480b"
+        },
+        {
+          "number": "1481 to 1485",
+          "numText": "§§ 1481 to 1485.",
+          "heading": "Repealed. Pub. L. 98–213, § 16(ff)–(jj), Dec. 8, 1983, 97 Stat. 1463",
+          "identifier": "/us/usc/t48/s1481...1485"
+        },
+        {
+          "number": "1486",
+          "numText": "§ 1486.",
+          "heading": "Repealed. Pub. L. 87–826, § 3, Oct. 15, 1962, 76 Stat. 953",
+          "identifier": "/us/usc/t48/s1486"
+        },
+        {
+          "number": "1487, 1488",
+          "numText": "§§ 1487, 1488.",
+          "heading": "Repealed. Pub. L. 98–213, § 16(b), (kk), Dec. 8, 1983, 97 Stat. 1462, 1463",
+          "identifier": "/us/usc/t48/s1487 /us/usc/t48/s1488"
+        },
+        {
+          "number": "1489",
+          "numText": "§ 1489.",
+          "heading": "Loss of title of United States to lands in territories through adverse possession or prescription forbidden",
+          "identifier": "/us/usc/t48/s1489"
+        },
+        {
+          "number": "1490",
+          "numText": "§ 1490.",
+          "heading": "Repealed. Mar. 3, 1933, ch. 202, § 1, 47 Stat. 1428",
+          "identifier": "/us/usc/t48/s1490"
+        },
+        {
+          "number": "1491",
+          "numText": "§ 1491.",
+          "heading": "License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; “territory or possession” defined",
+          "identifier": "/us/usc/t48/s1491"
+        },
+        {
+          "number": "1492",
+          "numText": "§ 1492.",
+          "heading": "Energy resources of Caribbean and Pacific insular areas",
+          "identifier": "/us/usc/t48/s1492"
+        },
+        {
+          "number": "1492a",
+          "numText": "§ 1492a.",
+          "heading": "Study of electric rates in the insular areas",
+          "identifier": "/us/usc/t48/s1492a"
+        },
+        {
+          "number": "1493",
+          "numText": "§ 1493.",
+          "heading": "Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders",
+          "identifier": "/us/usc/t48/s1493"
+        },
+        {
+          "number": "1494",
+          "numText": "§ 1494.",
+          "heading": "Purposes",
+          "identifier": "/us/usc/t48/s1494"
+        },
+        {
+          "number": "1494a",
+          "numText": "§ 1494a.",
+          "heading": "Annual reports to Congress",
+          "identifier": "/us/usc/t48/s1494a"
+        },
+        {
+          "number": "1494b",
+          "numText": "§ 1494b.",
+          "heading": "Enforcement and administration in insular areas",
+          "identifier": "/us/usc/t48/s1494b"
+        },
+        {
+          "number": "1494c",
+          "numText": "§ 1494c.",
+          "heading": "Drug Enforcement Agency personnel assignments",
+          "identifier": "/us/usc/t48/s1494c"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "11",
+      "heading": "ALIEN OWNERS OF LAND",
+      "identifier": "/us/usc/t48/ch11",
+      "children": [
+        {
+          "number": "1501",
+          "numText": "§ 1501.",
+          "heading": "Lands in Territories",
+          "identifier": "/us/usc/t48/s1501"
+        },
+        {
+          "number": "1502",
+          "numText": "§ 1502.",
+          "heading": "Previously acquired lands; bona fide resident aliens; mining or incorporated village lands",
+          "identifier": "/us/usc/t48/s1502"
+        },
+        {
+          "number": "1503",
+          "numText": "§ 1503.",
+          "heading": "Acquisition by inheritance, in collection of debts, etc.",
+          "identifier": "/us/usc/t48/s1503"
+        },
+        {
+          "number": "1504",
+          "numText": "§ 1504.",
+          "heading": "Conveyance of lands in Territories by aliens before escheat proceedings",
+          "identifier": "/us/usc/t48/s1504"
+        },
+        {
+          "number": "1505",
+          "numText": "§ 1505.",
+          "heading": "Proceedings for escheat of improperly held lands",
+          "identifier": "/us/usc/t48/s1505"
+        },
+        {
+          "number": "1506",
+          "numText": "§ 1506.",
+          "heading": "Condemnation and sale of lands in escheat proceedings",
+          "identifier": "/us/usc/t48/s1506"
+        },
+        {
+          "number": "1507",
+          "numText": "§ 1507.",
+          "heading": "Public lands",
+          "identifier": "/us/usc/t48/s1507"
+        },
+        {
+          "number": "1508",
+          "numText": "§ 1508.",
+          "heading": "Application to District of Columbia",
+          "identifier": "/us/usc/t48/s1508"
+        },
+        {
+          "number": "1509 to 1512",
+          "numText": "§§ 1509 to 1512.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1509...1512"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "12",
+      "heading": "VIRGIN ISLANDS [1954]",
+      "identifier": "/us/usc/t48/ch12",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t48/ch12/schI",
+          "children": [
+            {
+              "number": "1541",
+              "numText": "§ 1541.",
+              "heading": "Organization and status",
+              "identifier": "/us/usc/t48/s1541"
+            },
+            {
+              "number": "1542",
+              "numText": "§ 1542.",
+              "heading": "Voting franchise; discrimination prohibited",
+              "identifier": "/us/usc/t48/s1542"
+            },
+            {
+              "number": "1543",
+              "numText": "§ 1543.",
+              "heading": "United States citizenship requirement for government officials",
+              "identifier": "/us/usc/t48/s1543"
+            },
+            {
+              "number": "1544",
+              "numText": "§ 1544.",
+              "heading": "Reports by Governor; jurisdiction of Secretary of the Interior; exceptions",
+              "identifier": "/us/usc/t48/s1544"
+            },
+            {
+              "number": "1545",
+              "numText": "§ 1545.",
+              "heading": "Lease and sale of public property; conveyance of title in certain lands to the government of Virgin Islands",
+              "identifier": "/us/usc/t48/s1545"
+            },
+            {
+              "number": "1546",
+              "numText": "§ 1546.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t48/s1546"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "BILL OF RIGHTS",
+          "identifier": "/us/usc/t48/ch12/schII",
+          "children": [
+            {
+              "number": "1561",
+              "numText": "§ 1561.",
+              "heading": "Rights and prohibitions",
+              "identifier": "/us/usc/t48/s1561"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "LEGISLATIVE BRANCH",
+          "identifier": "/us/usc/t48/ch12/schIII",
+          "children": [
+            {
+              "number": "1571",
+              "numText": "§ 1571.",
+              "heading": "Legislature",
+              "identifier": "/us/usc/t48/s1571"
+            },
+            {
+              "number": "1572",
+              "numText": "§ 1572.",
+              "heading": "Legislators",
+              "identifier": "/us/usc/t48/s1572"
+            },
+            {
+              "number": "1573",
+              "numText": "§ 1573.",
+              "heading": "Time, frequency, and duration of regular sessions; special sessions; place of holding",
+              "identifier": "/us/usc/t48/s1573"
+            },
+            {
+              "number": "1574",
+              "numText": "§ 1574.",
+              "heading": "Legislative powers and activities",
+              "identifier": "/us/usc/t48/s1574"
+            },
+            {
+              "number": "1574–1",
+              "numText": "§ 1574–1.",
+              "heading": "Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands",
+              "identifier": "/us/usc/t48/s1574–1"
+            },
+            {
+              "number": "1574a",
+              "numText": "§ 1574a.",
+              "heading": "Revenue bonds or other obligations",
+              "identifier": "/us/usc/t48/s1574a"
+            },
+            {
+              "number": "1574b",
+              "numText": "§ 1574b.",
+              "heading": "Federal guarantee for issuance of revenue bonds or other obligations",
+              "identifier": "/us/usc/t48/s1574b"
+            },
+            {
+              "number": "1574c",
+              "numText": "§ 1574c.",
+              "heading": "Priority for payment of principal and interest of revenue bonds or other obligations",
+              "identifier": "/us/usc/t48/s1574c"
+            },
+            {
+              "number": "1574d",
+              "numText": "§ 1574d.",
+              "heading": "Repealed. Pub. L. 97–357, title III, § 308(g), Oct. 19, 1982, 96 Stat. 1710",
+              "identifier": "/us/usc/t48/s1574d"
+            },
+            {
+              "number": "1575",
+              "numText": "§ 1575.",
+              "heading": "Legislative procedure",
+              "identifier": "/us/usc/t48/s1575"
+            },
+            {
+              "number": "1576",
+              "numText": "§ 1576.",
+              "heading": "General elections; time; transfer of Council functions, property, etc.",
+              "identifier": "/us/usc/t48/s1576"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "EXECUTIVE BRANCH",
+          "identifier": "/us/usc/t48/ch12/schIV",
+          "children": [
+            {
+              "number": "1591",
+              "numText": "§ 1591.",
+              "heading": "Governor and Lieutenant Governor; election; eligibility; official residence; powers and duties; report",
+              "identifier": "/us/usc/t48/s1591"
+            },
+            {
+              "number": "1592",
+              "numText": "§ 1592.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657",
+              "identifier": "/us/usc/t48/s1592"
+            },
+            {
+              "number": "1593",
+              "numText": "§ 1593.",
+              "heading": "Initiative and recall",
+              "identifier": "/us/usc/t48/s1593"
+            },
+            {
+              "number": "1594",
+              "numText": "§ 1594.",
+              "heading": "Repealed. Pub. L. 90–496, § 6, Aug. 23, 1968, 82 Stat. 839",
+              "identifier": "/us/usc/t48/s1594"
+            },
+            {
+              "number": "1595",
+              "numText": "§ 1595.",
+              "heading": "Vacancy in office of Governor or Lieutenant Governor",
+              "identifier": "/us/usc/t48/s1595"
+            },
+            {
+              "number": "1596",
+              "numText": "§ 1596.",
+              "heading": "Repealed. Pub. L. 104–186, title II, § 224(3), Aug. 20, 1996, 110 Stat. 1752",
+              "identifier": "/us/usc/t48/s1596"
+            },
+            {
+              "number": "1597",
+              "numText": "§ 1597.",
+              "heading": "Reorganization of government",
+              "identifier": "/us/usc/t48/s1597"
+            },
+            {
+              "number": "1598",
+              "numText": "§ 1598.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t48/s1598"
+            },
+            {
+              "number": "1599",
+              "numText": "§ 1599.",
+              "heading": "Transfer of functions from government comptroller for Virgin Islands to Inspector General, Department of the Interior",
+              "identifier": "/us/usc/t48/s1599"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "JUDICIAL BRANCH",
+          "identifier": "/us/usc/t48/ch12/schV",
+          "children": [
+            {
+              "number": "1611",
+              "numText": "§ 1611.",
+              "heading": "District Court of Virgin Islands; local courts; jurisdiction; practice and procedure",
+              "identifier": "/us/usc/t48/s1611"
+            },
+            {
+              "number": "1612",
+              "numText": "§ 1612.",
+              "heading": "Jurisdiction of District Court",
+              "identifier": "/us/usc/t48/s1612"
+            },
+            {
+              "number": "1613",
+              "numText": "§ 1613.",
+              "heading": "Relations between courts of United States and courts of Virgin Islands; review by United States Court of Appeals for Third Circuit; reports to Congress; rules",
+              "identifier": "/us/usc/t48/s1613"
+            },
+            {
+              "number": "1613a",
+              "numText": "§ 1613a.",
+              "heading": "Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Third Circuit; rules; appeals to appellate court",
+              "identifier": "/us/usc/t48/s1613a"
+            },
+            {
+              "number": "1614",
+              "numText": "§ 1614.",
+              "heading": "Judges of District Court",
+              "identifier": "/us/usc/t48/s1614"
+            },
+            {
+              "number": "1615",
+              "numText": "§ 1615.",
+              "heading": "Judicial divisions",
+              "identifier": "/us/usc/t48/s1615"
+            },
+            {
+              "number": "1616",
+              "numText": "§ 1616.",
+              "heading": "Trial by jury",
+              "identifier": "/us/usc/t48/s1616"
+            },
+            {
+              "number": "1617",
+              "numText": "§ 1617.",
+              "heading": "United States attorney; appointment; duties",
+              "identifier": "/us/usc/t48/s1617"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "SYSTEM OF ACCOUNTS",
+          "identifier": "/us/usc/t48/ch12/schVI",
+          "children": [
+            {
+              "number": "1631",
+              "numText": "§ 1631.",
+              "heading": "Establishment and maintenance; scope",
+              "identifier": "/us/usc/t48/s1631"
+            },
+            {
+              "number": "1632",
+              "numText": "§ 1632.",
+              "heading": "Repealed. Pub. L. 90–496, § 14, Aug. 23, 1968, 82 Stat. 842",
+              "identifier": "/us/usc/t48/s1632"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "FISCAL PROVISIONS",
+          "identifier": "/us/usc/t48/ch12/schVII",
+          "children": [
+            {
+              "number": "1641",
+              "numText": "§ 1641.",
+              "heading": "Method of payment of official salaries",
+              "identifier": "/us/usc/t48/s1641"
+            },
+            {
+              "number": "1642",
+              "numText": "§ 1642.",
+              "heading": "Use of certain proceeds for expenditure; income tax obligations of inhabitants",
+              "identifier": "/us/usc/t48/s1642"
+            },
+            {
+              "number": "1642a",
+              "numText": "§ 1642a.",
+              "heading": "Availability of collected customs duties for expenditures as Legislature may provide",
+              "identifier": "/us/usc/t48/s1642a"
+            },
+            {
+              "number": "1643",
+              "numText": "§ 1643.",
+              "heading": "Import provisions with respect to trade-marks",
+              "identifier": "/us/usc/t48/s1643"
+            },
+            {
+              "number": "1644",
+              "numText": "§ 1644.",
+              "heading": "Import duties on articles entering United States or possessions from Virgin Islands",
+              "identifier": "/us/usc/t48/s1644"
+            },
+            {
+              "number": "1645",
+              "numText": "§ 1645.",
+              "heading": "Remittance of duties, taxes, and fees to be collected in next fiscal year; authorization, prerequisites, amount, etc.",
+              "identifier": "/us/usc/t48/s1645"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "13",
+      "heading": "EASTERN SAMOA",
+      "identifier": "/us/usc/t48/ch13",
+      "children": [
+        {
+          "number": "1661",
+          "numText": "§ 1661.",
+          "heading": "Islands of eastern Samoa",
+          "identifier": "/us/usc/t48/s1661"
+        },
+        {
+          "number": "1662",
+          "numText": "§ 1662.",
+          "heading": "Sovereignty of United States extended over Swains Island",
+          "identifier": "/us/usc/t48/s1662"
+        },
+        {
+          "number": "1662a",
+          "numText": "§ 1662a.",
+          "heading": "Repealed. Pub. L. 118–232, § 1, Jan. 4, 2025, 138 Stat. 2834",
+          "identifier": "/us/usc/t48/s1662a"
+        },
+        {
+          "number": "1663",
+          "numText": "§ 1663.",
+          "heading": "Acknowledgment of deeds",
+          "identifier": "/us/usc/t48/s1663"
+        },
+        {
+          "number": "1664",
+          "numText": "§ 1664.",
+          "heading": "Repealed. Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710",
+          "identifier": "/us/usc/t48/s1664"
+        },
+        {
+          "number": "1665",
+          "numText": "§ 1665.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1665"
+        },
+        {
+          "number": "1666",
+          "numText": "§ 1666.",
+          "heading": "Extension of scientific, technical, and other assistance; grant-in-aid program restriction; limitations on expenditures",
+          "identifier": "/us/usc/t48/s1666"
+        },
+        {
+          "number": "1667",
+          "numText": "§ 1667.",
+          "heading": "Repealed. Pub. L. 90–576, title I, § 103, Oct. 16, 1968, 82 Stat. 1091",
+          "identifier": "/us/usc/t48/s1667"
+        },
+        {
+          "number": "1668",
+          "numText": "§ 1668.",
+          "heading": "Reporting duties of Governor and transfer of functions from government comptroller for American Samoa to Inspector General, Department of the Interior",
+          "identifier": "/us/usc/t48/s1668"
+        },
+        {
+          "number": "1669",
+          "numText": "§ 1669.",
+          "heading": "Administration and enforcement of collection of customs duties; employment and training of residents",
+          "identifier": "/us/usc/t48/s1669"
+        },
+        {
+          "number": "1670",
+          "numText": "§ 1670.",
+          "heading": "Industrial development bonds",
+          "identifier": "/us/usc/t48/s1670"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "14",
+      "heading": "TRUST TERRITORY OF THE PACIFIC ISLANDS",
+      "identifier": "/us/usc/t48/ch14",
+      "children": [
+        {
+          "number": "1681",
+          "numText": "§ 1681.",
+          "heading": "Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement",
+          "identifier": "/us/usc/t48/s1681"
+        },
+        {
+          "number": "1681a",
+          "numText": "§ 1681a.",
+          "heading": "Appointment of High Commissioner",
+          "identifier": "/us/usc/t48/s1681a"
+        },
+        {
+          "number": "1681b",
+          "numText": "§ 1681b.",
+          "heading": "Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior",
+          "identifier": "/us/usc/t48/s1681b"
+        },
+        {
+          "number": "1681c",
+          "numText": "§ 1681c.",
+          "heading": "Repealed. Pub. L. 97–357, title II, § 203(d), Oct. 19, 1982, 96 Stat. 1708",
+          "identifier": "/us/usc/t48/s1681c"
+        },
+        {
+          "number": "1682",
+          "numText": "§ 1682.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1682"
+        },
+        {
+          "number": "1683",
+          "numText": "§ 1683.",
+          "heading": "Auditing of transactions of Trust Territory of the Pacific Islands",
+          "identifier": "/us/usc/t48/s1683"
+        },
+        {
+          "number": "1684",
+          "numText": "§ 1684.",
+          "heading": "Expenditure of funds for administration of Trust Territory of the Pacific Islands",
+          "identifier": "/us/usc/t48/s1684"
+        },
+        {
+          "number": "1685",
+          "numText": "§ 1685.",
+          "heading": "Transfer of property or money for administration of Trust Territory of the Pacific Islands",
+          "identifier": "/us/usc/t48/s1685"
+        },
+        {
+          "number": "1686, 1687",
+          "numText": "§§ 1686, 1687.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t48/s1686 /us/usc/t48/s1687"
+        },
+        {
+          "number": "1688",
+          "numText": "§ 1688.",
+          "heading": "Trust Territory of the Pacific Islands Economic Development Loan Fund",
+          "identifier": "/us/usc/t48/s1688"
+        },
+        {
+          "number": "1689",
+          "numText": "§ 1689.",
+          "heading": "Plan for use of grant to Trust Territory of the Pacific Islands Economic Development Loan Fund; loans; terms",
+          "identifier": "/us/usc/t48/s1689"
+        },
+        {
+          "number": "1690",
+          "numText": "§ 1690.",
+          "heading": "Loans from Trust Territory of the Pacific Islands Economic Loan Fund; restrictions; guarantees",
+          "identifier": "/us/usc/t48/s1690"
+        },
+        {
+          "number": "1691",
+          "numText": "§ 1691.",
+          "heading": "Fiscal control and accounting procedures for plan for use of grant",
+          "identifier": "/us/usc/t48/s1691"
+        },
+        {
+          "number": "1692",
+          "numText": "§ 1692.",
+          "heading": "Comprehensive annual financial report by chief executives of governments of the Marshall Islands, Federated States of Micronesia, Palau, and Northern Mariana Islands; contents; other reports",
+          "identifier": "/us/usc/t48/s1692"
+        },
+        {
+          "number": "1693",
+          "numText": "§ 1693.",
+          "heading": "Audit of government; access to books, records, etc.",
+          "identifier": "/us/usc/t48/s1693"
+        },
+        {
+          "number": "1694 to 1694e",
+          "numText": "§§ 1694 to 1694e.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t48/s1694...1694e"
+        },
+        {
+          "number": "1695",
+          "numText": "§ 1695.",
+          "heading": "Federal education and health care programs; nonapplicability or nonparticipation",
+          "identifier": "/us/usc/t48/s1695"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "15",
+      "heading": "CONVEYANCE OF SUBMERGED LANDS TO TERRITORIES",
+      "identifier": "/us/usc/t48/ch15",
+      "children": [
+        {
+          "number": "1701 to 1703",
+          "numText": "§§ 1701 to 1703.",
+          "heading": "Repealed. Pub. L. 93–435, § 5, Oct. 5, 1974, 88 Stat. 1212",
+          "identifier": "/us/usc/t48/s1701...1703"
+        },
+        {
+          "number": "1704",
+          "numText": "§ 1704.",
+          "heading": "Concurrent jurisdiction; exceptions for national defense purposes",
+          "identifier": "/us/usc/t48/s1704"
+        },
+        {
+          "number": "1705",
+          "numText": "§ 1705.",
+          "heading": "Tidelands, submerged lands, or filled lands",
+          "identifier": "/us/usc/t48/s1705"
+        },
+        {
+          "number": "1706",
+          "numText": "§ 1706.",
+          "heading": "Reserved rights",
+          "identifier": "/us/usc/t48/s1706"
+        },
+        {
+          "number": "1707",
+          "numText": "§ 1707.",
+          "heading": "Payment of rents, royalties, and fees to local government",
+          "identifier": "/us/usc/t48/s1707"
+        },
+        {
+          "number": "1708",
+          "numText": "§ 1708.",
+          "heading": "Discrimination prohibited in rights of access to, and benefits from, conveyed lands",
+          "identifier": "/us/usc/t48/s1708"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "16",
+      "heading": "DELEGATES TO CONGRESS",
+      "identifier": "/us/usc/t48/ch16",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GUAM AND VIRGIN ISLANDS",
+          "identifier": "/us/usc/t48/ch16/schI",
+          "children": [
+            {
+              "number": "1711",
+              "numText": "§ 1711.",
+              "heading": "Delegate to House of Representatives from Guam and Virgin Islands",
+              "identifier": "/us/usc/t48/s1711"
+            },
+            {
+              "number": "1712",
+              "numText": "§ 1712.",
+              "heading": "Election of delegates; majority; runoff election; vacancy; commencement of term",
+              "identifier": "/us/usc/t48/s1712"
+            },
+            {
+              "number": "1713",
+              "numText": "§ 1713.",
+              "heading": "Qualifications for Office of Delegate",
+              "identifier": "/us/usc/t48/s1713"
+            },
+            {
+              "number": "1714",
+              "numText": "§ 1714.",
+              "heading": "Territorial legislature; determination of election procedure",
+              "identifier": "/us/usc/t48/s1714"
+            },
+            {
+              "number": "1715",
+              "numText": "§ 1715.",
+              "heading": "Operation of Office; House privileges; compensation, allowances, and benefits; privileges and immunities; voting in committee",
+              "identifier": "/us/usc/t48/s1715"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "AMERICAN SAMOA",
+          "identifier": "/us/usc/t48/ch16/schII",
+          "children": [
+            {
+              "number": "1731",
+              "numText": "§ 1731.",
+              "heading": "Delegate to House of Representatives from American Samoa",
+              "identifier": "/us/usc/t48/s1731"
+            },
+            {
+              "number": "1732",
+              "numText": "§ 1732.",
+              "heading": "Election of delegates",
+              "identifier": "/us/usc/t48/s1732"
+            },
+            {
+              "number": "1733",
+              "numText": "§ 1733.",
+              "heading": "Qualifications for Office of Delegate",
+              "identifier": "/us/usc/t48/s1733"
+            },
+            {
+              "number": "1734",
+              "numText": "§ 1734.",
+              "heading": "Territorial government; determination of election procedure",
+              "identifier": "/us/usc/t48/s1734"
+            },
+            {
+              "number": "1735",
+              "numText": "§ 1735.",
+              "heading": "Operation of Office; compensation, allowances, and benefits; privileges and immunities",
+              "identifier": "/us/usc/t48/s1735"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "NORTHERN MARIANA ISLANDS DELEGATE",
+          "identifier": "/us/usc/t48/ch16/schIII",
+          "children": [
+            {
+              "number": "1751",
+              "numText": "§ 1751.",
+              "heading": "Delegate to House of Representatives from Commonwealth of the Northern Mariana Islands",
+              "identifier": "/us/usc/t48/s1751"
+            },
+            {
+              "number": "1752",
+              "numText": "§ 1752.",
+              "heading": "Election of Delegate",
+              "identifier": "/us/usc/t48/s1752"
+            },
+            {
+              "number": "1753",
+              "numText": "§ 1753.",
+              "heading": "Qualifications for office of Delegate",
+              "identifier": "/us/usc/t48/s1753"
+            },
+            {
+              "number": "1754",
+              "numText": "§ 1754.",
+              "heading": "Determination of election procedure",
+              "identifier": "/us/usc/t48/s1754"
+            },
+            {
+              "number": "1755",
+              "numText": "§ 1755.",
+              "heading": "Compensation, privileges, and immunities",
+              "identifier": "/us/usc/t48/s1755"
+            },
+            {
+              "number": "1756",
+              "numText": "§ 1756.",
+              "heading": "Lack of effect on covenant",
+              "identifier": "/us/usc/t48/s1756"
+            },
+            {
+              "number": "1757",
+              "numText": "§ 1757.",
+              "heading": "Definition",
+              "identifier": "/us/usc/t48/s1757"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "17",
+      "heading": "NORTHERN MARIANA ISLANDS",
+      "identifier": "/us/usc/t48/ch17",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS",
+          "identifier": "/us/usc/t48/ch17/schI",
+          "children": [
+            {
+              "number": "1801",
+              "numText": "§ 1801.",
+              "heading": "Approval of Covenant to Establish a Commonwealth of the Northern Mariana Islands",
+              "identifier": "/us/usc/t48/s1801"
+            },
+            {
+              "number": "1802",
+              "numText": "§ 1802.",
+              "heading": "Consideration of issues affecting relations with United States",
+              "identifier": "/us/usc/t48/s1802"
+            },
+            {
+              "number": "1803",
+              "numText": "§ 1803.",
+              "heading": "Financial assistance to Government of Northern Mariana Islands",
+              "identifier": "/us/usc/t48/s1803"
+            },
+            {
+              "number": "1804",
+              "numText": "§ 1804.",
+              "heading": "Direct grant assistance",
+              "identifier": "/us/usc/t48/s1804"
+            },
+            {
+              "number": "1805",
+              "numText": "§ 1805.",
+              "heading": "Failure to meet performance standards; resolution of issues; withholding of funds",
+              "identifier": "/us/usc/t48/s1805"
+            },
+            {
+              "number": "1806",
+              "numText": "§ 1806.",
+              "heading": "Immigration and transition",
+              "identifier": "/us/usc/t48/s1806"
+            },
+            {
+              "number": "1807",
+              "numText": "§ 1807.",
+              "heading": "Technical assistance program",
+              "identifier": "/us/usc/t48/s1807"
+            },
+            {
+              "number": "1808",
+              "numText": "§ 1808.",
+              "heading": "Operations",
+              "identifier": "/us/usc/t48/s1808"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "JUDICIAL MATTERS",
+          "identifier": "/us/usc/t48/ch17/schII",
+          "children": [
+            {
+              "number": "1821",
+              "numText": "§ 1821.",
+              "heading": "District Court for the Northern Mariana Islands",
+              "identifier": "/us/usc/t48/s1821"
+            },
+            {
+              "number": "1822",
+              "numText": "§ 1822.",
+              "heading": "Jurisdiction of District Court; original jurisdiction; procedural requirements",
+              "identifier": "/us/usc/t48/s1822"
+            },
+            {
+              "number": "1823",
+              "numText": "§ 1823.",
+              "heading": "Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules",
+              "identifier": "/us/usc/t48/s1823"
+            },
+            {
+              "number": "1824",
+              "numText": "§ 1824.",
+              "heading": "Relations between courts of United States and courts of Northern Mariana Islands; applicability of statutory provisions",
+              "identifier": "/us/usc/t48/s1824"
+            },
+            {
+              "number": "1825",
+              "numText": "§ 1825.",
+              "heading": "Effective date",
+              "identifier": "/us/usc/t48/s1825"
+            },
+            {
+              "number": "1826",
+              "numText": "§ 1826.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t48/s1826"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t48/ch17/schIII",
+          "children": [
+            {
+              "number": "1841",
+              "numText": "§ 1841.",
+              "heading": "Funds and services",
+              "identifier": "/us/usc/t48/s1841"
+            },
+            {
+              "number": "1842",
+              "numText": "§ 1842.",
+              "heading": "Covering into Commonwealth treasury of tax proceeds collected pursuant to Covenant",
+              "identifier": "/us/usc/t48/s1842"
+            },
+            {
+              "number": "1843",
+              "numText": "§ 1843.",
+              "heading": "Exemption from taxation for income derived from sources within Commonwealth",
+              "identifier": "/us/usc/t48/s1843"
+            },
+            {
+              "number": "1844",
+              "numText": "§ 1844.",
+              "heading": "Political union between Territory of Guam and Commonwealth of Northern Mariana Islands",
+              "identifier": "/us/usc/t48/s1844"
+            },
+            {
+              "number": "1845",
+              "numText": "§ 1845.",
+              "heading": "Plans for development, utilization, and conservation of water and related land resources",
+              "identifier": "/us/usc/t48/s1845"
+            },
+            {
+              "number": "1846",
+              "numText": "§ 1846.",
+              "heading": "Exemption from assessment and taxation of real property owned by Commonwealth in United States capital",
+              "identifier": "/us/usc/t48/s1846"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "18",
+      "heading": "MICRONESIA, MARSHALL ISLANDS, AND PALAU",
+      "identifier": "/us/usc/t48/ch18",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "MICRONESIA AND MARSHALL ISLANDS",
+          "identifier": "/us/usc/t48/ch18/schI",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Approval and Implementation of Original Compact",
+              "identifier": "/us/usc/t48/ch18/schI/ptA",
+              "children": [
+                {
+                  "number": "1901",
+                  "numText": "§ 1901.",
+                  "heading": "Approval of Compact of Free Association",
+                  "identifier": "/us/usc/t48/s1901"
+                },
+                {
+                  "number": "1902",
+                  "numText": "§ 1902.",
+                  "heading": "Agreements with Federated States of Micronesia",
+                  "identifier": "/us/usc/t48/s1902"
+                },
+                {
+                  "number": "1903",
+                  "numText": "§ 1903.",
+                  "heading": "Agreements with and other provisions related to Marshall Islands",
+                  "identifier": "/us/usc/t48/s1903"
+                },
+                {
+                  "number": "1904",
+                  "numText": "§ 1904.",
+                  "heading": "Interpretation of and United States policy regarding Compact of Free Association",
+                  "identifier": "/us/usc/t48/s1904"
+                },
+                {
+                  "number": "1905",
+                  "numText": "§ 1905.",
+                  "heading": "Supplemental provisions",
+                  "identifier": "/us/usc/t48/s1905"
+                },
+                {
+                  "number": "1906",
+                  "numText": "§ 1906.",
+                  "heading": "Construction contract assistance",
+                  "identifier": "/us/usc/t48/s1906"
+                },
+                {
+                  "number": "1907",
+                  "numText": "§ 1907.",
+                  "heading": "Limitations",
+                  "identifier": "/us/usc/t48/s1907"
+                },
+                {
+                  "number": "1908",
+                  "numText": "§ 1908.",
+                  "heading": "Transitional immigration rules",
+                  "identifier": "/us/usc/t48/s1908"
+                },
+                {
+                  "number": "1909",
+                  "numText": "§ 1909.",
+                  "heading": "Timing",
+                  "identifier": "/us/usc/t48/s1909"
+                },
+                {
+                  "number": "1910",
+                  "numText": "§ 1910.",
+                  "heading": "Implementation of audit agreements",
+                  "identifier": "/us/usc/t48/s1910"
+                },
+                {
+                  "number": "1911",
+                  "numText": "§ 1911.",
+                  "heading": "Compensatory adjustments",
+                  "identifier": "/us/usc/t48/s1911"
+                },
+                {
+                  "number": "1912",
+                  "numText": "§ 1912.",
+                  "heading": "Jurisdiction",
+                  "identifier": "/us/usc/t48/s1912"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Approval and Implementation of Compacts, As Amended",
+              "identifier": "/us/usc/t48/ch18/schI/ptB",
+              "children": [
+                {
+                  "number": "1921",
+                  "numText": "§ 1921.",
+                  "heading": "Approval of U.S.-FSM Compact of Free Association and the U.S.-RMI Compact of Free Association; references to subsidiary agreements or separate agreements",
+                  "identifier": "/us/usc/t48/s1921"
+                },
+                {
+                  "number": "1921a",
+                  "numText": "§ 1921a.",
+                  "heading": "Agreements with Federated States of Micronesia",
+                  "identifier": "/us/usc/t48/s1921a"
+                },
+                {
+                  "number": "1921b",
+                  "numText": "§ 1921b.",
+                  "heading": "Agreements with and other provisions related to the Republic of the Marshall Islands",
+                  "identifier": "/us/usc/t48/s1921b"
+                },
+                {
+                  "number": "1921c",
+                  "numText": "§ 1921c.",
+                  "heading": "Interpretation of and United States policy regarding U.S.-FSM Compact and U.S.-RMI Compact",
+                  "identifier": "/us/usc/t48/s1921c"
+                },
+                {
+                  "number": "1921d",
+                  "numText": "§ 1921d.",
+                  "heading": "Supplemental provisions",
+                  "identifier": "/us/usc/t48/s1921d"
+                },
+                {
+                  "number": "1921e",
+                  "numText": "§ 1921e.",
+                  "heading": "Construction contract assistance",
+                  "identifier": "/us/usc/t48/s1921e"
+                },
+                {
+                  "number": "1921f",
+                  "numText": "§ 1921f.",
+                  "heading": "Prohibition",
+                  "identifier": "/us/usc/t48/s1921f"
+                },
+                {
+                  "number": "1921g",
+                  "numText": "§ 1921g.",
+                  "heading": "Compensatory adjustments",
+                  "identifier": "/us/usc/t48/s1921g"
+                },
+                {
+                  "number": "1921h",
+                  "numText": "§ 1921h.",
+                  "heading": "Authorization and continuing appropriation",
+                  "identifier": "/us/usc/t48/s1921h"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "PALAU",
+          "identifier": "/us/usc/t48/ch18/schII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Approval of Compact and Supplemental Provisions",
+              "identifier": "/us/usc/t48/ch18/schII/ptA",
+              "children": [
+                {
+                  "number": "1931",
+                  "numText": "§ 1931.",
+                  "heading": "Approval of Compact of Free Association",
+                  "identifier": "/us/usc/t48/s1931"
+                },
+                {
+                  "number": "1932",
+                  "numText": "§ 1932.",
+                  "heading": "Extension of Compact of Free Association to Palau",
+                  "identifier": "/us/usc/t48/s1932"
+                },
+                {
+                  "number": "1933",
+                  "numText": "§ 1933.",
+                  "heading": "Supplemental provisions",
+                  "identifier": "/us/usc/t48/s1933"
+                },
+                {
+                  "number": "1934",
+                  "numText": "§ 1934.",
+                  "heading": "Jurisdiction",
+                  "identifier": "/us/usc/t48/s1934"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Implementation of Compact",
+              "identifier": "/us/usc/t48/ch18/schII/ptB",
+              "children": [
+                {
+                  "number": "1951",
+                  "numText": "§ 1951.",
+                  "heading": "Entry into force of Compact",
+                  "identifier": "/us/usc/t48/s1951"
+                },
+                {
+                  "number": "1952",
+                  "numText": "§ 1952.",
+                  "heading": "Fiscal procedures assistance",
+                  "identifier": "/us/usc/t48/s1952"
+                },
+                {
+                  "number": "1953",
+                  "numText": "§ 1953.",
+                  "heading": "Antidrug program",
+                  "identifier": "/us/usc/t48/s1953"
+                },
+                {
+                  "number": "1954",
+                  "numText": "§ 1954.",
+                  "heading": "Public auditor and special prosecutor",
+                  "identifier": "/us/usc/t48/s1954"
+                },
+                {
+                  "number": "1955",
+                  "numText": "§ 1955.",
+                  "heading": "Audit certification",
+                  "identifier": "/us/usc/t48/s1955"
+                },
+                {
+                  "number": "1956",
+                  "numText": "§ 1956.",
+                  "heading": "Acquisition of defense sites",
+                  "identifier": "/us/usc/t48/s1956"
+                },
+                {
+                  "number": "1957",
+                  "numText": "§ 1957.",
+                  "heading": "Federal programs coordination personnel",
+                  "identifier": "/us/usc/t48/s1957"
+                },
+                {
+                  "number": "1958",
+                  "numText": "§ 1958.",
+                  "heading": "Referendum costs",
+                  "identifier": "/us/usc/t48/s1958"
+                },
+                {
+                  "number": "1959",
+                  "numText": "§ 1959.",
+                  "heading": "Agreements",
+                  "identifier": "/us/usc/t48/s1959"
+                },
+                {
+                  "number": "1960",
+                  "numText": "§ 1960.",
+                  "heading": "Modification of energy assistance funding",
+                  "identifier": "/us/usc/t48/s1960"
+                },
+                {
+                  "number": "1961",
+                  "numText": "§ 1961.",
+                  "heading": "Submission of agreements",
+                  "identifier": "/us/usc/t48/s1961"
+                },
+                {
+                  "number": "1962",
+                  "numText": "§ 1962.",
+                  "heading": "Transition funding",
+                  "identifier": "/us/usc/t48/s1962"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t48/ch18/schIII",
+          "children": [
+            {
+              "number": "1971",
+              "numText": "§ 1971.",
+              "heading": "Transfer of surplus personal property owned by United States",
+              "identifier": "/us/usc/t48/s1971"
+            },
+            {
+              "number": "1972",
+              "numText": "§ 1972.",
+              "heading": "Controlled substances in freely associated states",
+              "identifier": "/us/usc/t48/s1972"
+            },
+            {
+              "number": "1973",
+              "numText": "§ 1973.",
+              "heading": "Freely Associated State Air Carrier",
+              "identifier": "/us/usc/t48/s1973"
+            },
+            {
+              "number": "1974",
+              "numText": "§ 1974.",
+              "heading": "Connecting Oceania’s Nations With Vanguard Exercises and National Empowerment",
+              "identifier": "/us/usc/t48/s1974"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "MICRONESIA, MARSHALL ISLANDS, AND PALAU: 2023 AGREEMENTS",
+          "identifier": "/us/usc/t48/ch18/schIV",
+          "children": [
+            {
+              "number": "1981",
+              "numText": "§ 1981.",
+              "heading": "Findings",
+              "identifier": "/us/usc/t48/s1981"
+            },
+            {
+              "number": "1982",
+              "numText": "§ 1982.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t48/s1982"
+            },
+            {
+              "number": "1983",
+              "numText": "§ 1983.",
+              "heading": "Approval of 2023 Agreement to Amend the U.S.-FSM Compact, 2023 Agreement to Amend the U.S.-RMI Compact, 2023 U.S.-Palau Compact Review Agreement, and Subsidiary Agreements",
+              "identifier": "/us/usc/t48/s1983"
+            },
+            {
+              "number": "1984",
+              "numText": "§ 1984.",
+              "heading": "Agreements with Federated States of Micronesia",
+              "identifier": "/us/usc/t48/s1984"
+            },
+            {
+              "number": "1985",
+              "numText": "§ 1985.",
+              "heading": "Agreements with and other provisions related to the Republic of the Marshall Islands",
+              "identifier": "/us/usc/t48/s1985"
+            },
+            {
+              "number": "1986",
+              "numText": "§ 1986.",
+              "heading": "Agreements with and other provisions related to the Republic of Palau",
+              "identifier": "/us/usc/t48/s1986"
+            },
+            {
+              "number": "1987",
+              "numText": "§ 1987.",
+              "heading": "Oversight provisions",
+              "identifier": "/us/usc/t48/s1987"
+            },
+            {
+              "number": "1988",
+              "numText": "§ 1988.",
+              "heading": "United States policy regarding the Freely Associated States",
+              "identifier": "/us/usc/t48/s1988"
+            },
+            {
+              "number": "1989",
+              "numText": "§ 1989.",
+              "heading": "Additional authorities",
+              "identifier": "/us/usc/t48/s1989"
+            },
+            {
+              "number": "1990",
+              "numText": "§ 1990.",
+              "heading": "Compact appropriations",
+              "identifier": "/us/usc/t48/s1990"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "19",
+      "heading": "PACIFIC POLICY REPORTS",
+      "identifier": "/us/usc/t48/ch19",
+      "children": [
+        {
+          "number": "2001",
+          "numText": "§ 2001.",
+          "heading": "Findings",
+          "identifier": "/us/usc/t48/s2001"
+        },
+        {
+          "number": "2002",
+          "numText": "§ 2002.",
+          "heading": "Reports",
+          "identifier": "/us/usc/t48/s2002"
+        },
+        {
+          "number": "2003",
+          "numText": "§ 2003.",
+          "heading": "Conference",
+          "identifier": "/us/usc/t48/s2003"
+        },
+        {
+          "number": "2004",
+          "numText": "§ 2004.",
+          "heading": "Administrative matters",
+          "identifier": "/us/usc/t48/s2004"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "20",
+      "heading": "PUERTO RICO OVERSIGHT, MANAGEMENT, AND ECONOMIC STABILITY",
+      "identifier": "/us/usc/t48/ch20",
+      "children": [
+        {
+          "number": "2101",
+          "numText": "§ 2101.",
+          "heading": "Effective date",
+          "identifier": "/us/usc/t48/s2101"
+        },
+        {
+          "number": "2102",
+          "numText": "§ 2102.",
+          "heading": "Severability",
+          "identifier": "/us/usc/t48/s2102"
+        },
+        {
+          "number": "2103",
+          "numText": "§ 2103.",
+          "heading": "Supremacy",
+          "identifier": "/us/usc/t48/s2103"
+        },
+        {
+          "number": "2104",
+          "numText": "§ 2104.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t48/s2104"
+        },
+        {
+          "number": "2105",
+          "numText": "§ 2105.",
+          "heading": "Placement",
+          "identifier": "/us/usc/t48/s2105"
+        },
+        {
+          "number": "2106",
+          "numText": "§ 2106.",
+          "heading": "Compliance with Federal laws",
+          "identifier": "/us/usc/t48/s2106"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "ESTABLISHMENT AND ORGANIZATION OF OVERSIGHT BOARD",
+          "identifier": "/us/usc/t48/ch20/schI",
+          "children": [
+            {
+              "number": "2121",
+              "numText": "§ 2121.",
+              "heading": "Financial Oversight and Management Board",
+              "identifier": "/us/usc/t48/s2121"
+            },
+            {
+              "number": "2122",
+              "numText": "§ 2122.",
+              "heading": "Location of Oversight Board",
+              "identifier": "/us/usc/t48/s2122"
+            },
+            {
+              "number": "2123",
+              "numText": "§ 2123.",
+              "heading": "Executive Director and staff of Oversight Board",
+              "identifier": "/us/usc/t48/s2123"
+            },
+            {
+              "number": "2124",
+              "numText": "§ 2124.",
+              "heading": "Powers of Oversight Board",
+              "identifier": "/us/usc/t48/s2124"
+            },
+            {
+              "number": "2125",
+              "numText": "§ 2125.",
+              "heading": "Exemption from liability for claims",
+              "identifier": "/us/usc/t48/s2125"
+            },
+            {
+              "number": "2126",
+              "numText": "§ 2126.",
+              "heading": "Treatment of actions arising from chapter",
+              "identifier": "/us/usc/t48/s2126"
+            },
+            {
+              "number": "2127",
+              "numText": "§ 2127.",
+              "heading": "Budget and funding for operation of Oversight Board",
+              "identifier": "/us/usc/t48/s2127"
+            },
+            {
+              "number": "2128",
+              "numText": "§ 2128.",
+              "heading": "Autonomy of Oversight Board",
+              "identifier": "/us/usc/t48/s2128"
+            },
+            {
+              "number": "2129",
+              "numText": "§ 2129.",
+              "heading": "Ethics",
+              "identifier": "/us/usc/t48/s2129"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "RESPONSIBILITIES OF OVERSIGHT BOARD",
+          "identifier": "/us/usc/t48/ch20/schII",
+          "children": [
+            {
+              "number": "2141",
+              "numText": "§ 2141.",
+              "heading": "Approval of Fiscal Plans",
+              "identifier": "/us/usc/t48/s2141"
+            },
+            {
+              "number": "2142",
+              "numText": "§ 2142.",
+              "heading": "Approval of Budgets",
+              "identifier": "/us/usc/t48/s2142"
+            },
+            {
+              "number": "2143",
+              "numText": "§ 2143.",
+              "heading": "Effect of finding of noncompliance with Budget",
+              "identifier": "/us/usc/t48/s2143"
+            },
+            {
+              "number": "2144",
+              "numText": "§ 2144.",
+              "heading": "Review of activities to ensure compliance with Fiscal Plan",
+              "identifier": "/us/usc/t48/s2144"
+            },
+            {
+              "number": "2145",
+              "numText": "§ 2145.",
+              "heading": "Recommendations on financial stability and management responsibility",
+              "identifier": "/us/usc/t48/s2145"
+            },
+            {
+              "number": "2146",
+              "numText": "§ 2146.",
+              "heading": "Oversight Board duties related to restructuring",
+              "identifier": "/us/usc/t48/s2146"
+            },
+            {
+              "number": "2147",
+              "numText": "§ 2147.",
+              "heading": "Oversight Board authority related to debt issuance",
+              "identifier": "/us/usc/t48/s2147"
+            },
+            {
+              "number": "2148",
+              "numText": "§ 2148.",
+              "heading": "Required reports",
+              "identifier": "/us/usc/t48/s2148"
+            },
+            {
+              "number": "2149",
+              "numText": "§ 2149.",
+              "heading": "Termination of Oversight Board",
+              "identifier": "/us/usc/t48/s2149"
+            },
+            {
+              "number": "2150",
+              "numText": "§ 2150.",
+              "heading": "No full faith and credit of the United States",
+              "identifier": "/us/usc/t48/s2150"
+            },
+            {
+              "number": "2151",
+              "numText": "§ 2151.",
+              "heading": "Analysis of pensions",
+              "identifier": "/us/usc/t48/s2151"
+            },
+            {
+              "number": "2152",
+              "numText": "§ 2152.",
+              "heading": "Intervention in litigation",
+              "identifier": "/us/usc/t48/s2152"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "ADJUSTMENTS OF DEBTS",
+          "identifier": "/us/usc/t48/ch20/schIII",
+          "children": [
+            {
+              "number": "2161",
+              "numText": "§ 2161.",
+              "heading": "Applicability of other laws; definitions",
+              "identifier": "/us/usc/t48/s2161"
+            },
+            {
+              "number": "2162",
+              "numText": "§ 2162.",
+              "heading": "Who may be a debtor",
+              "identifier": "/us/usc/t48/s2162"
+            },
+            {
+              "number": "2163",
+              "numText": "§ 2163.",
+              "heading": "Reservation of territorial power to control territory and territorial instrumentalities",
+              "identifier": "/us/usc/t48/s2163"
+            },
+            {
+              "number": "2164",
+              "numText": "§ 2164.",
+              "heading": "Petition and proceedings relating to petition",
+              "identifier": "/us/usc/t48/s2164"
+            },
+            {
+              "number": "2165",
+              "numText": "§ 2165.",
+              "heading": "Limitation on jurisdiction and powers of court",
+              "identifier": "/us/usc/t48/s2165"
+            },
+            {
+              "number": "2166",
+              "numText": "§ 2166.",
+              "heading": "Jurisdiction",
+              "identifier": "/us/usc/t48/s2166"
+            },
+            {
+              "number": "2167",
+              "numText": "§ 2167.",
+              "heading": "Venue",
+              "identifier": "/us/usc/t48/s2167"
+            },
+            {
+              "number": "2168",
+              "numText": "§ 2168.",
+              "heading": "Selection of presiding judge",
+              "identifier": "/us/usc/t48/s2168"
+            },
+            {
+              "number": "2169",
+              "numText": "§ 2169.",
+              "heading": "Abstention",
+              "identifier": "/us/usc/t48/s2169"
+            },
+            {
+              "number": "2170",
+              "numText": "§ 2170.",
+              "heading": "Applicable rules of procedure",
+              "identifier": "/us/usc/t48/s2170"
+            },
+            {
+              "number": "2171",
+              "numText": "§ 2171.",
+              "heading": "Leases",
+              "identifier": "/us/usc/t48/s2171"
+            },
+            {
+              "number": "2172",
+              "numText": "§ 2172.",
+              "heading": "Filing of plan of adjustment",
+              "identifier": "/us/usc/t48/s2172"
+            },
+            {
+              "number": "2173",
+              "numText": "§ 2173.",
+              "heading": "Modification of plan",
+              "identifier": "/us/usc/t48/s2173"
+            },
+            {
+              "number": "2174",
+              "numText": "§ 2174.",
+              "heading": "Confirmation",
+              "identifier": "/us/usc/t48/s2174"
+            },
+            {
+              "number": "2175",
+              "numText": "§ 2175.",
+              "heading": "Role and capacity of Oversight Board",
+              "identifier": "/us/usc/t48/s2175"
+            },
+            {
+              "number": "2176",
+              "numText": "§ 2176.",
+              "heading": "Compensation of professionals",
+              "identifier": "/us/usc/t48/s2176"
+            },
+            {
+              "number": "2177",
+              "numText": "§ 2177.",
+              "heading": "Interim compensation",
+              "identifier": "/us/usc/t48/s2177"
+            },
+            {
+              "number": "2178",
+              "numText": "§ 2178.",
+              "heading": "Disclosure by professional persons seeking approval of compensation under section 2176 or 2177 of this title",
+              "identifier": "/us/usc/t48/s2178"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t48/ch20/schIV",
+          "children": [
+            {
+              "number": "2191",
+              "numText": "§ 2191.",
+              "heading": "Rules of construction",
+              "identifier": "/us/usc/t48/s2191"
+            },
+            {
+              "number": "2192",
+              "numText": "§ 2192.",
+              "heading": "Right of Puerto Rico to determine its future political status",
+              "identifier": "/us/usc/t48/s2192"
+            },
+            {
+              "number": "2193",
+              "numText": "§ 2193.",
+              "heading": "Application of regulation to Puerto Rico",
+              "identifier": "/us/usc/t48/s2193"
+            },
+            {
+              "number": "2194",
+              "numText": "§ 2194.",
+              "heading": "Automatic stay upon enactment",
+              "identifier": "/us/usc/t48/s2194"
+            },
+            {
+              "number": "2195",
+              "numText": "§ 2195.",
+              "heading": "Protection from inter-debtor transfers",
+              "identifier": "/us/usc/t48/s2195"
+            },
+            {
+              "number": "2196",
+              "numText": "§ 2196.",
+              "heading": "Congressional Task Force on Economic Growth in Puerto Rico",
+              "identifier": "/us/usc/t48/s2196"
+            },
+            {
+              "number": "2197",
+              "numText": "§ 2197.",
+              "heading": "Report",
+              "identifier": "/us/usc/t48/s2197"
+            },
+            {
+              "number": "2198",
+              "numText": "§ 2198.",
+              "heading": "Report on territorial debt",
+              "identifier": "/us/usc/t48/s2198"
+            },
+            {
+              "number": "2199",
+              "numText": "§ 2199.",
+              "heading": "Expansion of HUBZones in Puerto Rico",
+              "identifier": "/us/usc/t48/s2199"
+            },
+            {
+              "number": "2200",
+              "numText": "§ 2200.",
+              "heading": "Determination on debt",
+              "identifier": "/us/usc/t48/s2200"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "PUERTO RICO INFRASTRUCTURE REVITALIZATION",
+          "identifier": "/us/usc/t48/ch20/schV",
+          "children": [
+            {
+              "number": "2211",
+              "numText": "§ 2211.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t48/s2211"
+            },
+            {
+              "number": "2212",
+              "numText": "§ 2212.",
+              "heading": "Position of Revitalization Coordinator",
+              "identifier": "/us/usc/t48/s2212"
+            },
+            {
+              "number": "2213",
+              "numText": "§ 2213.",
+              "heading": "Critical Projects",
+              "identifier": "/us/usc/t48/s2213"
+            },
+            {
+              "number": "2214",
+              "numText": "§ 2214.",
+              "heading": "Miscellaneous provisions",
+              "identifier": "/us/usc/t48/s2214"
+            },
+            {
+              "number": "2215",
+              "numText": "§ 2215.",
+              "heading": "Federal agency requirements",
+              "identifier": "/us/usc/t48/s2215"
+            },
+            {
+              "number": "2216",
+              "numText": "§ 2216.",
+              "heading": "Judicial review",
+              "identifier": "/us/usc/t48/s2216"
+            },
+            {
+              "number": "2217",
+              "numText": "§ 2217.",
+              "heading": "Savings clause",
+              "identifier": "/us/usc/t48/s2217"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "CREDITOR COLLECTIVE ACTION",
+          "identifier": "/us/usc/t48/ch20/schVI",
+          "children": [
+            {
+              "number": "2231",
+              "numText": "§ 2231.",
+              "heading": "Creditor collective action",
+              "identifier": "/us/usc/t48/s2231"
+            },
+            {
+              "number": "2232",
+              "numText": "§ 2232.",
+              "heading": "Applicable law",
+              "identifier": "/us/usc/t48/s2232"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "SENSE OF CONGRESS REGARDING PERMANENT, PRO-GROWTH FISCAL REFORMS",
+          "identifier": "/us/usc/t48/ch20/schVII",
+          "children": [
+            {
+              "number": "2241",
+              "numText": "§ 2241.",
+              "heading": "Sense of Congress regarding permanent, pro-growth fiscal reforms",
+              "identifier": "/us/usc/t48/s2241"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

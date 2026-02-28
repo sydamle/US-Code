@@ -1,0 +1,1331 @@
+{
+  "number": "52",
+  "name": "Voting And Elections",
+  "identifier": "/us/usc/t52",
+  "version": "Online@119-73not60",
+  "updated": "2024-10-09",
+  "children": [
+    {
+      "type": "subtitle",
+      "number": "I",
+      "heading": "Voting Rights",
+      "identifier": "/us/usc/t52/stI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "101",
+          "heading": "GENERALLY",
+          "identifier": "/us/usc/t52/stI/ch101",
+          "children": [
+            {
+              "number": "10101",
+              "numText": "§ 10101.",
+              "heading": "Voting rights",
+              "identifier": "/us/usc/t52/s10101"
+            },
+            {
+              "number": "10102",
+              "numText": "§ 10102.",
+              "heading": "Interference with freedom of elections",
+              "identifier": "/us/usc/t52/s10102"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "103",
+          "heading": "ENFORCEMENT OF VOTING RIGHTS",
+          "identifier": "/us/usc/t52/stI/ch103",
+          "children": [
+            {
+              "number": "10301",
+              "numText": "§ 10301.",
+              "heading": "Denial or abridgement of right to vote on account of race or color through voting qualifications or prerequisites; establishment of violation",
+              "identifier": "/us/usc/t52/s10301"
+            },
+            {
+              "number": "10302",
+              "numText": "§ 10302.",
+              "heading": "Proceeding to enforce the right to vote",
+              "identifier": "/us/usc/t52/s10302"
+            },
+            {
+              "number": "10303",
+              "numText": "§ 10303.",
+              "heading": "Suspension of the use of tests or devices in determining eligibility to vote",
+              "identifier": "/us/usc/t52/s10303"
+            },
+            {
+              "number": "10304",
+              "numText": "§ 10304.",
+              "heading": "Alteration of voting qualifications; procedure and appeal; purpose or effect of diminishing the ability of citizens to elect their preferred candidates",
+              "identifier": "/us/usc/t52/s10304"
+            },
+            {
+              "number": "10305",
+              "numText": "§ 10305.",
+              "heading": "Use of observers",
+              "identifier": "/us/usc/t52/s10305"
+            },
+            {
+              "number": "10306",
+              "numText": "§ 10306.",
+              "heading": "Poll taxes",
+              "identifier": "/us/usc/t52/s10306"
+            },
+            {
+              "number": "10307",
+              "numText": "§ 10307.",
+              "heading": "Prohibited acts",
+              "identifier": "/us/usc/t52/s10307"
+            },
+            {
+              "number": "10308",
+              "numText": "§ 10308.",
+              "heading": "Civil and criminal sanctions",
+              "identifier": "/us/usc/t52/s10308"
+            },
+            {
+              "number": "10309",
+              "numText": "§ 10309.",
+              "heading": "Termination of assignment of observers",
+              "identifier": "/us/usc/t52/s10309"
+            },
+            {
+              "number": "10310",
+              "numText": "§ 10310.",
+              "heading": "Enforcement proceedings",
+              "identifier": "/us/usc/t52/s10310"
+            },
+            {
+              "number": "10311",
+              "numText": "§ 10311.",
+              "heading": "Impairment of voting rights of persons holding current registration",
+              "identifier": "/us/usc/t52/s10311"
+            },
+            {
+              "number": "10312",
+              "numText": "§ 10312.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t52/s10312"
+            },
+            {
+              "number": "10313",
+              "numText": "§ 10313.",
+              "heading": "Separability",
+              "identifier": "/us/usc/t52/s10313"
+            },
+            {
+              "number": "10314",
+              "numText": "§ 10314.",
+              "heading": "Construction",
+              "identifier": "/us/usc/t52/s10314"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "105",
+          "heading": "SUPPLEMENTAL PROVISIONS",
+          "identifier": "/us/usc/t52/stI/ch105",
+          "children": [
+            {
+              "number": "10501",
+              "numText": "§ 10501.",
+              "heading": "Application of prohibition to other States; “test or device” defined",
+              "identifier": "/us/usc/t52/s10501"
+            },
+            {
+              "number": "10502",
+              "numText": "§ 10502.",
+              "heading": "Residence requirements for voting",
+              "identifier": "/us/usc/t52/s10502"
+            },
+            {
+              "number": "10503",
+              "numText": "§ 10503.",
+              "heading": "Bilingual election requirements",
+              "identifier": "/us/usc/t52/s10503"
+            },
+            {
+              "number": "10504",
+              "numText": "§ 10504.",
+              "heading": "Judicial relief; civil actions by the Attorney General; three-judge district court; appeal to Supreme Court",
+              "identifier": "/us/usc/t52/s10504"
+            },
+            {
+              "number": "10505",
+              "numText": "§ 10505.",
+              "heading": "Penalty",
+              "identifier": "/us/usc/t52/s10505"
+            },
+            {
+              "number": "10506",
+              "numText": "§ 10506.",
+              "heading": "Separability",
+              "identifier": "/us/usc/t52/s10506"
+            },
+            {
+              "number": "10507",
+              "numText": "§ 10507.",
+              "heading": "Survey to compile registration and voting statistics",
+              "identifier": "/us/usc/t52/s10507"
+            },
+            {
+              "number": "10508",
+              "numText": "§ 10508.",
+              "heading": "Voting assistance for blind, disabled or illiterate persons",
+              "identifier": "/us/usc/t52/s10508"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "107",
+          "heading": "RIGHT TO VOTE AT AGE EIGHTEEN",
+          "identifier": "/us/usc/t52/stI/ch107",
+          "children": [
+            {
+              "number": "10701",
+              "numText": "§ 10701.",
+              "heading": "Enforcement of twenty-sixth amendment",
+              "identifier": "/us/usc/t52/s10701"
+            },
+            {
+              "number": "10702",
+              "numText": "§ 10702.",
+              "heading": "“State” defined",
+              "identifier": "/us/usc/t52/s10702"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "II",
+      "heading": "Voting Assistance and Election Administration",
+      "identifier": "/us/usc/t52/stII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "201",
+          "heading": "VOTING ACCESSIBILITY FOR THE ELDERLY AND HANDICAPPED",
+          "identifier": "/us/usc/t52/stII/ch201",
+          "children": [
+            {
+              "number": "20101",
+              "numText": "§ 20101.",
+              "heading": "Congressional declaration of purpose",
+              "identifier": "/us/usc/t52/s20101"
+            },
+            {
+              "number": "20102",
+              "numText": "§ 20102.",
+              "heading": "Selection of polling facilities",
+              "identifier": "/us/usc/t52/s20102"
+            },
+            {
+              "number": "20103",
+              "numText": "§ 20103.",
+              "heading": "Selection of registration facilities",
+              "identifier": "/us/usc/t52/s20103"
+            },
+            {
+              "number": "20104",
+              "numText": "§ 20104.",
+              "heading": "Registration and voting aids",
+              "identifier": "/us/usc/t52/s20104"
+            },
+            {
+              "number": "20105",
+              "numText": "§ 20105.",
+              "heading": "Enforcement",
+              "identifier": "/us/usc/t52/s20105"
+            },
+            {
+              "number": "20106",
+              "numText": "§ 20106.",
+              "heading": "Relationship to Voting Rights Act of 1965",
+              "identifier": "/us/usc/t52/s20106"
+            },
+            {
+              "number": "20107",
+              "numText": "§ 20107.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t52/s20107"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "203",
+          "heading": "REGISTRATION AND VOTING BY ABSENT UNIFORMED SERVICES VOTERS AND OVERSEAS VOTERS IN ELECTIONS FOR FEDERAL OFFICE",
+          "identifier": "/us/usc/t52/stII/ch203",
+          "children": [
+            {
+              "number": "20301",
+              "numText": "§ 20301.",
+              "heading": "Federal responsibilities",
+              "identifier": "/us/usc/t52/s20301"
+            },
+            {
+              "number": "20301a",
+              "numText": "§ 20301a.",
+              "heading": "Duties of Secretary under Uniformed and Overseas Citizens Absentee Voting Act",
+              "identifier": "/us/usc/t52/s20301a"
+            },
+            {
+              "number": "20302",
+              "numText": "§ 20302.",
+              "heading": "State responsibilities",
+              "identifier": "/us/usc/t52/s20302"
+            },
+            {
+              "number": "20303",
+              "numText": "§ 20303.",
+              "heading": "Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters",
+              "identifier": "/us/usc/t52/s20303"
+            },
+            {
+              "number": "20304",
+              "numText": "§ 20304.",
+              "heading": "Procedures for collection and delivery of marked absentee ballots of absent overseas uniformed services voters",
+              "identifier": "/us/usc/t52/s20304"
+            },
+            {
+              "number": "20305",
+              "numText": "§ 20305.",
+              "heading": "Federal Voting Assistance Program Improvements",
+              "identifier": "/us/usc/t52/s20305"
+            },
+            {
+              "number": "20306",
+              "numText": "§ 20306.",
+              "heading": "Prohibition of refusal of applications on grounds of early submission",
+              "identifier": "/us/usc/t52/s20306"
+            },
+            {
+              "number": "20307",
+              "numText": "§ 20307.",
+              "heading": "Enforcement",
+              "identifier": "/us/usc/t52/s20307"
+            },
+            {
+              "number": "20308",
+              "numText": "§ 20308.",
+              "heading": "Reporting requirements",
+              "identifier": "/us/usc/t52/s20308"
+            },
+            {
+              "number": "20309",
+              "numText": "§ 20309.",
+              "heading": "Effect on certain other laws",
+              "identifier": "/us/usc/t52/s20309"
+            },
+            {
+              "number": "20310",
+              "numText": "§ 20310.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t52/s20310"
+            },
+            {
+              "number": "20311",
+              "numText": "§ 20311.",
+              "heading": "Technology pilot program",
+              "identifier": "/us/usc/t52/s20311"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "205",
+          "heading": "NATIONAL VOTER REGISTRATION",
+          "identifier": "/us/usc/t52/stII/ch205",
+          "children": [
+            {
+              "number": "20501",
+              "numText": "§ 20501.",
+              "heading": "Findings and purposes",
+              "identifier": "/us/usc/t52/s20501"
+            },
+            {
+              "number": "20502",
+              "numText": "§ 20502.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t52/s20502"
+            },
+            {
+              "number": "20503",
+              "numText": "§ 20503.",
+              "heading": "National procedures for voter registration for elections for Federal office",
+              "identifier": "/us/usc/t52/s20503"
+            },
+            {
+              "number": "20504",
+              "numText": "§ 20504.",
+              "heading": "Simultaneous application for voter registration and application for motor vehicle driver’s license",
+              "identifier": "/us/usc/t52/s20504"
+            },
+            {
+              "number": "20505",
+              "numText": "§ 20505.",
+              "heading": "Mail registration",
+              "identifier": "/us/usc/t52/s20505"
+            },
+            {
+              "number": "20506",
+              "numText": "§ 20506.",
+              "heading": "Voter registration agencies",
+              "identifier": "/us/usc/t52/s20506"
+            },
+            {
+              "number": "20507",
+              "numText": "§ 20507.",
+              "heading": "Requirements with respect to administration of voter registration",
+              "identifier": "/us/usc/t52/s20507"
+            },
+            {
+              "number": "20508",
+              "numText": "§ 20508.",
+              "heading": "Federal coordination and regulations",
+              "identifier": "/us/usc/t52/s20508"
+            },
+            {
+              "number": "20509",
+              "numText": "§ 20509.",
+              "heading": "Designation of chief State election official",
+              "identifier": "/us/usc/t52/s20509"
+            },
+            {
+              "number": "20510",
+              "numText": "§ 20510.",
+              "heading": "Civil enforcement and private right of action",
+              "identifier": "/us/usc/t52/s20510"
+            },
+            {
+              "number": "20511",
+              "numText": "§ 20511.",
+              "heading": "Criminal penalties",
+              "identifier": "/us/usc/t52/s20511"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "207",
+          "heading": "FEDERAL ELECTION RECORDS",
+          "identifier": "/us/usc/t52/stII/ch207",
+          "children": [
+            {
+              "number": "20701",
+              "numText": "§ 20701.",
+              "heading": "Retention and preservation of records and papers by officers of elections; deposit with custodian; penalty for violation",
+              "identifier": "/us/usc/t52/s20701"
+            },
+            {
+              "number": "20702",
+              "numText": "§ 20702.",
+              "heading": "Theft, destruction, concealment, mutilation, or alteration of records or papers; penalties",
+              "identifier": "/us/usc/t52/s20702"
+            },
+            {
+              "number": "20703",
+              "numText": "§ 20703.",
+              "heading": "Demand for records or papers by Attorney General or representative; statement of basis and purpose",
+              "identifier": "/us/usc/t52/s20703"
+            },
+            {
+              "number": "20704",
+              "numText": "§ 20704.",
+              "heading": "Disclosure of records or papers",
+              "identifier": "/us/usc/t52/s20704"
+            },
+            {
+              "number": "20705",
+              "numText": "§ 20705.",
+              "heading": "Jurisdiction to compel production of records or papers",
+              "identifier": "/us/usc/t52/s20705"
+            },
+            {
+              "number": "20706",
+              "numText": "§ 20706.",
+              "heading": "“Officer of election” defined",
+              "identifier": "/us/usc/t52/s20706"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "209",
+          "heading": "ELECTION ADMINISTRATION IMPROVEMENT",
+          "identifier": "/us/usc/t52/stII/ch209",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND REPLACEMENT OF PUNCH CARD AND LEVER VOTING MACHINES",
+              "identifier": "/us/usc/t52/stII/ch209/schI",
+              "children": [
+                {
+                  "number": "20901",
+                  "numText": "§ 20901.",
+                  "heading": "Payments to States for activities to improve administration of elections",
+                  "identifier": "/us/usc/t52/s20901"
+                },
+                {
+                  "number": "20902",
+                  "numText": "§ 20902.",
+                  "heading": "Replacement of punch card or lever voting machines",
+                  "identifier": "/us/usc/t52/s20902"
+                },
+                {
+                  "number": "20903",
+                  "numText": "§ 20903.",
+                  "heading": "Guaranteed minimum payment amount",
+                  "identifier": "/us/usc/t52/s20903"
+                },
+                {
+                  "number": "20904",
+                  "numText": "§ 20904.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t52/s20904"
+                },
+                {
+                  "number": "20905",
+                  "numText": "§ 20905.",
+                  "heading": "Administration of programs",
+                  "identifier": "/us/usc/t52/s20905"
+                },
+                {
+                  "number": "20906",
+                  "numText": "§ 20906.",
+                  "heading": "Effective date",
+                  "identifier": "/us/usc/t52/s20906"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "COMMISSION",
+              "identifier": "/us/usc/t52/stII/ch209/schII",
+              "children": [
+                {
+                  "type": "part",
+                  "number": "A",
+                  "heading": "Establishment and General Organization",
+                  "identifier": "/us/usc/t52/stII/ch209/schII/ptA",
+                  "children": [
+                    {
+                      "type": "subpart",
+                      "number": "1",
+                      "heading": "election assistance commission",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptA/spt1",
+                      "children": [
+                        {
+                          "number": "20921",
+                          "numText": "§ 20921.",
+                          "heading": "Establishment",
+                          "identifier": "/us/usc/t52/s20921"
+                        },
+                        {
+                          "number": "20922",
+                          "numText": "§ 20922.",
+                          "heading": "Duties",
+                          "identifier": "/us/usc/t52/s20922"
+                        },
+                        {
+                          "number": "20923",
+                          "numText": "§ 20923.",
+                          "heading": "Membership and appointment",
+                          "identifier": "/us/usc/t52/s20923"
+                        },
+                        {
+                          "number": "20924",
+                          "numText": "§ 20924.",
+                          "heading": "Staff",
+                          "identifier": "/us/usc/t52/s20924"
+                        },
+                        {
+                          "number": "20925",
+                          "numText": "§ 20925.",
+                          "heading": "Powers",
+                          "identifier": "/us/usc/t52/s20925"
+                        },
+                        {
+                          "number": "20926",
+                          "numText": "§ 20926.",
+                          "heading": "Dissemination of information",
+                          "identifier": "/us/usc/t52/s20926"
+                        },
+                        {
+                          "number": "20927",
+                          "numText": "§ 20927.",
+                          "heading": "Annual report",
+                          "identifier": "/us/usc/t52/s20927"
+                        },
+                        {
+                          "number": "20928",
+                          "numText": "§ 20928.",
+                          "heading": "Requiring majority approval for actions",
+                          "identifier": "/us/usc/t52/s20928"
+                        },
+                        {
+                          "number": "20929",
+                          "numText": "§ 20929.",
+                          "heading": "Limitation on rulemaking authority",
+                          "identifier": "/us/usc/t52/s20929"
+                        },
+                        {
+                          "number": "20930",
+                          "numText": "§ 20930.",
+                          "heading": "Authorization of appropriations",
+                          "identifier": "/us/usc/t52/s20930"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subpart",
+                      "number": "2",
+                      "heading": "election assistance commission standards board and board of advisors",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptA/spt2",
+                      "children": [
+                        {
+                          "number": "20941",
+                          "numText": "§ 20941.",
+                          "heading": "Establishment",
+                          "identifier": "/us/usc/t52/s20941"
+                        },
+                        {
+                          "number": "20942",
+                          "numText": "§ 20942.",
+                          "heading": "Duties",
+                          "identifier": "/us/usc/t52/s20942"
+                        },
+                        {
+                          "number": "20943",
+                          "numText": "§ 20943.",
+                          "heading": "Membership of Standards Board",
+                          "identifier": "/us/usc/t52/s20943"
+                        },
+                        {
+                          "number": "20944",
+                          "numText": "§ 20944.",
+                          "heading": "Membership of Board of Advisors",
+                          "identifier": "/us/usc/t52/s20944"
+                        },
+                        {
+                          "number": "20945",
+                          "numText": "§ 20945.",
+                          "heading": "Powers of Boards; no compensation for service",
+                          "identifier": "/us/usc/t52/s20945"
+                        },
+                        {
+                          "number": "20946",
+                          "numText": "§ 20946.",
+                          "heading": "Status of Boards and members for purposes of claims against Board",
+                          "identifier": "/us/usc/t52/s20946"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subpart",
+                      "number": "3",
+                      "heading": "technical guidelines development committee",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptA/spt3",
+                      "children": [
+                        {
+                          "number": "20961",
+                          "numText": "§ 20961.",
+                          "heading": "Technical Guidelines Development Committee",
+                          "identifier": "/us/usc/t52/s20961"
+                        },
+                        {
+                          "number": "20962",
+                          "numText": "§ 20962.",
+                          "heading": "Process for adoption",
+                          "identifier": "/us/usc/t52/s20962"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "part",
+                  "number": "B",
+                  "heading": "Testing, Certification, Decertification, and Recertification of Voting System Hardware and Software",
+                  "identifier": "/us/usc/t52/stII/ch209/schII/ptB",
+                  "children": [
+                    {
+                      "number": "20971",
+                      "numText": "§ 20971.",
+                      "heading": "Certification and testing of voting systems",
+                      "identifier": "/us/usc/t52/s20971"
+                    }
+                  ]
+                },
+                {
+                  "type": "part",
+                  "number": "C",
+                  "heading": "Studies and Other Activities To Promote Effective Administration of Federal Elections",
+                  "identifier": "/us/usc/t52/stII/ch209/schII/ptC",
+                  "children": [
+                    {
+                      "number": "20981",
+                      "numText": "§ 20981.",
+                      "heading": "Periodic studies of election administration issues",
+                      "identifier": "/us/usc/t52/s20981"
+                    },
+                    {
+                      "number": "20982",
+                      "numText": "§ 20982.",
+                      "heading": "Study, report, and recommendations on best practices for facilitating military and overseas voting",
+                      "identifier": "/us/usc/t52/s20982"
+                    },
+                    {
+                      "number": "20983",
+                      "numText": "§ 20983.",
+                      "heading": "Report on human factor research",
+                      "identifier": "/us/usc/t52/s20983"
+                    },
+                    {
+                      "number": "20984",
+                      "numText": "§ 20984.",
+                      "heading": "Study and report on voters who register by mail and use of Social Security information",
+                      "identifier": "/us/usc/t52/s20984"
+                    },
+                    {
+                      "number": "20985",
+                      "numText": "§ 20985.",
+                      "heading": "Study and report on electronic voting and the electoral process",
+                      "identifier": "/us/usc/t52/s20985"
+                    },
+                    {
+                      "number": "20986",
+                      "numText": "§ 20986.",
+                      "heading": "Study and report on free absentee ballot postage",
+                      "identifier": "/us/usc/t52/s20986"
+                    },
+                    {
+                      "number": "20987",
+                      "numText": "§ 20987.",
+                      "heading": "Consultation with Standards Board and Board of Advisors",
+                      "identifier": "/us/usc/t52/s20987"
+                    }
+                  ]
+                },
+                {
+                  "type": "part",
+                  "number": "D",
+                  "heading": "Election Assistance",
+                  "identifier": "/us/usc/t52/stII/ch209/schII/ptD",
+                  "children": [
+                    {
+                      "type": "subpart",
+                      "number": "1",
+                      "heading": "requirements payments",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptD/spt1",
+                      "children": [
+                        {
+                          "number": "21001",
+                          "numText": "§ 21001.",
+                          "heading": "Requirements payments",
+                          "identifier": "/us/usc/t52/s21001"
+                        },
+                        {
+                          "number": "21002",
+                          "numText": "§ 21002.",
+                          "heading": "Allocation of funds",
+                          "identifier": "/us/usc/t52/s21002"
+                        },
+                        {
+                          "number": "21003",
+                          "numText": "§ 21003.",
+                          "heading": "Condition for receipt of funds",
+                          "identifier": "/us/usc/t52/s21003"
+                        },
+                        {
+                          "number": "21004",
+                          "numText": "§ 21004.",
+                          "heading": "State plan",
+                          "identifier": "/us/usc/t52/s21004"
+                        },
+                        {
+                          "number": "21005",
+                          "numText": "§ 21005.",
+                          "heading": "Process for development and filing of plan; publication by Commission",
+                          "identifier": "/us/usc/t52/s21005"
+                        },
+                        {
+                          "number": "21006",
+                          "numText": "§ 21006.",
+                          "heading": "Requirement for public notice and comment",
+                          "identifier": "/us/usc/t52/s21006"
+                        },
+                        {
+                          "number": "21007",
+                          "numText": "§ 21007.",
+                          "heading": "Authorization of appropriations",
+                          "identifier": "/us/usc/t52/s21007"
+                        },
+                        {
+                          "number": "21008",
+                          "numText": "§ 21008.",
+                          "heading": "Reports",
+                          "identifier": "/us/usc/t52/s21008"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subpart",
+                      "number": "2",
+                      "heading": "payments to states and units of local government to assure access for individuals with disabilities",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptD/spt2",
+                      "children": [
+                        {
+                          "number": "21021",
+                          "numText": "§ 21021.",
+                          "heading": "Payments to States and units of local government to assure access for individuals with disabilities",
+                          "identifier": "/us/usc/t52/s21021"
+                        },
+                        {
+                          "number": "21022",
+                          "numText": "§ 21022.",
+                          "heading": "Amount of payment",
+                          "identifier": "/us/usc/t52/s21022"
+                        },
+                        {
+                          "number": "21023",
+                          "numText": "§ 21023.",
+                          "heading": "Requirements for eligibility",
+                          "identifier": "/us/usc/t52/s21023"
+                        },
+                        {
+                          "number": "21024",
+                          "numText": "§ 21024.",
+                          "heading": "Authorization of appropriations",
+                          "identifier": "/us/usc/t52/s21024"
+                        },
+                        {
+                          "number": "21025",
+                          "numText": "§ 21025.",
+                          "heading": "Reports",
+                          "identifier": "/us/usc/t52/s21025"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subpart",
+                      "number": "3",
+                      "heading": "grants for research on voting technology improvements",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptD/spt3",
+                      "children": [
+                        {
+                          "number": "21041",
+                          "numText": "§ 21041.",
+                          "heading": "Grants for research on voting technology improvements",
+                          "identifier": "/us/usc/t52/s21041"
+                        },
+                        {
+                          "number": "21042",
+                          "numText": "§ 21042.",
+                          "heading": "Report",
+                          "identifier": "/us/usc/t52/s21042"
+                        },
+                        {
+                          "number": "21043",
+                          "numText": "§ 21043.",
+                          "heading": "Authorization of appropriations",
+                          "identifier": "/us/usc/t52/s21043"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subpart",
+                      "number": "4",
+                      "heading": "pilot program for testing of equipment and technology",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptD/spt4",
+                      "children": [
+                        {
+                          "number": "21051",
+                          "numText": "§ 21051.",
+                          "heading": "Pilot program",
+                          "identifier": "/us/usc/t52/s21051"
+                        },
+                        {
+                          "number": "21052",
+                          "numText": "§ 21052.",
+                          "heading": "Report",
+                          "identifier": "/us/usc/t52/s21052"
+                        },
+                        {
+                          "number": "21053",
+                          "numText": "§ 21053.",
+                          "heading": "Authorization of appropriations",
+                          "identifier": "/us/usc/t52/s21053"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subpart",
+                      "number": "5",
+                      "heading": "protection and advocacy systems",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptD/spt5",
+                      "children": [
+                        {
+                          "number": "21061",
+                          "numText": "§ 21061.",
+                          "heading": "Payments for protection and advocacy systems",
+                          "identifier": "/us/usc/t52/s21061"
+                        },
+                        {
+                          "number": "21062",
+                          "numText": "§ 21062.",
+                          "heading": "Authorization of appropriations",
+                          "identifier": "/us/usc/t52/s21062"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subpart",
+                      "number": "6",
+                      "heading": "national student and parent mock election",
+                      "identifier": "/us/usc/t52/stII/ch209/schII/ptD/spt6",
+                      "children": [
+                        {
+                          "number": "21071",
+                          "numText": "§ 21071.",
+                          "heading": "National Student and Parent Mock Election",
+                          "identifier": "/us/usc/t52/s21071"
+                        },
+                        {
+                          "number": "21072",
+                          "numText": "§ 21072.",
+                          "heading": "Authorization of appropriations",
+                          "identifier": "/us/usc/t52/s21072"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "UNIFORM AND NONDISCRIMINATORY ELECTION TECHNOLOGY AND ADMINISTRATION REQUIREMENTS",
+              "identifier": "/us/usc/t52/stII/ch209/schIII",
+              "children": [
+                {
+                  "type": "part",
+                  "number": "A",
+                  "heading": "Requirements",
+                  "identifier": "/us/usc/t52/stII/ch209/schIII/ptA",
+                  "children": [
+                    {
+                      "number": "21081",
+                      "numText": "§ 21081.",
+                      "heading": "Voting systems standards",
+                      "identifier": "/us/usc/t52/s21081"
+                    },
+                    {
+                      "number": "21082",
+                      "numText": "§ 21082.",
+                      "heading": "Provisional voting and voting information requirements",
+                      "identifier": "/us/usc/t52/s21082"
+                    },
+                    {
+                      "number": "21083",
+                      "numText": "§ 21083.",
+                      "heading": "Computerized statewide voter registration list requirements and requirements for voters who register by mail",
+                      "identifier": "/us/usc/t52/s21083"
+                    },
+                    {
+                      "number": "21083a",
+                      "numText": "§ 21083a.",
+                      "heading": "Access for congressional election observers",
+                      "identifier": "/us/usc/t52/s21083a"
+                    },
+                    {
+                      "number": "21084",
+                      "numText": "§ 21084.",
+                      "heading": "Minimum requirements",
+                      "identifier": "/us/usc/t52/s21084"
+                    },
+                    {
+                      "number": "21085",
+                      "numText": "§ 21085.",
+                      "heading": "Methods of implementation left to discretion of State",
+                      "identifier": "/us/usc/t52/s21085"
+                    }
+                  ]
+                },
+                {
+                  "type": "part",
+                  "number": "B",
+                  "heading": "Voluntary Guidance",
+                  "identifier": "/us/usc/t52/stII/ch209/schIII/ptB",
+                  "children": [
+                    {
+                      "number": "21101",
+                      "numText": "§ 21101.",
+                      "heading": "Adoption of voluntary guidance by Commission",
+                      "identifier": "/us/usc/t52/s21101"
+                    },
+                    {
+                      "number": "21102",
+                      "numText": "§ 21102.",
+                      "heading": "Process for adoption",
+                      "identifier": "/us/usc/t52/s21102"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "ENFORCEMENT",
+              "identifier": "/us/usc/t52/stII/ch209/schIV",
+              "children": [
+                {
+                  "number": "21111",
+                  "numText": "§ 21111.",
+                  "heading": "Actions by the Attorney General for declaratory and injunctive relief",
+                  "identifier": "/us/usc/t52/s21111"
+                },
+                {
+                  "number": "21112",
+                  "numText": "§ 21112.",
+                  "heading": "Establishment of State-based administrative complaint procedures to remedy grievances",
+                  "identifier": "/us/usc/t52/s21112"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "V",
+              "heading": "HELP AMERICA VOTE COLLEGE PROGRAM",
+              "identifier": "/us/usc/t52/stII/ch209/schV",
+              "children": [
+                {
+                  "number": "21121",
+                  "numText": "§ 21121.",
+                  "heading": "Establishment of program",
+                  "identifier": "/us/usc/t52/s21121"
+                },
+                {
+                  "number": "21122",
+                  "numText": "§ 21122.",
+                  "heading": "Activities under Program",
+                  "identifier": "/us/usc/t52/s21122"
+                },
+                {
+                  "number": "21123",
+                  "numText": "§ 21123.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t52/s21123"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VI",
+              "heading": "TRANSFER TO COMMISSION OF FUNCTIONS UNDER CERTAIN LAWS",
+              "identifier": "/us/usc/t52/stII/ch209/schVI",
+              "children": [
+                {
+                  "number": "21131",
+                  "numText": "§ 21131.",
+                  "heading": "Transfer of functions of Office of Election Administration of Federal Election Commission",
+                  "identifier": "/us/usc/t52/s21131"
+                },
+                {
+                  "number": "21132",
+                  "numText": "§ 21132.",
+                  "heading": "Transfer of functions",
+                  "identifier": "/us/usc/t52/s21132"
+                },
+                {
+                  "number": "21133",
+                  "numText": "§ 21133.",
+                  "heading": "Transfer of property, records, and personnel",
+                  "identifier": "/us/usc/t52/s21133"
+                },
+                {
+                  "number": "21134",
+                  "numText": "§ 21134.",
+                  "heading": "Effective date; transition",
+                  "identifier": "/us/usc/t52/s21134"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VII",
+              "heading": "MISCELLANEOUS PROVISIONS",
+              "identifier": "/us/usc/t52/stII/ch209/schVII",
+              "children": [
+                {
+                  "number": "21141",
+                  "numText": "§ 21141.",
+                  "heading": "“State” defined",
+                  "identifier": "/us/usc/t52/s21141"
+                },
+                {
+                  "number": "21142",
+                  "numText": "§ 21142.",
+                  "heading": "Audits and repayment of funds",
+                  "identifier": "/us/usc/t52/s21142"
+                },
+                {
+                  "number": "21143",
+                  "numText": "§ 21143.",
+                  "heading": "Review and report on adequacy of existing electoral fraud statutes and penalties",
+                  "identifier": "/us/usc/t52/s21143"
+                },
+                {
+                  "number": "21144",
+                  "numText": "§ 21144.",
+                  "heading": "Other criminal penalties",
+                  "identifier": "/us/usc/t52/s21144"
+                },
+                {
+                  "number": "21145",
+                  "numText": "§ 21145.",
+                  "heading": "No effect on other laws",
+                  "identifier": "/us/usc/t52/s21145"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subtitle",
+      "number": "III",
+      "heading": "Federal Campaign Finance",
+      "identifier": "/us/usc/t52/stIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "301",
+          "heading": "FEDERAL ELECTION CAMPAIGNS",
+          "identifier": "/us/usc/t52/stIII/ch301",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "DISCLOSURE OF FEDERAL CAMPAIGN FUNDS",
+              "identifier": "/us/usc/t52/stIII/ch301/schI",
+              "children": [
+                {
+                  "number": "30101",
+                  "numText": "§ 30101.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t52/s30101"
+                },
+                {
+                  "number": "30102",
+                  "numText": "§ 30102.",
+                  "heading": "Organization of political committees",
+                  "identifier": "/us/usc/t52/s30102"
+                },
+                {
+                  "number": "30103",
+                  "numText": "§ 30103.",
+                  "heading": "Registration of political committees",
+                  "identifier": "/us/usc/t52/s30103"
+                },
+                {
+                  "number": "30104",
+                  "numText": "§ 30104.",
+                  "heading": "Reporting requirements",
+                  "identifier": "/us/usc/t52/s30104"
+                },
+                {
+                  "number": "30105",
+                  "numText": "§ 30105.",
+                  "heading": "Reports on convention financing",
+                  "identifier": "/us/usc/t52/s30105"
+                },
+                {
+                  "number": "30106",
+                  "numText": "§ 30106.",
+                  "heading": "Federal Election Commission",
+                  "identifier": "/us/usc/t52/s30106"
+                },
+                {
+                  "number": "30107",
+                  "numText": "§ 30107.",
+                  "heading": "Powers of Commission",
+                  "identifier": "/us/usc/t52/s30107"
+                },
+                {
+                  "number": "30108",
+                  "numText": "§ 30108.",
+                  "heading": "Advisory opinions",
+                  "identifier": "/us/usc/t52/s30108"
+                },
+                {
+                  "number": "30109",
+                  "numText": "§ 30109.",
+                  "heading": "Enforcement",
+                  "identifier": "/us/usc/t52/s30109"
+                },
+                {
+                  "number": "30110",
+                  "numText": "§ 30110.",
+                  "heading": "Judicial review",
+                  "identifier": "/us/usc/t52/s30110"
+                },
+                {
+                  "number": "30111",
+                  "numText": "§ 30111.",
+                  "heading": "Administrative provisions",
+                  "identifier": "/us/usc/t52/s30111"
+                },
+                {
+                  "number": "30112",
+                  "numText": "§ 30112.",
+                  "heading": "Maintenance of website of election reports",
+                  "identifier": "/us/usc/t52/s30112"
+                },
+                {
+                  "number": "30113",
+                  "numText": "§ 30113.",
+                  "heading": "Statements filed with State officers; “appropriate State” defined; duties of State officers; waiver of duplicate filing requirement for States with electronic access",
+                  "identifier": "/us/usc/t52/s30113"
+                },
+                {
+                  "number": "30114",
+                  "numText": "§ 30114.",
+                  "heading": "Use of contributed amounts for certain purposes",
+                  "identifier": "/us/usc/t52/s30114"
+                },
+                {
+                  "number": "30115",
+                  "numText": "§ 30115.",
+                  "heading": "Authorization of appropriations",
+                  "identifier": "/us/usc/t52/s30115"
+                },
+                {
+                  "number": "30116",
+                  "numText": "§ 30116.",
+                  "heading": "Limitations on contributions and expenditures",
+                  "identifier": "/us/usc/t52/s30116"
+                },
+                {
+                  "number": "30117",
+                  "numText": "§ 30117.",
+                  "heading": "Modification of certain limits for House candidates in response to personal fund expenditures of opponents",
+                  "identifier": "/us/usc/t52/s30117"
+                },
+                {
+                  "number": "30118",
+                  "numText": "§ 30118.",
+                  "heading": "Contributions or expenditures by national banks, corporations, or labor organizations",
+                  "identifier": "/us/usc/t52/s30118"
+                },
+                {
+                  "number": "30119",
+                  "numText": "§ 30119.",
+                  "heading": "Contributions by Government contractors",
+                  "identifier": "/us/usc/t52/s30119"
+                },
+                {
+                  "number": "30120",
+                  "numText": "§ 30120.",
+                  "heading": "Publication and distribution of statements and solicitations",
+                  "identifier": "/us/usc/t52/s30120"
+                },
+                {
+                  "number": "30121",
+                  "numText": "§ 30121.",
+                  "heading": "Contributions and donations by foreign nationals",
+                  "identifier": "/us/usc/t52/s30121"
+                },
+                {
+                  "number": "30122",
+                  "numText": "§ 30122.",
+                  "heading": "Contributions in name of another prohibited",
+                  "identifier": "/us/usc/t52/s30122"
+                },
+                {
+                  "number": "30123",
+                  "numText": "§ 30123.",
+                  "heading": "Limitation on contribution of currency",
+                  "identifier": "/us/usc/t52/s30123"
+                },
+                {
+                  "number": "30124",
+                  "numText": "§ 30124.",
+                  "heading": "Fraudulent misrepresentation of campaign authority",
+                  "identifier": "/us/usc/t52/s30124"
+                },
+                {
+                  "number": "30125",
+                  "numText": "§ 30125.",
+                  "heading": "Soft money of political parties",
+                  "identifier": "/us/usc/t52/s30125"
+                },
+                {
+                  "number": "30126",
+                  "numText": "§ 30126.",
+                  "heading": "Prohibition of contributions by minors",
+                  "identifier": "/us/usc/t52/s30126"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "GENERAL PROVISIONS",
+              "identifier": "/us/usc/t52/stIII/ch301/schII",
+              "children": [
+                {
+                  "number": "30141",
+                  "numText": "§ 30141.",
+                  "heading": "Extension of credit by regulated industries; regulations",
+                  "identifier": "/us/usc/t52/s30141"
+                },
+                {
+                  "number": "30142",
+                  "numText": "§ 30142.",
+                  "heading": "Prohibition against use of certain Federal funds for election activities",
+                  "identifier": "/us/usc/t52/s30142"
+                },
+                {
+                  "number": "30143",
+                  "numText": "§ 30143.",
+                  "heading": "State laws affected",
+                  "identifier": "/us/usc/t52/s30143"
+                },
+                {
+                  "number": "30144",
+                  "numText": "§ 30144.",
+                  "heading": "Partial invalidity",
+                  "identifier": "/us/usc/t52/s30144"
+                },
+                {
+                  "number": "30145",
+                  "numText": "§ 30145.",
+                  "heading": "Period of limitations",
+                  "identifier": "/us/usc/t52/s30145"
+                },
+                {
+                  "number": "30146",
+                  "numText": "§ 30146.",
+                  "heading": "Collection and use of conference fees",
+                  "identifier": "/us/usc/t52/s30146"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

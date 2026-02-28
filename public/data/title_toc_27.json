@@ -1,0 +1,375 @@
+{
+  "number": "27",
+  "name": "Intoxicating Liquors",
+  "identifier": "/us/usc/t27",
+  "version": "Online@119-73not60",
+  "updated": "2025-12-12",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "GENERAL PROVISIONS",
+      "identifier": "/us/usc/t27/ch1",
+      "children": [
+        {
+          "number": "1 to 5",
+          "numText": "§§ 1 to 5.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title I, § 1, 49 Stat. 872",
+          "identifier": "/us/usc/t27/s1...5"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "PROHIBITION OF INTOXICATING BEVERAGES",
+      "identifier": "/us/usc/t27/ch2",
+      "children": [
+        {
+          "number": "11 to 40",
+          "numText": "§§ 11 to 40.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title I, § 1, 49 Stat. 872",
+          "identifier": "/us/usc/t27/s11...40"
+        },
+        {
+          "number": "40a",
+          "numText": "§ 40a.",
+          "heading": "Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862",
+          "identifier": "/us/usc/t27/s40a"
+        },
+        {
+          "number": "41 to 43",
+          "numText": "§§ 41 to 43.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title III, § 308(a), 49 Stat. 880",
+          "identifier": "/us/usc/t27/s41...43"
+        },
+        {
+          "number": "43a, 43b",
+          "numText": "§§ 43a, 43b.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t27/s43a /us/usc/t27/s43b"
+        },
+        {
+          "number": "44 to 57",
+          "numText": "§§ 44 to 57.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title I, § 1, 49 Stat. 872",
+          "identifier": "/us/usc/t27/s44...57"
+        },
+        {
+          "number": "58 to 60",
+          "numText": "§§ 58 to 60.",
+          "heading": "Repealed. Mar. 22, 1933, ch. 4, § 2, 48 Stat. 17",
+          "identifier": "/us/usc/t27/s58...60"
+        },
+        {
+          "number": "61, 62",
+          "numText": "§§ 61, 62.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title I, § 1, 49 Stat. 872",
+          "identifier": "/us/usc/t27/s61 /us/usc/t27/s62"
+        },
+        {
+          "number": "63",
+          "numText": "§ 63.",
+          "heading": "Repealed. June 19, 1934, ch. 657, § 3, 48 Stat. 1116",
+          "identifier": "/us/usc/t27/s63"
+        },
+        {
+          "number": "63a to 63d",
+          "numText": "§§ 63a to 63d.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t27/s63a...63d"
+        },
+        {
+          "number": "64",
+          "numText": "§ 64.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title I, § 1, 49 Stat. 872",
+          "identifier": "/us/usc/t27/s64"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2A",
+      "heading": "BEER, ALE, PORTER, AND SIMILAR FERMENTED LIQUOR",
+      "identifier": "/us/usc/t27/ch2A",
+      "children": [
+        {
+          "number": "64a to 64o",
+          "numText": "§§ 64a to 64o.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title II, § 202(a), 49 Stat. 877",
+          "identifier": "/us/usc/t27/s64a...64o"
+        },
+        {
+          "number": "64p",
+          "numText": "§ 64p.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t27/s64p"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "INDUSTRIAL ALCOHOL",
+      "identifier": "/us/usc/t27/ch3",
+      "children": [
+        {
+          "number": "71 to 90a",
+          "numText": "§§ 71 to 90a.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t27/s71...90a"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "PENALTIES",
+      "identifier": "/us/usc/t27/ch4",
+      "children": [
+        {
+          "number": "91, 92",
+          "numText": "§§ 91, 92.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title I, § 1, 49 Stat. 872",
+          "identifier": "/us/usc/t27/s91 /us/usc/t27/s92"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "PROHIBITION REORGANIZATION ACT OF 1930",
+      "identifier": "/us/usc/t27/ch5",
+      "children": [
+        {
+          "number": "101 to 108",
+          "numText": "§§ 101 to 108.",
+          "heading": "Repealed. Aug. 27, 1935, ch. 740, title I, § 1, 49 Stat. 872",
+          "identifier": "/us/usc/t27/s101...108"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "TRANSPORTATION IN INTERSTATE COMMERCE",
+      "identifier": "/us/usc/t27/ch6",
+      "children": [
+        {
+          "number": "121",
+          "numText": "§ 121.",
+          "heading": "State statutes as operative on termination of transportation; original packages",
+          "identifier": "/us/usc/t27/s121"
+        },
+        {
+          "number": "122",
+          "numText": "§ 122.",
+          "heading": "Shipments into States for possession or sale in violation of State law",
+          "identifier": "/us/usc/t27/s122"
+        },
+        {
+          "number": "122a",
+          "numText": "§ 122a.",
+          "heading": "Injunctive relief in Federal district court",
+          "identifier": "/us/usc/t27/s122a"
+        },
+        {
+          "number": "122b",
+          "numText": "§ 122b.",
+          "heading": "General provisions",
+          "identifier": "/us/usc/t27/s122b"
+        },
+        {
+          "number": "123",
+          "numText": "§ 123.",
+          "heading": "Repealed. June 25, 1936, ch. 815, § 9, 49 Stat. 1930",
+          "identifier": "/us/usc/t27/s123"
+        },
+        {
+          "number": "124",
+          "numText": "§ 124.",
+          "heading": "Direct shipment of wine",
+          "identifier": "/us/usc/t27/s124"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "LIQUOR LAW REPEAL AND ENFORCEMENT ACT",
+      "identifier": "/us/usc/t27/ch7",
+      "children": [
+        {
+          "number": "151 to 167",
+          "numText": "§§ 151 to 167.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t27/s151...167"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8",
+      "heading": "FEDERAL ALCOHOL ADMINISTRATION ACT",
+      "identifier": "/us/usc/t27/ch8",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "FEDERAL ALCOHOL ADMINISTRATION",
+          "identifier": "/us/usc/t27/ch8/schI",
+          "children": [
+            {
+              "number": "201",
+              "numText": "§ 201.",
+              "heading": "Short title",
+              "identifier": "/us/usc/t27/s201"
+            },
+            {
+              "number": "202",
+              "numText": "§ 202.",
+              "heading": "General provisions",
+              "identifier": "/us/usc/t27/s202"
+            },
+            {
+              "number": "202a, 202b",
+              "numText": "§§ 202a, 202b.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649",
+              "identifier": "/us/usc/t27/s202a /us/usc/t27/s202b"
+            },
+            {
+              "number": "202c",
+              "numText": "§ 202c.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t27/s202c"
+            },
+            {
+              "number": "203",
+              "numText": "§ 203.",
+              "heading": "Unlawful businesses without permit; application to State agency",
+              "identifier": "/us/usc/t27/s203"
+            },
+            {
+              "number": "204",
+              "numText": "§ 204.",
+              "heading": "Permits",
+              "identifier": "/us/usc/t27/s204"
+            },
+            {
+              "number": "205",
+              "numText": "§ 205.",
+              "heading": "Unfair competition and unlawful practices",
+              "identifier": "/us/usc/t27/s205"
+            },
+            {
+              "number": "206",
+              "numText": "§ 206.",
+              "heading": "Bulk sales and bottling",
+              "identifier": "/us/usc/t27/s206"
+            },
+            {
+              "number": "207",
+              "numText": "§ 207.",
+              "heading": "Penalties; jurisdiction; compromise of liability",
+              "identifier": "/us/usc/t27/s207"
+            },
+            {
+              "number": "208",
+              "numText": "§ 208.",
+              "heading": "Interlocking directorates",
+              "identifier": "/us/usc/t27/s208"
+            },
+            {
+              "number": "209, 210",
+              "numText": "§§ 209, 210.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t27/s209 /us/usc/t27/s210"
+            },
+            {
+              "number": "211",
+              "numText": "§ 211.",
+              "heading": "Miscellaneous provisions",
+              "identifier": "/us/usc/t27/s211"
+            },
+            {
+              "number": "212",
+              "numText": "§ 212.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t27/s212"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "ALCOHOLIC BEVERAGE LABELING",
+          "identifier": "/us/usc/t27/ch8/schII",
+          "children": [
+            {
+              "number": "213",
+              "numText": "§ 213.",
+              "heading": "Declaration of policy and purpose",
+              "identifier": "/us/usc/t27/s213"
+            },
+            {
+              "number": "214",
+              "numText": "§ 214.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t27/s214"
+            },
+            {
+              "number": "215",
+              "numText": "§ 215.",
+              "heading": "Labeling requirement",
+              "identifier": "/us/usc/t27/s215"
+            },
+            {
+              "number": "216",
+              "numText": "§ 216.",
+              "heading": "Preemption",
+              "identifier": "/us/usc/t27/s216"
+            },
+            {
+              "number": "217",
+              "numText": "§ 217.",
+              "heading": "Report to Congress",
+              "identifier": "/us/usc/t27/s217"
+            },
+            {
+              "number": "218",
+              "numText": "§ 218.",
+              "heading": "Civil penalties",
+              "identifier": "/us/usc/t27/s218"
+            },
+            {
+              "number": "219",
+              "numText": "§ 219.",
+              "heading": "Injunction proceedings; compromise of liability",
+              "identifier": "/us/usc/t27/s219"
+            },
+            {
+              "number": "219a",
+              "numText": "§ 219a.",
+              "heading": "Severability",
+              "identifier": "/us/usc/t27/s219a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "LIQUOR ENFORCEMENT ACT OF 1936",
+      "identifier": "/us/usc/t27/ch9",
+      "children": [
+        {
+          "number": "221 to 228",
+          "numText": "§§ 221 to 228.",
+          "heading": "Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862",
+          "identifier": "/us/usc/t27/s221...228"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1299 @@
+{
+  "number": "35",
+  "name": "Patents",
+  "identifier": "/us/usc/t35",
+  "version": "Online@119-73not60",
+  "updated": "2025-12-12",
+  "children": [
+    {
+      "type": "part",
+      "number": "I",
+      "heading": "UNITED STATES PATENT AND TRADEMARK OFFICE",
+      "identifier": "/us/usc/t35/ptI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "1",
+          "heading": "ESTABLISHMENT, OFFICERS AND EMPLOYEES, FUNCTIONS",
+          "identifier": "/us/usc/t35/ptI/ch1",
+          "children": [
+            {
+              "number": "1",
+              "numText": "§ 1.",
+              "heading": "Establishment",
+              "identifier": "/us/usc/t35/s1"
+            },
+            {
+              "number": "2",
+              "numText": "§ 2.",
+              "heading": "Powers and duties",
+              "identifier": "/us/usc/t35/s2"
+            },
+            {
+              "number": "3",
+              "numText": "§ 3.",
+              "heading": "Officers and employees",
+              "identifier": "/us/usc/t35/s3"
+            },
+            {
+              "number": "4",
+              "numText": "§ 4.",
+              "heading": "Restrictions on officers and employees as to interest in patents",
+              "identifier": "/us/usc/t35/s4"
+            },
+            {
+              "number": "5",
+              "numText": "§ 5.",
+              "heading": "Patent and Trademark Office Public Advisory Committees",
+              "identifier": "/us/usc/t35/s5"
+            },
+            {
+              "number": "6",
+              "numText": "§ 6.",
+              "heading": "Patent Trial and Appeal Board",
+              "identifier": "/us/usc/t35/s6"
+            },
+            {
+              "number": "7",
+              "numText": "§ 7.",
+              "heading": "Library",
+              "identifier": "/us/usc/t35/s7"
+            },
+            {
+              "number": "8",
+              "numText": "§ 8.",
+              "heading": "Classification of patents",
+              "identifier": "/us/usc/t35/s8"
+            },
+            {
+              "number": "9",
+              "numText": "§ 9.",
+              "heading": "Certified copies of records",
+              "identifier": "/us/usc/t35/s9"
+            },
+            {
+              "number": "10",
+              "numText": "§ 10.",
+              "heading": "Publications",
+              "identifier": "/us/usc/t35/s10"
+            },
+            {
+              "number": "11",
+              "numText": "§ 11.",
+              "heading": "Exchange of copies of patents and applications with foreign countries",
+              "identifier": "/us/usc/t35/s11"
+            },
+            {
+              "number": "12",
+              "numText": "§ 12.",
+              "heading": "Copies of patents and applications for public libraries",
+              "identifier": "/us/usc/t35/s12"
+            },
+            {
+              "number": "13",
+              "numText": "§ 13.",
+              "heading": "Annual report to Congress",
+              "identifier": "/us/usc/t35/s13"
+            },
+            {
+              "number": "14",
+              "numText": "[§ 14.",
+              "heading": "Renumbered § 13]",
+              "identifier": "/us/usc/t35/s14"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "2",
+          "heading": "PROCEEDINGS IN THE PATENT AND TRADEMARK OFFICE",
+          "identifier": "/us/usc/t35/ptI/ch2",
+          "children": [
+            {
+              "number": "21",
+              "numText": "§ 21.",
+              "heading": "Filing date and day for taking action",
+              "identifier": "/us/usc/t35/s21"
+            },
+            {
+              "number": "22",
+              "numText": "§ 22.",
+              "heading": "Printing of papers filed",
+              "identifier": "/us/usc/t35/s22"
+            },
+            {
+              "number": "23",
+              "numText": "§ 23.",
+              "heading": "Testimony in Patent and Trademark Office cases",
+              "identifier": "/us/usc/t35/s23"
+            },
+            {
+              "number": "24",
+              "numText": "§ 24.",
+              "heading": "Subpoenas, witnesses",
+              "identifier": "/us/usc/t35/s24"
+            },
+            {
+              "number": "25",
+              "numText": "§ 25.",
+              "heading": "Declaration in lieu of oath",
+              "identifier": "/us/usc/t35/s25"
+            },
+            {
+              "number": "26",
+              "numText": "§ 26.",
+              "heading": "Effect of defective execution",
+              "identifier": "/us/usc/t35/s26"
+            },
+            {
+              "number": "27",
+              "numText": "§ 27.",
+              "heading": "Revival of applications; reinstatement of reexamination proceedings",
+              "identifier": "/us/usc/t35/s27"
+            },
+            {
+              "number": "28",
+              "numText": "§ 28.",
+              "heading": "Award of certificates to accelerate certain matters at the Patent and Trademark Office",
+              "identifier": "/us/usc/t35/s28"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "3",
+          "heading": "PRACTICE BEFORE PATENT AND TRADEMARK OFFICE",
+          "identifier": "/us/usc/t35/ptI/ch3",
+          "children": [
+            {
+              "number": "31",
+              "numText": "[§ 31.",
+              "heading": "Repealed. Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4715(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580]",
+              "identifier": "/us/usc/t35/s31"
+            },
+            {
+              "number": "32",
+              "numText": "§ 32.",
+              "heading": "Suspension or exclusion from practice",
+              "identifier": "/us/usc/t35/s32"
+            },
+            {
+              "number": "33",
+              "numText": "§ 33.",
+              "heading": "Unauthorized representation as practitioner",
+              "identifier": "/us/usc/t35/s33"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "4",
+          "heading": "PATENT FEES; FUNDING; SEARCH SYSTEMS",
+          "identifier": "/us/usc/t35/ptI/ch4",
+          "children": [
+            {
+              "number": "41",
+              "numText": "§ 41.",
+              "heading": "Patent fees; patent and trademark search systems",
+              "identifier": "/us/usc/t35/s41"
+            },
+            {
+              "number": "42",
+              "numText": "§ 42.",
+              "heading": "Patent and Trademark Office funding",
+              "identifier": "/us/usc/t35/s42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "II",
+      "heading": "PATENTABILITY OF INVENTIONS AND GRANT OF PATENTS",
+      "identifier": "/us/usc/t35/ptII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "10",
+          "heading": "PATENTABILITY OF INVENTIONS",
+          "identifier": "/us/usc/t35/ptII/ch10",
+          "children": [
+            {
+              "number": "100",
+              "numText": "§ 100.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t35/s100"
+            },
+            {
+              "number": "101",
+              "numText": "§ 101.",
+              "heading": "Inventions patentable",
+              "identifier": "/us/usc/t35/s101"
+            },
+            {
+              "number": "102",
+              "numText": "§ 102.",
+              "heading": "Conditions for patentability; novelty",
+              "identifier": "/us/usc/t35/s102"
+            },
+            {
+              "number": "103",
+              "numText": "§ 103.",
+              "heading": "Conditions for patentability; non-obvious subject matter",
+              "identifier": "/us/usc/t35/s103"
+            },
+            {
+              "number": "104",
+              "numText": "[§ 104.",
+              "heading": "Repealed. Pub. L. 112–29, § 3(d), Sept. 16, 2011, 125 Stat. 287]",
+              "identifier": "/us/usc/t35/s104"
+            },
+            {
+              "number": "105",
+              "numText": "§ 105.",
+              "heading": "Inventions in outer space",
+              "identifier": "/us/usc/t35/s105"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "11",
+          "heading": "APPLICATION FOR PATENT",
+          "identifier": "/us/usc/t35/ptII/ch11",
+          "children": [
+            {
+              "number": "111",
+              "numText": "§ 111.",
+              "heading": "Application",
+              "identifier": "/us/usc/t35/s111"
+            },
+            {
+              "number": "112",
+              "numText": "§ 112.",
+              "heading": "Specification",
+              "identifier": "/us/usc/t35/s112"
+            },
+            {
+              "number": "113",
+              "numText": "§ 113.",
+              "heading": "Drawings",
+              "identifier": "/us/usc/t35/s113"
+            },
+            {
+              "number": "114",
+              "numText": "§ 114.",
+              "heading": "Models, specimens",
+              "identifier": "/us/usc/t35/s114"
+            },
+            {
+              "number": "115",
+              "numText": "§ 115.",
+              "heading": "Inventor’s oath or declaration",
+              "identifier": "/us/usc/t35/s115"
+            },
+            {
+              "number": "116",
+              "numText": "§ 116.",
+              "heading": "Inventors",
+              "identifier": "/us/usc/t35/s116"
+            },
+            {
+              "number": "117",
+              "numText": "§ 117.",
+              "heading": "Death or incapacity of inventor",
+              "identifier": "/us/usc/t35/s117"
+            },
+            {
+              "number": "118",
+              "numText": "§ 118.",
+              "heading": "Filing by other than inventor",
+              "identifier": "/us/usc/t35/s118"
+            },
+            {
+              "number": "119",
+              "numText": "§ 119.",
+              "heading": "Benefit of earlier filing date; right of priority",
+              "identifier": "/us/usc/t35/s119"
+            },
+            {
+              "number": "120",
+              "numText": "§ 120.",
+              "heading": "Benefit of earlier filing date in the United States",
+              "identifier": "/us/usc/t35/s120"
+            },
+            {
+              "number": "121",
+              "numText": "§ 121.",
+              "heading": "Divisional applications",
+              "identifier": "/us/usc/t35/s121"
+            },
+            {
+              "number": "122",
+              "numText": "§ 122.",
+              "heading": "Confidential status of applications; publication of patent applications",
+              "identifier": "/us/usc/t35/s122"
+            },
+            {
+              "number": "123",
+              "numText": "§ 123.",
+              "heading": "Micro entity defined",
+              "identifier": "/us/usc/t35/s123"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "12",
+          "heading": "EXAMINATION OF APPLICATION",
+          "identifier": "/us/usc/t35/ptII/ch12",
+          "children": [
+            {
+              "number": "131",
+              "numText": "§ 131.",
+              "heading": "Examination of application",
+              "identifier": "/us/usc/t35/s131"
+            },
+            {
+              "number": "132",
+              "numText": "§ 132.",
+              "heading": "Notice of rejection; reexamination",
+              "identifier": "/us/usc/t35/s132"
+            },
+            {
+              "number": "133",
+              "numText": "§ 133.",
+              "heading": "Time for prosecuting application",
+              "identifier": "/us/usc/t35/s133"
+            },
+            {
+              "number": "134",
+              "numText": "§ 134.",
+              "heading": "Appeal to the Patent Trial and Appeal Board",
+              "identifier": "/us/usc/t35/s134"
+            },
+            {
+              "number": "135",
+              "numText": "§ 135.",
+              "heading": "Derivation proceedings",
+              "identifier": "/us/usc/t35/s135"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "13",
+          "heading": "REVIEW OF PATENT AND TRADEMARK OFFICE DECISIONS",
+          "identifier": "/us/usc/t35/ptII/ch13",
+          "children": [
+            {
+              "number": "141",
+              "numText": "§ 141.",
+              "heading": "Appeal to Court of Appeals for the Federal Circuit",
+              "identifier": "/us/usc/t35/s141"
+            },
+            {
+              "number": "142",
+              "numText": "§ 142.",
+              "heading": "Notice of appeal",
+              "identifier": "/us/usc/t35/s142"
+            },
+            {
+              "number": "143",
+              "numText": "§ 143.",
+              "heading": "Proceedings on appeal",
+              "identifier": "/us/usc/t35/s143"
+            },
+            {
+              "number": "144",
+              "numText": "§ 144.",
+              "heading": "Decision on appeal",
+              "identifier": "/us/usc/t35/s144"
+            },
+            {
+              "number": "145",
+              "numText": "§ 145.",
+              "heading": "Civil action to obtain patent",
+              "identifier": "/us/usc/t35/s145"
+            },
+            {
+              "number": "146",
+              "numText": "§ 146.",
+              "heading": "Civil action in case of derivation proceeding",
+              "identifier": "/us/usc/t35/s146"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "14",
+          "heading": "ISSUE OF PATENT",
+          "identifier": "/us/usc/t35/ptII/ch14",
+          "children": [
+            {
+              "number": "151",
+              "numText": "§ 151.",
+              "heading": "Issue of patent",
+              "identifier": "/us/usc/t35/s151"
+            },
+            {
+              "number": "152",
+              "numText": "§ 152.",
+              "heading": "Issue of patent to assignee",
+              "identifier": "/us/usc/t35/s152"
+            },
+            {
+              "number": "153",
+              "numText": "§ 153.",
+              "heading": "How issued",
+              "identifier": "/us/usc/t35/s153"
+            },
+            {
+              "number": "154",
+              "numText": "§ 154.",
+              "heading": "Contents and term of patent; provisional rights",
+              "identifier": "/us/usc/t35/s154"
+            },
+            {
+              "number": "155, 155A",
+              "numText": "[§§ 155, 155A.",
+              "heading": "Repealed. Pub. L. 112–29, § 20(k), Sept. 16, 2011, 125 Stat. 335]",
+              "identifier": "/us/usc/t35/s155 /us/usc/t35/s155A"
+            },
+            {
+              "number": "156",
+              "numText": "§ 156.",
+              "heading": "Extension of patent term",
+              "identifier": "/us/usc/t35/s156"
+            },
+            {
+              "number": "157",
+              "numText": "[§ 157.",
+              "heading": "Repealed. Pub. L. 112–29, § 3(e)(1), Sept. 16, 2011, 125 Stat. 287]",
+              "identifier": "/us/usc/t35/s157"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "15",
+          "heading": "PLANT PATENTS",
+          "identifier": "/us/usc/t35/ptII/ch15",
+          "children": [
+            {
+              "number": "161",
+              "numText": "§ 161.",
+              "heading": "Patents for plants",
+              "identifier": "/us/usc/t35/s161"
+            },
+            {
+              "number": "162",
+              "numText": "§ 162.",
+              "heading": "Description, claim",
+              "identifier": "/us/usc/t35/s162"
+            },
+            {
+              "number": "163",
+              "numText": "§ 163.",
+              "heading": "Grant",
+              "identifier": "/us/usc/t35/s163"
+            },
+            {
+              "number": "164",
+              "numText": "§ 164.",
+              "heading": "Assistance of Department of Agriculture",
+              "identifier": "/us/usc/t35/s164"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "16",
+          "heading": "DESIGNS",
+          "identifier": "/us/usc/t35/ptII/ch16",
+          "children": [
+            {
+              "number": "171",
+              "numText": "§ 171.",
+              "heading": "Patents for designs",
+              "identifier": "/us/usc/t35/s171"
+            },
+            {
+              "number": "172",
+              "numText": "§ 172.",
+              "heading": "Right of priority",
+              "identifier": "/us/usc/t35/s172"
+            },
+            {
+              "number": "173",
+              "numText": "§ 173.",
+              "heading": "Term of design patent",
+              "identifier": "/us/usc/t35/s173"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "17",
+          "heading": "SECRECY OF CERTAIN INVENTIONS AND FILING APPLICATIONS IN FOREIGN COUNTRY",
+          "identifier": "/us/usc/t35/ptII/ch17",
+          "children": [
+            {
+              "number": "181",
+              "numText": "§ 181.",
+              "heading": "Secrecy of certain inventions and withholding of patent",
+              "identifier": "/us/usc/t35/s181"
+            },
+            {
+              "number": "182",
+              "numText": "§ 182.",
+              "heading": "Abandonment of invention for unauthorized disclosure",
+              "identifier": "/us/usc/t35/s182"
+            },
+            {
+              "number": "183",
+              "numText": "§ 183.",
+              "heading": "Right to compensation",
+              "identifier": "/us/usc/t35/s183"
+            },
+            {
+              "number": "184",
+              "numText": "§ 184.",
+              "heading": "Filing of application in foreign country",
+              "identifier": "/us/usc/t35/s184"
+            },
+            {
+              "number": "185",
+              "numText": "§ 185.",
+              "heading": "Patent barred for filing without license",
+              "identifier": "/us/usc/t35/s185"
+            },
+            {
+              "number": "186",
+              "numText": "§ 186.",
+              "heading": "Penalty",
+              "identifier": "/us/usc/t35/s186"
+            },
+            {
+              "number": "187",
+              "numText": "§ 187.",
+              "heading": "Nonapplicability to certain persons",
+              "identifier": "/us/usc/t35/s187"
+            },
+            {
+              "number": "188",
+              "numText": "§ 188.",
+              "heading": "Rules and regulations, delegation of power",
+              "identifier": "/us/usc/t35/s188"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "18",
+          "heading": "PATENT RIGHTS IN INVENTIONS MADE WITH FEDERAL ASSISTANCE",
+          "identifier": "/us/usc/t35/ptII/ch18",
+          "children": [
+            {
+              "number": "200",
+              "numText": "§ 200.",
+              "heading": "Policy and objective",
+              "identifier": "/us/usc/t35/s200"
+            },
+            {
+              "number": "201",
+              "numText": "§ 201.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t35/s201"
+            },
+            {
+              "number": "202",
+              "numText": "§ 202.",
+              "heading": "Disposition of rights",
+              "identifier": "/us/usc/t35/s202"
+            },
+            {
+              "number": "203",
+              "numText": "§ 203.",
+              "heading": "March-in rights",
+              "identifier": "/us/usc/t35/s203"
+            },
+            {
+              "number": "204",
+              "numText": "§ 204.",
+              "heading": "Preference for United States industry",
+              "identifier": "/us/usc/t35/s204"
+            },
+            {
+              "number": "205",
+              "numText": "§ 205.",
+              "heading": "Confidentiality",
+              "identifier": "/us/usc/t35/s205"
+            },
+            {
+              "number": "206",
+              "numText": "§ 206.",
+              "heading": "Uniform clauses and regulations",
+              "identifier": "/us/usc/t35/s206"
+            },
+            {
+              "number": "207",
+              "numText": "§ 207.",
+              "heading": "Domestic and foreign protection of federally owned inventions",
+              "identifier": "/us/usc/t35/s207"
+            },
+            {
+              "number": "208",
+              "numText": "§ 208.",
+              "heading": "Regulations governing Federal licensing",
+              "identifier": "/us/usc/t35/s208"
+            },
+            {
+              "number": "209",
+              "numText": "§ 209.",
+              "heading": "Licensing federally owned inventions",
+              "identifier": "/us/usc/t35/s209"
+            },
+            {
+              "number": "210",
+              "numText": "§ 210.",
+              "heading": "Precedence of chapter",
+              "identifier": "/us/usc/t35/s210"
+            },
+            {
+              "number": "211",
+              "numText": "§ 211.",
+              "heading": "Relationship to antitrust laws",
+              "identifier": "/us/usc/t35/s211"
+            },
+            {
+              "number": "212",
+              "numText": "§ 212.",
+              "heading": "Disposition of rights in educational awards",
+              "identifier": "/us/usc/t35/s212"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "III",
+      "heading": "PATENTS AND PROTECTION OF PATENT RIGHTS",
+      "identifier": "/us/usc/t35/ptIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "25",
+          "heading": "AMENDMENT AND CORRECTION OF PATENTS",
+          "identifier": "/us/usc/t35/ptIII/ch25",
+          "children": [
+            {
+              "number": "251",
+              "numText": "§ 251.",
+              "heading": "Reissue of defective patents",
+              "identifier": "/us/usc/t35/s251"
+            },
+            {
+              "number": "252",
+              "numText": "§ 252.",
+              "heading": "Effect of reissue",
+              "identifier": "/us/usc/t35/s252"
+            },
+            {
+              "number": "253",
+              "numText": "§ 253.",
+              "heading": "Disclaimer",
+              "identifier": "/us/usc/t35/s253"
+            },
+            {
+              "number": "254",
+              "numText": "§ 254.",
+              "heading": "Certificate of correction of Patent and Trademark Office mistake",
+              "identifier": "/us/usc/t35/s254"
+            },
+            {
+              "number": "255",
+              "numText": "§ 255.",
+              "heading": "Certificate of correction of applicant’s mistake",
+              "identifier": "/us/usc/t35/s255"
+            },
+            {
+              "number": "256",
+              "numText": "§ 256.",
+              "heading": "Correction of named inventor",
+              "identifier": "/us/usc/t35/s256"
+            },
+            {
+              "number": "257",
+              "numText": "§ 257.",
+              "heading": "Supplemental examinations to consider, reconsider, or correct information",
+              "identifier": "/us/usc/t35/s257"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "26",
+          "heading": "OWNERSHIP AND ASSIGNMENT",
+          "identifier": "/us/usc/t35/ptIII/ch26",
+          "children": [
+            {
+              "number": "261",
+              "numText": "§ 261.",
+              "heading": "Ownership; assignment",
+              "identifier": "/us/usc/t35/s261"
+            },
+            {
+              "number": "262",
+              "numText": "§ 262.",
+              "heading": "Joint owners",
+              "identifier": "/us/usc/t35/s262"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "27",
+          "heading": "GOVERNMENT INTERESTS IN PATENTS",
+          "identifier": "/us/usc/t35/ptIII/ch27",
+          "children": [
+            {
+              "number": "266",
+              "numText": "[§ 266.",
+              "heading": "Repealed. Pub. L. 89–83, § 8, July 24, 1965, 79 Stat. 261]",
+              "identifier": "/us/usc/t35/s266"
+            },
+            {
+              "number": "267",
+              "numText": "§ 267.",
+              "heading": "Time for taking action in Government applications",
+              "identifier": "/us/usc/t35/s267"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "28",
+          "heading": "INFRINGEMENT OF PATENTS",
+          "identifier": "/us/usc/t35/ptIII/ch28",
+          "children": [
+            {
+              "number": "271",
+              "numText": "§ 271.",
+              "heading": "Infringement of patent",
+              "identifier": "/us/usc/t35/s271"
+            },
+            {
+              "number": "272",
+              "numText": "§ 272.",
+              "heading": "Temporary presence in the United States",
+              "identifier": "/us/usc/t35/s272"
+            },
+            {
+              "number": "273",
+              "numText": "§ 273.",
+              "heading": "Defense to infringement based on prior commercial use",
+              "identifier": "/us/usc/t35/s273"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "29",
+          "heading": "REMEDIES FOR INFRINGEMENT OF PATENT, AND OTHER ACTIONS",
+          "identifier": "/us/usc/t35/ptIII/ch29",
+          "children": [
+            {
+              "number": "281",
+              "numText": "§ 281.",
+              "heading": "Remedy for infringement of patent",
+              "identifier": "/us/usc/t35/s281"
+            },
+            {
+              "number": "282",
+              "numText": "§ 282.",
+              "heading": "Presumption of validity; defenses",
+              "identifier": "/us/usc/t35/s282"
+            },
+            {
+              "number": "283",
+              "numText": "§ 283.",
+              "heading": "Injunction",
+              "identifier": "/us/usc/t35/s283"
+            },
+            {
+              "number": "284",
+              "numText": "§ 284.",
+              "heading": "Damages",
+              "identifier": "/us/usc/t35/s284"
+            },
+            {
+              "number": "285",
+              "numText": "§ 285.",
+              "heading": "Attorney fees",
+              "identifier": "/us/usc/t35/s285"
+            },
+            {
+              "number": "286",
+              "numText": "§ 286.",
+              "heading": "Time limitation on damages",
+              "identifier": "/us/usc/t35/s286"
+            },
+            {
+              "number": "287",
+              "numText": "§ 287.",
+              "heading": "Limitation on damages and other remedies; marking and notice",
+              "identifier": "/us/usc/t35/s287"
+            },
+            {
+              "number": "288",
+              "numText": "§ 288.",
+              "heading": "Action for infringement of a patent containing an invalid claim",
+              "identifier": "/us/usc/t35/s288"
+            },
+            {
+              "number": "289",
+              "numText": "§ 289.",
+              "heading": "Additional remedy for infringement of design patent",
+              "identifier": "/us/usc/t35/s289"
+            },
+            {
+              "number": "290",
+              "numText": "§ 290.",
+              "heading": "Notice of patent suits",
+              "identifier": "/us/usc/t35/s290"
+            },
+            {
+              "number": "291",
+              "numText": "§ 291.",
+              "heading": "Derived patents",
+              "identifier": "/us/usc/t35/s291"
+            },
+            {
+              "number": "292",
+              "numText": "§ 292.",
+              "heading": "False marking",
+              "identifier": "/us/usc/t35/s292"
+            },
+            {
+              "number": "293",
+              "numText": "§ 293.",
+              "heading": "Nonresident patentee; service and notice",
+              "identifier": "/us/usc/t35/s293"
+            },
+            {
+              "number": "294",
+              "numText": "§ 294.",
+              "heading": "Voluntary arbitration",
+              "identifier": "/us/usc/t35/s294"
+            },
+            {
+              "number": "295",
+              "numText": "§ 295.",
+              "heading": "Presumption: Product made by patented process",
+              "identifier": "/us/usc/t35/s295"
+            },
+            {
+              "number": "296",
+              "numText": "§ 296.",
+              "heading": "Liability of States, instrumentalities of States, and State officials for infringement of patents",
+              "identifier": "/us/usc/t35/s296"
+            },
+            {
+              "number": "297",
+              "numText": "§ 297.",
+              "heading": "Improper and deceptive invention promotion",
+              "identifier": "/us/usc/t35/s297"
+            },
+            {
+              "number": "298",
+              "numText": "§ 298.",
+              "heading": "Advice of counsel",
+              "identifier": "/us/usc/t35/s298"
+            },
+            {
+              "number": "299",
+              "numText": "§ 299.",
+              "heading": "Joinder of parties",
+              "identifier": "/us/usc/t35/s299"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "30",
+          "heading": "PRIOR ART CITATIONS TO OFFICE AND EX PARTE REEXAMINATION OF PATENTS",
+          "identifier": "/us/usc/t35/ptIII/ch30",
+          "children": [
+            {
+              "number": "301",
+              "numText": "§ 301.",
+              "heading": "Citation of prior art and written statements",
+              "identifier": "/us/usc/t35/s301"
+            },
+            {
+              "number": "302",
+              "numText": "§ 302.",
+              "heading": "Request for reexamination",
+              "identifier": "/us/usc/t35/s302"
+            },
+            {
+              "number": "303",
+              "numText": "§ 303.",
+              "heading": "Determination of issue by Director",
+              "identifier": "/us/usc/t35/s303"
+            },
+            {
+              "number": "304",
+              "numText": "§ 304.",
+              "heading": "Reexamination order by Director",
+              "identifier": "/us/usc/t35/s304"
+            },
+            {
+              "number": "305",
+              "numText": "§ 305.",
+              "heading": "Conduct of reexamination proceedings",
+              "identifier": "/us/usc/t35/s305"
+            },
+            {
+              "number": "306",
+              "numText": "§ 306.",
+              "heading": "Appeal",
+              "identifier": "/us/usc/t35/s306"
+            },
+            {
+              "number": "307",
+              "numText": "§ 307.",
+              "heading": "Certificate of patentability, unpatentability, and claim cancellation",
+              "identifier": "/us/usc/t35/s307"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "31",
+          "heading": "INTER PARTES REVIEW",
+          "identifier": "/us/usc/t35/ptIII/ch31",
+          "children": [
+            {
+              "number": "311",
+              "numText": "§ 311.",
+              "heading": "Inter partes review",
+              "identifier": "/us/usc/t35/s311"
+            },
+            {
+              "number": "312",
+              "numText": "§ 312.",
+              "heading": "Petitions",
+              "identifier": "/us/usc/t35/s312"
+            },
+            {
+              "number": "313",
+              "numText": "§ 313.",
+              "heading": "Preliminary response to petition",
+              "identifier": "/us/usc/t35/s313"
+            },
+            {
+              "number": "314",
+              "numText": "§ 314.",
+              "heading": "Institution of inter partes review",
+              "identifier": "/us/usc/t35/s314"
+            },
+            {
+              "number": "315",
+              "numText": "§ 315.",
+              "heading": "Relation to other proceedings or actions",
+              "identifier": "/us/usc/t35/s315"
+            },
+            {
+              "number": "316",
+              "numText": "§ 316.",
+              "heading": "Conduct of inter partes review",
+              "identifier": "/us/usc/t35/s316"
+            },
+            {
+              "number": "317",
+              "numText": "§ 317.",
+              "heading": "Settlement",
+              "identifier": "/us/usc/t35/s317"
+            },
+            {
+              "number": "318",
+              "numText": "§ 318.",
+              "heading": "Decision of the Board",
+              "identifier": "/us/usc/t35/s318"
+            },
+            {
+              "number": "319",
+              "numText": "§ 319.",
+              "heading": "Appeal",
+              "identifier": "/us/usc/t35/s319"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "32",
+          "heading": "POST-GRANT REVIEW",
+          "identifier": "/us/usc/t35/ptIII/ch32",
+          "children": [
+            {
+              "number": "321",
+              "numText": "§ 321.",
+              "heading": "Post-grant review",
+              "identifier": "/us/usc/t35/s321"
+            },
+            {
+              "number": "322",
+              "numText": "§ 322.",
+              "heading": "Petitions",
+              "identifier": "/us/usc/t35/s322"
+            },
+            {
+              "number": "323",
+              "numText": "§ 323.",
+              "heading": "Preliminary response to petition",
+              "identifier": "/us/usc/t35/s323"
+            },
+            {
+              "number": "324",
+              "numText": "§ 324.",
+              "heading": "Institution of post-grant review",
+              "identifier": "/us/usc/t35/s324"
+            },
+            {
+              "number": "325",
+              "numText": "§ 325.",
+              "heading": "Relation to other proceedings or actions",
+              "identifier": "/us/usc/t35/s325"
+            },
+            {
+              "number": "326",
+              "numText": "§ 326.",
+              "heading": "Conduct of post-grant review",
+              "identifier": "/us/usc/t35/s326"
+            },
+            {
+              "number": "327",
+              "numText": "§ 327.",
+              "heading": "Settlement",
+              "identifier": "/us/usc/t35/s327"
+            },
+            {
+              "number": "328",
+              "numText": "§ 328.",
+              "heading": "Decision of the Board",
+              "identifier": "/us/usc/t35/s328"
+            },
+            {
+              "number": "329",
+              "numText": "§ 329.",
+              "heading": "Appeal",
+              "identifier": "/us/usc/t35/s329"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "IV",
+      "heading": "PATENT COOPERATION TREATY",
+      "identifier": "/us/usc/t35/ptIV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "35",
+          "heading": "DEFINITIONS",
+          "identifier": "/us/usc/t35/ptIV/ch35",
+          "children": [
+            {
+              "number": "351",
+              "numText": "§ 351.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t35/s351"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "36",
+          "heading": "INTERNATIONAL STAGE",
+          "identifier": "/us/usc/t35/ptIV/ch36",
+          "children": [
+            {
+              "number": "361",
+              "numText": "§ 361.",
+              "heading": "Receiving Office",
+              "identifier": "/us/usc/t35/s361"
+            },
+            {
+              "number": "362",
+              "numText": "§ 362.",
+              "heading": "International Searching Authority and International Preliminary Examining Authority",
+              "identifier": "/us/usc/t35/s362"
+            },
+            {
+              "number": "363",
+              "numText": "§ 363.",
+              "heading": "International application designating the United States: Effect",
+              "identifier": "/us/usc/t35/s363"
+            },
+            {
+              "number": "364",
+              "numText": "§ 364.",
+              "heading": "International stage: Procedure",
+              "identifier": "/us/usc/t35/s364"
+            },
+            {
+              "number": "365",
+              "numText": "§ 365.",
+              "heading": "Right of priority; benefit of the filing date of a prior application",
+              "identifier": "/us/usc/t35/s365"
+            },
+            {
+              "number": "366",
+              "numText": "§ 366.",
+              "heading": "Withdrawn international application",
+              "identifier": "/us/usc/t35/s366"
+            },
+            {
+              "number": "367",
+              "numText": "§ 367.",
+              "heading": "Actions of other authorities: Review",
+              "identifier": "/us/usc/t35/s367"
+            },
+            {
+              "number": "368",
+              "numText": "§ 368.",
+              "heading": "Secrecy of certain inventions; filing international applications in foreign countries",
+              "identifier": "/us/usc/t35/s368"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "37",
+          "heading": "NATIONAL STAGE",
+          "identifier": "/us/usc/t35/ptIV/ch37",
+          "children": [
+            {
+              "number": "371",
+              "numText": "§ 371.",
+              "heading": "National stage: Commencement",
+              "identifier": "/us/usc/t35/s371"
+            },
+            {
+              "number": "372",
+              "numText": "§ 372.",
+              "heading": "National stage: Requirements and procedure",
+              "identifier": "/us/usc/t35/s372"
+            },
+            {
+              "number": "373",
+              "numText": "[§ 373.",
+              "heading": "Repealed. Pub. L. 112–274, § 1(i), Jan. 14, 2013, 126 Stat. 2457]",
+              "identifier": "/us/usc/t35/s373"
+            },
+            {
+              "number": "374",
+              "numText": "§ 374.",
+              "heading": "Publication of international application",
+              "identifier": "/us/usc/t35/s374"
+            },
+            {
+              "number": "375",
+              "numText": "§ 375.",
+              "heading": "Patent issued on international application: Effect",
+              "identifier": "/us/usc/t35/s375"
+            },
+            {
+              "number": "376",
+              "numText": "§ 376.",
+              "heading": "Fees",
+              "identifier": "/us/usc/t35/s376"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "V",
+      "heading": "THE HAGUE AGREEMENT CONCERNING INTERNATIONAL REGISTRATION OF INDUSTRIAL DESIGNS",
+      "identifier": "/us/usc/t35/ptV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "38",
+          "heading": "INTERNATIONAL DESIGN APPLICATIONS",
+          "identifier": "/us/usc/t35/ptV/ch38",
+          "children": [
+            {
+              "number": "381",
+              "numText": "§ 381.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t35/s381"
+            },
+            {
+              "number": "382",
+              "numText": "§ 382.",
+              "heading": "Filing international design applications",
+              "identifier": "/us/usc/t35/s382"
+            },
+            {
+              "number": "383",
+              "numText": "§ 383.",
+              "heading": "International design application",
+              "identifier": "/us/usc/t35/s383"
+            },
+            {
+              "number": "384",
+              "numText": "§ 384.",
+              "heading": "Filing date",
+              "identifier": "/us/usc/t35/s384"
+            },
+            {
+              "number": "385",
+              "numText": "§ 385.",
+              "heading": "Effect of international design application",
+              "identifier": "/us/usc/t35/s385"
+            },
+            {
+              "number": "386",
+              "numText": "§ 386.",
+              "heading": "Right of priority",
+              "identifier": "/us/usc/t35/s386"
+            },
+            {
+              "number": "387",
+              "numText": "§ 387.",
+              "heading": "Relief from prescribed time limits",
+              "identifier": "/us/usc/t35/s387"
+            },
+            {
+              "number": "388",
+              "numText": "§ 388.",
+              "heading": "Withdrawn or abandoned international design application",
+              "identifier": "/us/usc/t35/s388"
+            },
+            {
+              "number": "389",
+              "numText": "§ 389.",
+              "heading": "Examination of international design application",
+              "identifier": "/us/usc/t35/s389"
+            },
+            {
+              "number": "390",
+              "numText": "§ 390.",
+              "heading": "Publication of international design application",
+              "identifier": "/us/usc/t35/s390"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

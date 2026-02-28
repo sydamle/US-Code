@@ -1,0 +1,331 @@
+{
+  "number": "4",
+  "name": "Flag And Seal, Seat Of Government, And The States",
+  "identifier": "/us/usc/t4",
+  "version": "Online@119-73not60",
+  "updated": "2025-03-03",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "THE FLAG",
+      "identifier": "/us/usc/t4/ch1",
+      "children": [
+        {
+          "number": "1",
+          "numText": "§ 1.",
+          "heading": "Flag; stripes and stars on",
+          "identifier": "/us/usc/t4/s1"
+        },
+        {
+          "number": "2",
+          "numText": "§ 2.",
+          "heading": "Same; additional stars",
+          "identifier": "/us/usc/t4/s2"
+        },
+        {
+          "number": "3",
+          "numText": "§ 3.",
+          "heading": "Use of flag for advertising purposes; mutilation of flag",
+          "identifier": "/us/usc/t4/s3"
+        },
+        {
+          "number": "4",
+          "numText": "§ 4.",
+          "heading": "Pledge of allegiance to the flag; manner of delivery",
+          "identifier": "/us/usc/t4/s4"
+        },
+        {
+          "number": "5",
+          "numText": "§ 5.",
+          "heading": "Display and use of flag by civilians; codification of rules and customs; definition",
+          "identifier": "/us/usc/t4/s5"
+        },
+        {
+          "number": "6",
+          "numText": "§ 6.",
+          "heading": "Time and occasions for display",
+          "identifier": "/us/usc/t4/s6"
+        },
+        {
+          "number": "7",
+          "numText": "§ 7.",
+          "heading": "Position and manner of display",
+          "identifier": "/us/usc/t4/s7"
+        },
+        {
+          "number": "8",
+          "numText": "§ 8.",
+          "heading": "Respect for flag",
+          "identifier": "/us/usc/t4/s8"
+        },
+        {
+          "number": "9",
+          "numText": "§ 9.",
+          "heading": "Conduct during hoisting, lowering or passing of flag",
+          "identifier": "/us/usc/t4/s9"
+        },
+        {
+          "number": "10",
+          "numText": "§ 10.",
+          "heading": "Modification of rules and customs by President",
+          "identifier": "/us/usc/t4/s10"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "THE SEAL",
+      "identifier": "/us/usc/t4/ch2",
+      "children": [
+        {
+          "number": "41",
+          "numText": "§ 41.",
+          "heading": "Seal of the United States",
+          "identifier": "/us/usc/t4/s41"
+        },
+        {
+          "number": "42",
+          "numText": "§ 42.",
+          "heading": "Same; custody and use of",
+          "identifier": "/us/usc/t4/s42"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "SEAT OF THE GOVERNMENT",
+      "identifier": "/us/usc/t4/ch3",
+      "children": [
+        {
+          "number": "71",
+          "numText": "§ 71.",
+          "heading": "Permanent seat of Government",
+          "identifier": "/us/usc/t4/s71"
+        },
+        {
+          "number": "72",
+          "numText": "§ 72.",
+          "heading": "Public offices; at seat of Government",
+          "identifier": "/us/usc/t4/s72"
+        },
+        {
+          "number": "73",
+          "numText": "§ 73.",
+          "heading": "Same; removal from seat of Government",
+          "identifier": "/us/usc/t4/s73"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "THE STATES",
+      "identifier": "/us/usc/t4/ch4",
+      "children": [
+        {
+          "number": "101",
+          "numText": "§ 101.",
+          "heading": "Oath by members of legislatures and officers",
+          "identifier": "/us/usc/t4/s101"
+        },
+        {
+          "number": "102",
+          "numText": "§ 102.",
+          "heading": "Same; by whom administered",
+          "identifier": "/us/usc/t4/s102"
+        },
+        {
+          "number": "103",
+          "numText": "§ 103.",
+          "heading": "Assent to purchase of lands for forts",
+          "identifier": "/us/usc/t4/s103"
+        },
+        {
+          "number": "104",
+          "numText": "§ 104.",
+          "heading": "Tax on motor fuel sold on military or other reservation 11 So in original. Probably should be followed by a semicolon. reports to State taxing authority",
+          "identifier": "/us/usc/t4/s104"
+        },
+        {
+          "number": "105",
+          "numText": "§ 105.",
+          "heading": "State, and so forth, taxation affecting Federal areas; sales or use tax",
+          "identifier": "/us/usc/t4/s105"
+        },
+        {
+          "number": "106",
+          "numText": "§ 106.",
+          "heading": "Same; income tax",
+          "identifier": "/us/usc/t4/s106"
+        },
+        {
+          "number": "107",
+          "numText": "§ 107.",
+          "heading": "Same; exception of United States, its instrumentalities, and authorized purchases 11 So in original. Probably should be “purchasers”. therefrom",
+          "identifier": "/us/usc/t4/s107"
+        },
+        {
+          "number": "108",
+          "numText": "§ 108.",
+          "heading": "Same; jurisdiction of United States over Federal areas unaffected",
+          "identifier": "/us/usc/t4/s108"
+        },
+        {
+          "number": "109",
+          "numText": "§ 109.",
+          "heading": "Same; exception of Indians",
+          "identifier": "/us/usc/t4/s109"
+        },
+        {
+          "number": "110",
+          "numText": "§ 110.",
+          "heading": "Same; definitions",
+          "identifier": "/us/usc/t4/s110"
+        },
+        {
+          "number": "111",
+          "numText": "§ 111.",
+          "heading": "Same; taxation affecting Federal employees; income tax",
+          "identifier": "/us/usc/t4/s111"
+        },
+        {
+          "number": "112",
+          "numText": "§ 112.",
+          "heading": "Compacts between States for cooperation in prevention of crime; consent of Congress",
+          "identifier": "/us/usc/t4/s112"
+        },
+        {
+          "number": "113",
+          "numText": "§ 113.",
+          "heading": "Residence of Members of Congress for State income tax laws",
+          "identifier": "/us/usc/t4/s113"
+        },
+        {
+          "number": "114",
+          "numText": "§ 114.",
+          "heading": "Limitation on State income taxation of certain pension income",
+          "identifier": "/us/usc/t4/s114"
+        },
+        {
+          "number": "115",
+          "numText": "§ 115.",
+          "heading": "Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky",
+          "identifier": "/us/usc/t4/s115"
+        },
+        {
+          "number": "116",
+          "numText": "§ 116.",
+          "heading": "Rules for determining State and local government treatment of charges related to mobile telecommunications services",
+          "identifier": "/us/usc/t4/s116"
+        },
+        {
+          "number": "117",
+          "numText": "§ 117.",
+          "heading": "Sourcing rules",
+          "identifier": "/us/usc/t4/s117"
+        },
+        {
+          "number": "118",
+          "numText": "§ 118.",
+          "heading": "Limitations",
+          "identifier": "/us/usc/t4/s118"
+        },
+        {
+          "number": "119",
+          "numText": "§ 119.",
+          "heading": "Electronic databases for nationwide standard numeric jurisdictional codes",
+          "identifier": "/us/usc/t4/s119"
+        },
+        {
+          "number": "120",
+          "numText": "§ 120.",
+          "heading": "Procedure if no electronic database provided",
+          "identifier": "/us/usc/t4/s120"
+        },
+        {
+          "number": "121",
+          "numText": "§ 121.",
+          "heading": "Correction of erroneous data for place of primary use",
+          "identifier": "/us/usc/t4/s121"
+        },
+        {
+          "number": "122",
+          "numText": "§ 122.",
+          "heading": "Determination of place of primary use",
+          "identifier": "/us/usc/t4/s122"
+        },
+        {
+          "number": "123",
+          "numText": "§ 123.",
+          "heading": "Scope; special rules",
+          "identifier": "/us/usc/t4/s123"
+        },
+        {
+          "number": "124",
+          "numText": "§ 124.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t4/s124"
+        },
+        {
+          "number": "125",
+          "numText": "§ 125.",
+          "heading": "Nonseverability",
+          "identifier": "/us/usc/t4/s125"
+        },
+        {
+          "number": "126",
+          "numText": "§ 126.",
+          "heading": "No inference",
+          "identifier": "/us/usc/t4/s126"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "OFFICIAL TERRITORIAL PAPERS",
+      "identifier": "/us/usc/t4/ch5",
+      "children": [
+        {
+          "number": "141",
+          "numText": "§ 141.",
+          "heading": "Collection, preparation and publication",
+          "identifier": "/us/usc/t4/s141"
+        },
+        {
+          "number": "142",
+          "numText": "§ 142.",
+          "heading": "Appointment of experts",
+          "identifier": "/us/usc/t4/s142"
+        },
+        {
+          "number": "143",
+          "numText": "§ 143.",
+          "heading": "Employment and utilization of other personnel; cost of copy reading and indexing",
+          "identifier": "/us/usc/t4/s143"
+        },
+        {
+          "number": "144",
+          "numText": "§ 144.",
+          "heading": "Cooperation of departments and agencies",
+          "identifier": "/us/usc/t4/s144"
+        },
+        {
+          "number": "145",
+          "numText": "§ 145.",
+          "heading": "Printing and distribution",
+          "identifier": "/us/usc/t4/s145"
+        },
+        {
+          "number": "146",
+          "numText": "§ 146.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t4/s146"
+        }
+      ]
+    }
+  ]
+}

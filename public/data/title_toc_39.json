@@ -1,0 +1,1367 @@
+{
+  "number": "39",
+  "name": "Postal Service",
+  "identifier": "/us/usc/t39",
+  "version": "Online@119-73not60",
+  "updated": "2024-04-08",
+  "children": [
+    {
+      "type": "part",
+      "number": "I",
+      "heading": "GENERAL",
+      "identifier": "/us/usc/t39/ptI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "1",
+          "heading": "POSTAL POLICY AND DEFINITIONS",
+          "identifier": "/us/usc/t39/ptI/ch1",
+          "children": [
+            {
+              "number": "101",
+              "numText": "§ 101.",
+              "heading": "Postal policy",
+              "identifier": "/us/usc/t39/s101"
+            },
+            {
+              "number": "102",
+              "numText": "§ 102.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t39/s102"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "2",
+          "heading": "ORGANIZATION",
+          "identifier": "/us/usc/t39/ptI/ch2",
+          "children": [
+            {
+              "number": "201",
+              "numText": "§ 201.",
+              "heading": "United States Postal Service",
+              "identifier": "/us/usc/t39/s201"
+            },
+            {
+              "number": "202",
+              "numText": "§ 202.",
+              "heading": "Board of Governors",
+              "identifier": "/us/usc/t39/s202"
+            },
+            {
+              "number": "203",
+              "numText": "§ 203.",
+              "heading": "Postmaster General; Deputy Postmaster General",
+              "identifier": "/us/usc/t39/s203"
+            },
+            {
+              "number": "204",
+              "numText": "§ 204.",
+              "heading": "General Counsel; Judicial Officer; Chief Postal Inspector",
+              "identifier": "/us/usc/t39/s204"
+            },
+            {
+              "number": "205",
+              "numText": "§ 205.",
+              "heading": "Procedures of the Board of Governors",
+              "identifier": "/us/usc/t39/s205"
+            },
+            {
+              "number": "206",
+              "numText": "§ 206.",
+              "heading": "Advisory Council",
+              "identifier": "/us/usc/t39/s206"
+            },
+            {
+              "number": "207",
+              "numText": "§ 207.",
+              "heading": "Seal",
+              "identifier": "/us/usc/t39/s207"
+            },
+            {
+              "number": "208",
+              "numText": "§ 208.",
+              "heading": "Reservation of powers",
+              "identifier": "/us/usc/t39/s208"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "4",
+          "heading": "GENERAL AUTHORITY",
+          "identifier": "/us/usc/t39/ptI/ch4",
+          "children": [
+            {
+              "number": "401",
+              "numText": "§ 401.",
+              "heading": "General powers of the Postal Service",
+              "identifier": "/us/usc/t39/s401"
+            },
+            {
+              "number": "402",
+              "numText": "§ 402.",
+              "heading": "Delegation of authority",
+              "identifier": "/us/usc/t39/s402"
+            },
+            {
+              "number": "403",
+              "numText": "§ 403.",
+              "heading": "General duties",
+              "identifier": "/us/usc/t39/s403"
+            },
+            {
+              "number": "404",
+              "numText": "§ 404.",
+              "heading": "Specific powers",
+              "identifier": "/us/usc/t39/s404"
+            },
+            {
+              "number": "404a",
+              "numText": "§ 404a.",
+              "heading": "Specific limitations",
+              "identifier": "/us/usc/t39/s404a"
+            },
+            {
+              "number": "405",
+              "numText": "§ 405.",
+              "heading": "Printing of illustrations of United States postage stamps",
+              "identifier": "/us/usc/t39/s405"
+            },
+            {
+              "number": "406",
+              "numText": "§ 406.",
+              "heading": "Postal services at Armed Forces installations",
+              "identifier": "/us/usc/t39/s406"
+            },
+            {
+              "number": "407",
+              "numText": "§ 407.",
+              "heading": "International postal arrangements",
+              "identifier": "/us/usc/t39/s407"
+            },
+            {
+              "number": "408",
+              "numText": "§ 408.",
+              "heading": "International money-order exchanges",
+              "identifier": "/us/usc/t39/s408"
+            },
+            {
+              "number": "409",
+              "numText": "§ 409.",
+              "heading": "Suits by and against the Postal Service",
+              "identifier": "/us/usc/t39/s409"
+            },
+            {
+              "number": "410",
+              "numText": "§ 410.",
+              "heading": "Application of other laws",
+              "identifier": "/us/usc/t39/s410"
+            },
+            {
+              "number": "411",
+              "numText": "§ 411.",
+              "heading": "Cooperation with other Government agencies",
+              "identifier": "/us/usc/t39/s411"
+            },
+            {
+              "number": "412",
+              "numText": "§ 412.",
+              "heading": "Nondisclosure of lists of names and addresses",
+              "identifier": "/us/usc/t39/s412"
+            },
+            {
+              "number": "413",
+              "numText": "§ 413.",
+              "heading": "Postal services at diplomatic posts",
+              "identifier": "/us/usc/t39/s413"
+            },
+            {
+              "number": "414",
+              "numText": "§ 414.",
+              "heading": "Special postage stamps",
+              "identifier": "/us/usc/t39/s414"
+            },
+            {
+              "number": "415",
+              "numText": "§ 415.",
+              "heading": "Prohibition on restriction or elimination of services",
+              "identifier": "/us/usc/t39/s415"
+            },
+            {
+              "number": "416",
+              "numText": "§ 416.",
+              "heading": "Authority to issue semipostals",
+              "identifier": "/us/usc/t39/s416"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "5",
+          "heading": "POSTAL REGULATORY COMMISSION",
+          "identifier": "/us/usc/t39/ptI/ch5",
+          "children": [
+            {
+              "number": "501",
+              "numText": "§ 501.",
+              "heading": "Establishment",
+              "identifier": "/us/usc/t39/s501"
+            },
+            {
+              "number": "502",
+              "numText": "§ 502.",
+              "heading": "Commissioners",
+              "identifier": "/us/usc/t39/s502"
+            },
+            {
+              "number": "503",
+              "numText": "§ 503.",
+              "heading": "Rules; regulations; procedures",
+              "identifier": "/us/usc/t39/s503"
+            },
+            {
+              "number": "504",
+              "numText": "§ 504.",
+              "heading": "Administration",
+              "identifier": "/us/usc/t39/s504"
+            },
+            {
+              "number": "505",
+              "numText": "§ 505.",
+              "heading": "Officer of the Postal Regulatory Commission representing the general public",
+              "identifier": "/us/usc/t39/s505"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "6",
+          "heading": "PRIVATE CARRIAGE OF LETTERS",
+          "identifier": "/us/usc/t39/ptI/ch6",
+          "children": [
+            {
+              "number": "601",
+              "numText": "§ 601.",
+              "heading": "Letters carried out of the mail",
+              "identifier": "/us/usc/t39/s601"
+            },
+            {
+              "number": "602",
+              "numText": "§ 602.",
+              "heading": "Foreign letters out of the mails",
+              "identifier": "/us/usc/t39/s602"
+            },
+            {
+              "number": "603",
+              "numText": "§ 603.",
+              "heading": "Searches authorized",
+              "identifier": "/us/usc/t39/s603"
+            },
+            {
+              "number": "604",
+              "numText": "§ 604.",
+              "heading": "Seizing and detaining letters",
+              "identifier": "/us/usc/t39/s604"
+            },
+            {
+              "number": "605",
+              "numText": "§ 605.",
+              "heading": "Searching vessels for letters",
+              "identifier": "/us/usc/t39/s605"
+            },
+            {
+              "number": "606",
+              "numText": "§ 606.",
+              "heading": "Disposition of seized mail",
+              "identifier": "/us/usc/t39/s606"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "II",
+      "heading": "PERSONNEL",
+      "identifier": "/us/usc/t39/ptII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "10",
+          "heading": "EMPLOYMENT WITHIN THE POSTAL SERVICE",
+          "identifier": "/us/usc/t39/ptII/ch10",
+          "children": [
+            {
+              "number": "1001",
+              "numText": "§ 1001.",
+              "heading": "Appointment and status",
+              "identifier": "/us/usc/t39/s1001"
+            },
+            {
+              "number": "1002",
+              "numText": "§ 1002.",
+              "heading": "Political recommendations",
+              "identifier": "/us/usc/t39/s1002"
+            },
+            {
+              "number": "1003",
+              "numText": "§ 1003.",
+              "heading": "Employment policy",
+              "identifier": "/us/usc/t39/s1003"
+            },
+            {
+              "number": "1004",
+              "numText": "§ 1004.",
+              "heading": "Supervisory and other managerial organizations",
+              "identifier": "/us/usc/t39/s1004"
+            },
+            {
+              "number": "1005",
+              "numText": "§ 1005.",
+              "heading": "Applicability of laws relating to Federal employees",
+              "identifier": "/us/usc/t39/s1005"
+            },
+            {
+              "number": "1006",
+              "numText": "§ 1006.",
+              "heading": "Right of transfer",
+              "identifier": "/us/usc/t39/s1006"
+            },
+            {
+              "number": "1007",
+              "numText": "§ 1007.",
+              "heading": "Seniority for employees in rural service",
+              "identifier": "/us/usc/t39/s1007"
+            },
+            {
+              "number": "1008",
+              "numText": "§ 1008.",
+              "heading": "Temporary employees or carriers",
+              "identifier": "/us/usc/t39/s1008"
+            },
+            {
+              "number": "1009",
+              "numText": "§ 1009.",
+              "heading": "Personnel not to receive fees",
+              "identifier": "/us/usc/t39/s1009"
+            },
+            {
+              "number": "1010",
+              "numText": "§ 1010.",
+              "heading": "Administration of oaths related to postal inspection matters",
+              "identifier": "/us/usc/t39/s1010"
+            },
+            {
+              "number": "1011",
+              "numText": "§ 1011.",
+              "heading": "Oath of office",
+              "identifier": "/us/usc/t39/s1011"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "12",
+          "heading": "EMPLOYEE-MANAGEMENT AGREEMENTS",
+          "identifier": "/us/usc/t39/ptII/ch12",
+          "children": [
+            {
+              "number": "1201",
+              "numText": "§ 1201.",
+              "heading": "Definition",
+              "identifier": "/us/usc/t39/s1201"
+            },
+            {
+              "number": "1202",
+              "numText": "§ 1202.",
+              "heading": "Bargaining units",
+              "identifier": "/us/usc/t39/s1202"
+            },
+            {
+              "number": "1203",
+              "numText": "§ 1203.",
+              "heading": "Recognition of labor organizations",
+              "identifier": "/us/usc/t39/s1203"
+            },
+            {
+              "number": "1204",
+              "numText": "§ 1204.",
+              "heading": "Elections",
+              "identifier": "/us/usc/t39/s1204"
+            },
+            {
+              "number": "1205",
+              "numText": "§ 1205.",
+              "heading": "Deductions of dues",
+              "identifier": "/us/usc/t39/s1205"
+            },
+            {
+              "number": "1206",
+              "numText": "§ 1206.",
+              "heading": "Collective-bargaining agreements",
+              "identifier": "/us/usc/t39/s1206"
+            },
+            {
+              "number": "1207",
+              "numText": "§ 1207.",
+              "heading": "Labor disputes",
+              "identifier": "/us/usc/t39/s1207"
+            },
+            {
+              "number": "1208",
+              "numText": "§ 1208.",
+              "heading": "Suits",
+              "identifier": "/us/usc/t39/s1208"
+            },
+            {
+              "number": "1209",
+              "numText": "§ 1209.",
+              "heading": "Applicability of Federal labor laws",
+              "identifier": "/us/usc/t39/s1209"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "III",
+      "heading": "MODERNIZATION AND FISCAL ADMINISTRATION",
+      "identifier": "/us/usc/t39/ptIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "20",
+          "heading": "FINANCE",
+          "identifier": "/us/usc/t39/ptIII/ch20",
+          "children": [
+            {
+              "number": "2001",
+              "numText": "§ 2001.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t39/s2001"
+            },
+            {
+              "number": "2002",
+              "numText": "§ 2002.",
+              "heading": "Capital of the Postal Service",
+              "identifier": "/us/usc/t39/s2002"
+            },
+            {
+              "number": "2003",
+              "numText": "§ 2003.",
+              "heading": "The Postal Service Fund",
+              "identifier": "/us/usc/t39/s2003"
+            },
+            {
+              "number": "2004",
+              "numText": "[§ 2004.",
+              "heading": "Repealed. Pub. L. 105–33, title VII, § 7003(a)(1), Aug. 5, 1997, 111 Stat. 663]",
+              "identifier": "/us/usc/t39/s2004"
+            },
+            {
+              "number": "2005",
+              "numText": "§ 2005.",
+              "heading": "Obligations",
+              "identifier": "/us/usc/t39/s2005"
+            },
+            {
+              "number": "2006",
+              "numText": "§ 2006.",
+              "heading": "Relationship between the Treasury and the Postal Service",
+              "identifier": "/us/usc/t39/s2006"
+            },
+            {
+              "number": "2007",
+              "numText": "§ 2007.",
+              "heading": "Public debt character of the obligations of the Postal Service",
+              "identifier": "/us/usc/t39/s2007"
+            },
+            {
+              "number": "2008",
+              "numText": "§ 2008.",
+              "heading": "Audit and expenditures",
+              "identifier": "/us/usc/t39/s2008"
+            },
+            {
+              "number": "2009",
+              "numText": "§ 2009.",
+              "heading": "Annual budget",
+              "identifier": "/us/usc/t39/s2009"
+            },
+            {
+              "number": "2009a",
+              "numText": "§ 2009a.",
+              "heading": "Budgetary treatment of the Postal Service Fund",
+              "identifier": "/us/usc/t39/s2009a"
+            },
+            {
+              "number": "2010",
+              "numText": "§ 2010.",
+              "heading": "Restrictions on agreements",
+              "identifier": "/us/usc/t39/s2010"
+            },
+            {
+              "number": "2011",
+              "numText": "§ 2011.",
+              "heading": "Provisions relating to competitive products",
+              "identifier": "/us/usc/t39/s2011"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "22",
+          "heading": "CONVICT LABOR",
+          "identifier": "/us/usc/t39/ptIII/ch22",
+          "children": [
+            {
+              "number": "2201",
+              "numText": "§ 2201.",
+              "heading": "No postal equipment or supplies manufactured by convict labor",
+              "identifier": "/us/usc/t39/s2201"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "24",
+          "heading": "APPROPRIATIONS AND ANNUAL REPORT",
+          "identifier": "/us/usc/t39/ptIII/ch24",
+          "children": [
+            {
+              "number": "2401",
+              "numText": "§ 2401.",
+              "heading": "Appropriations",
+              "identifier": "/us/usc/t39/s2401"
+            },
+            {
+              "number": "2402",
+              "numText": "§ 2402.",
+              "heading": "Annual report",
+              "identifier": "/us/usc/t39/s2402"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "26",
+          "heading": "DEBTS AND COLLECTION",
+          "identifier": "/us/usc/t39/ptIII/ch26",
+          "children": [
+            {
+              "number": "2601",
+              "numText": "§ 2601.",
+              "heading": "Collection and adjustment of debts",
+              "identifier": "/us/usc/t39/s2601"
+            },
+            {
+              "number": "2602",
+              "numText": "§ 2602.",
+              "heading": "Transportation of international mail by air carriers of the United States",
+              "identifier": "/us/usc/t39/s2602"
+            },
+            {
+              "number": "2603",
+              "numText": "§ 2603.",
+              "heading": "Settlement of claims for damages caused by the Postal Service",
+              "identifier": "/us/usc/t39/s2603"
+            },
+            {
+              "number": "2604",
+              "numText": "§ 2604.",
+              "heading": "Delivery of stolen money to owner",
+              "identifier": "/us/usc/t39/s2604"
+            },
+            {
+              "number": "2605",
+              "numText": "§ 2605.",
+              "heading": "Suits to recover wrongful or fraudulent payments",
+              "identifier": "/us/usc/t39/s2605"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "28",
+          "heading": "STRATEGIC PLANNING AND PERFORMANCE MANAGEMENT",
+          "identifier": "/us/usc/t39/ptIII/ch28",
+          "children": [
+            {
+              "number": "2801",
+              "numText": "§ 2801.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t39/s2801"
+            },
+            {
+              "number": "2802",
+              "numText": "§ 2802.",
+              "heading": "Strategic plans",
+              "identifier": "/us/usc/t39/s2802"
+            },
+            {
+              "number": "2803",
+              "numText": "§ 2803.",
+              "heading": "Performance plans",
+              "identifier": "/us/usc/t39/s2803"
+            },
+            {
+              "number": "2804",
+              "numText": "§ 2804.",
+              "heading": "Program performance reports",
+              "identifier": "/us/usc/t39/s2804"
+            },
+            {
+              "number": "2805",
+              "numText": "§ 2805.",
+              "heading": "Inherently Governmental functions",
+              "identifier": "/us/usc/t39/s2805"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "29",
+          "heading": "PROPERTY MANAGEMENT",
+          "identifier": "/us/usc/t39/ptIII/ch29",
+          "children": [
+            {
+              "number": "2901",
+              "numText": "§ 2901.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t39/s2901"
+            },
+            {
+              "number": "2902",
+              "numText": "§ 2902.",
+              "heading": "Property management",
+              "identifier": "/us/usc/t39/s2902"
+            },
+            {
+              "number": "2903",
+              "numText": "§ 2903.",
+              "heading": "Use of funds from sale of property",
+              "identifier": "/us/usc/t39/s2903"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "IV",
+      "heading": "MAIL MATTER",
+      "identifier": "/us/usc/t39/ptIV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "30",
+          "heading": "NONMAILABLE MATTER",
+          "identifier": "/us/usc/t39/ptIV/ch30",
+          "children": [
+            {
+              "number": "3001",
+              "numText": "§ 3001.",
+              "heading": "Nonmailable matter",
+              "identifier": "/us/usc/t39/s3001"
+            },
+            {
+              "number": "3002",
+              "numText": "§ 3002.",
+              "heading": "Nonmailable motor vehicle master keys",
+              "identifier": "/us/usc/t39/s3002"
+            },
+            {
+              "number": "3002a",
+              "numText": "§ 3002a.",
+              "heading": "Nonmailability of locksmithing devices",
+              "identifier": "/us/usc/t39/s3002a"
+            },
+            {
+              "number": "3003",
+              "numText": "§ 3003.",
+              "heading": "Mail bearing a fictitious name or address",
+              "identifier": "/us/usc/t39/s3003"
+            },
+            {
+              "number": "3004",
+              "numText": "§ 3004.",
+              "heading": "Delivery of mail to persons not residents of the place of address",
+              "identifier": "/us/usc/t39/s3004"
+            },
+            {
+              "number": "3005",
+              "numText": "§ 3005.",
+              "heading": "False representations; lotteries",
+              "identifier": "/us/usc/t39/s3005"
+            },
+            {
+              "number": "3006",
+              "numText": "[§ 3006.",
+              "heading": "Repealed. Pub. L. 106–168, title I, § 105(b)(1), Dec. 12, 1999, 113 Stat. 1811]",
+              "identifier": "/us/usc/t39/s3006"
+            },
+            {
+              "number": "3007",
+              "numText": "§ 3007.",
+              "heading": "Detention of mail for temporary periods",
+              "identifier": "/us/usc/t39/s3007"
+            },
+            {
+              "number": "3008",
+              "numText": "§ 3008.",
+              "heading": "Prohibition of pandering advertisements",
+              "identifier": "/us/usc/t39/s3008"
+            },
+            {
+              "number": "3009",
+              "numText": "§ 3009.",
+              "heading": "Mailing of unordered merchandise",
+              "identifier": "/us/usc/t39/s3009"
+            },
+            {
+              "number": "3010",
+              "numText": "§ 3010.",
+              "heading": "Mailing of sexually oriented advertisements",
+              "identifier": "/us/usc/t39/s3010"
+            },
+            {
+              "number": "3011",
+              "numText": "§ 3011.",
+              "heading": "Judicial enforcement",
+              "identifier": "/us/usc/t39/s3011"
+            },
+            {
+              "number": "3012",
+              "numText": "§ 3012.",
+              "heading": "Civil penalties",
+              "identifier": "/us/usc/t39/s3012"
+            },
+            {
+              "number": "3013",
+              "numText": "§ 3013.",
+              "heading": "Semiannual reports on investigative activities of the Postal Service",
+              "identifier": "/us/usc/t39/s3013"
+            },
+            {
+              "number": "3014",
+              "numText": "§ 3014.",
+              "heading": "Nonmailable plants",
+              "identifier": "/us/usc/t39/s3014"
+            },
+            {
+              "number": "3015",
+              "numText": "§ 3015.",
+              "heading": "Nonmailable plant pests and injurious animals",
+              "identifier": "/us/usc/t39/s3015"
+            },
+            {
+              "number": "3016",
+              "numText": "§ 3016.",
+              "heading": "Administrative subpoenas",
+              "identifier": "/us/usc/t39/s3016"
+            },
+            {
+              "number": "3017",
+              "numText": "§ 3017.",
+              "heading": "Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings",
+              "identifier": "/us/usc/t39/s3017"
+            },
+            {
+              "number": "3018",
+              "numText": "§ 3018.",
+              "heading": "Hazardous material",
+              "identifier": "/us/usc/t39/s3018"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "32",
+          "heading": "PENALTY AND FRANKED MAIL",
+          "identifier": "/us/usc/t39/ptIV/ch32",
+          "children": [
+            {
+              "number": "3201",
+              "numText": "§ 3201.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t39/s3201"
+            },
+            {
+              "number": "3202",
+              "numText": "§ 3202.",
+              "heading": "Penalty mail",
+              "identifier": "/us/usc/t39/s3202"
+            },
+            {
+              "number": "3203",
+              "numText": "§ 3203.",
+              "heading": "Endorsements on penalty covers",
+              "identifier": "/us/usc/t39/s3203"
+            },
+            {
+              "number": "3204",
+              "numText": "§ 3204.",
+              "heading": "Restrictions on use of penalty mail",
+              "identifier": "/us/usc/t39/s3204"
+            },
+            {
+              "number": "3205",
+              "numText": "§ 3205.",
+              "heading": "Accounting for penalty covers",
+              "identifier": "/us/usc/t39/s3205"
+            },
+            {
+              "number": "3206",
+              "numText": "§ 3206.",
+              "heading": "Reimbursement for penalty mail service",
+              "identifier": "/us/usc/t39/s3206"
+            },
+            {
+              "number": "3207",
+              "numText": "§ 3207.",
+              "heading": "Limit of weight of penalty mail; postage on overweight matter",
+              "identifier": "/us/usc/t39/s3207"
+            },
+            {
+              "number": "3208",
+              "numText": "§ 3208.",
+              "heading": "Shipment by most economical means",
+              "identifier": "/us/usc/t39/s3208"
+            },
+            {
+              "number": "3209",
+              "numText": "§ 3209.",
+              "heading": "Executive departments to supply information",
+              "identifier": "/us/usc/t39/s3209"
+            },
+            {
+              "number": "3210",
+              "numText": "§ 3210.",
+              "heading": "Franked mail transmitted by the Vice President, Members of Congress, and congressional officials",
+              "identifier": "/us/usc/t39/s3210"
+            },
+            {
+              "number": "3211",
+              "numText": "§ 3211.",
+              "heading": "Public documents",
+              "identifier": "/us/usc/t39/s3211"
+            },
+            {
+              "number": "3212",
+              "numText": "§ 3212.",
+              "heading": "Congressional Record under frank of Members of Congress",
+              "identifier": "/us/usc/t39/s3212"
+            },
+            {
+              "number": "3213",
+              "numText": "§ 3213.",
+              "heading": "Seeds and reports from Department of Agriculture",
+              "identifier": "/us/usc/t39/s3213"
+            },
+            {
+              "number": "3214",
+              "numText": "§ 3214.",
+              "heading": "Mailing privilege of former President; surviving spouse of former President",
+              "identifier": "/us/usc/t39/s3214"
+            },
+            {
+              "number": "3215",
+              "numText": "§ 3215.",
+              "heading": "Lending or permitting use of frank unlawful",
+              "identifier": "/us/usc/t39/s3215"
+            },
+            {
+              "number": "3216",
+              "numText": "§ 3216.",
+              "heading": "Reimbursement for franked mailings",
+              "identifier": "/us/usc/t39/s3216"
+            },
+            {
+              "number": "3217",
+              "numText": "§ 3217.",
+              "heading": "Correspondence of members of diplomatic corps and consuls of countries of Postal Union of Americas and Spain",
+              "identifier": "/us/usc/t39/s3217"
+            },
+            {
+              "number": "3218",
+              "numText": "§ 3218.",
+              "heading": "Franked mail for survivors of Members of Congress",
+              "identifier": "/us/usc/t39/s3218"
+            },
+            {
+              "number": "3219",
+              "numText": "§ 3219.",
+              "heading": "Mailgrams",
+              "identifier": "/us/usc/t39/s3219"
+            },
+            {
+              "number": "3220",
+              "numText": "§ 3220.",
+              "heading": "Use of official mail in the location and recovery of missing children",
+              "identifier": "/us/usc/t39/s3220"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "34",
+          "heading": "ARMED FORCES AND FREE POSTAGE",
+          "identifier": "/us/usc/t39/ptIV/ch34",
+          "children": [
+            {
+              "number": "3401",
+              "numText": "§ 3401.",
+              "heading": "Mailing privileges of members of Armed Forces of the United States",
+              "identifier": "/us/usc/t39/s3401"
+            },
+            {
+              "number": "3402",
+              "numText": "[§ 3402.",
+              "heading": "Repealed. Pub. L. 96–70, title I, § 1331(e)(3)(A), Sept. 27, 1979, 93 Stat. 482]",
+              "identifier": "/us/usc/t39/s3402"
+            },
+            {
+              "number": "3403",
+              "numText": "§ 3403.",
+              "heading": "Matter for blind and other handicapped persons",
+              "identifier": "/us/usc/t39/s3403"
+            },
+            {
+              "number": "3404",
+              "numText": "§ 3404.",
+              "heading": "Unsealed letters sent by blind or physically handicapped persons",
+              "identifier": "/us/usc/t39/s3404"
+            },
+            {
+              "number": "3405",
+              "numText": "§ 3405.",
+              "heading": "Markings",
+              "identifier": "/us/usc/t39/s3405"
+            },
+            {
+              "number": "3406",
+              "numText": "§ 3406.",
+              "heading": "Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act",
+              "identifier": "/us/usc/t39/s3406"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "36",
+          "heading": "POSTAL RATES, CLASSES, AND SERVICES",
+          "identifier": "/us/usc/t39/ptIV/ch36",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "PROVISIONS RELATING TO MARKET-DOMINANT PRODUCTS",
+              "identifier": "/us/usc/t39/ptIV/ch36/schI",
+              "children": [
+                {
+                  "number": "3621",
+                  "numText": "§ 3621.",
+                  "heading": "Applicability; definitions",
+                  "identifier": "/us/usc/t39/s3621"
+                },
+                {
+                  "number": "3622",
+                  "numText": "§ 3622.",
+                  "heading": "Modern rate regulation",
+                  "identifier": "/us/usc/t39/s3622"
+                },
+                {
+                  "number": "3623 to 3625",
+                  "numText": "[§§ 3623 to 3625.",
+                  "heading": "Repealed. Pub. L. 109–435, title II, § 201(b), Dec. 20, 2006, 120 Stat. 3205]",
+                  "identifier": "/us/usc/t39/s3623...3625"
+                },
+                {
+                  "number": "3626",
+                  "numText": "§ 3626.",
+                  "heading": "Reduced rates",
+                  "identifier": "/us/usc/t39/s3626"
+                },
+                {
+                  "number": "3627",
+                  "numText": "§ 3627.",
+                  "heading": "Adjusting free rates",
+                  "identifier": "/us/usc/t39/s3627"
+                },
+                {
+                  "number": "3628",
+                  "numText": "[§ 3628.",
+                  "heading": "Repealed. Pub. L. 109–435, title II, § 201(b), Dec. 20, 2006, 120 Stat. 3205]",
+                  "identifier": "/us/usc/t39/s3628"
+                },
+                {
+                  "number": "3629",
+                  "numText": "§ 3629.",
+                  "heading": "Reduced rates for voter registration purposes",
+                  "identifier": "/us/usc/t39/s3629"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "PROVISIONS RELATING TO COMPETITIVE PRODUCTS",
+              "identifier": "/us/usc/t39/ptIV/ch36/schII",
+              "children": [
+                {
+                  "number": "3631",
+                  "numText": "§ 3631.",
+                  "heading": "Applicability; definitions and updates",
+                  "identifier": "/us/usc/t39/s3631"
+                },
+                {
+                  "number": "3632",
+                  "numText": "§ 3632.",
+                  "heading": "Action of the Governors",
+                  "identifier": "/us/usc/t39/s3632"
+                },
+                {
+                  "number": "3633",
+                  "numText": "§ 3633.",
+                  "heading": "Provisions applicable to rates for competitive products",
+                  "identifier": "/us/usc/t39/s3633"
+                },
+                {
+                  "number": "3634",
+                  "numText": "§ 3634.",
+                  "heading": "Assumed Federal income tax on competitive products income",
+                  "identifier": "/us/usc/t39/s3634"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "PROVISIONS RELATING TO EXPERIMENTAL AND NEW PRODUCTS",
+              "identifier": "/us/usc/t39/ptIV/ch36/schIII",
+              "children": [
+                {
+                  "number": "3641",
+                  "numText": "§ 3641.",
+                  "heading": "Market tests of experimental products",
+                  "identifier": "/us/usc/t39/s3641"
+                },
+                {
+                  "number": "3642",
+                  "numText": "§ 3642.",
+                  "heading": "New products and transfers of products between the market-dominant and competitive categories of mail",
+                  "identifier": "/us/usc/t39/s3642"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "IV",
+              "heading": "REPORTING REQUIREMENTS AND RELATED PROVISIONS",
+              "identifier": "/us/usc/t39/ptIV/ch36/schIV",
+              "children": [
+                {
+                  "number": "3651",
+                  "numText": "§ 3651.",
+                  "heading": "Annual reports by the Commission",
+                  "identifier": "/us/usc/t39/s3651"
+                },
+                {
+                  "number": "3652",
+                  "numText": "§ 3652.",
+                  "heading": "Annual reports to the Commission",
+                  "identifier": "/us/usc/t39/s3652"
+                },
+                {
+                  "number": "3653",
+                  "numText": "§ 3653.",
+                  "heading": "Annual determination of compliance",
+                  "identifier": "/us/usc/t39/s3653"
+                },
+                {
+                  "number": "3654",
+                  "numText": "§ 3654.",
+                  "heading": "Additional financial reporting",
+                  "identifier": "/us/usc/t39/s3654"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "V",
+              "heading": "POSTAL SERVICES, COMPLAINTS, AND JUDICIAL REVIEW",
+              "identifier": "/us/usc/t39/ptIV/ch36/schV",
+              "children": [
+                {
+                  "number": "3661",
+                  "numText": "§ 3661.",
+                  "heading": "Postal services",
+                  "identifier": "/us/usc/t39/s3661"
+                },
+                {
+                  "number": "3662",
+                  "numText": "§ 3662.",
+                  "heading": "Rate and service complaints",
+                  "identifier": "/us/usc/t39/s3662"
+                },
+                {
+                  "number": "3663",
+                  "numText": "§ 3663.",
+                  "heading": "Appellate review",
+                  "identifier": "/us/usc/t39/s3663"
+                },
+                {
+                  "number": "3664",
+                  "numText": "§ 3664.",
+                  "heading": "Enforcement of orders",
+                  "identifier": "/us/usc/t39/s3664"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VI",
+              "heading": "GENERAL",
+              "identifier": "/us/usc/t39/ptIV/ch36/schVI",
+              "children": [
+                {
+                  "number": "3681",
+                  "numText": "§ 3681.",
+                  "heading": "Reimbursement",
+                  "identifier": "/us/usc/t39/s3681"
+                },
+                {
+                  "number": "3682",
+                  "numText": "§ 3682.",
+                  "heading": "Size and weight limits",
+                  "identifier": "/us/usc/t39/s3682"
+                },
+                {
+                  "number": "3683",
+                  "numText": "§ 3683.",
+                  "heading": "Uniform rates for books; films; other materials",
+                  "identifier": "/us/usc/t39/s3683"
+                },
+                {
+                  "number": "3684",
+                  "numText": "§ 3684.",
+                  "heading": "Limitations",
+                  "identifier": "/us/usc/t39/s3684"
+                },
+                {
+                  "number": "3685",
+                  "numText": "§ 3685.",
+                  "heading": "Filing of information relating to periodical publications",
+                  "identifier": "/us/usc/t39/s3685"
+                },
+                {
+                  "number": "3686",
+                  "numText": "§ 3686.",
+                  "heading": "Bonus authority",
+                  "identifier": "/us/usc/t39/s3686"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "VII",
+              "heading": "MODERN SERVICE STANDARDS",
+              "identifier": "/us/usc/t39/ptIV/ch36/schVII",
+              "children": [
+                {
+                  "number": "3691",
+                  "numText": "§ 3691.",
+                  "heading": "Establishment of modern service standards",
+                  "identifier": "/us/usc/t39/s3691"
+                },
+                {
+                  "number": "3692",
+                  "numText": "§ 3692.",
+                  "heading": "Performance targets and transparency",
+                  "identifier": "/us/usc/t39/s3692"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "37",
+          "heading": "NONPOSTAL SERVICES",
+          "identifier": "/us/usc/t39/ptIV/ch37",
+          "children": [
+            {
+              "number": "3701",
+              "numText": "§ 3701.",
+              "heading": "Purpose",
+              "identifier": "/us/usc/t39/s3701"
+            },
+            {
+              "number": "3702",
+              "numText": "§ 3702.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t39/s3702"
+            },
+            {
+              "number": "3703",
+              "numText": "§ 3703.",
+              "heading": "Postal Service program for State governments",
+              "identifier": "/us/usc/t39/s3703"
+            },
+            {
+              "number": "3704",
+              "numText": "§ 3704.",
+              "heading": "Postal Service program for other Government agencies",
+              "identifier": "/us/usc/t39/s3704"
+            },
+            {
+              "number": "3705",
+              "numText": "§ 3705.",
+              "heading": "Transparency and accountability for nonpostal services",
+              "identifier": "/us/usc/t39/s3705"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "V",
+      "heading": "TRANSPORTATION OF MAIL",
+      "identifier": "/us/usc/t39/ptV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "50",
+          "heading": "GENERAL",
+          "identifier": "/us/usc/t39/ptV/ch50",
+          "children": [
+            {
+              "number": "5001",
+              "numText": "§ 5001.",
+              "heading": "Provisions for carrying mail",
+              "identifier": "/us/usc/t39/s5001"
+            },
+            {
+              "number": "5002",
+              "numText": "§ 5002.",
+              "heading": "Transportation of mail of adjoining countries through the United States",
+              "identifier": "/us/usc/t39/s5002"
+            },
+            {
+              "number": "5003",
+              "numText": "§ 5003.",
+              "heading": "Establishment of post roads",
+              "identifier": "/us/usc/t39/s5003"
+            },
+            {
+              "number": "5004",
+              "numText": "§ 5004.",
+              "heading": "Discontinuance of service on post roads",
+              "identifier": "/us/usc/t39/s5004"
+            },
+            {
+              "number": "5005",
+              "numText": "§ 5005.",
+              "heading": "Mail transportation",
+              "identifier": "/us/usc/t39/s5005"
+            },
+            {
+              "number": "5006",
+              "numText": "§ 5006.",
+              "heading": "Lien on compensation of contractor",
+              "identifier": "/us/usc/t39/s5006"
+            },
+            {
+              "number": "5007",
+              "numText": "§ 5007.",
+              "heading": "Free transportation of postal employees",
+              "identifier": "/us/usc/t39/s5007"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "52",
+          "heading": "REPEALED]",
+          "identifier": "/us/usc/t39/ptV/ch52",
+          "children": [
+            {
+              "number": "5201 to 5215",
+              "numText": "[§§ 5201 to 5215.",
+              "heading": "Repealed. Pub. L. 109–435, title X, § 1002(a)(1), Dec. 20, 2006, 120 Stat. 3254]",
+              "identifier": "/us/usc/t39/s5201...5215"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "54",
+          "heading": "TRANSPORTATION OF MAIL BY AIR",
+          "identifier": "/us/usc/t39/ptV/ch54",
+          "children": [
+            {
+              "number": "5401",
+              "numText": "§ 5401.",
+              "heading": "Authorization",
+              "identifier": "/us/usc/t39/s5401"
+            },
+            {
+              "number": "5402",
+              "numText": "§ 5402.",
+              "heading": "Contracts for transportation of mail by air",
+              "identifier": "/us/usc/t39/s5402"
+            },
+            {
+              "number": "5403",
+              "numText": "§ 5403.",
+              "heading": "Fines",
+              "identifier": "/us/usc/t39/s5403"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "56",
+          "heading": "TRANSPORTATION OF MAIL BY VESSEL",
+          "identifier": "/us/usc/t39/ptV/ch56",
+          "children": [
+            {
+              "number": "5601",
+              "numText": "§ 5601.",
+              "heading": "Sea post service",
+              "identifier": "/us/usc/t39/s5601"
+            },
+            {
+              "number": "5602",
+              "numText": "§ 5602.",
+              "heading": "Termination of contracts for foreign transportation",
+              "identifier": "/us/usc/t39/s5602"
+            },
+            {
+              "number": "5603",
+              "numText": "§ 5603.",
+              "heading": "Transportation of mail by vessel as freight or express",
+              "identifier": "/us/usc/t39/s5603"
+            },
+            {
+              "number": "5604",
+              "numText": "§ 5604.",
+              "heading": "Fines on ocean carriers",
+              "identifier": "/us/usc/t39/s5604"
+            },
+            {
+              "number": "5605",
+              "numText": "§ 5605.",
+              "heading": "Contracts for transportation of mail by vessel",
+              "identifier": "/us/usc/t39/s5605"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

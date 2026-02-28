@@ -1,0 +1,267 @@
+{
+  "number": "1",
+  "name": "General Provisions",
+  "identifier": "/us/usc/t1",
+  "version": "Online@119-73not60",
+  "updated": "2025-12-03",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "RULES OF CONSTRUCTION",
+      "identifier": "/us/usc/t1/ch1",
+      "children": [
+        {
+          "number": "1",
+          "numText": "§ 1.",
+          "heading": "Words denoting number, gender, and so forth",
+          "identifier": "/us/usc/t1/s1"
+        },
+        {
+          "number": "2",
+          "numText": "§ 2.",
+          "heading": "“County” as including “parish”, and so forth",
+          "identifier": "/us/usc/t1/s2"
+        },
+        {
+          "number": "3",
+          "numText": "§ 3.",
+          "heading": "“Vessel” as including all means of water transportation",
+          "identifier": "/us/usc/t1/s3"
+        },
+        {
+          "number": "4",
+          "numText": "§ 4.",
+          "heading": "“Vehicle” as including all means of land transportation",
+          "identifier": "/us/usc/t1/s4"
+        },
+        {
+          "number": "5",
+          "numText": "§ 5.",
+          "heading": "“Company” or “association” as including successors and assigns",
+          "identifier": "/us/usc/t1/s5"
+        },
+        {
+          "number": "6",
+          "numText": "§ 6.",
+          "heading": "Limitation of term “products of American fisheries”",
+          "identifier": "/us/usc/t1/s6"
+        },
+        {
+          "number": "7",
+          "numText": "§ 7.",
+          "heading": "Marriage",
+          "identifier": "/us/usc/t1/s7"
+        },
+        {
+          "number": "8",
+          "numText": "§ 8.",
+          "heading": "“Person”, “human being”, “child”, and “individual” as including born-alive infant",
+          "identifier": "/us/usc/t1/s8"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "ACTS AND RESOLUTIONS; FORMALITIES OF ENACTMENT; REPEALS; SEALING OF INSTRUMENTS",
+      "identifier": "/us/usc/t1/ch2",
+      "children": [
+        {
+          "number": "101",
+          "numText": "§ 101.",
+          "heading": "Enacting clause",
+          "identifier": "/us/usc/t1/s101"
+        },
+        {
+          "number": "102",
+          "numText": "§ 102.",
+          "heading": "Resolving clause",
+          "identifier": "/us/usc/t1/s102"
+        },
+        {
+          "number": "103",
+          "numText": "§ 103.",
+          "heading": "Enacting or resolving words after first section",
+          "identifier": "/us/usc/t1/s103"
+        },
+        {
+          "number": "104",
+          "numText": "§ 104.",
+          "heading": "Numbering of sections; single proposition",
+          "identifier": "/us/usc/t1/s104"
+        },
+        {
+          "number": "105",
+          "numText": "§ 105.",
+          "heading": "Title of appropriation Acts",
+          "identifier": "/us/usc/t1/s105"
+        },
+        {
+          "number": "106",
+          "numText": "§ 106.",
+          "heading": "Printing bills and joint resolutions",
+          "identifier": "/us/usc/t1/s106"
+        },
+        {
+          "number": "106a",
+          "numText": "§ 106a.",
+          "heading": "Promulgation of laws",
+          "identifier": "/us/usc/t1/s106a"
+        },
+        {
+          "number": "106b",
+          "numText": "§ 106b.",
+          "heading": "Amendments to Constitution",
+          "identifier": "/us/usc/t1/s106b"
+        },
+        {
+          "number": "107",
+          "numText": "§ 107.",
+          "heading": "Parchment or paper for printing enrolled bills or resolutions",
+          "identifier": "/us/usc/t1/s107"
+        },
+        {
+          "number": "108",
+          "numText": "§ 108.",
+          "heading": "Repeal of repealing act",
+          "identifier": "/us/usc/t1/s108"
+        },
+        {
+          "number": "109",
+          "numText": "§ 109.",
+          "heading": "Repeal of statutes as affecting existing liabilities",
+          "identifier": "/us/usc/t1/s109"
+        },
+        {
+          "number": "110",
+          "numText": "§ 110.",
+          "heading": "Saving clause of Revised Statutes",
+          "identifier": "/us/usc/t1/s110"
+        },
+        {
+          "number": "111",
+          "numText": "§ 111.",
+          "heading": "Repeals as evidence of prior effectiveness",
+          "identifier": "/us/usc/t1/s111"
+        },
+        {
+          "number": "112",
+          "numText": "§ 112.",
+          "heading": "Statutes at Large; contents; admissibility in evidence",
+          "identifier": "/us/usc/t1/s112"
+        },
+        {
+          "number": "112a",
+          "numText": "§ 112a.",
+          "heading": "United States Treaties and Other International Agreements; contents; admissibility in evidence",
+          "identifier": "/us/usc/t1/s112a"
+        },
+        {
+          "number": "112b",
+          "numText": "§ 112b.",
+          "heading": "United States international agreements and non-binding instruments; transparency provisions",
+          "identifier": "/us/usc/t1/s112b"
+        },
+        {
+          "number": "113",
+          "numText": "§ 113.",
+          "heading": "“Little and Brown’s” edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence",
+          "identifier": "/us/usc/t1/s113"
+        },
+        {
+          "number": "114",
+          "numText": "§ 114.",
+          "heading": "Sealing of instruments",
+          "identifier": "/us/usc/t1/s114"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "CODE OF LAWS OF UNITED STATES AND SUPPLEMENTS; DISTRICT OF COLUMBIA CODE AND SUPPLEMENTS",
+      "identifier": "/us/usc/t1/ch3",
+      "children": [
+        {
+          "number": "201",
+          "numText": "§ 201.",
+          "heading": "Publication and distribution of Code of Laws of United States and Supplements and District of Columbia Code and Supplements",
+          "identifier": "/us/usc/t1/s201"
+        },
+        {
+          "number": "202",
+          "numText": "§ 202.",
+          "heading": "Preparation and publication of Codes and Supplements",
+          "identifier": "/us/usc/t1/s202"
+        },
+        {
+          "number": "203",
+          "numText": "§ 203.",
+          "heading": "District of Columbia Code; preparation and publication; cumulative supplements",
+          "identifier": "/us/usc/t1/s203"
+        },
+        {
+          "number": "204",
+          "numText": "§ 204.",
+          "heading": "Codes and Supplements as evidence of the laws of United States and District of Columbia; citation of Codes and Supplements",
+          "identifier": "/us/usc/t1/s204"
+        },
+        {
+          "number": "205",
+          "numText": "§ 205.",
+          "heading": "Codes and Supplement; where printed; form and style; ancillaries",
+          "identifier": "/us/usc/t1/s205"
+        },
+        {
+          "number": "206",
+          "numText": "§ 206.",
+          "heading": "Bills and resolutions of Committee on the Judiciary of House of Representatives; form and style; ancillaries; curtailment of copies",
+          "identifier": "/us/usc/t1/s206"
+        },
+        {
+          "number": "207",
+          "numText": "§ 207.",
+          "heading": "Copies of acts and resolutions in slip form; additional number printed for Committee on the Judiciary of House of Representatives",
+          "identifier": "/us/usc/t1/s207"
+        },
+        {
+          "number": "208",
+          "numText": "§ 208.",
+          "heading": "Delegation of function of Committee on the Judiciary to other agencies; printing, and so forth, under direction of Joint Committee on Printing",
+          "identifier": "/us/usc/t1/s208"
+        },
+        {
+          "number": "209",
+          "numText": "§ 209.",
+          "heading": "Copies of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; conclusive evidence of original",
+          "identifier": "/us/usc/t1/s209"
+        },
+        {
+          "number": "210",
+          "numText": "§ 210.",
+          "heading": "Distribution of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; slip and pamphlet copies",
+          "identifier": "/us/usc/t1/s210"
+        },
+        {
+          "number": "211",
+          "numText": "§ 211.",
+          "heading": "Copies to Members of Congress",
+          "identifier": "/us/usc/t1/s211"
+        },
+        {
+          "number": "212",
+          "numText": "§ 212.",
+          "heading": "Additional distribution at each new Congress",
+          "identifier": "/us/usc/t1/s212"
+        },
+        {
+          "number": "213",
+          "numText": "§ 213.",
+          "heading": "Appropriation for preparing and editing supplements",
+          "identifier": "/us/usc/t1/s213"
+        }
+      ]
+    }
+  ]
+}

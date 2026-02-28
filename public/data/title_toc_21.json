@@ -1,0 +1,5350 @@
+{
+  "number": "21",
+  "name": "Food And Drugs",
+  "identifier": "/us/usc/t21",
+  "version": "Online@119-73not60",
+  "updated": "2025-12-08",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "ADULTERATED OR MISBRANDED FOODS OR DRUGS",
+      "identifier": "/us/usc/t21/ch1",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "FEDERAL FOOD AND DRUGS ACT OF 1906",
+          "identifier": "/us/usc/t21/ch1/schI",
+          "children": [
+            {
+              "number": "1 to 5",
+              "numText": "§§ 1 to 5.",
+              "heading": "Repealed. June 25, 1938, ch. 675, § 1002(a), formerly § 902(a), 52 Stat. 1059; renumbered § 1002(a), Pub. L. 111–31, div. A, title I, § 101(b)(2), June 22, 2009, 123 Stat. 1784",
+              "identifier": "/us/usc/t21/s1...5"
+            },
+            {
+              "number": "6",
+              "numText": "§ 6.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s6"
+            },
+            {
+              "number": "7 to 14",
+              "numText": "§§ 7 to 14.",
+              "heading": "Repealed. June 25, 1938, ch. 675, § 1002(a), formerly § 902(a), 52 Stat. 1059; renumbered § 1002(a), Pub. L. 111–31, div. A, title I, § 101(b)(2), June 22, 2009, 123 Stat. 1784",
+              "identifier": "/us/usc/t21/s7...14"
+            },
+            {
+              "number": "14a",
+              "numText": "§ 14a.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s14a"
+            },
+            {
+              "number": "15",
+              "numText": "§ 15.",
+              "heading": "Repealed. June 25, 1938, ch. 675, § 1002(a), formerly § 902(a), 52 Stat. 1059; renumbered § 1002(a), Pub. L. 111–31, div. A, title I, § 101(b)(2), June 22, 2009, 123 Stat. 1784",
+              "identifier": "/us/usc/t21/s15"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t21/ch1/schII",
+          "children": [
+            {
+              "number": "16",
+              "numText": "§ 16.",
+              "heading": "Introduction into, or sale in, State or Territory or District of Columbia of dairy or food products falsely labeled or branded",
+              "identifier": "/us/usc/t21/s16"
+            },
+            {
+              "number": "17",
+              "numText": "§ 17.",
+              "heading": "Penalty for sale or introduction of falsely labeled dairy or food products; venue",
+              "identifier": "/us/usc/t21/s17"
+            },
+            {
+              "number": "18",
+              "numText": "§ 18.",
+              "heading": "Suspension of importation of adulterated articles",
+              "identifier": "/us/usc/t21/s18"
+            },
+            {
+              "number": "19",
+              "numText": "§ 19.",
+              "heading": "Repealed. May 29, 1928, ch. 901, § 1(100), 45 Stat. 993",
+              "identifier": "/us/usc/t21/s19"
+            },
+            {
+              "number": "20",
+              "numText": "§ 20.",
+              "heading": "Apples in interstate commerce; standard grades",
+              "identifier": "/us/usc/t21/s20"
+            },
+            {
+              "number": "21",
+              "numText": "§ 21.",
+              "heading": "Branding grades on barrels of apples",
+              "identifier": "/us/usc/t21/s21"
+            },
+            {
+              "number": "22",
+              "numText": "§ 22.",
+              "heading": "Barrels misbranded",
+              "identifier": "/us/usc/t21/s22"
+            },
+            {
+              "number": "23",
+              "numText": "§ 23.",
+              "heading": "Penalties",
+              "identifier": "/us/usc/t21/s23"
+            },
+            {
+              "number": "24",
+              "numText": "§ 24.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s24"
+            },
+            {
+              "number": "25",
+              "numText": "§ 25.",
+              "heading": "Oleomargarine, butterine, or imitation butter or cheese transported into a State subject to its police powers",
+              "identifier": "/us/usc/t21/s25"
+            },
+            {
+              "number": "26",
+              "numText": "§ 26.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "TEAS",
+      "identifier": "/us/usc/t21/ch2",
+      "children": [
+        {
+          "number": "41 to 50",
+          "numText": "§§ 41 to 50.",
+          "heading": "Repealed. Pub. L. 104–128, § 2, Apr. 9, 1996, 110 Stat. 1198",
+          "identifier": "/us/usc/t21/s41...50"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "FILLED MILK",
+      "identifier": "/us/usc/t21/ch3",
+      "children": [
+        {
+          "number": "61",
+          "numText": "§ 61.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s61"
+        },
+        {
+          "number": "62",
+          "numText": "§ 62.",
+          "heading": "Manufacture, shipment, or delivery for shipment in interstate or foreign commerce prohibited",
+          "identifier": "/us/usc/t21/s62"
+        },
+        {
+          "number": "63",
+          "numText": "§ 63.",
+          "heading": "Penalties; acts of agents deemed acts of principals",
+          "identifier": "/us/usc/t21/s63"
+        },
+        {
+          "number": "64",
+          "numText": "§ 64.",
+          "heading": "Regulations for enforcement",
+          "identifier": "/us/usc/t21/s64"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "ANIMALS, MEATS, AND MEAT AND DAIRY PRODUCTS",
+      "identifier": "/us/usc/t21/ch4",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "EXAMINATION OF ANIMALS, MEATS, AND MEAT AND DAIRY PRODUCTS",
+          "identifier": "/us/usc/t21/ch4/schI",
+          "children": [
+            {
+              "number": "71 to 92",
+              "numText": "§§ 71 to 92.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s71...92"
+            },
+            {
+              "number": "93",
+              "numText": "§ 93.",
+              "heading": "Repealed. May 29, 1928, ch. 901, § 1(92), 45 Stat. 993",
+              "identifier": "/us/usc/t21/s93"
+            },
+            {
+              "number": "94 to 95",
+              "numText": "§§ 94 to 95.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s94...95"
+            },
+            {
+              "number": "96",
+              "numText": "§ 96.",
+              "heading": "Repealed. Pub. L. 90–201, § 18, Dec. 15, 1967, 81 Stat. 600",
+              "identifier": "/us/usc/t21/s96"
+            },
+            {
+              "number": "97 to 97d",
+              "numText": "§§ 97 to 97d.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s97...97d"
+            },
+            {
+              "number": "98",
+              "numText": "§ 98.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s98"
+            },
+            {
+              "number": "99",
+              "numText": "§ 99.",
+              "heading": "Repealed. July 28, 1953, ch. 251, title I, § 101, 67 Stat. 208",
+              "identifier": "/us/usc/t21/s99"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "IMPORTATION OF CATTLE AND QUARANTINE",
+          "identifier": "/us/usc/t21/ch4/schII",
+          "children": [
+            {
+              "number": "101",
+              "numText": "§ 101.",
+              "heading": "Suspension of importation of all animals",
+              "identifier": "/us/usc/t21/s101"
+            },
+            {
+              "number": "102 to 105",
+              "numText": "§§ 102 to 105.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(6), May 13, 2002, 116 Stat. 507",
+              "identifier": "/us/usc/t21/s102...105"
+            },
+            {
+              "number": "106, 107",
+              "numText": "§§ 106, 107.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s106 /us/usc/t21/s107"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "PREVENTION OF INTRODUCTION AND SPREAD OF CONTAGION",
+          "identifier": "/us/usc/t21/ch4/schIII",
+          "children": [
+            {
+              "number": "111, 112",
+              "numText": "§§ 111, 112.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), May 13, 2002, 116 Stat. 507, 508",
+              "identifier": "/us/usc/t21/s111 /us/usc/t21/s112"
+            },
+            {
+              "number": "112a",
+              "numText": "§ 112a.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s112a"
+            },
+            {
+              "number": "113",
+              "numText": "§ 113.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), May 13, 2002, 116 Stat. 507, 508",
+              "identifier": "/us/usc/t21/s113"
+            },
+            {
+              "number": "113a",
+              "numText": "§ 113a.",
+              "heading": "Establishment of research laboratories for foot-and-mouth disease and other animal diseases; research contracts; employment of technicians and scientists; appropriations",
+              "identifier": "/us/usc/t21/s113a"
+            },
+            {
+              "number": "114 to 114d–1",
+              "numText": "§§ 114 to 114d–1.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(8), (9), May 13, 2002, 116 Stat. 508",
+              "identifier": "/us/usc/t21/s114...114d–1"
+            },
+            {
+              "number": "114d–2 to 114d–6",
+              "numText": "§§ 114d–2 to 114d–6.",
+              "heading": "Repealed. Pub. L. 92–152, § 3, Nov. 5, 1971, 85 Stat. 419",
+              "identifier": "/us/usc/t21/s114d–2...114d–6"
+            },
+            {
+              "number": "114e to 114h",
+              "numText": "§§ 114e to 114h.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(10), (11), May 13, 2002, 116 Stat. 508",
+              "identifier": "/us/usc/t21/s114e...114h"
+            },
+            {
+              "number": "114i",
+              "numText": "§ 114i.",
+              "heading": "Pseudorabies eradication",
+              "identifier": "/us/usc/t21/s114i"
+            },
+            {
+              "number": "115 to 128",
+              "numText": "§§ 115 to 128.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), (12)–(14), May 13, 2002, 116 Stat. 507, 508",
+              "identifier": "/us/usc/t21/s115...128"
+            },
+            {
+              "number": "129",
+              "numText": "§ 129.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s129"
+            },
+            {
+              "number": "129a to 131",
+              "numText": "§§ 129a to 131.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(1), (8), (16), May 13, 2002, 116 Stat. 507, 508",
+              "identifier": "/us/usc/t21/s129a...131"
+            },
+            {
+              "number": "132",
+              "numText": "§ 132.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s132"
+            },
+            {
+              "number": "133",
+              "numText": "§ 133.",
+              "heading": "Repealed. July 13, 1949, ch. 307, 63 Stat. 410",
+              "identifier": "/us/usc/t21/s133"
+            },
+            {
+              "number": "134 to 135b",
+              "numText": "§§ 134 to 135b.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(17), (18), May 13, 2002, 116 Stat. 508",
+              "identifier": "/us/usc/t21/s134...135b"
+            },
+            {
+              "number": "136",
+              "numText": "§ 136.",
+              "heading": "Additional inspection services",
+              "identifier": "/us/usc/t21/s136"
+            },
+            {
+              "number": "136a",
+              "numText": "§ 136a.",
+              "heading": "Collection of fees for inspection services",
+              "identifier": "/us/usc/t21/s136a"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "IMPORTATION OF MILK AND CREAM",
+          "identifier": "/us/usc/t21/ch4/schIV",
+          "children": [
+            {
+              "number": "141",
+              "numText": "§ 141.",
+              "heading": "Prohibition of importation without permit",
+              "identifier": "/us/usc/t21/s141"
+            },
+            {
+              "number": "142",
+              "numText": "§ 142.",
+              "heading": "Milk or cream when unfit for importation",
+              "identifier": "/us/usc/t21/s142"
+            },
+            {
+              "number": "143",
+              "numText": "§ 143.",
+              "heading": "Inspection; certified statement in lieu thereof; waiver of requirements of section 142; regulations; suspension and revocation of permits",
+              "identifier": "/us/usc/t21/s143"
+            },
+            {
+              "number": "144",
+              "numText": "§ 144.",
+              "heading": "Unlawful receiving of imported milk or cream",
+              "identifier": "/us/usc/t21/s144"
+            },
+            {
+              "number": "145",
+              "numText": "§ 145.",
+              "heading": "Penalties",
+              "identifier": "/us/usc/t21/s145"
+            },
+            {
+              "number": "146",
+              "numText": "§ 146.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t21/s146"
+            },
+            {
+              "number": "147",
+              "numText": "§ 147.",
+              "heading": "Repeal of inconsistent laws",
+              "identifier": "/us/usc/t21/s147"
+            },
+            {
+              "number": "148",
+              "numText": "§ 148.",
+              "heading": "Powers of State with respect to milk or cream lawfully imported",
+              "identifier": "/us/usc/t21/s148"
+            },
+            {
+              "number": "149",
+              "numText": "§ 149.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t21/s149"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "VIRUSES, SERUMS, TOXINS, ANTITOXINS, AND ANALOGOUS PRODUCTS",
+      "identifier": "/us/usc/t21/ch5",
+      "children": [
+        {
+          "number": "151",
+          "numText": "§ 151.",
+          "heading": "Preparation and sale of worthless or harmful products for domestic animals prohibited; preparation to be in compliance with rules at licensed establishments",
+          "identifier": "/us/usc/t21/s151"
+        },
+        {
+          "number": "152",
+          "numText": "§ 152.",
+          "heading": "Importation regulated and prohibited",
+          "identifier": "/us/usc/t21/s152"
+        },
+        {
+          "number": "153",
+          "numText": "§ 153.",
+          "heading": "Inspection of imports; denial of entry and destruction",
+          "identifier": "/us/usc/t21/s153"
+        },
+        {
+          "number": "154",
+          "numText": "§ 154.",
+          "heading": "Regulations for preparation and sale; licenses",
+          "identifier": "/us/usc/t21/s154"
+        },
+        {
+          "number": "154a",
+          "numText": "§ 154a.",
+          "heading": "Special licenses for special circumstances; expedited procedure; conditions; exemptions; criteria",
+          "identifier": "/us/usc/t21/s154a"
+        },
+        {
+          "number": "155",
+          "numText": "§ 155.",
+          "heading": "Permits for importation",
+          "identifier": "/us/usc/t21/s155"
+        },
+        {
+          "number": "156",
+          "numText": "§ 156.",
+          "heading": "Licenses conditioned on permitting inspection; suspension of licenses",
+          "identifier": "/us/usc/t21/s156"
+        },
+        {
+          "number": "157",
+          "numText": "§ 157.",
+          "heading": "Inspection",
+          "identifier": "/us/usc/t21/s157"
+        },
+        {
+          "number": "158",
+          "numText": "§ 158.",
+          "heading": "Offenses; punishment",
+          "identifier": "/us/usc/t21/s158"
+        },
+        {
+          "number": "159",
+          "numText": "§ 159.",
+          "heading": "Enforcement; penalties applicable; Congressional findings",
+          "identifier": "/us/usc/t21/s159"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5A",
+      "heading": "BUREAU OF NARCOTICS",
+      "identifier": "/us/usc/t21/ch5A",
+      "children": [
+        {
+          "number": "161 to 165",
+          "numText": "§§ 161 to 165.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t21/s161...165"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "NARCOTIC DRUGS",
+      "identifier": "/us/usc/t21/ch6",
+      "children": []
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "PRACTICE OF PHARMACY AND SALE OF POISONS IN CONSULAR DISTRICTS IN CHINA",
+      "identifier": "/us/usc/t21/ch7",
+      "children": [
+        {
+          "number": "201",
+          "numText": "§ 201.",
+          "heading": "Doing business without a license unlawful; employment of Chinese subjects",
+          "identifier": "/us/usc/t21/s201"
+        },
+        {
+          "number": "202",
+          "numText": "§ 202.",
+          "heading": "Certain classes of persons and corporations excepted; insecticides",
+          "identifier": "/us/usc/t21/s202"
+        },
+        {
+          "number": "203",
+          "numText": "§ 203.",
+          "heading": "Application for license; requirements; qualifications for license",
+          "identifier": "/us/usc/t21/s203"
+        },
+        {
+          "number": "204",
+          "numText": "§ 204.",
+          "heading": "Issuance of license",
+          "identifier": "/us/usc/t21/s204"
+        },
+        {
+          "number": "205",
+          "numText": "§ 205.",
+          "heading": "Display of license in pharmacy",
+          "identifier": "/us/usc/t21/s205"
+        },
+        {
+          "number": "206",
+          "numText": "§ 206.",
+          "heading": "Revocation of license",
+          "identifier": "/us/usc/t21/s206"
+        },
+        {
+          "number": "207",
+          "numText": "§ 207.",
+          "heading": "Restrictions on sales; written orders or prescriptions",
+          "identifier": "/us/usc/t21/s207"
+        },
+        {
+          "number": "208",
+          "numText": "§ 208.",
+          "heading": "Certain preparations and sales excepted",
+          "identifier": "/us/usc/t21/s208"
+        },
+        {
+          "number": "209",
+          "numText": "§ 209.",
+          "heading": "Poisons; book entry of sale; labels",
+          "identifier": "/us/usc/t21/s209"
+        },
+        {
+          "number": "210",
+          "numText": "§ 210.",
+          "heading": "Pharmacist; unauthorized use of title",
+          "identifier": "/us/usc/t21/s210"
+        },
+        {
+          "number": "211",
+          "numText": "§ 211.",
+          "heading": "Preservation of originals of prescriptions compounded and copies thereof; inspection of prescriptions by consular officers; marking containers of drugs",
+          "identifier": "/us/usc/t21/s211"
+        },
+        {
+          "number": "212",
+          "numText": "§ 212.",
+          "heading": "Offenses; punishment; duty to enforce provisions",
+          "identifier": "/us/usc/t21/s212"
+        },
+        {
+          "number": "213",
+          "numText": "§ 213.",
+          "heading": "Fraudulent representations to evade or defeat restrictions",
+          "identifier": "/us/usc/t21/s213"
+        },
+        {
+          "number": "214",
+          "numText": "§ 214.",
+          "heading": "Previous laws unaffected",
+          "identifier": "/us/usc/t21/s214"
+        },
+        {
+          "number": "215",
+          "numText": "§ 215.",
+          "heading": "“Consul” defined",
+          "identifier": "/us/usc/t21/s215"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8",
+      "heading": "NARCOTIC FARMS",
+      "identifier": "/us/usc/t21/ch8",
+      "children": [
+        {
+          "number": "221 to 237",
+          "numText": "§§ 221 to 237.",
+          "heading": "Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714",
+          "identifier": "/us/usc/t21/s221...237"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "FEDERAL FOOD, DRUG, AND COSMETIC ACT",
+      "identifier": "/us/usc/t21/ch9",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "SHORT TITLE",
+          "identifier": "/us/usc/t21/ch9/schI",
+          "children": [
+            {
+              "number": "301",
+              "numText": "§ 301.",
+              "heading": "Short title",
+              "identifier": "/us/usc/t21/s301"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "DEFINITIONS",
+          "identifier": "/us/usc/t21/ch9/schII",
+          "children": [
+            {
+              "number": "321",
+              "numText": "§ 321.",
+              "heading": "Definitions; generally",
+              "identifier": "/us/usc/t21/s321"
+            },
+            {
+              "number": "321a",
+              "numText": "§ 321a.",
+              "heading": "“Butter” defined",
+              "identifier": "/us/usc/t21/s321a"
+            },
+            {
+              "number": "321b",
+              "numText": "§ 321b.",
+              "heading": "“Package” defined",
+              "identifier": "/us/usc/t21/s321b"
+            },
+            {
+              "number": "321c",
+              "numText": "§ 321c.",
+              "heading": "Nonfat dry milk; “milk” defined",
+              "identifier": "/us/usc/t21/s321c"
+            },
+            {
+              "number": "321d",
+              "numText": "§ 321d.",
+              "heading": "Market names for catfish and ginseng",
+              "identifier": "/us/usc/t21/s321d"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "PROHIBITED ACTS AND PENALTIES",
+          "identifier": "/us/usc/t21/ch9/schIII",
+          "children": [
+            {
+              "number": "331",
+              "numText": "§ 331.",
+              "heading": "Prohibited acts",
+              "identifier": "/us/usc/t21/s331"
+            },
+            {
+              "number": "332",
+              "numText": "§ 332.",
+              "heading": "Injunction proceedings",
+              "identifier": "/us/usc/t21/s332"
+            },
+            {
+              "number": "333",
+              "numText": "§ 333.",
+              "heading": "Penalties",
+              "identifier": "/us/usc/t21/s333"
+            },
+            {
+              "number": "333a",
+              "numText": "§ 333a.",
+              "heading": "Repealed. Pub. L. 101–647, title XIX, § 1905, Nov. 29, 1990, 104 Stat. 4853",
+              "identifier": "/us/usc/t21/s333a"
+            },
+            {
+              "number": "334",
+              "numText": "§ 334.",
+              "heading": "Seizure",
+              "identifier": "/us/usc/t21/s334"
+            },
+            {
+              "number": "335",
+              "numText": "§ 335.",
+              "heading": "Hearing before report of criminal violation",
+              "identifier": "/us/usc/t21/s335"
+            },
+            {
+              "number": "335a",
+              "numText": "§ 335a.",
+              "heading": "Debarment, temporary denial of approval, and suspension",
+              "identifier": "/us/usc/t21/s335a"
+            },
+            {
+              "number": "335b",
+              "numText": "§ 335b.",
+              "heading": "Civil penalties",
+              "identifier": "/us/usc/t21/s335b"
+            },
+            {
+              "number": "335c",
+              "numText": "§ 335c.",
+              "heading": "Authority to withdraw approval of abbreviated drug applications",
+              "identifier": "/us/usc/t21/s335c"
+            },
+            {
+              "number": "336",
+              "numText": "§ 336.",
+              "heading": "Report of minor violations",
+              "identifier": "/us/usc/t21/s336"
+            },
+            {
+              "number": "337",
+              "numText": "§ 337.",
+              "heading": "Proceedings in name of United States; provision as to subpoenas",
+              "identifier": "/us/usc/t21/s337"
+            },
+            {
+              "number": "337a",
+              "numText": "§ 337a.",
+              "heading": "Extraterritorial jurisdiction",
+              "identifier": "/us/usc/t21/s337a"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "FOOD",
+          "identifier": "/us/usc/t21/ch9/schIV",
+          "children": [
+            {
+              "number": "341",
+              "numText": "§ 341.",
+              "heading": "Definitions and standards for food",
+              "identifier": "/us/usc/t21/s341"
+            },
+            {
+              "number": "342",
+              "numText": "§ 342.",
+              "heading": "Adulterated food",
+              "identifier": "/us/usc/t21/s342"
+            },
+            {
+              "number": "343",
+              "numText": "§ 343.",
+              "heading": "Misbranded food",
+              "identifier": "/us/usc/t21/s343"
+            },
+            {
+              "number": "343–1",
+              "numText": "§ 343–1.",
+              "heading": "National uniform nutrition labeling",
+              "identifier": "/us/usc/t21/s343–1"
+            },
+            {
+              "number": "343–2",
+              "numText": "§ 343–2.",
+              "heading": "Dietary supplement labeling exemptions",
+              "identifier": "/us/usc/t21/s343–2"
+            },
+            {
+              "number": "343–3",
+              "numText": "§ 343–3.",
+              "heading": "Disclosure",
+              "identifier": "/us/usc/t21/s343–3"
+            },
+            {
+              "number": "343a",
+              "numText": "§ 343a.",
+              "heading": "Repealed. Pub. L. 106–554, § 1(a)(1) [title V, § 517], Dec. 21, 2000, 114 Stat. 2763, 2763A–73",
+              "identifier": "/us/usc/t21/s343a"
+            },
+            {
+              "number": "344",
+              "numText": "§ 344.",
+              "heading": "Emergency permit control",
+              "identifier": "/us/usc/t21/s344"
+            },
+            {
+              "number": "345",
+              "numText": "§ 345.",
+              "heading": "Regulations making exemptions",
+              "identifier": "/us/usc/t21/s345"
+            },
+            {
+              "number": "346",
+              "numText": "§ 346.",
+              "heading": "Tolerances for poisonous or deleterious substances in food; regulations",
+              "identifier": "/us/usc/t21/s346"
+            },
+            {
+              "number": "346a",
+              "numText": "§ 346a.",
+              "heading": "Tolerances and exemptions for pesticide chemical residues",
+              "identifier": "/us/usc/t21/s346a"
+            },
+            {
+              "number": "346b",
+              "numText": "§ 346b.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t21/s346b"
+            },
+            {
+              "number": "347",
+              "numText": "§ 347.",
+              "heading": "Intrastate sales of colored oleomargarine",
+              "identifier": "/us/usc/t21/s347"
+            },
+            {
+              "number": "347a",
+              "numText": "§ 347a.",
+              "heading": "Congressional declaration of policy regarding oleomargarine sales",
+              "identifier": "/us/usc/t21/s347a"
+            },
+            {
+              "number": "347b",
+              "numText": "§ 347b.",
+              "heading": "Contravention of State laws",
+              "identifier": "/us/usc/t21/s347b"
+            },
+            {
+              "number": "348",
+              "numText": "§ 348.",
+              "heading": "Food additives",
+              "identifier": "/us/usc/t21/s348"
+            },
+            {
+              "number": "349",
+              "numText": "§ 349.",
+              "heading": "Bottled drinking water standards; publication in Federal Register",
+              "identifier": "/us/usc/t21/s349"
+            },
+            {
+              "number": "350",
+              "numText": "§ 350.",
+              "heading": "Vitamins and minerals",
+              "identifier": "/us/usc/t21/s350"
+            },
+            {
+              "number": "350a",
+              "numText": "§ 350a.",
+              "heading": "Infant formulas",
+              "identifier": "/us/usc/t21/s350a"
+            },
+            {
+              "number": "350a–1",
+              "numText": "§ 350a–1.",
+              "heading": "Protecting infants and improving formula supply",
+              "identifier": "/us/usc/t21/s350a–1"
+            },
+            {
+              "number": "350b",
+              "numText": "§ 350b.",
+              "heading": "New dietary ingredients",
+              "identifier": "/us/usc/t21/s350b"
+            },
+            {
+              "number": "350c",
+              "numText": "§ 350c.",
+              "heading": "Maintenance and inspection of records",
+              "identifier": "/us/usc/t21/s350c"
+            },
+            {
+              "number": "350d",
+              "numText": "§ 350d.",
+              "heading": "Registration of food facilities",
+              "identifier": "/us/usc/t21/s350d"
+            },
+            {
+              "number": "350e",
+              "numText": "§ 350e.",
+              "heading": "Sanitary transportation practices",
+              "identifier": "/us/usc/t21/s350e"
+            },
+            {
+              "number": "350f",
+              "numText": "§ 350f.",
+              "heading": "Reportable food registry",
+              "identifier": "/us/usc/t21/s350f"
+            },
+            {
+              "number": "350g",
+              "numText": "§ 350g.",
+              "heading": "Hazard analysis and risk-based preventive controls",
+              "identifier": "/us/usc/t21/s350g"
+            },
+            {
+              "number": "350h",
+              "numText": "§ 350h.",
+              "heading": "Standards for produce safety",
+              "identifier": "/us/usc/t21/s350h"
+            },
+            {
+              "number": "350i",
+              "numText": "§ 350i.",
+              "heading": "Protection against intentional adulteration",
+              "identifier": "/us/usc/t21/s350i"
+            },
+            {
+              "number": "350j",
+              "numText": "§ 350j.",
+              "heading": "Targeting of inspection resources for domestic facilities, foreign facilities, and ports of entry; annual report",
+              "identifier": "/us/usc/t21/s350j"
+            },
+            {
+              "number": "350k",
+              "numText": "§ 350k.",
+              "heading": "Laboratory accreditation for analyses of foods",
+              "identifier": "/us/usc/t21/s350k"
+            },
+            {
+              "number": "350l",
+              "numText": "§ 350l.",
+              "heading": "Mandatory recall authority",
+              "identifier": "/us/usc/t21/s350l"
+            },
+            {
+              "number": "350l–1",
+              "numText": "§ 350l–1.",
+              "heading": "Annual report to Congress",
+              "identifier": "/us/usc/t21/s350l–1"
+            },
+            {
+              "number": "350m",
+              "numText": "§ 350m.",
+              "heading": "Requirements for critical food",
+              "identifier": "/us/usc/t21/s350m"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "DRUGS AND DEVICES",
+          "identifier": "/us/usc/t21/ch9/schV",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Drugs and Devices",
+              "identifier": "/us/usc/t21/ch9/schV/ptA",
+              "children": [
+                {
+                  "number": "351",
+                  "numText": "§ 351.",
+                  "heading": "Adulterated drugs and devices",
+                  "identifier": "/us/usc/t21/s351"
+                },
+                {
+                  "number": "352",
+                  "numText": "§ 352.",
+                  "heading": "Misbranded drugs and devices",
+                  "identifier": "/us/usc/t21/s352"
+                },
+                {
+                  "number": "353",
+                  "numText": "§ 353.",
+                  "heading": "Exemptions and consideration for certain drugs, devices, and biological products",
+                  "identifier": "/us/usc/t21/s353"
+                },
+                {
+                  "number": "353a",
+                  "numText": "§ 353a.",
+                  "heading": "Pharmacy compounding",
+                  "identifier": "/us/usc/t21/s353a"
+                },
+                {
+                  "number": "353a–1",
+                  "numText": "§ 353a–1.",
+                  "heading": "Enhanced communication",
+                  "identifier": "/us/usc/t21/s353a–1"
+                },
+                {
+                  "number": "353b",
+                  "numText": "§ 353b.",
+                  "heading": "Outsourcing facilities",
+                  "identifier": "/us/usc/t21/s353b"
+                },
+                {
+                  "number": "353c",
+                  "numText": "§ 353c.",
+                  "heading": "Prereview of television advertisements",
+                  "identifier": "/us/usc/t21/s353c"
+                },
+                {
+                  "number": "353d",
+                  "numText": "§ 353d.",
+                  "heading": "Process to update labeling for certain generic drugs",
+                  "identifier": "/us/usc/t21/s353d"
+                },
+                {
+                  "number": "354",
+                  "numText": "§ 354.",
+                  "heading": "Veterinary feed directive drugs",
+                  "identifier": "/us/usc/t21/s354"
+                },
+                {
+                  "number": "355",
+                  "numText": "§ 355.",
+                  "heading": "New drugs",
+                  "identifier": "/us/usc/t21/s355"
+                },
+                {
+                  "number": "355–1",
+                  "numText": "§ 355–1.",
+                  "heading": "Risk evaluation and mitigation strategies",
+                  "identifier": "/us/usc/t21/s355–1"
+                },
+                {
+                  "number": "355–2",
+                  "numText": "§ 355–2.",
+                  "heading": "Actions for delays of generic drugs and biosimilar biological products",
+                  "identifier": "/us/usc/t21/s355–2"
+                },
+                {
+                  "number": "355a",
+                  "numText": "§ 355a.",
+                  "heading": "Pediatric studies of drugs",
+                  "identifier": "/us/usc/t21/s355a"
+                },
+                {
+                  "number": "355b",
+                  "numText": "§ 355b.",
+                  "heading": "Adverse-event reporting",
+                  "identifier": "/us/usc/t21/s355b"
+                },
+                {
+                  "number": "355c",
+                  "numText": "§ 355c.",
+                  "heading": "Research into pediatric uses for drugs and biological products",
+                  "identifier": "/us/usc/t21/s355c"
+                },
+                {
+                  "number": "355c–1",
+                  "numText": "§ 355c–1.",
+                  "heading": "Report",
+                  "identifier": "/us/usc/t21/s355c–1"
+                },
+                {
+                  "number": "355d",
+                  "numText": "§ 355d.",
+                  "heading": "Internal committee for review of pediatric plans, assessments, deferrals, deferral extensions, and waivers",
+                  "identifier": "/us/usc/t21/s355d"
+                },
+                {
+                  "number": "355e",
+                  "numText": "§ 355e.",
+                  "heading": "Pharmaceutical security",
+                  "identifier": "/us/usc/t21/s355e"
+                },
+                {
+                  "number": "355f",
+                  "numText": "§ 355f.",
+                  "heading": "Extension of exclusivity period for new qualified infectious disease products",
+                  "identifier": "/us/usc/t21/s355f"
+                },
+                {
+                  "number": "355g",
+                  "numText": "§ 355g.",
+                  "heading": "Utilizing real world evidence",
+                  "identifier": "/us/usc/t21/s355g"
+                },
+                {
+                  "number": "355h",
+                  "numText": "§ 355h.",
+                  "heading": "Regulation of certain nonprescription drugs that are marketed without an approved drug application",
+                  "identifier": "/us/usc/t21/s355h"
+                },
+                {
+                  "number": "356",
+                  "numText": "§ 356.",
+                  "heading": "Expedited approval of drugs for serious or life-threatening diseases or conditions",
+                  "identifier": "/us/usc/t21/s356"
+                },
+                {
+                  "number": "356–1",
+                  "numText": "§ 356–1.",
+                  "heading": "Accelerated approval of priority countermeasures",
+                  "identifier": "/us/usc/t21/s356–1"
+                },
+                {
+                  "number": "356–2",
+                  "numText": "§ 356–2.",
+                  "heading": "Accelerated approval Council",
+                  "identifier": "/us/usc/t21/s356–2"
+                },
+                {
+                  "number": "356a",
+                  "numText": "§ 356a.",
+                  "heading": "Manufacturing changes",
+                  "identifier": "/us/usc/t21/s356a"
+                },
+                {
+                  "number": "356b",
+                  "numText": "§ 356b.",
+                  "heading": "Reports of postmarketing studies",
+                  "identifier": "/us/usc/t21/s356b"
+                },
+                {
+                  "number": "356c",
+                  "numText": "§ 356c.",
+                  "heading": "Discontinuance or interruption in the production of life-saving drugs",
+                  "identifier": "/us/usc/t21/s356c"
+                },
+                {
+                  "number": "356c–1",
+                  "numText": "§ 356c–1.",
+                  "heading": "Annual reporting on drug shortages",
+                  "identifier": "/us/usc/t21/s356c–1"
+                },
+                {
+                  "number": "356d",
+                  "numText": "§ 356d.",
+                  "heading": "Coordination; task force and strategic plan",
+                  "identifier": "/us/usc/t21/s356d"
+                },
+                {
+                  "number": "356e",
+                  "numText": "§ 356e.",
+                  "heading": "Drug shortage list",
+                  "identifier": "/us/usc/t21/s356e"
+                },
+                {
+                  "number": "356f",
+                  "numText": "§ 356f.",
+                  "heading": "Hospital repackaging of drugs in shortage",
+                  "identifier": "/us/usc/t21/s356f"
+                },
+                {
+                  "number": "356g",
+                  "numText": "§ 356g.",
+                  "heading": "Standards for regenerative medicine and regenerative advanced therapies",
+                  "identifier": "/us/usc/t21/s356g"
+                },
+                {
+                  "number": "356h",
+                  "numText": "§ 356h.",
+                  "heading": "Competitive generic therapies",
+                  "identifier": "/us/usc/t21/s356h"
+                },
+                {
+                  "number": "356i",
+                  "numText": "§ 356i.",
+                  "heading": "Prompt reports of marketing status",
+                  "identifier": "/us/usc/t21/s356i"
+                },
+                {
+                  "number": "356j",
+                  "numText": "§ 356j.",
+                  "heading": "Discontinuance or interruption in the production of medical devices",
+                  "identifier": "/us/usc/t21/s356j"
+                },
+                {
+                  "number": "356k",
+                  "numText": "§ 356k.",
+                  "heading": "Platform technologies",
+                  "identifier": "/us/usc/t21/s356k"
+                },
+                {
+                  "number": "356l",
+                  "numText": "§ 356l.",
+                  "heading": "Advanced manufacturing technologies designation program",
+                  "identifier": "/us/usc/t21/s356l"
+                },
+                {
+                  "number": "357",
+                  "numText": "§ 357.",
+                  "heading": "Qualification of drug development tools",
+                  "identifier": "/us/usc/t21/s357"
+                },
+                {
+                  "number": "358",
+                  "numText": "§ 358.",
+                  "heading": "Authority to designate official names",
+                  "identifier": "/us/usc/t21/s358"
+                },
+                {
+                  "number": "359",
+                  "numText": "§ 359.",
+                  "heading": "Nonapplicability of subchapter to cosmetics",
+                  "identifier": "/us/usc/t21/s359"
+                },
+                {
+                  "number": "360",
+                  "numText": "§ 360.",
+                  "heading": "Registration of producers of drugs or devices",
+                  "identifier": "/us/usc/t21/s360"
+                },
+                {
+                  "number": "360a",
+                  "numText": "§ 360a.",
+                  "heading": "Clinical trial guidance for antibiotic drugs",
+                  "identifier": "/us/usc/t21/s360a"
+                },
+                {
+                  "number": "360a–1",
+                  "numText": "§ 360a–1.",
+                  "heading": "Clinical trials",
+                  "identifier": "/us/usc/t21/s360a–1"
+                },
+                {
+                  "number": "360a–2",
+                  "numText": "§ 360a–2.",
+                  "heading": "Susceptibility test interpretive criteria for microorganisms",
+                  "identifier": "/us/usc/t21/s360a–2"
+                },
+                {
+                  "number": "360b",
+                  "numText": "§ 360b.",
+                  "heading": "New animal drugs",
+                  "identifier": "/us/usc/t21/s360b"
+                },
+                {
+                  "number": "360b–1",
+                  "numText": "§ 360b–1.",
+                  "heading": "Priority zoonotic animal drugs",
+                  "identifier": "/us/usc/t21/s360b–1"
+                },
+                {
+                  "number": "360c",
+                  "numText": "§ 360c.",
+                  "heading": "Classification of devices intended for human use",
+                  "identifier": "/us/usc/t21/s360c"
+                },
+                {
+                  "number": "360c–1",
+                  "numText": "§ 360c–1.",
+                  "heading": "Reporting",
+                  "identifier": "/us/usc/t21/s360c–1"
+                },
+                {
+                  "number": "360d",
+                  "numText": "§ 360d.",
+                  "heading": "Performance standards",
+                  "identifier": "/us/usc/t21/s360d"
+                },
+                {
+                  "number": "360e",
+                  "numText": "§ 360e.",
+                  "heading": "Premarket approval",
+                  "identifier": "/us/usc/t21/s360e"
+                },
+                {
+                  "number": "360e–1",
+                  "numText": "§ 360e–1.",
+                  "heading": "Pediatric uses of devices",
+                  "identifier": "/us/usc/t21/s360e–1"
+                },
+                {
+                  "number": "360e–3",
+                  "numText": "§ 360e–3.",
+                  "heading": "Breakthrough devices",
+                  "identifier": "/us/usc/t21/s360e–3"
+                },
+                {
+                  "number": "360e–4",
+                  "numText": "§ 360e–4.",
+                  "heading": "Predetermined change control plans for devices",
+                  "identifier": "/us/usc/t21/s360e–4"
+                },
+                {
+                  "number": "360f",
+                  "numText": "§ 360f.",
+                  "heading": "Banned devices",
+                  "identifier": "/us/usc/t21/s360f"
+                },
+                {
+                  "number": "360g",
+                  "numText": "§ 360g.",
+                  "heading": "Judicial review",
+                  "identifier": "/us/usc/t21/s360g"
+                },
+                {
+                  "number": "360g–1",
+                  "numText": "§ 360g–1.",
+                  "heading": "Agency documentation and review of significant decisions regarding devices",
+                  "identifier": "/us/usc/t21/s360g–1"
+                },
+                {
+                  "number": "360g–2",
+                  "numText": "§ 360g–2.",
+                  "heading": "Third party data transparency",
+                  "identifier": "/us/usc/t21/s360g–2"
+                },
+                {
+                  "number": "360h",
+                  "numText": "§ 360h.",
+                  "heading": "Notification and other remedies",
+                  "identifier": "/us/usc/t21/s360h"
+                },
+                {
+                  "number": "360h–1",
+                  "numText": "§ 360h–1.",
+                  "heading": "Program to improve the device recall system",
+                  "identifier": "/us/usc/t21/s360h–1"
+                },
+                {
+                  "number": "360i",
+                  "numText": "§ 360i.",
+                  "heading": "Records and reports on devices",
+                  "identifier": "/us/usc/t21/s360i"
+                },
+                {
+                  "number": "360j",
+                  "numText": "§ 360j.",
+                  "heading": "General provisions respecting control of devices intended for human use",
+                  "identifier": "/us/usc/t21/s360j"
+                },
+                {
+                  "number": "360k",
+                  "numText": "§ 360k.",
+                  "heading": "State and local requirements respecting devices",
+                  "identifier": "/us/usc/t21/s360k"
+                },
+                {
+                  "number": "360l",
+                  "numText": "§ 360l.",
+                  "heading": "Postmarket surveillance",
+                  "identifier": "/us/usc/t21/s360l"
+                },
+                {
+                  "number": "360m",
+                  "numText": "§ 360m.",
+                  "heading": "Accredited persons",
+                  "identifier": "/us/usc/t21/s360m"
+                },
+                {
+                  "number": "360n",
+                  "numText": "§ 360n.",
+                  "heading": "Priority review to encourage treatments for tropical diseases",
+                  "identifier": "/us/usc/t21/s360n"
+                },
+                {
+                  "number": "360n–1",
+                  "numText": "§ 360n–1.",
+                  "heading": "Priority review for qualified infectious disease products",
+                  "identifier": "/us/usc/t21/s360n–1"
+                },
+                {
+                  "number": "360n–2",
+                  "numText": "§ 360n–2.",
+                  "heading": "Ensuring cybersecurity of devices",
+                  "identifier": "/us/usc/t21/s360n–2"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Drugs for Rare Diseases or Conditions",
+              "identifier": "/us/usc/t21/ch9/schV/ptB",
+              "children": [
+                {
+                  "number": "360aa",
+                  "numText": "§ 360aa.",
+                  "heading": "Recommendations for investigations of drugs for rare diseases or conditions",
+                  "identifier": "/us/usc/t21/s360aa"
+                },
+                {
+                  "number": "360bb",
+                  "numText": "§ 360bb.",
+                  "heading": "Designation of drugs for rare diseases or conditions",
+                  "identifier": "/us/usc/t21/s360bb"
+                },
+                {
+                  "number": "360cc",
+                  "numText": "§ 360cc.",
+                  "heading": "Protection for drugs for rare diseases or conditions",
+                  "identifier": "/us/usc/t21/s360cc"
+                },
+                {
+                  "number": "360dd",
+                  "numText": "§ 360dd.",
+                  "heading": "Open protocols for investigations of drugs for rare diseases or conditions",
+                  "identifier": "/us/usc/t21/s360dd"
+                },
+                {
+                  "number": "360ee",
+                  "numText": "§ 360ee.",
+                  "heading": "Grants and contracts for development of drugs for rare diseases and conditions",
+                  "identifier": "/us/usc/t21/s360ee"
+                },
+                {
+                  "number": "360ee–1",
+                  "numText": "§ 360ee–1.",
+                  "heading": "FDA rare neurodegenerative disease grant program",
+                  "identifier": "/us/usc/t21/s360ee–1"
+                },
+                {
+                  "number": "360ff",
+                  "numText": "§ 360ff.",
+                  "heading": "Priority review to encourage treatments for rare pediatric diseases",
+                  "identifier": "/us/usc/t21/s360ff"
+                },
+                {
+                  "number": "360ff–1",
+                  "numText": "§ 360ff–1.",
+                  "heading": "Targeted drugs for rare diseases",
+                  "identifier": "/us/usc/t21/s360ff–1"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Electronic Product Radiation Control",
+              "identifier": "/us/usc/t21/ch9/schV/ptC",
+              "children": [
+                {
+                  "number": "360hh",
+                  "numText": "§ 360hh.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t21/s360hh"
+                },
+                {
+                  "number": "360ii",
+                  "numText": "§ 360ii.",
+                  "heading": "Program of control",
+                  "identifier": "/us/usc/t21/s360ii"
+                },
+                {
+                  "number": "360jj",
+                  "numText": "§ 360jj.",
+                  "heading": "Studies by Secretary",
+                  "identifier": "/us/usc/t21/s360jj"
+                },
+                {
+                  "number": "360kk",
+                  "numText": "§ 360kk.",
+                  "heading": "Performance standards for electronic products",
+                  "identifier": "/us/usc/t21/s360kk"
+                },
+                {
+                  "number": "360ll",
+                  "numText": "§ 360ll.",
+                  "heading": "Notification of defects in and repair or replacement of electronic products",
+                  "identifier": "/us/usc/t21/s360ll"
+                },
+                {
+                  "number": "360mm",
+                  "numText": "§ 360mm.",
+                  "heading": "Imports",
+                  "identifier": "/us/usc/t21/s360mm"
+                },
+                {
+                  "number": "360nn",
+                  "numText": "§ 360nn.",
+                  "heading": "Inspection, records, and reports",
+                  "identifier": "/us/usc/t21/s360nn"
+                },
+                {
+                  "number": "360oo",
+                  "numText": "§ 360oo.",
+                  "heading": "Prohibited acts",
+                  "identifier": "/us/usc/t21/s360oo"
+                },
+                {
+                  "number": "360pp",
+                  "numText": "§ 360pp.",
+                  "heading": "Enforcement",
+                  "identifier": "/us/usc/t21/s360pp"
+                },
+                {
+                  "number": "360qq",
+                  "numText": "§ 360qq.",
+                  "heading": "Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(A), Nov. 10, 1998, 112 Stat. 3285",
+                  "identifier": "/us/usc/t21/s360qq"
+                },
+                {
+                  "number": "360rr",
+                  "numText": "§ 360rr.",
+                  "heading": "Federal-State cooperation",
+                  "identifier": "/us/usc/t21/s360rr"
+                },
+                {
+                  "number": "360ss",
+                  "numText": "§ 360ss.",
+                  "heading": "State standards",
+                  "identifier": "/us/usc/t21/s360ss"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Dissemination of Treatment Information",
+              "identifier": "/us/usc/t21/ch9/schV/ptD",
+              "children": [
+                {
+                  "number": "360aaa to 360aaa–6",
+                  "numText": "§§ 360aaa to 360aaa–6.",
+                  "heading": "Omitted",
+                  "identifier": "/us/usc/t21/s360aaa...360aaa–6"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "E",
+              "heading": "General Provisions Relating to Drugs and Devices",
+              "identifier": "/us/usc/t21/ch9/schV/ptE",
+              "children": [
+                {
+                  "number": "360bbb",
+                  "numText": "§ 360bbb.",
+                  "heading": "Expanded access to unapproved therapies and diagnostics",
+                  "identifier": "/us/usc/t21/s360bbb"
+                },
+                {
+                  "number": "360bbb–0",
+                  "numText": "§ 360bbb–0.",
+                  "heading": "Expanded access policy required for investigational drugs",
+                  "identifier": "/us/usc/t21/s360bbb–0"
+                },
+                {
+                  "number": "360bbb–0a",
+                  "numText": "§ 360bbb–0a.",
+                  "heading": "Investigational drugs for use by eligible patients",
+                  "identifier": "/us/usc/t21/s360bbb–0a"
+                },
+                {
+                  "number": "360bbb–1",
+                  "numText": "§ 360bbb–1.",
+                  "heading": "Dispute resolution",
+                  "identifier": "/us/usc/t21/s360bbb–1"
+                },
+                {
+                  "number": "360bbb–2",
+                  "numText": "§ 360bbb–2.",
+                  "heading": "Classification of products",
+                  "identifier": "/us/usc/t21/s360bbb–2"
+                },
+                {
+                  "number": "360bbb–3",
+                  "numText": "§ 360bbb–3.",
+                  "heading": "Authorization for medical products for use in emergencies",
+                  "identifier": "/us/usc/t21/s360bbb–3"
+                },
+                {
+                  "number": "360bbb–3a",
+                  "numText": "§ 360bbb–3a.",
+                  "heading": "Emergency use of medical products",
+                  "identifier": "/us/usc/t21/s360bbb–3a"
+                },
+                {
+                  "number": "360bbb–3b",
+                  "numText": "§ 360bbb–3b.",
+                  "heading": "Products held for emergency use",
+                  "identifier": "/us/usc/t21/s360bbb–3b"
+                },
+                {
+                  "number": "360bbb–3c",
+                  "numText": "§ 360bbb–3c.",
+                  "heading": "Expedited development and review of medical products for emergency uses",
+                  "identifier": "/us/usc/t21/s360bbb–3c"
+                },
+                {
+                  "number": "360bbb–4",
+                  "numText": "§ 360bbb–4.",
+                  "heading": "Countermeasure development, review, and technical assistance",
+                  "identifier": "/us/usc/t21/s360bbb–4"
+                },
+                {
+                  "number": "360bbb–4a",
+                  "numText": "§ 360bbb–4a.",
+                  "heading": "Priority review to encourage treatments for agents that present national security threats",
+                  "identifier": "/us/usc/t21/s360bbb–4a"
+                },
+                {
+                  "number": "360bbb–4b",
+                  "numText": "§ 360bbb–4b.",
+                  "heading": "Medical countermeasure master files",
+                  "identifier": "/us/usc/t21/s360bbb–4b"
+                },
+                {
+                  "number": "360bbb–5",
+                  "numText": "§ 360bbb–5.",
+                  "heading": "Critical Path Public-Private Partnerships",
+                  "identifier": "/us/usc/t21/s360bbb–5"
+                },
+                {
+                  "number": "360bbb–5a",
+                  "numText": "§ 360bbb–5a.",
+                  "heading": "Emerging technology program",
+                  "identifier": "/us/usc/t21/s360bbb–5a"
+                },
+                {
+                  "number": "360bbb–6",
+                  "numText": "§ 360bbb–6.",
+                  "heading": "Risk communication",
+                  "identifier": "/us/usc/t21/s360bbb–6"
+                },
+                {
+                  "number": "360bbb–7",
+                  "numText": "§ 360bbb–7.",
+                  "heading": "Notification",
+                  "identifier": "/us/usc/t21/s360bbb–7"
+                },
+                {
+                  "number": "360bbb–8",
+                  "numText": "§ 360bbb–8.",
+                  "heading": "Consultation with external experts on rare diseases, targeted therapies, and genetic targeting of treatments",
+                  "identifier": "/us/usc/t21/s360bbb–8"
+                },
+                {
+                  "number": "360bbb–8a",
+                  "numText": "§ 360bbb–8a.",
+                  "heading": "Optimizing global clinical trials",
+                  "identifier": "/us/usc/t21/s360bbb–8a"
+                },
+                {
+                  "number": "360bbb–8b",
+                  "numText": "§ 360bbb–8b.",
+                  "heading": "Use of clinical investigation data from outside the United States",
+                  "identifier": "/us/usc/t21/s360bbb–8b"
+                },
+                {
+                  "number": "360bbb–8c",
+                  "numText": "§ 360bbb–8c.",
+                  "heading": "Patient participation in medical product discussion",
+                  "identifier": "/us/usc/t21/s360bbb–8c"
+                },
+                {
+                  "number": "360bbb–8d",
+                  "numText": "§ 360bbb–8d.",
+                  "heading": "Notification, nondistribution, and recall of controlled substances",
+                  "identifier": "/us/usc/t21/s360bbb–8d"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "F",
+              "heading": "New Animal Drugs for Minor Use and Minor Species",
+              "identifier": "/us/usc/t21/ch9/schV/ptF",
+              "children": [
+                {
+                  "number": "360ccc",
+                  "numText": "§ 360ccc.",
+                  "heading": "Conditional approval of new animal drugs for minor use and minor species and certain new animal drugs",
+                  "identifier": "/us/usc/t21/s360ccc"
+                },
+                {
+                  "number": "360ccc–1",
+                  "numText": "§ 360ccc–1.",
+                  "heading": "Index of legally marketed unapproved new animal drugs for minor species",
+                  "identifier": "/us/usc/t21/s360ccc–1"
+                },
+                {
+                  "number": "360ccc–2",
+                  "numText": "§ 360ccc–2.",
+                  "heading": "Designated new animal drugs for minor use or minor species",
+                  "identifier": "/us/usc/t21/s360ccc–2"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "G",
+              "heading": "Medical Gases",
+              "identifier": "/us/usc/t21/ch9/schV/ptG",
+              "children": [
+                {
+                  "number": "360ddd",
+                  "numText": "§ 360ddd.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t21/s360ddd"
+                },
+                {
+                  "number": "360ddd–1",
+                  "numText": "§ 360ddd–1.",
+                  "heading": "Regulation of medical gases",
+                  "identifier": "/us/usc/t21/s360ddd–1"
+                },
+                {
+                  "number": "360ddd–2",
+                  "numText": "§ 360ddd–2.",
+                  "heading": "Inapplicability of drug fees to designated medical gases",
+                  "identifier": "/us/usc/t21/s360ddd–2"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "H",
+              "heading": "Pharmaceutical Distribution Supply Chain",
+              "identifier": "/us/usc/t21/ch9/schV/ptH",
+              "children": [
+                {
+                  "number": "360eee",
+                  "numText": "§ 360eee.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t21/s360eee"
+                },
+                {
+                  "number": "360eee–1",
+                  "numText": "§ 360eee–1.",
+                  "heading": "Requirements",
+                  "identifier": "/us/usc/t21/s360eee–1"
+                },
+                {
+                  "number": "360eee–2",
+                  "numText": "§ 360eee–2.",
+                  "heading": "National standards for prescription drug wholesale distributors",
+                  "identifier": "/us/usc/t21/s360eee–2"
+                },
+                {
+                  "number": "360eee–3",
+                  "numText": "§ 360eee–3.",
+                  "heading": "National standards for third-party logistics providers",
+                  "identifier": "/us/usc/t21/s360eee–3"
+                },
+                {
+                  "number": "360eee–4",
+                  "numText": "§ 360eee–4.",
+                  "heading": "Uniform national policy",
+                  "identifier": "/us/usc/t21/s360eee–4"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "I",
+              "heading": "Nonprescription Sunscreen and Other Active Ingredients",
+              "identifier": "/us/usc/t21/ch9/schV/ptI",
+              "children": [
+                {
+                  "number": "360fff",
+                  "numText": "§ 360fff.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t21/s360fff"
+                },
+                {
+                  "number": "360fff–1",
+                  "numText": "§ 360fff–1.",
+                  "heading": "Submission of requests",
+                  "identifier": "/us/usc/t21/s360fff–1"
+                },
+                {
+                  "number": "360fff–2",
+                  "numText": "§ 360fff–2.",
+                  "heading": "Eligibility determinations; data submission; filing",
+                  "identifier": "/us/usc/t21/s360fff–2"
+                },
+                {
+                  "number": "360fff–3",
+                  "numText": "§ 360fff–3.",
+                  "heading": "GRASE determination",
+                  "identifier": "/us/usc/t21/s360fff–3"
+                },
+                {
+                  "number": "360fff–4",
+                  "numText": "§ 360fff–4.",
+                  "heading": "Guidance; other provisions",
+                  "identifier": "/us/usc/t21/s360fff–4"
+                },
+                {
+                  "number": "360fff–5",
+                  "numText": "§ 360fff–5.",
+                  "heading": "Repealed. Pub. L. 116–136, div. A, title III, § 3854(b)(5), Mar. 27, 2020, 134 Stat. 456",
+                  "identifier": "/us/usc/t21/s360fff–5"
+                },
+                {
+                  "number": "360fff–6",
+                  "numText": "§ 360fff–6.",
+                  "heading": "Non-sunscreen time and extent applications",
+                  "identifier": "/us/usc/t21/s360fff–6"
+                },
+                {
+                  "number": "360fff–7",
+                  "numText": "§ 360fff–7.",
+                  "heading": "Report",
+                  "identifier": "/us/usc/t21/s360fff–7"
+                },
+                {
+                  "number": "360fff–8",
+                  "numText": "§ 360fff–8.",
+                  "heading": "Sunset",
+                  "identifier": "/us/usc/t21/s360fff–8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "COSMETICS",
+          "identifier": "/us/usc/t21/ch9/schVI",
+          "children": [
+            {
+              "number": "361",
+              "numText": "§ 361.",
+              "heading": "Adulterated cosmetics",
+              "identifier": "/us/usc/t21/s361"
+            },
+            {
+              "number": "362",
+              "numText": "§ 362.",
+              "heading": "Misbranded cosmetics",
+              "identifier": "/us/usc/t21/s362"
+            },
+            {
+              "number": "363",
+              "numText": "§ 363.",
+              "heading": "Regulations making exemptions",
+              "identifier": "/us/usc/t21/s363"
+            },
+            {
+              "number": "364",
+              "numText": "§ 364.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t21/s364"
+            },
+            {
+              "number": "364a",
+              "numText": "§ 364a.",
+              "heading": "Adverse events",
+              "identifier": "/us/usc/t21/s364a"
+            },
+            {
+              "number": "364b",
+              "numText": "§ 364b.",
+              "heading": "Good manufacturing practice",
+              "identifier": "/us/usc/t21/s364b"
+            },
+            {
+              "number": "364c",
+              "numText": "§ 364c.",
+              "heading": "Registration and product listing",
+              "identifier": "/us/usc/t21/s364c"
+            },
+            {
+              "number": "364d",
+              "numText": "§ 364d.",
+              "heading": "Safety substantiation",
+              "identifier": "/us/usc/t21/s364d"
+            },
+            {
+              "number": "364e",
+              "numText": "§ 364e.",
+              "heading": "Labeling",
+              "identifier": "/us/usc/t21/s364e"
+            },
+            {
+              "number": "364f",
+              "numText": "§ 364f.",
+              "heading": "Records",
+              "identifier": "/us/usc/t21/s364f"
+            },
+            {
+              "number": "364g",
+              "numText": "§ 364g.",
+              "heading": "Mandatory recall authority",
+              "identifier": "/us/usc/t21/s364g"
+            },
+            {
+              "number": "364h",
+              "numText": "§ 364h.",
+              "heading": "Small businesses",
+              "identifier": "/us/usc/t21/s364h"
+            },
+            {
+              "number": "364i",
+              "numText": "§ 364i.",
+              "heading": "Exemption for certain products and facilities",
+              "identifier": "/us/usc/t21/s364i"
+            },
+            {
+              "number": "364j",
+              "numText": "§ 364j.",
+              "heading": "Preemption",
+              "identifier": "/us/usc/t21/s364j"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "GENERAL AUTHORITY",
+          "identifier": "/us/usc/t21/ch9/schVII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "General Administrative Provisions",
+              "identifier": "/us/usc/t21/ch9/schVII/ptA",
+              "children": [
+                {
+                  "number": "371",
+                  "numText": "§ 371.",
+                  "heading": "Regulations and hearings",
+                  "identifier": "/us/usc/t21/s371"
+                },
+                {
+                  "number": "372",
+                  "numText": "§ 372.",
+                  "heading": "Examinations and investigations",
+                  "identifier": "/us/usc/t21/s372"
+                },
+                {
+                  "number": "372a",
+                  "numText": "§ 372a.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t21/s372a"
+                },
+                {
+                  "number": "373",
+                  "numText": "§ 373.",
+                  "heading": "Records",
+                  "identifier": "/us/usc/t21/s373"
+                },
+                {
+                  "number": "374",
+                  "numText": "§ 374.",
+                  "heading": "Inspection",
+                  "identifier": "/us/usc/t21/s374"
+                },
+                {
+                  "number": "374a",
+                  "numText": "§ 374a.",
+                  "heading": "Inspections relating to food allergens",
+                  "identifier": "/us/usc/t21/s374a"
+                },
+                {
+                  "number": "375",
+                  "numText": "§ 375.",
+                  "heading": "Publicity",
+                  "identifier": "/us/usc/t21/s375"
+                },
+                {
+                  "number": "376",
+                  "numText": "§ 376.",
+                  "heading": "Examination of sea food on request of packer; marking food with results; fees; penalties",
+                  "identifier": "/us/usc/t21/s376"
+                },
+                {
+                  "number": "377",
+                  "numText": "§ 377.",
+                  "heading": "Revision of United States Pharmacopoeia; development of analysis and mechanical and physical tests",
+                  "identifier": "/us/usc/t21/s377"
+                },
+                {
+                  "number": "378",
+                  "numText": "§ 378.",
+                  "heading": "Advertising of foods",
+                  "identifier": "/us/usc/t21/s378"
+                },
+                {
+                  "number": "379",
+                  "numText": "§ 379.",
+                  "heading": "Confidential information",
+                  "identifier": "/us/usc/t21/s379"
+                },
+                {
+                  "number": "379a",
+                  "numText": "§ 379a.",
+                  "heading": "Presumption of existence of jurisdiction",
+                  "identifier": "/us/usc/t21/s379a"
+                },
+                {
+                  "number": "379b",
+                  "numText": "§ 379b.",
+                  "heading": "Consolidated administrative and laboratory facility",
+                  "identifier": "/us/usc/t21/s379b"
+                },
+                {
+                  "number": "379c",
+                  "numText": "§ 379c.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t21/s379c"
+                },
+                {
+                  "number": "379d",
+                  "numText": "§ 379d.",
+                  "heading": "Automation of Food and Drug Administration",
+                  "identifier": "/us/usc/t21/s379d"
+                },
+                {
+                  "number": "379d–1",
+                  "numText": "§ 379d–1.",
+                  "heading": "Conflicts of interest",
+                  "identifier": "/us/usc/t21/s379d–1"
+                },
+                {
+                  "number": "379d–2",
+                  "numText": "§ 379d–2.",
+                  "heading": "Policy on the review and clearance of scientific articles published by FDA employees",
+                  "identifier": "/us/usc/t21/s379d–2"
+                },
+                {
+                  "number": "379d–3",
+                  "numText": "§ 379d–3.",
+                  "heading": "Streamlined hiring authority",
+                  "identifier": "/us/usc/t21/s379d–3"
+                },
+                {
+                  "number": "379d–3a",
+                  "numText": "§ 379d–3a.",
+                  "heading": "Hiring authority for scientific, technical, and professional personnel",
+                  "identifier": "/us/usc/t21/s379d–3a"
+                },
+                {
+                  "number": "379d–3b",
+                  "numText": "§ 379d–3b.",
+                  "heading": "Strategic Workforce Plan and report",
+                  "identifier": "/us/usc/t21/s379d–3b"
+                },
+                {
+                  "number": "379d–4",
+                  "numText": "§ 379d–4.",
+                  "heading": "Reporting requirements",
+                  "identifier": "/us/usc/t21/s379d–4"
+                },
+                {
+                  "number": "379d–5",
+                  "numText": "§ 379d–5.",
+                  "heading": "Guidance document regarding product promotion using the Internet",
+                  "identifier": "/us/usc/t21/s379d–5"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Colors",
+              "identifier": "/us/usc/t21/ch9/schVII/ptB",
+              "children": [
+                {
+                  "number": "379e",
+                  "numText": "§ 379e.",
+                  "heading": "Listing and certification of color additives for foods, drugs, devices, and cosmetics",
+                  "identifier": "/us/usc/t21/s379e"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Fees",
+              "identifier": "/us/usc/t21/ch9/schVII/ptC",
+              "children": [
+                {
+                  "type": "subpart",
+                  "number": "1",
+                  "heading": "freedom of information fees",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt1",
+                  "children": [
+                    {
+                      "number": "379f",
+                      "numText": "§ 379f.",
+                      "heading": "Recovery and retention of fees for freedom of information requests",
+                      "identifier": "/us/usc/t21/s379f"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "2",
+                  "heading": "fees relating to drugs",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt2",
+                  "children": [
+                    {
+                      "number": "379g",
+                      "numText": "§ 379g.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t21/s379g"
+                    },
+                    {
+                      "number": "379h",
+                      "numText": "§ 379h.",
+                      "heading": "Authority to assess and use drug fees",
+                      "identifier": "/us/usc/t21/s379h"
+                    },
+                    {
+                      "number": "379h–1",
+                      "numText": "§ 379h–1.",
+                      "heading": "Fees relating to advisory review of prescription-drug television advertising",
+                      "identifier": "/us/usc/t21/s379h–1"
+                    },
+                    {
+                      "number": "379h–2",
+                      "numText": "§ 379h–2.",
+                      "heading": "Reauthorization; reporting requirements",
+                      "identifier": "/us/usc/t21/s379h–2"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "3",
+                  "heading": "fees relating to devices",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt3",
+                  "children": [
+                    {
+                      "number": "379i",
+                      "numText": "§ 379i.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t21/s379i"
+                    },
+                    {
+                      "number": "379j",
+                      "numText": "§ 379j.",
+                      "heading": "Authority to assess and use device fees",
+                      "identifier": "/us/usc/t21/s379j"
+                    },
+                    {
+                      "number": "379j–1",
+                      "numText": "§ 379j–1.",
+                      "heading": "Reauthorization; reporting requirements",
+                      "identifier": "/us/usc/t21/s379j–1"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "4",
+                  "heading": "fees relating to animal drugs",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt4",
+                  "children": [
+                    {
+                      "number": "379j–11",
+                      "numText": "§ 379j–11.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t21/s379j–11"
+                    },
+                    {
+                      "number": "379j–12",
+                      "numText": "§ 379j–12.",
+                      "heading": "Authority to assess and use animal drug fees",
+                      "identifier": "/us/usc/t21/s379j–12"
+                    },
+                    {
+                      "number": "379j–13",
+                      "numText": "§ 379j–13.",
+                      "heading": "Reauthorization; reporting requirements",
+                      "identifier": "/us/usc/t21/s379j–13"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "5",
+                  "heading": "fees relating to generic new animal drugs",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt5",
+                  "children": [
+                    {
+                      "number": "379j–21",
+                      "numText": "§ 379j–21.",
+                      "heading": "Authority to assess and use generic new animal drug fees",
+                      "identifier": "/us/usc/t21/s379j–21"
+                    },
+                    {
+                      "number": "379j–22",
+                      "numText": "§ 379j–22.",
+                      "heading": "Reauthorization; reporting requirements",
+                      "identifier": "/us/usc/t21/s379j–22"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "6",
+                  "heading": "fees related to food",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt6",
+                  "children": [
+                    {
+                      "number": "379j–31",
+                      "numText": "§ 379j–31.",
+                      "heading": "Authority to collect and use fees",
+                      "identifier": "/us/usc/t21/s379j–31"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "7",
+                  "heading": "fees relating to generic drugs",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt7",
+                  "children": [
+                    {
+                      "number": "379j–41",
+                      "numText": "§ 379j–41.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t21/s379j–41"
+                    },
+                    {
+                      "number": "379j–42",
+                      "numText": "§ 379j–42.",
+                      "heading": "Authority to assess and use human generic drug fees",
+                      "identifier": "/us/usc/t21/s379j–42"
+                    },
+                    {
+                      "number": "379j–43",
+                      "numText": "§ 379j–43.",
+                      "heading": "Reauthorization; reporting requirements",
+                      "identifier": "/us/usc/t21/s379j–43"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "8",
+                  "heading": "fees relating to biosimilar biological products",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt8",
+                  "children": [
+                    {
+                      "number": "379j–51",
+                      "numText": "§ 379j–51.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t21/s379j–51"
+                    },
+                    {
+                      "number": "379j–52",
+                      "numText": "§ 379j–52.",
+                      "heading": "Authority to assess and use biosimilar biological product fees",
+                      "identifier": "/us/usc/t21/s379j–52"
+                    },
+                    {
+                      "number": "379j–53",
+                      "numText": "§ 379j–53.",
+                      "heading": "Reauthorization; reporting requirements",
+                      "identifier": "/us/usc/t21/s379j–53"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "9",
+                  "heading": "fees relating to outsourcing facilities",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt9",
+                  "children": [
+                    {
+                      "number": "379j–61",
+                      "numText": "§ 379j–61.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t21/s379j–61"
+                    },
+                    {
+                      "number": "379j–62",
+                      "numText": "§ 379j–62.",
+                      "heading": "Authority to assess and use outsourcing facility fees",
+                      "identifier": "/us/usc/t21/s379j–62"
+                    }
+                  ]
+                },
+                {
+                  "type": "subpart",
+                  "number": "10",
+                  "heading": "fees relating to over-the-counter drugs",
+                  "identifier": "/us/usc/t21/ch9/schVII/ptC/spt10",
+                  "children": [
+                    {
+                      "number": "379j–71",
+                      "numText": "§ 379j–71.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t21/s379j–71"
+                    },
+                    {
+                      "number": "379j–72",
+                      "numText": "§ 379j–72.",
+                      "heading": "Authority to assess and use OTC monograph fees",
+                      "identifier": "/us/usc/t21/s379j–72"
+                    },
+                    {
+                      "number": "379j–73",
+                      "numText": "§ 379j–73.",
+                      "heading": "Reauthorization; reporting requirements",
+                      "identifier": "/us/usc/t21/s379j–73"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Information and Education",
+              "identifier": "/us/usc/t21/ch9/schVII/ptD",
+              "children": [
+                {
+                  "number": "379k",
+                  "numText": "§ 379k.",
+                  "heading": "Information system",
+                  "identifier": "/us/usc/t21/s379k"
+                },
+                {
+                  "number": "379k–1",
+                  "numText": "§ 379k–1.",
+                  "heading": "Electronic format for submissions",
+                  "identifier": "/us/usc/t21/s379k–1"
+                },
+                {
+                  "number": "379l",
+                  "numText": "§ 379l.",
+                  "heading": "Education",
+                  "identifier": "/us/usc/t21/s379l"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "E",
+              "heading": "Environmental Impact Review",
+              "identifier": "/us/usc/t21/ch9/schVII/ptE",
+              "children": [
+                {
+                  "number": "379o",
+                  "numText": "§ 379o.",
+                  "heading": "Environmental impact",
+                  "identifier": "/us/usc/t21/s379o"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "F",
+              "heading": "National Uniformity for Nonprescription Drugs and Preemption for Labeling or Packaging of Cosmetics",
+              "identifier": "/us/usc/t21/ch9/schVII/ptF",
+              "children": [
+                {
+                  "number": "379r",
+                  "numText": "§ 379r.",
+                  "heading": "National uniformity for nonprescription drugs",
+                  "identifier": "/us/usc/t21/s379r"
+                },
+                {
+                  "number": "379s",
+                  "numText": "§ 379s.",
+                  "heading": "Preemption for labeling or packaging of cosmetics",
+                  "identifier": "/us/usc/t21/s379s"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "G",
+              "heading": "Safety Reports",
+              "identifier": "/us/usc/t21/ch9/schVII/ptG",
+              "children": [
+                {
+                  "number": "379v",
+                  "numText": "§ 379v.",
+                  "heading": "Safety report disclaimers",
+                  "identifier": "/us/usc/t21/s379v"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "H",
+              "heading": "Serious Adverse Event Reports",
+              "identifier": "/us/usc/t21/ch9/schVII/ptH",
+              "children": [
+                {
+                  "number": "379aa",
+                  "numText": "§ 379aa.",
+                  "heading": "Serious adverse event reporting for nonprescription drugs",
+                  "identifier": "/us/usc/t21/s379aa"
+                },
+                {
+                  "number": "379aa–1",
+                  "numText": "§ 379aa–1.",
+                  "heading": "Serious adverse event reporting for dietary supplements",
+                  "identifier": "/us/usc/t21/s379aa–1"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "I",
+              "heading": "Reagan-Udall Foundation for the Food and Drug Administration",
+              "identifier": "/us/usc/t21/ch9/schVII/ptI",
+              "children": [
+                {
+                  "number": "379dd",
+                  "numText": "§ 379dd.",
+                  "heading": "Establishment and functions of the Foundation",
+                  "identifier": "/us/usc/t21/s379dd"
+                },
+                {
+                  "number": "379dd–1",
+                  "numText": "§ 379dd–1.",
+                  "heading": "Location of Foundation",
+                  "identifier": "/us/usc/t21/s379dd–1"
+                },
+                {
+                  "number": "379dd–2",
+                  "numText": "§ 379dd–2.",
+                  "heading": "Activities of the Food and Drug Administration",
+                  "identifier": "/us/usc/t21/s379dd–2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VIII",
+          "heading": "IMPORTS AND EXPORTS",
+          "identifier": "/us/usc/t21/ch9/schVIII",
+          "children": [
+            {
+              "number": "381",
+              "numText": "§ 381.",
+              "heading": "Imports and exports",
+              "identifier": "/us/usc/t21/s381"
+            },
+            {
+              "number": "382",
+              "numText": "§ 382.",
+              "heading": "Exports of certain unapproved products",
+              "identifier": "/us/usc/t21/s382"
+            },
+            {
+              "number": "383",
+              "numText": "§ 383.",
+              "heading": "Office of International Relations",
+              "identifier": "/us/usc/t21/s383"
+            },
+            {
+              "number": "384",
+              "numText": "§ 384.",
+              "heading": "Importation of prescription drugs",
+              "identifier": "/us/usc/t21/s384"
+            },
+            {
+              "number": "384a",
+              "numText": "§ 384a.",
+              "heading": "Foreign supplier verification program",
+              "identifier": "/us/usc/t21/s384a"
+            },
+            {
+              "number": "384b",
+              "numText": "§ 384b.",
+              "heading": "Voluntary qualified importer program",
+              "identifier": "/us/usc/t21/s384b"
+            },
+            {
+              "number": "384c",
+              "numText": "§ 384c.",
+              "heading": "Inspection of foreign food facilities",
+              "identifier": "/us/usc/t21/s384c"
+            },
+            {
+              "number": "384d",
+              "numText": "§ 384d.",
+              "heading": "Accreditation of third-party auditors",
+              "identifier": "/us/usc/t21/s384d"
+            },
+            {
+              "number": "384e",
+              "numText": "§ 384e.",
+              "heading": "Recognition of foreign government inspections",
+              "identifier": "/us/usc/t21/s384e"
+            },
+            {
+              "number": "384f",
+              "numText": "§ 384f.",
+              "heading": "Strengthening FDA and CBP coordination and capacity",
+              "identifier": "/us/usc/t21/s384f"
+            },
+            {
+              "number": "384g",
+              "numText": "§ 384g.",
+              "heading": "Restricting entrance of illicit drugs",
+              "identifier": "/us/usc/t21/s384g"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IX",
+          "heading": "TOBACCO PRODUCTS",
+          "identifier": "/us/usc/t21/ch9/schIX",
+          "children": [
+            {
+              "number": "387",
+              "numText": "§ 387.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t21/s387"
+            },
+            {
+              "number": "387a",
+              "numText": "§ 387a.",
+              "heading": "FDA authority over tobacco products",
+              "identifier": "/us/usc/t21/s387a"
+            },
+            {
+              "number": "387a–1",
+              "numText": "§ 387a–1.",
+              "heading": "Final rule",
+              "identifier": "/us/usc/t21/s387a–1"
+            },
+            {
+              "number": "387b",
+              "numText": "§ 387b.",
+              "heading": "Adulterated tobacco products",
+              "identifier": "/us/usc/t21/s387b"
+            },
+            {
+              "number": "387c",
+              "numText": "§ 387c.",
+              "heading": "Misbranded tobacco products",
+              "identifier": "/us/usc/t21/s387c"
+            },
+            {
+              "number": "387d",
+              "numText": "§ 387d.",
+              "heading": "Submission of health information to the Secretary",
+              "identifier": "/us/usc/t21/s387d"
+            },
+            {
+              "number": "387e",
+              "numText": "§ 387e.",
+              "heading": "Annual registration",
+              "identifier": "/us/usc/t21/s387e"
+            },
+            {
+              "number": "387f",
+              "numText": "§ 387f.",
+              "heading": "General provisions respecting control of tobacco products",
+              "identifier": "/us/usc/t21/s387f"
+            },
+            {
+              "number": "387f–1",
+              "numText": "§ 387f–1.",
+              "heading": "Enforcement action plan for advertising and promotion restrictions",
+              "identifier": "/us/usc/t21/s387f–1"
+            },
+            {
+              "number": "387g",
+              "numText": "§ 387g.",
+              "heading": "Tobacco product standards",
+              "identifier": "/us/usc/t21/s387g"
+            },
+            {
+              "number": "387h",
+              "numText": "§ 387h.",
+              "heading": "Notification and other remedies",
+              "identifier": "/us/usc/t21/s387h"
+            },
+            {
+              "number": "387i",
+              "numText": "§ 387i.",
+              "heading": "Records and reports on tobacco products",
+              "identifier": "/us/usc/t21/s387i"
+            },
+            {
+              "number": "387j",
+              "numText": "§ 387j.",
+              "heading": "Application for review of certain tobacco products",
+              "identifier": "/us/usc/t21/s387j"
+            },
+            {
+              "number": "387k",
+              "numText": "§ 387k.",
+              "heading": "Modified risk tobacco products",
+              "identifier": "/us/usc/t21/s387k"
+            },
+            {
+              "number": "387l",
+              "numText": "§ 387l.",
+              "heading": "Judicial review",
+              "identifier": "/us/usc/t21/s387l"
+            },
+            {
+              "number": "387m",
+              "numText": "§ 387m.",
+              "heading": "Equal treatment of retail outlets",
+              "identifier": "/us/usc/t21/s387m"
+            },
+            {
+              "number": "387n",
+              "numText": "§ 387n.",
+              "heading": "Jurisdiction of and coordination with the Federal Trade Commission",
+              "identifier": "/us/usc/t21/s387n"
+            },
+            {
+              "number": "387o",
+              "numText": "§ 387o.",
+              "heading": "Regulation requirement",
+              "identifier": "/us/usc/t21/s387o"
+            },
+            {
+              "number": "387p",
+              "numText": "§ 387p.",
+              "heading": "Preservation of State and local authority",
+              "identifier": "/us/usc/t21/s387p"
+            },
+            {
+              "number": "387q",
+              "numText": "§ 387q.",
+              "heading": "Tobacco Products Scientific Advisory Committee",
+              "identifier": "/us/usc/t21/s387q"
+            },
+            {
+              "number": "387r",
+              "numText": "§ 387r.",
+              "heading": "Drug products used to treat tobacco dependence",
+              "identifier": "/us/usc/t21/s387r"
+            },
+            {
+              "number": "387s",
+              "numText": "§ 387s.",
+              "heading": "User fees",
+              "identifier": "/us/usc/t21/s387s"
+            },
+            {
+              "number": "387t",
+              "numText": "§ 387t.",
+              "heading": "Labeling, recordkeeping, records inspection",
+              "identifier": "/us/usc/t21/s387t"
+            },
+            {
+              "number": "387u",
+              "numText": "§ 387u.",
+              "heading": "Studies of progress and effectiveness",
+              "identifier": "/us/usc/t21/s387u"
+            },
+            {
+              "number": "387v",
+              "numText": "§ 387v.",
+              "heading": "Reporting on tobacco regulation activities",
+              "identifier": "/us/usc/t21/s387v"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "X",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t21/ch9/schX",
+          "children": [
+            {
+              "number": "391",
+              "numText": "§ 391.",
+              "heading": "Separability clause",
+              "identifier": "/us/usc/t21/s391"
+            },
+            {
+              "number": "392",
+              "numText": "§ 392.",
+              "heading": "Exemption of meats and meat food products",
+              "identifier": "/us/usc/t21/s392"
+            },
+            {
+              "number": "393",
+              "numText": "§ 393.",
+              "heading": "Food and Drug Administration",
+              "identifier": "/us/usc/t21/s393"
+            },
+            {
+              "number": "393a",
+              "numText": "§ 393a.",
+              "heading": "Office of Pediatric Therapeutics",
+              "identifier": "/us/usc/t21/s393a"
+            },
+            {
+              "number": "394",
+              "numText": "§ 394.",
+              "heading": "Scientific review groups",
+              "identifier": "/us/usc/t21/s394"
+            },
+            {
+              "number": "395",
+              "numText": "§ 395.",
+              "heading": "Loan repayment program",
+              "identifier": "/us/usc/t21/s395"
+            },
+            {
+              "number": "396",
+              "numText": "§ 396.",
+              "heading": "Practice of medicine",
+              "identifier": "/us/usc/t21/s396"
+            },
+            {
+              "number": "397",
+              "numText": "§ 397.",
+              "heading": "Contracts for expert review",
+              "identifier": "/us/usc/t21/s397"
+            },
+            {
+              "number": "398",
+              "numText": "§ 398.",
+              "heading": "Notices to States regarding imported food",
+              "identifier": "/us/usc/t21/s398"
+            },
+            {
+              "number": "399",
+              "numText": "§ 399.",
+              "heading": "Grants to enhance food safety",
+              "identifier": "/us/usc/t21/s399"
+            },
+            {
+              "number": "399a",
+              "numText": "§ 399a.",
+              "heading": "Office of the Chief Scientist",
+              "identifier": "/us/usc/t21/s399a"
+            },
+            {
+              "number": "399b",
+              "numText": "§ 399b.",
+              "heading": "Office of Women’s Health",
+              "identifier": "/us/usc/t21/s399b"
+            },
+            {
+              "number": "399c",
+              "numText": "§ 399c.",
+              "heading": "Improving the training of State, local, territorial, and tribal food safety officials",
+              "identifier": "/us/usc/t21/s399c"
+            },
+            {
+              "number": "399d",
+              "numText": "§ 399d.",
+              "heading": "Employee protections",
+              "identifier": "/us/usc/t21/s399d"
+            },
+            {
+              "number": "399e",
+              "numText": "§ 399e.",
+              "heading": "Nanotechnology",
+              "identifier": "/us/usc/t21/s399e"
+            },
+            {
+              "number": "399f",
+              "numText": "§ 399f.",
+              "heading": "Ensuring adequate information regarding pharmaceuticals for all populations, particularly underrepresented subpopulations, including racial subgroups",
+              "identifier": "/us/usc/t21/s399f"
+            },
+            {
+              "number": "399g",
+              "numText": "§ 399g.",
+              "heading": "Food and Drug Administration Intercenter Institutes",
+              "identifier": "/us/usc/t21/s399g"
+            },
+            {
+              "number": "399h",
+              "numText": "§ 399h.",
+              "heading": "National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufacturing",
+              "identifier": "/us/usc/t21/s399h"
+            },
+            {
+              "number": "399i",
+              "numText": "§ 399i.",
+              "heading": "Food and Drug Administration Working Capital Fund",
+              "identifier": "/us/usc/t21/s399i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "10",
+      "heading": "POULTRY AND POULTRY PRODUCTS INSPECTION",
+      "identifier": "/us/usc/t21/ch10",
+      "children": [
+        {
+          "number": "451",
+          "numText": "§ 451.",
+          "heading": "Congressional statement of findings",
+          "identifier": "/us/usc/t21/s451"
+        },
+        {
+          "number": "452",
+          "numText": "§ 452.",
+          "heading": "Congressional declaration of policy",
+          "identifier": "/us/usc/t21/s452"
+        },
+        {
+          "number": "453",
+          "numText": "§ 453.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s453"
+        },
+        {
+          "number": "454",
+          "numText": "§ 454.",
+          "heading": "Federal and State cooperation in development and administration of State poultry product inspection programs",
+          "identifier": "/us/usc/t21/s454"
+        },
+        {
+          "number": "455",
+          "numText": "§ 455.",
+          "heading": "Inspection in official establishments",
+          "identifier": "/us/usc/t21/s455"
+        },
+        {
+          "number": "456",
+          "numText": "§ 456.",
+          "heading": "Operation of premises, facilities and equipment",
+          "identifier": "/us/usc/t21/s456"
+        },
+        {
+          "number": "457",
+          "numText": "§ 457.",
+          "heading": "Labeling and container standards",
+          "identifier": "/us/usc/t21/s457"
+        },
+        {
+          "number": "458",
+          "numText": "§ 458.",
+          "heading": "Prohibited acts",
+          "identifier": "/us/usc/t21/s458"
+        },
+        {
+          "number": "459",
+          "numText": "§ 459.",
+          "heading": "Compliance by all establishments",
+          "identifier": "/us/usc/t21/s459"
+        },
+        {
+          "number": "460",
+          "numText": "§ 460.",
+          "heading": "Miscellaneous activities subject to regulation",
+          "identifier": "/us/usc/t21/s460"
+        },
+        {
+          "number": "461",
+          "numText": "§ 461.",
+          "heading": "Offenses and punishment",
+          "identifier": "/us/usc/t21/s461"
+        },
+        {
+          "number": "462",
+          "numText": "§ 462.",
+          "heading": "Reporting of violations; notice; opportunity to present views",
+          "identifier": "/us/usc/t21/s462"
+        },
+        {
+          "number": "463",
+          "numText": "§ 463.",
+          "heading": "Rules and regulations",
+          "identifier": "/us/usc/t21/s463"
+        },
+        {
+          "number": "464",
+          "numText": "§ 464.",
+          "heading": "Exemptions",
+          "identifier": "/us/usc/t21/s464"
+        },
+        {
+          "number": "465",
+          "numText": "§ 465.",
+          "heading": "Limitations upon entry of poultry products and other materials into official establishments",
+          "identifier": "/us/usc/t21/s465"
+        },
+        {
+          "number": "466",
+          "numText": "§ 466.",
+          "heading": "Imports",
+          "identifier": "/us/usc/t21/s466"
+        },
+        {
+          "number": "467",
+          "numText": "§ 467.",
+          "heading": "Inspection services",
+          "identifier": "/us/usc/t21/s467"
+        },
+        {
+          "number": "467a",
+          "numText": "§ 467a.",
+          "heading": "Administrative detention; duration; pending judicial proceedings; notification of government authorities; release; removal of official marks",
+          "identifier": "/us/usc/t21/s467a"
+        },
+        {
+          "number": "467b",
+          "numText": "§ 467b.",
+          "heading": "Seizure and condemnation",
+          "identifier": "/us/usc/t21/s467b"
+        },
+        {
+          "number": "467c",
+          "numText": "§ 467c.",
+          "heading": "Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations; United States as plaintiff; subpenas",
+          "identifier": "/us/usc/t21/s467c"
+        },
+        {
+          "number": "467d",
+          "numText": "§ 467d.",
+          "heading": "Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts",
+          "identifier": "/us/usc/t21/s467d"
+        },
+        {
+          "number": "467e",
+          "numText": "§ 467e.",
+          "heading": "Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters",
+          "identifier": "/us/usc/t21/s467e"
+        },
+        {
+          "number": "467f",
+          "numText": "§ 467f.",
+          "heading": "Federal Food, Drug, and Cosmetic Act applications",
+          "identifier": "/us/usc/t21/s467f"
+        },
+        {
+          "number": "468",
+          "numText": "§ 468.",
+          "heading": "Cost of inspection; overtime",
+          "identifier": "/us/usc/t21/s468"
+        },
+        {
+          "number": "469",
+          "numText": "§ 469.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t21/s469"
+        },
+        {
+          "number": "470",
+          "numText": "§ 470.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t21/s470"
+        },
+        {
+          "number": "471",
+          "numText": "§ 471.",
+          "heading": "Safe Meat and Poultry Inspection Panel",
+          "identifier": "/us/usc/t21/s471"
+        },
+        {
+          "number": "472",
+          "numText": "§ 472.",
+          "heading": "Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments",
+          "identifier": "/us/usc/t21/s472"
+        },
+        {
+          "number": "473",
+          "numText": "§ 473.",
+          "heading": "Grants for improvements to meat and poultry facilities to allow for interstate shipment",
+          "identifier": "/us/usc/t21/s473"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "11",
+      "heading": "MANUFACTURE OF NARCOTIC DRUGS",
+      "identifier": "/us/usc/t21/ch11",
+      "children": [
+        {
+          "number": "501 to 517",
+          "numText": "§§ 501 to 517.",
+          "heading": "Repealed. Pub. L. 91–513, title III, § 1101(a)(10), Oct. 27, 1970, 84 Stat. 1292",
+          "identifier": "/us/usc/t21/s501...517"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "12",
+      "heading": "MEAT INSPECTION",
+      "identifier": "/us/usc/t21/ch12",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "INSPECTION REQUIREMENTS; ADULTERATION AND MISBRANDING",
+          "identifier": "/us/usc/t21/ch12/schI",
+          "children": [
+            {
+              "number": "601",
+              "numText": "§ 601.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t21/s601"
+            },
+            {
+              "number": "602",
+              "numText": "§ 602.",
+              "heading": "Congressional statement of findings",
+              "identifier": "/us/usc/t21/s602"
+            },
+            {
+              "number": "603",
+              "numText": "§ 603.",
+              "heading": "Examination of animals prior to slaughter; use of humane methods",
+              "identifier": "/us/usc/t21/s603"
+            },
+            {
+              "number": "604",
+              "numText": "§ 604.",
+              "heading": "Post mortem examination of carcasses and marking or labeling; destruction of carcasses condemned; reinspection",
+              "identifier": "/us/usc/t21/s604"
+            },
+            {
+              "number": "605",
+              "numText": "§ 605.",
+              "heading": "Examination of carcasses brought into slaughtering or packing establishments, and of meat food products issued from and returned thereto; conditions for entry",
+              "identifier": "/us/usc/t21/s605"
+            },
+            {
+              "number": "606",
+              "numText": "§ 606.",
+              "heading": "Inspection and labeling of meat food products",
+              "identifier": "/us/usc/t21/s606"
+            },
+            {
+              "number": "607",
+              "numText": "§ 607.",
+              "heading": "Labeling, marking, and container requirements",
+              "identifier": "/us/usc/t21/s607"
+            },
+            {
+              "number": "608",
+              "numText": "§ 608.",
+              "heading": "Sanitary inspection and regulation of slaughtering and packing establishments; rejection of adulterated meat or meat food products",
+              "identifier": "/us/usc/t21/s608"
+            },
+            {
+              "number": "609",
+              "numText": "§ 609.",
+              "heading": "Examination of animals and food products thereof, slaughtered and prepared during nighttime",
+              "identifier": "/us/usc/t21/s609"
+            },
+            {
+              "number": "610",
+              "numText": "§ 610.",
+              "heading": "Prohibited acts",
+              "identifier": "/us/usc/t21/s610"
+            },
+            {
+              "number": "611",
+              "numText": "§ 611.",
+              "heading": "Devices, marks, labels, and certificates; simulations",
+              "identifier": "/us/usc/t21/s611"
+            },
+            {
+              "number": "612",
+              "numText": "§ 612.",
+              "heading": "Notification",
+              "identifier": "/us/usc/t21/s612"
+            },
+            {
+              "number": "613",
+              "numText": "§ 613.",
+              "heading": "Plans and reassessments",
+              "identifier": "/us/usc/t21/s613"
+            },
+            {
+              "number": "614",
+              "numText": "§ 614.",
+              "heading": "Repealed. Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508",
+              "identifier": "/us/usc/t21/s614"
+            },
+            {
+              "number": "615",
+              "numText": "§ 615.",
+              "heading": "Inspection of carcasses, meat of which is intended for export",
+              "identifier": "/us/usc/t21/s615"
+            },
+            {
+              "number": "616",
+              "numText": "§ 616.",
+              "heading": "Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition",
+              "identifier": "/us/usc/t21/s616"
+            },
+            {
+              "number": "617",
+              "numText": "§ 617.",
+              "heading": "Clearance prohibited to vessel carrying meat for export without inspector’s certificate",
+              "identifier": "/us/usc/t21/s617"
+            },
+            {
+              "number": "618",
+              "numText": "§ 618.",
+              "heading": "Delivery of inspectors’ certificates, and of copies",
+              "identifier": "/us/usc/t21/s618"
+            },
+            {
+              "number": "619",
+              "numText": "§ 619.",
+              "heading": "Marking, labeling, or other identification to show kinds of animals from which derived; separate establishments for preparation and slaughtering activities",
+              "identifier": "/us/usc/t21/s619"
+            },
+            {
+              "number": "620",
+              "numText": "§ 620.",
+              "heading": "Imports",
+              "identifier": "/us/usc/t21/s620"
+            },
+            {
+              "number": "621",
+              "numText": "§ 621.",
+              "heading": "Inspectors to make examinations provided for; appointment; duties; regulations",
+              "identifier": "/us/usc/t21/s621"
+            },
+            {
+              "number": "622",
+              "numText": "§ 622.",
+              "heading": "Bribery of or gifts to inspectors or other officers and acceptance of gifts",
+              "identifier": "/us/usc/t21/s622"
+            },
+            {
+              "number": "623",
+              "numText": "§ 623.",
+              "heading": "Exemptions from inspection requirements",
+              "identifier": "/us/usc/t21/s623"
+            },
+            {
+              "number": "624",
+              "numText": "§ 624.",
+              "heading": "Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction",
+              "identifier": "/us/usc/t21/s624"
+            },
+            {
+              "number": "625",
+              "numText": "§ 625.",
+              "heading": "Inapplicability of certain requirements to catfish",
+              "identifier": "/us/usc/t21/s625"
+            },
+            {
+              "number": "626",
+              "numText": "§ 626.",
+              "heading": "Purchase of tags, labels, stamps, and certificates",
+              "identifier": "/us/usc/t21/s626"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "MEAT PROCESSORS AND RELATED INDUSTRIES",
+          "identifier": "/us/usc/t21/ch12/schII",
+          "children": [
+            {
+              "number": "641",
+              "numText": "§ 641.",
+              "heading": "Prohibition of subchapter I inspection of articles not intended for use as human food; de­naturation or other identification prior to distribution in commerce; inedible articles",
+              "identifier": "/us/usc/t21/s641"
+            },
+            {
+              "number": "642",
+              "numText": "§ 642.",
+              "heading": "Recordkeeping requirements",
+              "identifier": "/us/usc/t21/s642"
+            },
+            {
+              "number": "643",
+              "numText": "§ 643.",
+              "heading": "Registration of business, name of person, and trade names",
+              "identifier": "/us/usc/t21/s643"
+            },
+            {
+              "number": "644",
+              "numText": "§ 644.",
+              "heading": "Regulation of transactions, transportation, or importation of 4–D animals to prevent use as human food",
+              "identifier": "/us/usc/t21/s644"
+            },
+            {
+              "number": "645",
+              "numText": "§ 645.",
+              "heading": "Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority",
+              "identifier": "/us/usc/t21/s645"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "FEDERAL AND STATE COOPERATION",
+          "identifier": "/us/usc/t21/ch12/schIII",
+          "children": [
+            {
+              "number": "661",
+              "numText": "§ 661.",
+              "heading": "Federal and State cooperation",
+              "identifier": "/us/usc/t21/s661"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "AUXILIARY PROVISIONS",
+          "identifier": "/us/usc/t21/ch12/schIV",
+          "children": [
+            {
+              "number": "671",
+              "numText": "§ 671.",
+              "heading": "Inspection services; refusal or withdrawal; hearing; business unfitness based upon certain convictions; other provisions for withdrawal of services unaffected; responsible connection with business; finality of Secretary’s actions; judicial review; record",
+              "identifier": "/us/usc/t21/s671"
+            },
+            {
+              "number": "672",
+              "numText": "§ 672.",
+              "heading": "Administrative detention; duration; pending judicial proceedings; notification of governmental authorities; release",
+              "identifier": "/us/usc/t21/s672"
+            },
+            {
+              "number": "673",
+              "numText": "§ 673.",
+              "heading": "Seizure and condemnation",
+              "identifier": "/us/usc/t21/s673"
+            },
+            {
+              "number": "674",
+              "numText": "§ 674.",
+              "heading": "Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations of section 607(e) of this title",
+              "identifier": "/us/usc/t21/s674"
+            },
+            {
+              "number": "675",
+              "numText": "§ 675.",
+              "heading": "Assaulting, resisting, or impeding certain persons; murder; protection of such persons",
+              "identifier": "/us/usc/t21/s675"
+            },
+            {
+              "number": "676",
+              "numText": "§ 676.",
+              "heading": "Violations",
+              "identifier": "/us/usc/t21/s676"
+            },
+            {
+              "number": "677",
+              "numText": "§ 677.",
+              "heading": "Other Federal laws applicable for administration and enforcement of chapter; location of inquiries; jurisdiction of Federal courts",
+              "identifier": "/us/usc/t21/s677"
+            },
+            {
+              "number": "678",
+              "numText": "§ 678.",
+              "heading": "Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters",
+              "identifier": "/us/usc/t21/s678"
+            },
+            {
+              "number": "679",
+              "numText": "§ 679.",
+              "heading": "Application of Federal Food, Drug, and Cosmetic Act",
+              "identifier": "/us/usc/t21/s679"
+            },
+            {
+              "number": "679a",
+              "numText": "§ 679a.",
+              "heading": "Safe Meat and Poultry Inspection Panel",
+              "identifier": "/us/usc/t21/s679a"
+            },
+            {
+              "number": "679b",
+              "numText": "§ 679b.",
+              "heading": "Pasteurization of meat and poultry",
+              "identifier": "/us/usc/t21/s679b"
+            },
+            {
+              "number": "679c",
+              "numText": "§ 679c.",
+              "heading": "Expansion of Food Safety Inspection Service activities",
+              "identifier": "/us/usc/t21/s679c"
+            },
+            {
+              "number": "680",
+              "numText": "§ 680.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t21/s680"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV–A",
+          "heading": "INSPECTIONS BY FEDERAL AND STATE AGENCIES",
+          "identifier": "/us/usc/t21/ch12/schIV–A",
+          "children": [
+            {
+              "number": "683",
+              "numText": "§ 683.",
+              "heading": "Interstate shipment of meat inspected by Federal and State agencies for certain small establishments",
+              "identifier": "/us/usc/t21/s683"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t21/ch12/schV",
+          "children": [
+            {
+              "number": "691",
+              "numText": "§ 691.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s691"
+            },
+            {
+              "number": "692",
+              "numText": "§ 692.",
+              "heading": "Inspection extended to reindeer",
+              "identifier": "/us/usc/t21/s692"
+            },
+            {
+              "number": "693",
+              "numText": "§ 693.",
+              "heading": "Inspection of dairy products for export",
+              "identifier": "/us/usc/t21/s693"
+            },
+            {
+              "number": "694",
+              "numText": "§ 694.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t21/s694"
+            },
+            {
+              "number": "695",
+              "numText": "§ 695.",
+              "heading": "Payment of cost of meat-inspection service; exception",
+              "identifier": "/us/usc/t21/s695"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "13",
+      "heading": "DRUG ABUSE PREVENTION AND CONTROL",
+      "identifier": "/us/usc/t21/ch13",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "CONTROL AND ENFORCEMENT",
+          "identifier": "/us/usc/t21/ch13/schI",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Introductory Provisions",
+              "identifier": "/us/usc/t21/ch13/schI/ptA",
+              "children": [
+                {
+                  "number": "801",
+                  "numText": "§ 801.",
+                  "heading": "Congressional findings and declarations: controlled substances",
+                  "identifier": "/us/usc/t21/s801"
+                },
+                {
+                  "number": "801a",
+                  "numText": "§ 801a.",
+                  "heading": "Congressional findings and declarations: psychotropic substances",
+                  "identifier": "/us/usc/t21/s801a"
+                },
+                {
+                  "number": "802",
+                  "numText": "§ 802.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t21/s802"
+                },
+                {
+                  "number": "803",
+                  "numText": "§ 803.",
+                  "heading": "Repealed. Pub. L. 95–137, § 1(b), Oct. 18, 1977, 91 Stat. 1169",
+                  "identifier": "/us/usc/t21/s803"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Authority To Control; Standards and Schedules",
+              "identifier": "/us/usc/t21/ch13/schI/ptB",
+              "children": [
+                {
+                  "number": "811",
+                  "numText": "§ 811.",
+                  "heading": "Authority and criteria for classification of substances",
+                  "identifier": "/us/usc/t21/s811"
+                },
+                {
+                  "number": "812",
+                  "numText": "§ 812.",
+                  "heading": "Schedules of controlled substances",
+                  "identifier": "/us/usc/t21/s812"
+                },
+                {
+                  "number": "813",
+                  "numText": "§ 813.",
+                  "heading": "Treatment of controlled substance analogues",
+                  "identifier": "/us/usc/t21/s813"
+                },
+                {
+                  "number": "814",
+                  "numText": "§ 814.",
+                  "heading": "Removal of exemption of certain drugs",
+                  "identifier": "/us/usc/t21/s814"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances",
+              "identifier": "/us/usc/t21/ch13/schI/ptC",
+              "children": [
+                {
+                  "number": "821",
+                  "numText": "§ 821.",
+                  "heading": "Rules and regulations",
+                  "identifier": "/us/usc/t21/s821"
+                },
+                {
+                  "number": "822",
+                  "numText": "§ 822.",
+                  "heading": "Persons required to register",
+                  "identifier": "/us/usc/t21/s822"
+                },
+                {
+                  "number": "822a",
+                  "numText": "§ 822a.",
+                  "heading": "Prescription drug take back expansion",
+                  "identifier": "/us/usc/t21/s822a"
+                },
+                {
+                  "number": "823",
+                  "numText": "§ 823.",
+                  "heading": "Registration requirements",
+                  "identifier": "/us/usc/t21/s823"
+                },
+                {
+                  "number": "824",
+                  "numText": "§ 824.",
+                  "heading": "Denial, revocation, or suspension of registration",
+                  "identifier": "/us/usc/t21/s824"
+                },
+                {
+                  "number": "825",
+                  "numText": "§ 825.",
+                  "heading": "Labeling and packaging",
+                  "identifier": "/us/usc/t21/s825"
+                },
+                {
+                  "number": "826",
+                  "numText": "§ 826.",
+                  "heading": "Production quotas for controlled substances",
+                  "identifier": "/us/usc/t21/s826"
+                },
+                {
+                  "number": "826a",
+                  "numText": "§ 826a.",
+                  "heading": "Attorney General report on drug shortages",
+                  "identifier": "/us/usc/t21/s826a"
+                },
+                {
+                  "number": "827",
+                  "numText": "§ 827.",
+                  "heading": "Records and reports of registrants",
+                  "identifier": "/us/usc/t21/s827"
+                },
+                {
+                  "number": "828",
+                  "numText": "§ 828.",
+                  "heading": "Order forms",
+                  "identifier": "/us/usc/t21/s828"
+                },
+                {
+                  "number": "829",
+                  "numText": "§ 829.",
+                  "heading": "Prescriptions",
+                  "identifier": "/us/usc/t21/s829"
+                },
+                {
+                  "number": "829a",
+                  "numText": "§ 829a.",
+                  "heading": "Delivery of a controlled substance by a pharmacy to an administering practitioner",
+                  "identifier": "/us/usc/t21/s829a"
+                },
+                {
+                  "number": "830",
+                  "numText": "§ 830.",
+                  "heading": "Regulation of listed chemicals and certain machines",
+                  "identifier": "/us/usc/t21/s830"
+                },
+                {
+                  "number": "831",
+                  "numText": "§ 831.",
+                  "heading": "Additional requirements relating to online pharmacies and telemedicine",
+                  "identifier": "/us/usc/t21/s831"
+                },
+                {
+                  "number": "832",
+                  "numText": "§ 832.",
+                  "heading": "Suspicious orders",
+                  "identifier": "/us/usc/t21/s832"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "D",
+              "heading": "Offenses and Penalties",
+              "identifier": "/us/usc/t21/ch13/schI/ptD",
+              "children": [
+                {
+                  "number": "841",
+                  "numText": "§ 841.",
+                  "heading": "Prohibited acts A",
+                  "identifier": "/us/usc/t21/s841"
+                },
+                {
+                  "number": "842",
+                  "numText": "§ 842.",
+                  "heading": "Prohibited acts B",
+                  "identifier": "/us/usc/t21/s842"
+                },
+                {
+                  "number": "843",
+                  "numText": "§ 843.",
+                  "heading": "Prohibited acts C",
+                  "identifier": "/us/usc/t21/s843"
+                },
+                {
+                  "number": "844",
+                  "numText": "§ 844.",
+                  "heading": "Penalties for simple possession",
+                  "identifier": "/us/usc/t21/s844"
+                },
+                {
+                  "number": "844a",
+                  "numText": "§ 844a.",
+                  "heading": "Civil penalty for possession of small amounts of certain controlled substances",
+                  "identifier": "/us/usc/t21/s844a"
+                },
+                {
+                  "number": "845 to 845b",
+                  "numText": "§§ 845 to 845b.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t21/s845...845b"
+                },
+                {
+                  "number": "846",
+                  "numText": "§ 846.",
+                  "heading": "Attempt and conspiracy",
+                  "identifier": "/us/usc/t21/s846"
+                },
+                {
+                  "number": "847",
+                  "numText": "§ 847.",
+                  "heading": "Additional penalties",
+                  "identifier": "/us/usc/t21/s847"
+                },
+                {
+                  "number": "848",
+                  "numText": "§ 848.",
+                  "heading": "Continuing criminal enterprise",
+                  "identifier": "/us/usc/t21/s848"
+                },
+                {
+                  "number": "849",
+                  "numText": "§ 849.",
+                  "heading": "Transportation safety offenses",
+                  "identifier": "/us/usc/t21/s849"
+                },
+                {
+                  "number": "850",
+                  "numText": "§ 850.",
+                  "heading": "Information for sentencing",
+                  "identifier": "/us/usc/t21/s850"
+                },
+                {
+                  "number": "851",
+                  "numText": "§ 851.",
+                  "heading": "Proceedings to establish prior convictions",
+                  "identifier": "/us/usc/t21/s851"
+                },
+                {
+                  "number": "852",
+                  "numText": "§ 852.",
+                  "heading": "Application of treaties and other international agreements",
+                  "identifier": "/us/usc/t21/s852"
+                },
+                {
+                  "number": "853",
+                  "numText": "§ 853.",
+                  "heading": "Criminal forfeitures",
+                  "identifier": "/us/usc/t21/s853"
+                },
+                {
+                  "number": "853a",
+                  "numText": "§ 853a.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t21/s853a"
+                },
+                {
+                  "number": "854",
+                  "numText": "§ 854.",
+                  "heading": "Investment of illicit drug profits",
+                  "identifier": "/us/usc/t21/s854"
+                },
+                {
+                  "number": "855",
+                  "numText": "§ 855.",
+                  "heading": "Alternative fine",
+                  "identifier": "/us/usc/t21/s855"
+                },
+                {
+                  "number": "856",
+                  "numText": "§ 856.",
+                  "heading": "Maintaining drug-involved premises",
+                  "identifier": "/us/usc/t21/s856"
+                },
+                {
+                  "number": "857",
+                  "numText": "§ 857.",
+                  "heading": "Repealed. Pub. L. 101–647, title XXIV, § 2401(d), Nov. 29, 1990, 104 Stat. 4859",
+                  "identifier": "/us/usc/t21/s857"
+                },
+                {
+                  "number": "858",
+                  "numText": "§ 858.",
+                  "heading": "Endangering human life while illegally manufacturing controlled substance",
+                  "identifier": "/us/usc/t21/s858"
+                },
+                {
+                  "number": "859",
+                  "numText": "§ 859.",
+                  "heading": "Distribution to persons under age twenty-one",
+                  "identifier": "/us/usc/t21/s859"
+                },
+                {
+                  "number": "860",
+                  "numText": "§ 860.",
+                  "heading": "Distribution or manufacturing in or near schools and colleges",
+                  "identifier": "/us/usc/t21/s860"
+                },
+                {
+                  "number": "860a",
+                  "numText": "§ 860a.",
+                  "heading": "Consecutive sentence for manufacturing or distributing, or possessing with intent to manufacture or distribute, methamphetamine on premises where children are present or reside",
+                  "identifier": "/us/usc/t21/s860a"
+                },
+                {
+                  "number": "861",
+                  "numText": "§ 861.",
+                  "heading": "Employment or use of persons under 18 years of age in drug operations",
+                  "identifier": "/us/usc/t21/s861"
+                },
+                {
+                  "number": "862",
+                  "numText": "§ 862.",
+                  "heading": "Denial of Federal benefits to drug traffickers and possessors",
+                  "identifier": "/us/usc/t21/s862"
+                },
+                {
+                  "number": "862a",
+                  "numText": "§ 862a.",
+                  "heading": "Denial of assistance and benefits for certain drug-related convictions",
+                  "identifier": "/us/usc/t21/s862a"
+                },
+                {
+                  "number": "862b",
+                  "numText": "§ 862b.",
+                  "heading": "Sanctioning for testing positive for controlled substances",
+                  "identifier": "/us/usc/t21/s862b"
+                },
+                {
+                  "number": "863",
+                  "numText": "§ 863.",
+                  "heading": "Drug paraphernalia",
+                  "identifier": "/us/usc/t21/s863"
+                },
+                {
+                  "number": "864",
+                  "numText": "§ 864.",
+                  "heading": "Anhydrous ammonia",
+                  "identifier": "/us/usc/t21/s864"
+                },
+                {
+                  "number": "864a",
+                  "numText": "§ 864a.",
+                  "heading": "Grants to reduce production of methamphetamines from anhydrous ammonia",
+                  "identifier": "/us/usc/t21/s864a"
+                },
+                {
+                  "number": "865",
+                  "numText": "§ 865.",
+                  "heading": "Smuggling methamphetamine or methamphetamine precursor chemicals into the United States while using facilitated entry programs",
+                  "identifier": "/us/usc/t21/s865"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "E",
+              "heading": "Administrative and Enforcement Provisions",
+              "identifier": "/us/usc/t21/ch13/schI/ptE",
+              "children": [
+                {
+                  "number": "871",
+                  "numText": "§ 871.",
+                  "heading": "Attorney General",
+                  "identifier": "/us/usc/t21/s871"
+                },
+                {
+                  "number": "871a",
+                  "numText": "§ 871a.",
+                  "heading": "Semiannual reports to Congress",
+                  "identifier": "/us/usc/t21/s871a"
+                },
+                {
+                  "number": "872",
+                  "numText": "§ 872.",
+                  "heading": "Education and research programs of Attorney General",
+                  "identifier": "/us/usc/t21/s872"
+                },
+                {
+                  "number": "872a",
+                  "numText": "§ 872a.",
+                  "heading": "Public-private education program",
+                  "identifier": "/us/usc/t21/s872a"
+                },
+                {
+                  "number": "873",
+                  "numText": "§ 873.",
+                  "heading": "Cooperative arrangements",
+                  "identifier": "/us/usc/t21/s873"
+                },
+                {
+                  "number": "874",
+                  "numText": "§ 874.",
+                  "heading": "Advisory committees",
+                  "identifier": "/us/usc/t21/s874"
+                },
+                {
+                  "number": "875",
+                  "numText": "§ 875.",
+                  "heading": "Administrative hearings",
+                  "identifier": "/us/usc/t21/s875"
+                },
+                {
+                  "number": "876",
+                  "numText": "§ 876.",
+                  "heading": "Subpenas",
+                  "identifier": "/us/usc/t21/s876"
+                },
+                {
+                  "number": "877",
+                  "numText": "§ 877.",
+                  "heading": "Judicial review",
+                  "identifier": "/us/usc/t21/s877"
+                },
+                {
+                  "number": "878",
+                  "numText": "§ 878.",
+                  "heading": "Powers of enforcement personnel",
+                  "identifier": "/us/usc/t21/s878"
+                },
+                {
+                  "number": "879",
+                  "numText": "§ 879.",
+                  "heading": "Search warrants",
+                  "identifier": "/us/usc/t21/s879"
+                },
+                {
+                  "number": "880",
+                  "numText": "§ 880.",
+                  "heading": "Administrative inspections and warrants",
+                  "identifier": "/us/usc/t21/s880"
+                },
+                {
+                  "number": "881",
+                  "numText": "§ 881.",
+                  "heading": "Forfeitures",
+                  "identifier": "/us/usc/t21/s881"
+                },
+                {
+                  "number": "881–1, 881a",
+                  "numText": "§§ 881–1, 881a.",
+                  "heading": "Transferred",
+                  "identifier": "/us/usc/t21/s881–1 /us/usc/t21/s881a"
+                },
+                {
+                  "number": "882",
+                  "numText": "§ 882.",
+                  "heading": "Injunctions",
+                  "identifier": "/us/usc/t21/s882"
+                },
+                {
+                  "number": "883",
+                  "numText": "§ 883.",
+                  "heading": "Enforcement proceedings",
+                  "identifier": "/us/usc/t21/s883"
+                },
+                {
+                  "number": "884",
+                  "numText": "§ 884.",
+                  "heading": "Immunity and privilege",
+                  "identifier": "/us/usc/t21/s884"
+                },
+                {
+                  "number": "885",
+                  "numText": "§ 885.",
+                  "heading": "Burden of proof; liabilities",
+                  "identifier": "/us/usc/t21/s885"
+                },
+                {
+                  "number": "886",
+                  "numText": "§ 886.",
+                  "heading": "Payments and advances",
+                  "identifier": "/us/usc/t21/s886"
+                },
+                {
+                  "number": "886a",
+                  "numText": "§ 886a.",
+                  "heading": "Diversion Control Fee Account",
+                  "identifier": "/us/usc/t21/s886a"
+                },
+                {
+                  "number": "887",
+                  "numText": "§ 887.",
+                  "heading": "Coordination and consolidation of post-seizure administration",
+                  "identifier": "/us/usc/t21/s887"
+                },
+                {
+                  "number": "888",
+                  "numText": "§ 888.",
+                  "heading": "Repealed. Pub. L. 106–185, § 2(c)(3), Apr. 25, 2000, 114 Stat. 210",
+                  "identifier": "/us/usc/t21/s888"
+                },
+                {
+                  "number": "889",
+                  "numText": "§ 889.",
+                  "heading": "Production control of controlled substances",
+                  "identifier": "/us/usc/t21/s889"
+                },
+                {
+                  "number": "890",
+                  "numText": "§ 890.",
+                  "heading": "Review of Federal sales of chemicals usable to manufacture controlled substances",
+                  "identifier": "/us/usc/t21/s890"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "F",
+              "heading": "General Provisions",
+              "identifier": "/us/usc/t21/ch13/schI/ptF",
+              "children": [
+                {
+                  "number": "901",
+                  "numText": "§ 901.",
+                  "heading": "Severability",
+                  "identifier": "/us/usc/t21/s901"
+                },
+                {
+                  "number": "902",
+                  "numText": "§ 902.",
+                  "heading": "Savings provisions",
+                  "identifier": "/us/usc/t21/s902"
+                },
+                {
+                  "number": "903",
+                  "numText": "§ 903.",
+                  "heading": "Application of State law",
+                  "identifier": "/us/usc/t21/s903"
+                },
+                {
+                  "number": "904",
+                  "numText": "§ 904.",
+                  "heading": "Payment of tort claims",
+                  "identifier": "/us/usc/t21/s904"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "IMPORT AND EXPORT",
+          "identifier": "/us/usc/t21/ch13/schII",
+          "children": [
+            {
+              "number": "951",
+              "numText": "§ 951.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t21/s951"
+            },
+            {
+              "number": "952",
+              "numText": "§ 952.",
+              "heading": "Importation of controlled substances",
+              "identifier": "/us/usc/t21/s952"
+            },
+            {
+              "number": "953",
+              "numText": "§ 953.",
+              "heading": "Exportation of controlled substances",
+              "identifier": "/us/usc/t21/s953"
+            },
+            {
+              "number": "954",
+              "numText": "§ 954.",
+              "heading": "Transshipment and in-transit shipment of controlled substances",
+              "identifier": "/us/usc/t21/s954"
+            },
+            {
+              "number": "955",
+              "numText": "§ 955.",
+              "heading": "Possession on board vessels, etc., arriving in or departing from United States",
+              "identifier": "/us/usc/t21/s955"
+            },
+            {
+              "number": "955a to 955d",
+              "numText": "§§ 955a to 955d.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s955a...955d"
+            },
+            {
+              "number": "956",
+              "numText": "§ 956.",
+              "heading": "Exemption authority",
+              "identifier": "/us/usc/t21/s956"
+            },
+            {
+              "number": "957",
+              "numText": "§ 957.",
+              "heading": "Persons required to register",
+              "identifier": "/us/usc/t21/s957"
+            },
+            {
+              "number": "958",
+              "numText": "§ 958.",
+              "heading": "Registration requirements",
+              "identifier": "/us/usc/t21/s958"
+            },
+            {
+              "number": "959",
+              "numText": "§ 959.",
+              "heading": "Possession, manufacture, or distribution of controlled substance",
+              "identifier": "/us/usc/t21/s959"
+            },
+            {
+              "number": "960",
+              "numText": "§ 960.",
+              "heading": "Prohibited acts A",
+              "identifier": "/us/usc/t21/s960"
+            },
+            {
+              "number": "960a",
+              "numText": "§ 960a.",
+              "heading": "Foreign terrorist organizations, terrorist persons and groups",
+              "identifier": "/us/usc/t21/s960a"
+            },
+            {
+              "number": "961",
+              "numText": "§ 961.",
+              "heading": "Prohibited acts B",
+              "identifier": "/us/usc/t21/s961"
+            },
+            {
+              "number": "962",
+              "numText": "§ 962.",
+              "heading": "Second or subsequent offenses",
+              "identifier": "/us/usc/t21/s962"
+            },
+            {
+              "number": "963",
+              "numText": "§ 963.",
+              "heading": "Attempt and conspiracy",
+              "identifier": "/us/usc/t21/s963"
+            },
+            {
+              "number": "964",
+              "numText": "§ 964.",
+              "heading": "Additional penalties",
+              "identifier": "/us/usc/t21/s964"
+            },
+            {
+              "number": "965",
+              "numText": "§ 965.",
+              "heading": "Applicability of part E of subchapter I",
+              "identifier": "/us/usc/t21/s965"
+            },
+            {
+              "number": "966",
+              "numText": "§ 966.",
+              "heading": "Authority of Secretary of the Treasury",
+              "identifier": "/us/usc/t21/s966"
+            },
+            {
+              "number": "967",
+              "numText": "§ 967.",
+              "heading": "Smuggling of controlled substances; investigations; oaths; subpenas; witnesses; evidence; production of records; territorial limits; fees and mileage of witnesses",
+              "identifier": "/us/usc/t21/s967"
+            },
+            {
+              "number": "968",
+              "numText": "§ 968.",
+              "heading": "Service of subpena; proof of service",
+              "identifier": "/us/usc/t21/s968"
+            },
+            {
+              "number": "969",
+              "numText": "§ 969.",
+              "heading": "Contempt proceedings",
+              "identifier": "/us/usc/t21/s969"
+            },
+            {
+              "number": "970",
+              "numText": "§ 970.",
+              "heading": "Criminal forfeitures",
+              "identifier": "/us/usc/t21/s970"
+            },
+            {
+              "number": "971",
+              "numText": "§ 971.",
+              "heading": "Notification, suspension of shipment, and penalties with respect to importation and exportation of listed chemicals",
+              "identifier": "/us/usc/t21/s971"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "14",
+      "heading": "ALCOHOL AND DRUG ABUSE EDUCATIONAL PROGRAMS AND ACTIVITIES",
+      "identifier": "/us/usc/t21/ch14",
+      "children": [
+        {
+          "number": "1001 to 1007",
+          "numText": "§§ 1001 to 1007.",
+          "heading": "Repealed. Pub. L. 97–35, title V, § 587(a)(3), Aug. 13, 1981, 95 Stat. 480",
+          "identifier": "/us/usc/t21/s1001...1007"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "15",
+      "heading": "EGG PRODUCTS INSPECTION",
+      "identifier": "/us/usc/t21/ch15",
+      "children": [
+        {
+          "number": "1031",
+          "numText": "§ 1031.",
+          "heading": "Congressional statement of findings",
+          "identifier": "/us/usc/t21/s1031"
+        },
+        {
+          "number": "1032",
+          "numText": "§ 1032.",
+          "heading": "Congressional declaration of policy",
+          "identifier": "/us/usc/t21/s1032"
+        },
+        {
+          "number": "1033",
+          "numText": "§ 1033.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s1033"
+        },
+        {
+          "number": "1034",
+          "numText": "§ 1034.",
+          "heading": "Inspection of egg products",
+          "identifier": "/us/usc/t21/s1034"
+        },
+        {
+          "number": "1035",
+          "numText": "§ 1035.",
+          "heading": "Sanitary operating practices in official plants",
+          "identifier": "/us/usc/t21/s1035"
+        },
+        {
+          "number": "1036",
+          "numText": "§ 1036.",
+          "heading": "Pasteurization and labeling of egg products at official plants",
+          "identifier": "/us/usc/t21/s1036"
+        },
+        {
+          "number": "1037",
+          "numText": "§ 1037.",
+          "heading": "Prohibited acts",
+          "identifier": "/us/usc/t21/s1037"
+        },
+        {
+          "number": "1038",
+          "numText": "§ 1038.",
+          "heading": "Cooperation with appropriate State and other governmental agencies; utilization of employees; reimbursement",
+          "identifier": "/us/usc/t21/s1038"
+        },
+        {
+          "number": "1039",
+          "numText": "§ 1039.",
+          "heading": "Eggs and egg products not intended for use as human food; inspection; denaturing or otherwise identifying",
+          "identifier": "/us/usc/t21/s1039"
+        },
+        {
+          "number": "1040",
+          "numText": "§ 1040.",
+          "heading": "Recordkeeping requirements; persons required to maintain records; scope of disclosure; access to records",
+          "identifier": "/us/usc/t21/s1040"
+        },
+        {
+          "number": "1041",
+          "numText": "§ 1041.",
+          "heading": "Enforcement provisions",
+          "identifier": "/us/usc/t21/s1041"
+        },
+        {
+          "number": "1042",
+          "numText": "§ 1042.",
+          "heading": "Reporting of violation to United States attorney for institution of criminal proceedings; procedure; presentation of views",
+          "identifier": "/us/usc/t21/s1042"
+        },
+        {
+          "number": "1043",
+          "numText": "§ 1043.",
+          "heading": "Rules and regulations; administration and enforcement",
+          "identifier": "/us/usc/t21/s1043"
+        },
+        {
+          "number": "1044",
+          "numText": "§ 1044.",
+          "heading": "Exemption of certain activities",
+          "identifier": "/us/usc/t21/s1044"
+        },
+        {
+          "number": "1045",
+          "numText": "§ 1045.",
+          "heading": "Limitation on entry of eggs and egg products and other materials into official plants",
+          "identifier": "/us/usc/t21/s1045"
+        },
+        {
+          "number": "1046",
+          "numText": "§ 1046.",
+          "heading": "Imports",
+          "identifier": "/us/usc/t21/s1046"
+        },
+        {
+          "number": "1047",
+          "numText": "§ 1047.",
+          "heading": "Refusal or withdrawal of inspection services; hearing; grounds; person deemed to have responsible connection with business; finality of order of Secretary; judicial review; other provisions for refusal of services unaffected",
+          "identifier": "/us/usc/t21/s1047"
+        },
+        {
+          "number": "1048",
+          "numText": "§ 1048.",
+          "heading": "Administrative detention of violative articles; duration; release; removal of official marks",
+          "identifier": "/us/usc/t21/s1048"
+        },
+        {
+          "number": "1049",
+          "numText": "§ 1049.",
+          "heading": "Seizure and condemnation proceedings",
+          "identifier": "/us/usc/t21/s1049"
+        },
+        {
+          "number": "1050",
+          "numText": "§ 1050.",
+          "heading": "Jurisdiction of district courts; United States as plaintiff in enforcement and restraining proceedings; subpenas for witnesses",
+          "identifier": "/us/usc/t21/s1050"
+        },
+        {
+          "number": "1051",
+          "numText": "§ 1051.",
+          "heading": "Other Federal laws applicable for administration and enforcement of chapter; prosecution of inquiries; exercise of jurisdiction",
+          "identifier": "/us/usc/t21/s1051"
+        },
+        {
+          "number": "1052",
+          "numText": "§ 1052.",
+          "heading": "State or local regulation",
+          "identifier": "/us/usc/t21/s1052"
+        },
+        {
+          "number": "1053",
+          "numText": "§ 1053.",
+          "heading": "Inspection and administration costs",
+          "identifier": "/us/usc/t21/s1053"
+        },
+        {
+          "number": "1054",
+          "numText": "§ 1054.",
+          "heading": "Annual report to Congressional committees",
+          "identifier": "/us/usc/t21/s1054"
+        },
+        {
+          "number": "1055",
+          "numText": "§ 1055.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t21/s1055"
+        },
+        {
+          "number": "1056",
+          "numText": "§ 1056.",
+          "heading": "Separability",
+          "identifier": "/us/usc/t21/s1056"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "16",
+      "heading": "DRUG ABUSE PREVENTION, TREATMENT, AND REHABILITATION",
+      "identifier": "/us/usc/t21/ch16",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t21/ch16/schI",
+          "children": [
+            {
+              "number": "1101",
+              "numText": "§ 1101.",
+              "heading": "Congressional findings",
+              "identifier": "/us/usc/t21/s1101"
+            },
+            {
+              "number": "1102",
+              "numText": "§ 1102.",
+              "heading": "Congressional declaration of national policy",
+              "identifier": "/us/usc/t21/s1102"
+            },
+            {
+              "number": "1103",
+              "numText": "§ 1103.",
+              "heading": "Repealed. Pub. L. 100–690, title I, § 1007(c)(1), Nov. 18, 1988, 102 Stat. 4187",
+              "identifier": "/us/usc/t21/s1103"
+            },
+            {
+              "number": "1104",
+              "numText": "§ 1104.",
+              "heading": "Repealed. Pub. L. 94–237, § 4(c)(1), Mar. 19, 1976, 90 Stat. 244",
+              "identifier": "/us/usc/t21/s1104"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "DRUG ABUSE POLICY COORDINATION",
+          "identifier": "/us/usc/t21/ch16/schII",
+          "children": [
+            {
+              "number": "1111 to 1114",
+              "numText": "§§ 1111 to 1114.",
+              "heading": "Repealed. Pub. L. 100–690, title I, § 1007(c)(1), Nov. 18, 1988, 102 Stat. 4187",
+              "identifier": "/us/usc/t21/s1111...1114"
+            },
+            {
+              "number": "1115",
+              "numText": "§ 1115.",
+              "heading": "Notice relating to the control of dangerous drugs",
+              "identifier": "/us/usc/t21/s1115"
+            },
+            {
+              "number": "1116",
+              "numText": "§ 1116.",
+              "heading": "Repealed. Pub. L. 100–690, title I, § 1007(c)(1), Nov. 18, 1988, 102 Stat. 4187",
+              "identifier": "/us/usc/t21/s1116"
+            },
+            {
+              "number": "1117",
+              "numText": "§ 1117.",
+              "heading": "Repealed. Pub. L. 98–24, § 4(b), Apr. 26, 1983, 97 Stat. 183",
+              "identifier": "/us/usc/t21/s1117"
+            },
+            {
+              "number": "1118 to 1120",
+              "numText": "§§ 1118 to 1120.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s1118...1120"
+            },
+            {
+              "number": "1121 to 1123",
+              "numText": "§§ 1121 to 1123.",
+              "heading": "Repealed. Pub. L. 92–255, title I, § 104, Mar. 21, 1972, 86 Stat. 67",
+              "identifier": "/us/usc/t21/s1121...1123"
+            },
+            {
+              "number": "1131 to 1133",
+              "numText": "§§ 1131 to 1133.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t21/s1131...1133"
+            },
+            {
+              "number": "1134 to 1143",
+              "numText": "§§ 1134 to 1143.",
+              "heading": "Repealed. Pub. L. 92–255, title I, § 104, Mar. 21, 1972, 86 Stat. 67",
+              "identifier": "/us/usc/t21/s1134...1143"
+            },
+            {
+              "number": "1151 to 1155",
+              "numText": "§§ 1151 to 1155.",
+              "heading": "Repealed. Pub. L. 92–255, title I, § 104, Mar. 21, 1972, 86 Stat. 67",
+              "identifier": "/us/usc/t21/s1151...1155"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "NATIONAL DRUG ABUSE STRATEGY",
+          "identifier": "/us/usc/t21/ch16/schIII",
+          "children": [
+            {
+              "number": "1161 to 1165",
+              "numText": "§§ 1161 to 1165.",
+              "heading": "Repealed. Pub. L. 98–509, title III, § 301(d), Oct. 19, 1984, 98 Stat. 2364",
+              "identifier": "/us/usc/t21/s1161...1165"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "OTHER FEDERAL PROGRAMS",
+          "identifier": "/us/usc/t21/ch16/schIV",
+          "children": [
+            {
+              "number": "1171",
+              "numText": "§ 1171.",
+              "heading": "Drug abuse prevention function appropriations",
+              "identifier": "/us/usc/t21/s1171"
+            },
+            {
+              "number": "1172",
+              "numText": "§ 1172.",
+              "heading": "Repealed. Pub. L. 98–24, § 2(c)(2), Apr. 26, 1983, 97 Stat. 182",
+              "identifier": "/us/usc/t21/s1172"
+            },
+            {
+              "number": "1173",
+              "numText": "§ 1173.",
+              "heading": "Transferred and Omitted",
+              "identifier": "/us/usc/t21/s1173"
+            },
+            {
+              "number": "1174, 1175",
+              "numText": "§§ 1174, 1175.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s1174 /us/usc/t21/s1175"
+            },
+            {
+              "number": "1176",
+              "numText": "§ 1176.",
+              "heading": "Repealed. Pub. L. 97–35, title IX, § 969(a), Aug. 13, 1981, 95 Stat. 595",
+              "identifier": "/us/usc/t21/s1176"
+            },
+            {
+              "number": "1177",
+              "numText": "§ 1177.",
+              "heading": "Special project grants and contracts",
+              "identifier": "/us/usc/t21/s1177"
+            },
+            {
+              "number": "1178",
+              "numText": "§ 1178.",
+              "heading": "Records and audit",
+              "identifier": "/us/usc/t21/s1178"
+            },
+            {
+              "number": "1179",
+              "numText": "§ 1179.",
+              "heading": "National Drug Abuse Training Center",
+              "identifier": "/us/usc/t21/s1179"
+            },
+            {
+              "number": "1180",
+              "numText": "§ 1180.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s1180"
+            },
+            {
+              "number": "1181",
+              "numText": "§ 1181.",
+              "heading": "Contract authority",
+              "identifier": "/us/usc/t21/s1181"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "NATIONAL INSTITUTE ON DRUG ABUSE",
+          "identifier": "/us/usc/t21/ch16/schV",
+          "children": [
+            {
+              "number": "1191 to 1193",
+              "numText": "§§ 1191 to 1193.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s1191...1193"
+            },
+            {
+              "number": "1194",
+              "numText": "§ 1194.",
+              "heading": "Repealed. Pub. L. 98–24, § 2(c)(2), Apr. 26, 1983, 97 Stat. 182",
+              "identifier": "/us/usc/t21/s1194"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "17",
+      "heading": "NATIONAL DRUG ENFORCEMENT POLICY",
+      "identifier": "/us/usc/t21/ch17",
+      "children": [
+        {
+          "number": "1201 to 1204",
+          "numText": "§§ 1201 to 1204.",
+          "heading": "Repealed. Pub. L. 100–690, title I, § 1007(a)(3), Nov. 18, 1988, 102 Stat. 4187",
+          "identifier": "/us/usc/t21/s1201...1204"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "18",
+      "heading": "PRESIDENT’S MEDIA COMMISSION ON ALCOHOL AND DRUG ABUSE PREVENTION",
+      "identifier": "/us/usc/t21/ch18",
+      "children": [
+        {
+          "number": "1301 to 1308",
+          "numText": "§§ 1301 to 1308.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t21/s1301...1308"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "19",
+      "heading": "PESTICIDE MONITORING IMPROVEMENTS",
+      "identifier": "/us/usc/t21/ch19",
+      "children": [
+        {
+          "number": "1401",
+          "numText": "§ 1401.",
+          "heading": "Pesticide monitoring and enforcement information",
+          "identifier": "/us/usc/t21/s1401"
+        },
+        {
+          "number": "1402",
+          "numText": "§ 1402.",
+          "heading": "Foreign pesticide information",
+          "identifier": "/us/usc/t21/s1402"
+        },
+        {
+          "number": "1403",
+          "numText": "§ 1403.",
+          "heading": "Pesticide analytical methods",
+          "identifier": "/us/usc/t21/s1403"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "20",
+      "heading": "NATIONAL DRUG CONTROL PROGRAM",
+      "identifier": "/us/usc/t21/ch20",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "OFFICE OF NATIONAL DRUG CONTROL POLICY",
+          "identifier": "/us/usc/t21/ch20/schI",
+          "children": [
+            {
+              "number": "1501, 1502",
+              "numText": "§§ 1501, 1502.",
+              "heading": "Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234",
+              "identifier": "/us/usc/t21/s1501 /us/usc/t21/s1502"
+            },
+            {
+              "number": "1502a",
+              "numText": "§ 1502a.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t21/s1502a"
+            },
+            {
+              "number": "1503 to 1505",
+              "numText": "§§ 1503 to 1505.",
+              "heading": "Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234",
+              "identifier": "/us/usc/t21/s1503...1505"
+            },
+            {
+              "number": "1505a",
+              "numText": "§ 1505a.",
+              "heading": "Annual report on development and deployment of narcotics detection technologies",
+              "identifier": "/us/usc/t21/s1505a"
+            },
+            {
+              "number": "1506 to 1508",
+              "numText": "§§ 1506 to 1508.",
+              "heading": "Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(i)(III), Nov. 27, 2019, 133 Stat. 1157",
+              "identifier": "/us/usc/t21/s1506...1508"
+            },
+            {
+              "number": "1509",
+              "numText": "§ 1509.",
+              "heading": "Repealed. Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539",
+              "identifier": "/us/usc/t21/s1509"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "DRUG-FREE COMMUNITIES",
+          "identifier": "/us/usc/t21/ch20/schII",
+          "children": [
+            {
+              "number": "1521",
+              "numText": "§ 1521.",
+              "heading": "Findings",
+              "identifier": "/us/usc/t21/s1521"
+            },
+            {
+              "number": "1522",
+              "numText": "§ 1522.",
+              "heading": "Purposes",
+              "identifier": "/us/usc/t21/s1522"
+            },
+            {
+              "number": "1523",
+              "numText": "§ 1523.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t21/s1523"
+            },
+            {
+              "number": "1524",
+              "numText": "§ 1524.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t21/s1524"
+            },
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Drug-Free Communities Support Program",
+              "identifier": "/us/usc/t21/ch20/schII/ptA",
+              "children": [
+                {
+                  "number": "1531",
+                  "numText": "§ 1531.",
+                  "heading": "Establishment of drug-free communities support program",
+                  "identifier": "/us/usc/t21/s1531"
+                },
+                {
+                  "number": "1532",
+                  "numText": "§ 1532.",
+                  "heading": "Program authorization",
+                  "identifier": "/us/usc/t21/s1532"
+                },
+                {
+                  "number": "1533",
+                  "numText": "§ 1533.",
+                  "heading": "Information collection and dissemination with respect to grant recipients",
+                  "identifier": "/us/usc/t21/s1533"
+                },
+                {
+                  "number": "1534",
+                  "numText": "§ 1534.",
+                  "heading": "Technical assistance and training",
+                  "identifier": "/us/usc/t21/s1534"
+                },
+                {
+                  "number": "1535",
+                  "numText": "§ 1535.",
+                  "heading": "Supplemental grants for coalition mentoring activities",
+                  "identifier": "/us/usc/t21/s1535"
+                },
+                {
+                  "number": "1536",
+                  "numText": "§ 1536.",
+                  "heading": "Community-based coalition enhancement grants to address local drug crises",
+                  "identifier": "/us/usc/t21/s1536"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Advisory Commission",
+              "identifier": "/us/usc/t21/ch20/schII/ptB",
+              "children": [
+                {
+                  "number": "1541 to 1548",
+                  "numText": "§§ 1541 to 1548.",
+                  "heading": "Repealed. Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157",
+                  "identifier": "/us/usc/t21/s1541...1548"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "21",
+      "heading": "BIOMATERIALS ACCESS ASSURANCE",
+      "identifier": "/us/usc/t21/ch21",
+      "children": [
+        {
+          "number": "1601",
+          "numText": "§ 1601.",
+          "heading": "Findings",
+          "identifier": "/us/usc/t21/s1601"
+        },
+        {
+          "number": "1602",
+          "numText": "§ 1602.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s1602"
+        },
+        {
+          "number": "1603",
+          "numText": "§ 1603.",
+          "heading": "General requirements; applicability; preemption",
+          "identifier": "/us/usc/t21/s1603"
+        },
+        {
+          "number": "1604",
+          "numText": "§ 1604.",
+          "heading": "Liability of biomaterials suppliers",
+          "identifier": "/us/usc/t21/s1604"
+        },
+        {
+          "number": "1605",
+          "numText": "§ 1605.",
+          "heading": "Procedures for dismissal of civil actions against biomaterials suppliers",
+          "identifier": "/us/usc/t21/s1605"
+        },
+        {
+          "number": "1606",
+          "numText": "§ 1606.",
+          "heading": "Subsequent impleader of dismissed biomaterials supplier",
+          "identifier": "/us/usc/t21/s1606"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "22",
+      "heading": "NATIONAL DRUG CONTROL POLICY",
+      "identifier": "/us/usc/t21/ch22",
+      "children": [
+        {
+          "number": "1701",
+          "numText": "§ 1701.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s1701"
+        },
+        {
+          "number": "1702",
+          "numText": "§ 1702.",
+          "heading": "Office of National Drug Control Policy",
+          "identifier": "/us/usc/t21/s1702"
+        },
+        {
+          "number": "1703",
+          "numText": "§ 1703.",
+          "heading": "Appointment and duties of Director and Deputy Directors",
+          "identifier": "/us/usc/t21/s1703"
+        },
+        {
+          "number": "1704",
+          "numText": "§ 1704.",
+          "heading": "Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs",
+          "identifier": "/us/usc/t21/s1704"
+        },
+        {
+          "number": "1705",
+          "numText": "§ 1705.",
+          "heading": "Development, submission, implementation, and assessment of National Drug Control Strategy",
+          "identifier": "/us/usc/t21/s1705"
+        },
+        {
+          "number": "1706",
+          "numText": "§ 1706.",
+          "heading": "High Intensity Drug Trafficking Areas Program",
+          "identifier": "/us/usc/t21/s1706"
+        },
+        {
+          "number": "1707",
+          "numText": "§ 1707.",
+          "heading": "Repealed. Pub. L. 115–271, title VIII, § 8222(3), Oct. 24, 2018, 132 Stat. 4143",
+          "identifier": "/us/usc/t21/s1707"
+        },
+        {
+          "number": "1708",
+          "numText": "§ 1708.",
+          "heading": "Emerging Threats Committee, plan, and media campaign",
+          "identifier": "/us/usc/t21/s1708"
+        },
+        {
+          "number": "1708a",
+          "numText": "§ 1708a.",
+          "heading": "Repealed. Pub. L. 116–74, § 2(b)(1), Nov. 27, 2019, 133 Stat. 1157",
+          "identifier": "/us/usc/t21/s1708a"
+        },
+        {
+          "number": "1709",
+          "numText": "§ 1709.",
+          "heading": "Repealed. Pub. L. 109–469, title XI, § 1101(a), Dec. 29, 2006, 120 Stat. 3539",
+          "identifier": "/us/usc/t21/s1709"
+        },
+        {
+          "number": "1710",
+          "numText": "§ 1710.",
+          "heading": "Drug Interdiction Coordinator and Committee",
+          "identifier": "/us/usc/t21/s1710"
+        },
+        {
+          "number": "1710a",
+          "numText": "§ 1710a.",
+          "heading": "Requirement for disclosure of Federal sponsorship of all Federal advertising or other communication materials",
+          "identifier": "/us/usc/t21/s1710a"
+        },
+        {
+          "number": "1711",
+          "numText": "§ 1711.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t21/s1711"
+        },
+        {
+          "number": "1712",
+          "numText": "§ 1712.",
+          "heading": "Repealed. Pub. L. 115–271, title VIII, § 8202(b)(2), Oct. 24, 2018, 132 Stat. 4110",
+          "identifier": "/us/usc/t21/s1712"
+        },
+        {
+          "number": "1713",
+          "numText": "§ 1713.",
+          "heading": "Authorization of use of environmentally-approved herbicides to eliminate illicit narcotics crops",
+          "identifier": "/us/usc/t21/s1713"
+        },
+        {
+          "number": "1714",
+          "numText": "§ 1714.",
+          "heading": "Awards for demonstration programs by local partnerships to coerce abstinence in chronic hard-drug users under community supervision through the use of drug testing and sanctions",
+          "identifier": "/us/usc/t21/s1714"
+        },
+        {
+          "number": "1715",
+          "numText": "§ 1715.",
+          "heading": "GAO audit",
+          "identifier": "/us/usc/t21/s1715"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "23",
+      "heading": "NATIONAL YOUTH ANTI-DRUG MEDIA CAMPAIGN",
+      "identifier": "/us/usc/t21/ch23",
+      "children": [
+        {
+          "number": "1801 to 1804",
+          "numText": "§§ 1801 to 1804.",
+          "heading": "Repealed. Pub. L. 109–469, title V, § 501(b), Dec. 29, 2006, 120 Stat. 3533",
+          "identifier": "/us/usc/t21/s1801...1804"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "24",
+      "heading": "INTERNATIONAL NARCOTICS TRAFFICKING",
+      "identifier": "/us/usc/t21/ch24",
+      "children": [
+        {
+          "number": "1901",
+          "numText": "§ 1901.",
+          "heading": "Findings and policy",
+          "identifier": "/us/usc/t21/s1901"
+        },
+        {
+          "number": "1902",
+          "numText": "§ 1902.",
+          "heading": "Purpose",
+          "identifier": "/us/usc/t21/s1902"
+        },
+        {
+          "number": "1903",
+          "numText": "§ 1903.",
+          "heading": "Public identification of significant foreign narcotics traffickers and required reports",
+          "identifier": "/us/usc/t21/s1903"
+        },
+        {
+          "number": "1904",
+          "numText": "§ 1904.",
+          "heading": "Blocking assets and prohibiting transactions",
+          "identifier": "/us/usc/t21/s1904"
+        },
+        {
+          "number": "1905",
+          "numText": "§ 1905.",
+          "heading": "Authorities",
+          "identifier": "/us/usc/t21/s1905"
+        },
+        {
+          "number": "1906",
+          "numText": "§ 1906.",
+          "heading": "Enforcement",
+          "identifier": "/us/usc/t21/s1906"
+        },
+        {
+          "number": "1907",
+          "numText": "§ 1907.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s1907"
+        },
+        {
+          "number": "1908",
+          "numText": "§ 1908.",
+          "heading": "Judicial Review Commission on Foreign Asset Control",
+          "identifier": "/us/usc/t21/s1908"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "25",
+      "heading": "MISCELLANEOUS ANTI-DRUG ABUSE PROVISIONS",
+      "identifier": "/us/usc/t21/ch25",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "ANTI-DOPING AGENCY",
+          "identifier": "/us/usc/t21/ch25/schI",
+          "children": [
+            {
+              "number": "2001",
+              "numText": "§ 2001.",
+              "heading": "Designation of United States Anti-Doping Agency",
+              "identifier": "/us/usc/t21/s2001"
+            },
+            {
+              "number": "2002",
+              "numText": "§ 2002.",
+              "heading": "Records, audit, and report",
+              "identifier": "/us/usc/t21/s2002"
+            },
+            {
+              "number": "2003",
+              "numText": "§ 2003.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t21/s2003"
+            },
+            {
+              "number": "2004",
+              "numText": "§ 2004.",
+              "heading": "Information sharing",
+              "identifier": "/us/usc/t21/s2004"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "NATIONAL METHAMPHETAMINE INFORMATION CLEARINGHOUSE",
+          "identifier": "/us/usc/t21/ch25/schII",
+          "children": [
+            {
+              "number": "2011",
+              "numText": "§ 2011.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t21/s2011"
+            },
+            {
+              "number": "2012",
+              "numText": "§ 2012.",
+              "heading": "Establishment of clearinghouse and advisory council",
+              "identifier": "/us/usc/t21/s2012"
+            },
+            {
+              "number": "2013",
+              "numText": "§ 2013.",
+              "heading": "NMIC requirements and review",
+              "identifier": "/us/usc/t21/s2013"
+            },
+            {
+              "number": "2014",
+              "numText": "§ 2014.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t21/s2014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "26",
+      "heading": "FOOD SAFETY",
+      "identifier": "/us/usc/t21/ch26",
+      "children": [
+        {
+          "number": "2101",
+          "numText": "§ 2101.",
+          "heading": "Findings",
+          "identifier": "/us/usc/t21/s2101"
+        },
+        {
+          "number": "2102",
+          "numText": "§ 2102.",
+          "heading": "Ensuring the safety of pet food",
+          "identifier": "/us/usc/t21/s2102"
+        },
+        {
+          "number": "2103",
+          "numText": "§ 2103.",
+          "heading": "Ensuring efficient and effective communications during a recall",
+          "identifier": "/us/usc/t21/s2103"
+        },
+        {
+          "number": "2104",
+          "numText": "§ 2104.",
+          "heading": "State and Federal cooperation",
+          "identifier": "/us/usc/t21/s2104"
+        },
+        {
+          "number": "2105",
+          "numText": "§ 2105.",
+          "heading": "Enhanced aquaculture and seafood inspection",
+          "identifier": "/us/usc/t21/s2105"
+        },
+        {
+          "number": "2106",
+          "numText": "§ 2106.",
+          "heading": "Consultation regarding genetically engineered seafood products",
+          "identifier": "/us/usc/t21/s2106"
+        },
+        {
+          "number": "2107",
+          "numText": "§ 2107.",
+          "heading": "Sense of Congress",
+          "identifier": "/us/usc/t21/s2107"
+        },
+        {
+          "number": "2108",
+          "numText": "§ 2108.",
+          "heading": "Annual report to Congress",
+          "identifier": "/us/usc/t21/s2108"
+        },
+        {
+          "number": "2109",
+          "numText": "§ 2109.",
+          "heading": "Publication of annual reports",
+          "identifier": "/us/usc/t21/s2109"
+        },
+        {
+          "number": "2110",
+          "numText": "§ 2110.",
+          "heading": "Rule of construction",
+          "identifier": "/us/usc/t21/s2110"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "27",
+      "heading": "FOOD SAFETY MODERNIZATION",
+      "identifier": "/us/usc/t21/ch27",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "IMPROVING CAPACITY TO PREVENT FOOD SAFETY PROBLEMS",
+          "identifier": "/us/usc/t21/ch27/schI",
+          "children": [
+            {
+              "number": "2201",
+              "numText": "§ 2201.",
+              "heading": "Performance standards",
+              "identifier": "/us/usc/t21/s2201"
+            },
+            {
+              "number": "2202",
+              "numText": "§ 2202.",
+              "heading": "National Agriculture and Food Defense Strategy",
+              "identifier": "/us/usc/t21/s2202"
+            },
+            {
+              "number": "2203",
+              "numText": "§ 2203.",
+              "heading": "Food and Agriculture Coordinating Councils",
+              "identifier": "/us/usc/t21/s2203"
+            },
+            {
+              "number": "2204",
+              "numText": "§ 2204.",
+              "heading": "Building domestic capacity",
+              "identifier": "/us/usc/t21/s2204"
+            },
+            {
+              "number": "2205",
+              "numText": "§ 2205.",
+              "heading": "Food allergy and anaphylaxis management",
+              "identifier": "/us/usc/t21/s2205"
+            },
+            {
+              "number": "2206",
+              "numText": "§ 2206.",
+              "heading": "Alcohol-related facilities",
+              "identifier": "/us/usc/t21/s2206"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "IMPROVING CAPACITY TO DETECT AND RESPOND TO FOOD SAFETY PROBLEMS",
+          "identifier": "/us/usc/t21/ch27/schII",
+          "children": [
+            {
+              "number": "2221",
+              "numText": "§ 2221.",
+              "heading": "Food emergency response network",
+              "identifier": "/us/usc/t21/s2221"
+            },
+            {
+              "number": "2222",
+              "numText": "§ 2222.",
+              "heading": "Integrated consortium of laboratory networks",
+              "identifier": "/us/usc/t21/s2222"
+            },
+            {
+              "number": "2223",
+              "numText": "§ 2223.",
+              "heading": "Enhancing tracking and tracing of food and recordkeeping",
+              "identifier": "/us/usc/t21/s2223"
+            },
+            {
+              "number": "2224",
+              "numText": "§ 2224.",
+              "heading": "Surveillance",
+              "identifier": "/us/usc/t21/s2224"
+            },
+            {
+              "number": "2225",
+              "numText": "§ 2225.",
+              "heading": "Decontamination and disposal standards and plans",
+              "identifier": "/us/usc/t21/s2225"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "IMPROVING THE SAFETY OF IMPORTED FOOD",
+          "identifier": "/us/usc/t21/ch27/schIII",
+          "children": [
+            {
+              "number": "2241",
+              "numText": "§ 2241.",
+              "heading": "Inspection by the Secretary of Commerce",
+              "identifier": "/us/usc/t21/s2241"
+            },
+            {
+              "number": "2242",
+              "numText": "§ 2242.",
+              "heading": "Foreign offices of the Food and Drug Administration",
+              "identifier": "/us/usc/t21/s2242"
+            },
+            {
+              "number": "2243",
+              "numText": "§ 2243.",
+              "heading": "Smuggled food",
+              "identifier": "/us/usc/t21/s2243"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t21/ch27/schIV",
+          "children": [
+            {
+              "number": "2251",
+              "numText": "§ 2251.",
+              "heading": "Jurisdiction; authorities",
+              "identifier": "/us/usc/t21/s2251"
+            },
+            {
+              "number": "2252",
+              "numText": "§ 2252.",
+              "heading": "Compliance with international agreements",
+              "identifier": "/us/usc/t21/s2252"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "28",
+      "heading": "SANCTIONS WITH RESPECT TO FOREIGN TRAFFICKERS OF ILLICIT SYNTHETIC OPIOIDS",
+      "identifier": "/us/usc/t21/ch28",
+      "children": [
+        {
+          "number": "2301",
+          "numText": "§ 2301.",
+          "heading": "Sense of Congress",
+          "identifier": "/us/usc/t21/s2301"
+        },
+        {
+          "number": "2302",
+          "numText": "§ 2302.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s2302"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "SANCTIONS WITH RESPECT TO FOREIGN OPIOID TRAFFICKERS",
+          "identifier": "/us/usc/t21/ch28/schI",
+          "children": [
+            {
+              "number": "2311",
+              "numText": "§ 2311.",
+              "heading": "Identification of foreign opioid traffickers",
+              "identifier": "/us/usc/t21/s2311"
+            },
+            {
+              "number": "2312",
+              "numText": "§ 2312.",
+              "heading": "Imposition of sanctions",
+              "identifier": "/us/usc/t21/s2312"
+            },
+            {
+              "number": "2313",
+              "numText": "§ 2313.",
+              "heading": "Description of sanctions",
+              "identifier": "/us/usc/t21/s2313"
+            },
+            {
+              "number": "2313a",
+              "numText": "§ 2313a.",
+              "heading": "Designation of transactions of sanctioned persons as of primary money laundering concern",
+              "identifier": "/us/usc/t21/s2313a"
+            },
+            {
+              "number": "2314",
+              "numText": "§ 2314.",
+              "heading": "Waivers",
+              "identifier": "/us/usc/t21/s2314"
+            },
+            {
+              "number": "2315",
+              "numText": "§ 2315.",
+              "heading": "Procedures for judicial review of classified information",
+              "identifier": "/us/usc/t21/s2315"
+            },
+            {
+              "number": "2316",
+              "numText": "§ 2316.",
+              "heading": "Briefings on implementation",
+              "identifier": "/us/usc/t21/s2316"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "OTHER MATTERS",
+          "identifier": "/us/usc/t21/ch28/schII",
+          "children": [
+            {
+              "number": "2331",
+              "numText": "§ 2331.",
+              "heading": "Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers",
+              "identifier": "/us/usc/t21/s2331"
+            },
+            {
+              "number": "2332",
+              "numText": "§ 2332.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t21/s2332"
+            },
+            {
+              "number": "2333",
+              "numText": "§ 2333.",
+              "heading": "Regulatory authority",
+              "identifier": "/us/usc/t21/s2333"
+            },
+            {
+              "number": "2334",
+              "numText": "§ 2334.",
+              "heading": "Termination",
+              "identifier": "/us/usc/t21/s2334"
+            },
+            {
+              "number": "2335",
+              "numText": "§ 2335.",
+              "heading": "Exception relating to importation of goods",
+              "identifier": "/us/usc/t21/s2335"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "28A",
+      "heading": "FENTANYL ERADICATION AND NARCOTICS DETERRENCE OFF FENTANYL",
+      "identifier": "/us/usc/t21/ch28A",
+      "children": [
+        {
+          "number": "2341",
+          "numText": "§ 2341.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s2341"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "SANCTIONS IN RESPONSE TO NATIONAL EMERGENCY RELATING TO FENTANYL TRAFFICKING",
+          "identifier": "/us/usc/t21/ch28A/schI",
+          "children": [
+            {
+              "number": "2351",
+              "numText": "§ 2351.",
+              "heading": "Finding; policy",
+              "identifier": "/us/usc/t21/s2351"
+            },
+            {
+              "number": "2352",
+              "numText": "§ 2352.",
+              "heading": "Use of national emergency authorities; reporting",
+              "identifier": "/us/usc/t21/s2352"
+            },
+            {
+              "number": "2353",
+              "numText": "§ 2353.",
+              "heading": "Imposition of sanctions with respect to fentanyl trafficking by transnational criminal organizations",
+              "identifier": "/us/usc/t21/s2353"
+            },
+            {
+              "number": "2354",
+              "numText": "§ 2354.",
+              "heading": "Penalties; waivers; exceptions",
+              "identifier": "/us/usc/t21/s2354"
+            },
+            {
+              "number": "2355",
+              "numText": "§ 2355.",
+              "heading": "Treatment of forfeited property of transnational criminal organizations",
+              "identifier": "/us/usc/t21/s2355"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "ANTI-MONEY LAUNDERING MATTERS",
+          "identifier": "/us/usc/t21/ch28A/schII",
+          "children": [
+            {
+              "number": "2361",
+              "numText": "§ 2361.",
+              "heading": "Treatment of transnational criminal organizations in suspicious transactions reports of the Financial Crimes Enforcement Network",
+              "identifier": "/us/usc/t21/s2361"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "EXCEPTION RELATING TO IMPORTATION OF GOODS",
+          "identifier": "/us/usc/t21/ch28A/schIII",
+          "children": [
+            {
+              "number": "2371",
+              "numText": "§ 2371.",
+              "heading": "Exception relating to importation of goods",
+              "identifier": "/us/usc/t21/s2371"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "29",
+      "heading": "INTERNATIONAL SPORTS DOPING",
+      "identifier": "/us/usc/t21/ch29",
+      "children": [
+        {
+          "number": "2401",
+          "numText": "§ 2401.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t21/s2401"
+        },
+        {
+          "number": "2402",
+          "numText": "§ 2402.",
+          "heading": "Major international doping fraud conspiracies",
+          "identifier": "/us/usc/t21/s2402"
+        },
+        {
+          "number": "2403",
+          "numText": "§ 2403.",
+          "heading": "Criminal penalties and statute of limitations",
+          "identifier": "/us/usc/t21/s2403"
+        },
+        {
+          "number": "2404",
+          "numText": "§ 2404.",
+          "heading": "Coordination and sharing of information with USADA",
+          "identifier": "/us/usc/t21/s2404"
+        }
+      ]
+    }
+  ]
+}

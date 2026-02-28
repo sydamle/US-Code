@@ -1,0 +1,1551 @@
+{
+  "number": "37",
+  "name": "Pay And Allowances Of The Uniformed Services",
+  "identifier": "/us/usc/t37",
+  "version": "Online@119-73not60",
+  "updated": "2025-03-03",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "DEFINITIONS",
+      "identifier": "/us/usc/t37/ch1",
+      "children": [
+        {
+          "number": "101",
+          "numText": "§ 101.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t37/s101"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "BASIC PAY",
+      "identifier": "/us/usc/t37/ch3",
+      "children": [
+        {
+          "number": "201",
+          "numText": "§ 201.",
+          "heading": "Pay grades: assignment to; general rules",
+          "identifier": "/us/usc/t37/s201"
+        },
+        {
+          "number": "202",
+          "numText": "§ 202.",
+          "heading": "Pay grades: retired Coast Guard rear admirals (lower half)",
+          "identifier": "/us/usc/t37/s202"
+        },
+        {
+          "number": "203",
+          "numText": "§ 203.",
+          "heading": "Rates",
+          "identifier": "/us/usc/t37/s203"
+        },
+        {
+          "number": "204",
+          "numText": "§ 204.",
+          "heading": "Entitlement",
+          "identifier": "/us/usc/t37/s204"
+        },
+        {
+          "number": "205",
+          "numText": "§ 205.",
+          "heading": "Computation: service creditable",
+          "identifier": "/us/usc/t37/s205"
+        },
+        {
+          "number": "206",
+          "numText": "§ 206.",
+          "heading": "Reserves; members of National Guard: inactive-duty training",
+          "identifier": "/us/usc/t37/s206"
+        },
+        {
+          "number": "206a",
+          "numText": "§ 206a.",
+          "heading": "Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation",
+          "identifier": "/us/usc/t37/s206a"
+        },
+        {
+          "number": "207",
+          "numText": "§ 207.",
+          "heading": "Band leaders",
+          "identifier": "/us/usc/t37/s207"
+        },
+        {
+          "number": "208",
+          "numText": "[§ 208.",
+          "heading": "Repealed. Pub. L. 91–482, § 1(b), Oct. 21, 1970, 84 Stat. 1082]",
+          "identifier": "/us/usc/t37/s208"
+        },
+        {
+          "number": "209",
+          "numText": "§ 209.",
+          "heading": "Members of precommissioning programs",
+          "identifier": "/us/usc/t37/s209"
+        },
+        {
+          "number": "210",
+          "numText": "§ 210.",
+          "heading": "Pay of senior enlisted members during terminal leave and while hospitalized",
+          "identifier": "/us/usc/t37/s210"
+        },
+        {
+          "number": "211",
+          "numText": "§ 211.",
+          "heading": "Participation in Thrift Savings Plan",
+          "identifier": "/us/usc/t37/s211"
+        },
+        {
+          "number": "212",
+          "numText": "§ 212.",
+          "heading": "Advancement of basic pay: members deployed in combat zone for more than one year",
+          "identifier": "/us/usc/t37/s212"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "SPECIAL AND INCENTIVE PAYS",
+      "identifier": "/us/usc/t37/ch5",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES",
+          "identifier": "/us/usc/t37/ch5/schI",
+          "children": [
+            {
+              "number": "301",
+              "numText": "§ 301.",
+              "heading": "Incentive pay: hazardous duty",
+              "identifier": "/us/usc/t37/s301"
+            },
+            {
+              "number": "301a",
+              "numText": "§ 301a.",
+              "heading": "Incentive pay: aviation career",
+              "identifier": "/us/usc/t37/s301a"
+            },
+            {
+              "number": "301b",
+              "numText": "§ 301b.",
+              "heading": "Special pay: aviation career officers extending period of active duty",
+              "identifier": "/us/usc/t37/s301b"
+            },
+            {
+              "number": "301c",
+              "numText": "§ 301c.",
+              "heading": "Incentive pay: submarine duty",
+              "identifier": "/us/usc/t37/s301c"
+            },
+            {
+              "number": "301d",
+              "numText": "§ 301d.",
+              "heading": "Multiyear retention bonus: medical officers of the armed forces",
+              "identifier": "/us/usc/t37/s301d"
+            },
+            {
+              "number": "301e",
+              "numText": "§ 301e.",
+              "heading": "Multiyear retention bonus: dental officers of the armed forces",
+              "identifier": "/us/usc/t37/s301e"
+            },
+            {
+              "number": "302",
+              "numText": "§ 302.",
+              "heading": "Special pay: medical officers of the armed forces",
+              "identifier": "/us/usc/t37/s302"
+            },
+            {
+              "number": "302a",
+              "numText": "§ 302a.",
+              "heading": "Special pay: optometrists",
+              "identifier": "/us/usc/t37/s302a"
+            },
+            {
+              "number": "302b",
+              "numText": "§ 302b.",
+              "heading": "Special pay: dental officers of the armed forces",
+              "identifier": "/us/usc/t37/s302b"
+            },
+            {
+              "number": "302c",
+              "numText": "§ 302c.",
+              "heading": "Special pay: psychologists and nonphysician health care providers",
+              "identifier": "/us/usc/t37/s302c"
+            },
+            {
+              "number": "302c–1",
+              "numText": "§ 302c–1.",
+              "heading": "Special pay: accession and retention bonuses for psychologists",
+              "identifier": "/us/usc/t37/s302c–1"
+            },
+            {
+              "number": "302d",
+              "numText": "§ 302d.",
+              "heading": "Special pay: accession bonus for registered nurses",
+              "identifier": "/us/usc/t37/s302d"
+            },
+            {
+              "number": "302e",
+              "numText": "§ 302e.",
+              "heading": "Special pay: nurse anesthetists",
+              "identifier": "/us/usc/t37/s302e"
+            },
+            {
+              "number": "302f",
+              "numText": "§ 302f.",
+              "heading": "Special pay: reserve, recalled, or retained health care officers",
+              "identifier": "/us/usc/t37/s302f"
+            },
+            {
+              "number": "302g",
+              "numText": "§ 302g.",
+              "heading": "Special pay: Selected Reserve health care professionals in critically short wartime specialties",
+              "identifier": "/us/usc/t37/s302g"
+            },
+            {
+              "number": "302h",
+              "numText": "§ 302h.",
+              "heading": "Special pay: accession bonus for dental officers",
+              "identifier": "/us/usc/t37/s302h"
+            },
+            {
+              "number": "302i",
+              "numText": "§ 302i.",
+              "heading": "Special pay: pharmacy officers",
+              "identifier": "/us/usc/t37/s302i"
+            },
+            {
+              "number": "302j",
+              "numText": "§ 302j.",
+              "heading": "Special pay: accession bonus for pharmacy officers",
+              "identifier": "/us/usc/t37/s302j"
+            },
+            {
+              "number": "302k",
+              "numText": "§ 302k.",
+              "heading": "Special pay: accession bonus for medical officers in critically short wartime specialties",
+              "identifier": "/us/usc/t37/s302k"
+            },
+            {
+              "number": "302l",
+              "numText": "§ 302l.",
+              "heading": "Special pay: accession bonus for dental specialist officers in critically short wartime specialties",
+              "identifier": "/us/usc/t37/s302l"
+            },
+            {
+              "number": "303",
+              "numText": "§ 303.",
+              "heading": "Special pay: veterinarians",
+              "identifier": "/us/usc/t37/s303"
+            },
+            {
+              "number": "303a",
+              "numText": "§ 303a.",
+              "heading": "Special pay: general provisions",
+              "identifier": "/us/usc/t37/s303a"
+            },
+            {
+              "number": "303b",
+              "numText": "§ 303b.",
+              "heading": "Waiver of board certification requirements",
+              "identifier": "/us/usc/t37/s303b"
+            },
+            {
+              "number": "304",
+              "numText": "§ 304.",
+              "heading": "Special pay: diving duty",
+              "identifier": "/us/usc/t37/s304"
+            },
+            {
+              "number": "305",
+              "numText": "§ 305.",
+              "heading": "Special pay: hardship duty pay",
+              "identifier": "/us/usc/t37/s305"
+            },
+            {
+              "number": "305a",
+              "numText": "§ 305a.",
+              "heading": "Special pay: career sea pay",
+              "identifier": "/us/usc/t37/s305a"
+            },
+            {
+              "number": "305b",
+              "numText": "§ 305b.",
+              "heading": "Special pay: service as member of Weapons of Mass Destruction Civil Support Team",
+              "identifier": "/us/usc/t37/s305b"
+            },
+            {
+              "number": "306",
+              "numText": "§ 306.",
+              "heading": "Special pay: officers holding positions of unusual responsibility and of critical nature",
+              "identifier": "/us/usc/t37/s306"
+            },
+            {
+              "number": "306a",
+              "numText": "§ 306a.",
+              "heading": "Special pay: members assigned to international military headquarters",
+              "identifier": "/us/usc/t37/s306a"
+            },
+            {
+              "number": "307",
+              "numText": "§ 307.",
+              "heading": "Special pay: special duty assignment pay for enlisted members",
+              "identifier": "/us/usc/t37/s307"
+            },
+            {
+              "number": "307a",
+              "numText": "§ 307a.",
+              "heading": "Special pay: assignment incentive pay",
+              "identifier": "/us/usc/t37/s307a"
+            },
+            {
+              "number": "308",
+              "numText": "§ 308.",
+              "heading": "Special pay: reenlistment bonus",
+              "identifier": "/us/usc/t37/s308"
+            },
+            {
+              "number": "308a",
+              "numText": "[§ 308a.",
+              "heading": "Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, § 624(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–153]",
+              "identifier": "/us/usc/t37/s308a"
+            },
+            {
+              "number": "308b",
+              "numText": "§ 308b.",
+              "heading": "Special pay: reenlistment bonus for members of the Selected Reserve",
+              "identifier": "/us/usc/t37/s308b"
+            },
+            {
+              "number": "308c",
+              "numText": "§ 308c.",
+              "heading": "Special pay: bonus for affiliation or enlistment in the Selected Reserve",
+              "identifier": "/us/usc/t37/s308c"
+            },
+            {
+              "number": "308d",
+              "numText": "§ 308d.",
+              "heading": "Special pay: members of the Selected Reserve assigned to certain high priority units",
+              "identifier": "/us/usc/t37/s308d"
+            },
+            {
+              "number": "308e",
+              "numText": "[§ 308e.",
+              "heading": "Repealed. Pub. L. 109–163, div. A, title VI, § 631(b), Jan. 6, 2006, 119 Stat. 3299]",
+              "identifier": "/us/usc/t37/s308e"
+            },
+            {
+              "number": "308f",
+              "numText": "[§ 308f.",
+              "heading": "Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, § 624(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–153]",
+              "identifier": "/us/usc/t37/s308f"
+            },
+            {
+              "number": "308g",
+              "numText": "§ 308g.",
+              "heading": "Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve",
+              "identifier": "/us/usc/t37/s308g"
+            },
+            {
+              "number": "308h",
+              "numText": "§ 308h.",
+              "heading": "Special pay: bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the Selected Reserve",
+              "identifier": "/us/usc/t37/s308h"
+            },
+            {
+              "number": "308i",
+              "numText": "§ 308i.",
+              "heading": "Special pay: prior service enlistment bonus",
+              "identifier": "/us/usc/t37/s308i"
+            },
+            {
+              "number": "308j",
+              "numText": "§ 308j.",
+              "heading": "Special pay: affiliation bonus for officers in the Selected Reserve",
+              "identifier": "/us/usc/t37/s308j"
+            },
+            {
+              "number": "309",
+              "numText": "§ 309.",
+              "heading": "Special pay: enlistment bonus",
+              "identifier": "/us/usc/t37/s309"
+            },
+            {
+              "number": "310",
+              "numText": "§ 310.",
+              "heading": "Special pay: duty subject to hostile fire or imminent danger",
+              "identifier": "/us/usc/t37/s310"
+            },
+            {
+              "number": "311",
+              "numText": "[§ 311.",
+              "heading": "Repealed. Pub. L. 99–145, title VI, § 639(b), Nov. 8, 1985, 99 Stat. 651]",
+              "identifier": "/us/usc/t37/s311"
+            },
+            {
+              "number": "312",
+              "numText": "§ 312.",
+              "heading": "Special pay: nuclear-qualified officers extending period of active service",
+              "identifier": "/us/usc/t37/s312"
+            },
+            {
+              "number": "312a",
+              "numText": "[§ 312a.",
+              "heading": "Repealed. Pub. L. 109–163, div. A, title VI, § 629(d)(1), Jan. 6, 2006, 119 Stat. 3297]",
+              "identifier": "/us/usc/t37/s312a"
+            },
+            {
+              "number": "312b",
+              "numText": "§ 312b.",
+              "heading": "Special pay: nuclear career accession bonus",
+              "identifier": "/us/usc/t37/s312b"
+            },
+            {
+              "number": "312c",
+              "numText": "§ 312c.",
+              "heading": "Special pay: nuclear career annual incentive bonus",
+              "identifier": "/us/usc/t37/s312c"
+            },
+            {
+              "number": "313",
+              "numText": "[§ 313.",
+              "heading": "Repealed. Pub. L. 96–513, title IV, § 414(a), Dec. 12, 1980, 94 Stat. 2906]",
+              "identifier": "/us/usc/t37/s313"
+            },
+            {
+              "number": "314",
+              "numText": "§ 314.",
+              "heading": "Special pay or bonus: qualified members extending duty at designated locations overseas",
+              "identifier": "/us/usc/t37/s314"
+            },
+            {
+              "number": "315",
+              "numText": "§ 315.",
+              "heading": "Special pay: engineering and scientific career continuation pay",
+              "identifier": "/us/usc/t37/s315"
+            },
+            {
+              "number": "316",
+              "numText": "§ 316.",
+              "heading": "Special pay: bonus for members with foreign language proficiency",
+              "identifier": "/us/usc/t37/s316"
+            },
+            {
+              "number": "316a",
+              "numText": "§ 316a.",
+              "heading": "Special pay: incentive pay for members of precommissioning programs pursuing foreign language proficiency",
+              "identifier": "/us/usc/t37/s316a"
+            },
+            {
+              "number": "317",
+              "numText": "§ 317.",
+              "heading": "Special pay: officers in critical acquisition positions extending period of active duty",
+              "identifier": "/us/usc/t37/s317"
+            },
+            {
+              "number": "318",
+              "numText": "§ 318.",
+              "heading": "Special pay: special warfare officers extending period of active duty",
+              "identifier": "/us/usc/t37/s318"
+            },
+            {
+              "number": "319",
+              "numText": "§ 319.",
+              "heading": "Special pay: surface warfare officer continuation pay",
+              "identifier": "/us/usc/t37/s319"
+            },
+            {
+              "number": "320",
+              "numText": "§ 320.",
+              "heading": "Incentive pay: career enlisted flyers",
+              "identifier": "/us/usc/t37/s320"
+            },
+            {
+              "number": "321",
+              "numText": "§ 321.",
+              "heading": "Special pay: judge advocate continuation pay",
+              "identifier": "/us/usc/t37/s321"
+            },
+            {
+              "number": "322",
+              "numText": "[§ 322.",
+              "heading": "Renumbered § 354]",
+              "identifier": "/us/usc/t37/s322"
+            },
+            {
+              "number": "323",
+              "numText": "[§ 323.",
+              "heading": "Renumbered § 355]",
+              "identifier": "/us/usc/t37/s323"
+            },
+            {
+              "number": "324",
+              "numText": "§ 324.",
+              "heading": "Special pay: accession bonus for new officers in critical skills",
+              "identifier": "/us/usc/t37/s324"
+            },
+            {
+              "number": "325",
+              "numText": "§ 325.",
+              "heading": "Incentive bonus: savings plan for education expenses and other contingencies",
+              "identifier": "/us/usc/t37/s325"
+            },
+            {
+              "number": "326",
+              "numText": "§ 326.",
+              "heading": "Incentive bonus: conversion to military occupational specialty to ease personnel shortage",
+              "identifier": "/us/usc/t37/s326"
+            },
+            {
+              "number": "327",
+              "numText": "§ 327.",
+              "heading": "Incentive bonus: transfer between armed forces",
+              "identifier": "/us/usc/t37/s327"
+            },
+            {
+              "number": "328",
+              "numText": "[§ 328.",
+              "heading": "Repealed. Pub. L. 114–328, div. A, title VI, § 647(a), Dec. 23, 2016, 130 Stat. 2168]",
+              "identifier": "/us/usc/t37/s328"
+            },
+            {
+              "number": "329",
+              "numText": "§ 329.",
+              "heading": "Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments",
+              "identifier": "/us/usc/t37/s329"
+            },
+            {
+              "number": "330",
+              "numText": "§ 330.",
+              "heading": "Special pay: accession bonus for officer candidates",
+              "identifier": "/us/usc/t37/s330"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES",
+          "identifier": "/us/usc/t37/ch5/schII",
+          "children": [
+            {
+              "number": "331",
+              "numText": "§ 331.",
+              "heading": "General bonus authority for enlisted members",
+              "identifier": "/us/usc/t37/s331"
+            },
+            {
+              "number": "332",
+              "numText": "§ 332.",
+              "heading": "General bonus authority for officers",
+              "identifier": "/us/usc/t37/s332"
+            },
+            {
+              "number": "333",
+              "numText": "§ 333.",
+              "heading": "Special bonus and incentive pay authorities for nuclear officers",
+              "identifier": "/us/usc/t37/s333"
+            },
+            {
+              "number": "334",
+              "numText": "§ 334.",
+              "heading": "Special aviation incentive pay and bonus authorities for officers",
+              "identifier": "/us/usc/t37/s334"
+            },
+            {
+              "number": "334a",
+              "numText": "§ 334a.",
+              "heading": "Special aviation incentive pay and bonus authorities: enlisted members who operate remotely piloted aircraft",
+              "identifier": "/us/usc/t37/s334a"
+            },
+            {
+              "number": "335",
+              "numText": "§ 335.",
+              "heading": "Special bonus and incentive pay authorities for officers in health professions",
+              "identifier": "/us/usc/t37/s335"
+            },
+            {
+              "number": "336",
+              "numText": "§ 336.",
+              "heading": "Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers’ Training Corps",
+              "identifier": "/us/usc/t37/s336"
+            },
+            {
+              "number": "351",
+              "numText": "§ 351.",
+              "heading": "Hazardous duty pay",
+              "identifier": "/us/usc/t37/s351"
+            },
+            {
+              "number": "352",
+              "numText": "§ 352.",
+              "heading": "Assignment pay or special duty pay",
+              "identifier": "/us/usc/t37/s352"
+            },
+            {
+              "number": "353",
+              "numText": "§ 353.",
+              "heading": "Skill incentive pay or proficiency bonus",
+              "identifier": "/us/usc/t37/s353"
+            },
+            {
+              "number": "354",
+              "numText": "§ 354.",
+              "heading": "Special pay: 15-year career status bonus for members entering service on or after August 1, 1986",
+              "identifier": "/us/usc/t37/s354"
+            },
+            {
+              "number": "355",
+              "numText": "§ 355.",
+              "heading": "Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units",
+              "identifier": "/us/usc/t37/s355"
+            },
+            {
+              "number": "356",
+              "numText": "§ 356.",
+              "heading": "Continuation pay: full TSP members with 7 to 12 years of service",
+              "identifier": "/us/usc/t37/s356"
+            },
+            {
+              "number": "357",
+              "numText": "§ 357.",
+              "heading": "Special and incentive pay authorities for members of the reserve components of the armed forces",
+              "identifier": "/us/usc/t37/s357"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t37/ch5/schIII",
+          "children": [
+            {
+              "number": "371",
+              "numText": "§ 371.",
+              "heading": "Relationship to other incentives and pays",
+              "identifier": "/us/usc/t37/s371"
+            },
+            {
+              "number": "372",
+              "numText": "§ 372.",
+              "heading": "Continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action",
+              "identifier": "/us/usc/t37/s372"
+            },
+            {
+              "number": "373",
+              "numText": "§ 373.",
+              "heading": "Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met",
+              "identifier": "/us/usc/t37/s373"
+            },
+            {
+              "number": "374",
+              "numText": "§ 374.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t37/s374"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "ALLOWANCES OTHER THAN TRAVEL AND TRANSPORTATION ALLOWANCES",
+      "identifier": "/us/usc/t37/ch7",
+      "children": [
+        {
+          "number": "401",
+          "numText": "§ 401.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t37/s401"
+        },
+        {
+          "number": "402",
+          "numText": "§ 402.",
+          "heading": "Basic allowance for subsistence",
+          "identifier": "/us/usc/t37/s402"
+        },
+        {
+          "number": "402a",
+          "numText": "§ 402a.",
+          "heading": "Supplemental subsistence allowance for low-income members with dependents",
+          "identifier": "/us/usc/t37/s402a"
+        },
+        {
+          "number": "402b",
+          "numText": "§ 402b.",
+          "heading": "Basic needs allowance for members on active service in the Armed Forces",
+          "identifier": "/us/usc/t37/s402b"
+        },
+        {
+          "number": "403",
+          "numText": "§ 403.",
+          "heading": "Basic allowance for housing",
+          "identifier": "/us/usc/t37/s403"
+        },
+        {
+          "number": "403a",
+          "numText": "§ 403a.",
+          "heading": "Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States",
+          "identifier": "/us/usc/t37/s403a"
+        },
+        {
+          "number": "403b",
+          "numText": "§ 403b.",
+          "heading": "Cost-of-living allowance in the continental United States",
+          "identifier": "/us/usc/t37/s403b"
+        },
+        {
+          "number": "404",
+          "numText": "[§ 404.",
+          "heading": "Renumbered § 474]",
+          "identifier": "/us/usc/t37/s404"
+        },
+        {
+          "number": "404a",
+          "numText": "[§ 404a.",
+          "heading": "Renumbered § 474a]",
+          "identifier": "/us/usc/t37/s404a"
+        },
+        {
+          "number": "404b",
+          "numText": "[§ 404b.",
+          "heading": "Renumbered § 474b]",
+          "identifier": "/us/usc/t37/s404b"
+        },
+        {
+          "number": "405",
+          "numText": "§ 405.",
+          "heading": "Travel and transportation allowances: per diem while on duty outside the continental United States",
+          "identifier": "/us/usc/t37/s405"
+        },
+        {
+          "number": "405a",
+          "numText": "[§ 405a.",
+          "heading": "Renumbered § 475a]",
+          "identifier": "/us/usc/t37/s405a"
+        },
+        {
+          "number": "406",
+          "numText": "[§ 406.",
+          "heading": "Renumbered § 476]",
+          "identifier": "/us/usc/t37/s406"
+        },
+        {
+          "number": "406a",
+          "numText": "[§ 406a.",
+          "heading": "Renumbered § 476a]",
+          "identifier": "/us/usc/t37/s406a"
+        },
+        {
+          "number": "406b",
+          "numText": "[§ 406b.",
+          "heading": "Renumbered § 476b]",
+          "identifier": "/us/usc/t37/s406b"
+        },
+        {
+          "number": "406c",
+          "numText": "[§ 406c.",
+          "heading": "Renumbered § 476c]",
+          "identifier": "/us/usc/t37/s406c"
+        },
+        {
+          "number": "407",
+          "numText": "[§ 407.",
+          "heading": "Renumbered § 477]",
+          "identifier": "/us/usc/t37/s407"
+        },
+        {
+          "number": "408",
+          "numText": "[§ 408.",
+          "heading": "Renumbered § 478]",
+          "identifier": "/us/usc/t37/s408"
+        },
+        {
+          "number": "408a",
+          "numText": "[§ 408a.",
+          "heading": "Renumbered § 478a]",
+          "identifier": "/us/usc/t37/s408a"
+        },
+        {
+          "number": "409",
+          "numText": "[§ 409.",
+          "heading": "Renumbered § 479]",
+          "identifier": "/us/usc/t37/s409"
+        },
+        {
+          "number": "410",
+          "numText": "[§ 410.",
+          "heading": "Renumbered § 480]",
+          "identifier": "/us/usc/t37/s410"
+        },
+        {
+          "number": "411",
+          "numText": "[§ 411.",
+          "heading": "Renumbered § 481]",
+          "identifier": "/us/usc/t37/s411"
+        },
+        {
+          "number": "411a",
+          "numText": "[§ 411a.",
+          "heading": "Renumbered § 481a]",
+          "identifier": "/us/usc/t37/s411a"
+        },
+        {
+          "number": "411b",
+          "numText": "[§ 411b.",
+          "heading": "Renumbered § 481b]",
+          "identifier": "/us/usc/t37/s411b"
+        },
+        {
+          "number": "411c",
+          "numText": "[§ 411c.",
+          "heading": "Renumbered § 481c]",
+          "identifier": "/us/usc/t37/s411c"
+        },
+        {
+          "number": "411d",
+          "numText": "[§ 411d.",
+          "heading": "Renumbered § 481d]",
+          "identifier": "/us/usc/t37/s411d"
+        },
+        {
+          "number": "411e",
+          "numText": "[§ 411e.",
+          "heading": "Renumbered § 481e]",
+          "identifier": "/us/usc/t37/s411e"
+        },
+        {
+          "number": "411f",
+          "numText": "[§ 411f.",
+          "heading": "Renumbered § 481f]",
+          "identifier": "/us/usc/t37/s411f"
+        },
+        {
+          "number": "411g",
+          "numText": "[§ 411g.",
+          "heading": "Repealed. Pub. L. 112–81, div. A, title VI, § 631(c), Dec. 31, 2011, 125 Stat. 1460]",
+          "identifier": "/us/usc/t37/s411g"
+        },
+        {
+          "number": "411h",
+          "numText": "[§ 411h.",
+          "heading": "Renumbered § 481h]",
+          "identifier": "/us/usc/t37/s411h"
+        },
+        {
+          "number": "411i",
+          "numText": "[§ 411i.",
+          "heading": "Renumbered § 481i]",
+          "identifier": "/us/usc/t37/s411i"
+        },
+        {
+          "number": "411j",
+          "numText": "[§ 411j.",
+          "heading": "Renumbered § 481j]",
+          "identifier": "/us/usc/t37/s411j"
+        },
+        {
+          "number": "411k",
+          "numText": "[§ 411k.",
+          "heading": "Renumbered § 481k]",
+          "identifier": "/us/usc/t37/s411k"
+        },
+        {
+          "number": "411l",
+          "numText": "[§ 411l.",
+          "heading": "Renumbered § 481l]",
+          "identifier": "/us/usc/t37/s411l"
+        },
+        {
+          "number": "412",
+          "numText": "[§ 412.",
+          "heading": "Renumbered § 455]",
+          "identifier": "/us/usc/t37/s412"
+        },
+        {
+          "number": "413",
+          "numText": "§ 413.",
+          "heading": "Chairman and Vice Chairman of the Joint Chiefs of Staff",
+          "identifier": "/us/usc/t37/s413"
+        },
+        {
+          "number": "414",
+          "numText": "§ 414.",
+          "heading": "Personal money allowance",
+          "identifier": "/us/usc/t37/s414"
+        },
+        {
+          "number": "415",
+          "numText": "§ 415.",
+          "heading": "Uniform allowance: officers; initial allowance",
+          "identifier": "/us/usc/t37/s415"
+        },
+        {
+          "number": "416",
+          "numText": "§ 416.",
+          "heading": "Uniform allowance: officers; additional allowances",
+          "identifier": "/us/usc/t37/s416"
+        },
+        {
+          "number": "417",
+          "numText": "§ 417.",
+          "heading": "Uniform allowance: officers; general provisions",
+          "identifier": "/us/usc/t37/s417"
+        },
+        {
+          "number": "418",
+          "numText": "§ 418.",
+          "heading": "Clothing allowance: enlisted members",
+          "identifier": "/us/usc/t37/s418"
+        },
+        {
+          "number": "419",
+          "numText": "§ 419.",
+          "heading": "Civilian clothing allowance",
+          "identifier": "/us/usc/t37/s419"
+        },
+        {
+          "number": "420",
+          "numText": "§ 420.",
+          "heading": "Allowances while participating in international sports",
+          "identifier": "/us/usc/t37/s420"
+        },
+        {
+          "number": "421",
+          "numText": "§ 421.",
+          "heading": "Allowances: no increase while dependent is entitled to basic pay",
+          "identifier": "/us/usc/t37/s421"
+        },
+        {
+          "number": "422",
+          "numText": "§ 422.",
+          "heading": "Cadets and midshipmen",
+          "identifier": "/us/usc/t37/s422"
+        },
+        {
+          "number": "423",
+          "numText": "§ 423.",
+          "heading": "Validity of allowance payments based on purported marriages",
+          "identifier": "/us/usc/t37/s423"
+        },
+        {
+          "number": "424",
+          "numText": "§ 424.",
+          "heading": "Band leaders",
+          "identifier": "/us/usc/t37/s424"
+        },
+        {
+          "number": "425",
+          "numText": "§ 425.",
+          "heading": "United States Navy Band; United States Marine Corps Band: allowances while on concert tour",
+          "identifier": "/us/usc/t37/s425"
+        },
+        {
+          "number": "426",
+          "numText": "[§ 426.",
+          "heading": "Repealed. Pub. L. 90–377, § 10, July 5, 1968, 82 Stat. 288]",
+          "identifier": "/us/usc/t37/s426"
+        },
+        {
+          "number": "427",
+          "numText": "§ 427.",
+          "heading": "Family separation allowance",
+          "identifier": "/us/usc/t37/s427"
+        },
+        {
+          "number": "428",
+          "numText": "[§ 428.",
+          "heading": "Renumbered § 488]",
+          "identifier": "/us/usc/t37/s428"
+        },
+        {
+          "number": "429",
+          "numText": "[§ 429.",
+          "heading": "Renumbered § 489]",
+          "identifier": "/us/usc/t37/s429"
+        },
+        {
+          "number": "430",
+          "numText": "[§ 430.",
+          "heading": "Renumbered § 490]",
+          "identifier": "/us/usc/t37/s430"
+        },
+        {
+          "number": "431",
+          "numText": "§ 431.",
+          "heading": "Benefits for certain members assigned to the Defense Intelligence Agency",
+          "identifier": "/us/usc/t37/s431"
+        },
+        {
+          "number": "432",
+          "numText": "[§ 432.",
+          "heading": "Renumbered § 492]",
+          "identifier": "/us/usc/t37/s432"
+        },
+        {
+          "number": "433",
+          "numText": "§ 433.",
+          "heading": "Allowance for muster duty",
+          "identifier": "/us/usc/t37/s433"
+        },
+        {
+          "number": "433a",
+          "numText": "§ 433a.",
+          "heading": "Allowance for participation in Ready Reserve screening",
+          "identifier": "/us/usc/t37/s433a"
+        },
+        {
+          "number": "434",
+          "numText": "[§ 434.",
+          "heading": "Renumbered § 494]",
+          "identifier": "/us/usc/t37/s434"
+        },
+        {
+          "number": "435",
+          "numText": "§ 435.",
+          "heading": "Funeral honors duty: allowance",
+          "identifier": "/us/usc/t37/s435"
+        },
+        {
+          "number": "436",
+          "numText": "§ 436.",
+          "heading": "High-deployment allowance: lengthy or numerous deployments; frequent mobilizations",
+          "identifier": "/us/usc/t37/s436"
+        },
+        {
+          "number": "437",
+          "numText": "§ 437.",
+          "heading": "Allowance to cover monthly premiums for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment",
+          "identifier": "/us/usc/t37/s437"
+        },
+        {
+          "number": "438",
+          "numText": "§ 438.",
+          "heading": "Preventive health services allowance",
+          "identifier": "/us/usc/t37/s438"
+        },
+        {
+          "number": "439",
+          "numText": "§ 439.",
+          "heading": "Special compensation: members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living",
+          "identifier": "/us/usc/t37/s439"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8",
+      "heading": "TRAVEL AND TRANSPORTATION ALLOWANCES",
+      "identifier": "/us/usc/t37/ch8",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "TRAVEL AND TRANSPORTATION AUTHORITIES—NEW LAW",
+          "identifier": "/us/usc/t37/ch8/schI",
+          "children": [
+            {
+              "number": "451",
+              "numText": "§ 451.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t37/s451"
+            },
+            {
+              "number": "452",
+              "numText": "§ 452.",
+              "heading": "Allowable travel and transportation: general authorities",
+              "identifier": "/us/usc/t37/s452"
+            },
+            {
+              "number": "453",
+              "numText": "§ 453.",
+              "heading": "Allowable travel and transportation: specific authorities",
+              "identifier": "/us/usc/t37/s453"
+            },
+            {
+              "number": "454",
+              "numText": "§ 454.",
+              "heading": "Travel and transportation: pilot programs",
+              "identifier": "/us/usc/t37/s454"
+            },
+            {
+              "number": "455",
+              "numText": "§ 455.",
+              "heading": "Appropriations for travel: may not be used for attendance at certain meetings",
+              "identifier": "/us/usc/t37/s455"
+            },
+            {
+              "number": "456",
+              "numText": "§ 456.",
+              "heading": "Managed travel program refunds",
+              "identifier": "/us/usc/t37/s456"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "ADMINISTRATIVE PROVISIONS",
+          "identifier": "/us/usc/t37/ch8/schII",
+          "children": [
+            {
+              "number": "461",
+              "numText": "§ 461.",
+              "heading": "Relationship to other travel and transportation authorities",
+              "identifier": "/us/usc/t37/s461"
+            },
+            {
+              "number": "462",
+              "numText": "§ 462.",
+              "heading": "Travel and transportation allowances paid to members that are unauthorized or in excess of authorized amounts: requirement for repayment",
+              "identifier": "/us/usc/t37/s462"
+            },
+            {
+              "number": "463",
+              "numText": "§ 463.",
+              "heading": "Programs of compliance; electronic processing of travel claims",
+              "identifier": "/us/usc/t37/s463"
+            },
+            {
+              "number": "464",
+              "numText": "§ 464.",
+              "heading": "Regulations",
+              "identifier": "/us/usc/t37/s464"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "REPEALED]",
+          "identifier": "/us/usc/t37/ch8/schIII",
+          "children": [
+            {
+              "number": "471 to 474b",
+              "numText": "[§§ 471 to 474b.",
+              "heading": "Repealed. Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767]",
+              "identifier": "/us/usc/t37/s471...474b"
+            },
+            {
+              "number": "475",
+              "numText": "[§ 475.",
+              "heading": "Renumbered § 405]",
+              "identifier": "/us/usc/t37/s475"
+            },
+            {
+              "number": "475a to 490",
+              "numText": "[§§ 475a to 490.",
+              "heading": "Repealed. Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767]",
+              "identifier": "/us/usc/t37/s475a...490"
+            },
+            {
+              "number": "491",
+              "numText": "[§ 491.",
+              "heading": "Renumbered § 431]",
+              "identifier": "/us/usc/t37/s491"
+            },
+            {
+              "number": "492 to 494",
+              "numText": "[§§ 492 to 494.",
+              "heading": "Repealed. Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767]",
+              "identifier": "/us/usc/t37/s492...494"
+            },
+            {
+              "number": "495",
+              "numText": "[§ 495.",
+              "heading": "Renumbered § 435]",
+              "identifier": "/us/usc/t37/s495"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "LEAVE",
+      "identifier": "/us/usc/t37/ch9",
+      "children": [
+        {
+          "number": "501",
+          "numText": "§ 501.",
+          "heading": "Payments for unused accrued leave",
+          "identifier": "/us/usc/t37/s501"
+        },
+        {
+          "number": "502",
+          "numText": "§ 502.",
+          "heading": "Absences due to sickness, wounds, and certain other causes",
+          "identifier": "/us/usc/t37/s502"
+        },
+        {
+          "number": "503",
+          "numText": "§ 503.",
+          "heading": "Absence without leave or over leave",
+          "identifier": "/us/usc/t37/s503"
+        },
+        {
+          "number": "504",
+          "numText": "§ 504.",
+          "heading": "Cadets and midshipmen: chapter does not apply to",
+          "identifier": "/us/usc/t37/s504"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "10",
+      "heading": "PAYMENTS TO MISSING PERSONS",
+      "identifier": "/us/usc/t37/ch10",
+      "children": [
+        {
+          "number": "551",
+          "numText": "§ 551.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t37/s551"
+        },
+        {
+          "number": "552",
+          "numText": "§ 552.",
+          "heading": "Pay and allowances; continuance while in a missing status; limitations",
+          "identifier": "/us/usc/t37/s552"
+        },
+        {
+          "number": "553",
+          "numText": "§ 553.",
+          "heading": "Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations",
+          "identifier": "/us/usc/t37/s553"
+        },
+        {
+          "number": "554",
+          "numText": "[§ 554.",
+          "heading": "Renumbered § 484]",
+          "identifier": "/us/usc/t37/s554"
+        },
+        {
+          "number": "555",
+          "numText": "§ 555.",
+          "heading": "Secretarial review",
+          "identifier": "/us/usc/t37/s555"
+        },
+        {
+          "number": "556",
+          "numText": "§ 556.",
+          "heading": "Secretarial determinations",
+          "identifier": "/us/usc/t37/s556"
+        },
+        {
+          "number": "557",
+          "numText": "§ 557.",
+          "heading": "Settlement of accounts",
+          "identifier": "/us/usc/t37/s557"
+        },
+        {
+          "number": "558",
+          "numText": "§ 558.",
+          "heading": "Income tax deferment",
+          "identifier": "/us/usc/t37/s558"
+        },
+        {
+          "number": "559",
+          "numText": "§ 559.",
+          "heading": "Benefits for members held as captives",
+          "identifier": "/us/usc/t37/s559"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "11",
+      "heading": "PAYMENTS TO MENTALLY INCOMPETENT PERSONS",
+      "identifier": "/us/usc/t37/ch11",
+      "children": [
+        {
+          "number": "601",
+          "numText": "§ 601.",
+          "heading": "Applicability",
+          "identifier": "/us/usc/t37/s601"
+        },
+        {
+          "number": "602",
+          "numText": "§ 602.",
+          "heading": "Payments: designation of person to receive amounts due",
+          "identifier": "/us/usc/t37/s602"
+        },
+        {
+          "number": "603",
+          "numText": "§ 603.",
+          "heading": "Regulations",
+          "identifier": "/us/usc/t37/s603"
+        },
+        {
+          "number": "604",
+          "numText": "§ 604.",
+          "heading": "Determination of Secretary final",
+          "identifier": "/us/usc/t37/s604"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "13",
+      "heading": "ALLOTMENTS AND ASSIGNMENTS OF PAY",
+      "identifier": "/us/usc/t37/ch13",
+      "children": [
+        {
+          "number": "701",
+          "numText": "§ 701.",
+          "heading": "Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons",
+          "identifier": "/us/usc/t37/s701"
+        },
+        {
+          "number": "702",
+          "numText": "[§ 702.",
+          "heading": "Repealed. Pub. L. 99–145, title VI, § 683(b)(1), Nov. 8, 1985, 99 Stat. 665]",
+          "identifier": "/us/usc/t37/s702"
+        },
+        {
+          "number": "703",
+          "numText": "§ 703.",
+          "heading": "Allotments: members of Coast Guard",
+          "identifier": "/us/usc/t37/s703"
+        },
+        {
+          "number": "704",
+          "numText": "§ 704.",
+          "heading": "Allotments: officers of Public Health Service",
+          "identifier": "/us/usc/t37/s704"
+        },
+        {
+          "number": "705",
+          "numText": "[§ 705.",
+          "heading": "Repealed. Pub. L. 99–145, title VI, § 683(b)(1), Nov. 8, 1985, 99 Stat. 665]",
+          "identifier": "/us/usc/t37/s705"
+        },
+        {
+          "number": "706",
+          "numText": "§ 706.",
+          "heading": "Allotments: commissioned officers of the National Oceanic and Atmospheric Administration",
+          "identifier": "/us/usc/t37/s706"
+        },
+        {
+          "number": "707",
+          "numText": "§ 707.",
+          "heading": "Allotments: members of the National Guard",
+          "identifier": "/us/usc/t37/s707"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "15",
+      "heading": "PROHIBITIONS AND PENALTIES",
+      "identifier": "/us/usc/t37/ch15",
+      "children": [
+        {
+          "number": "801",
+          "numText": "[§ 801.",
+          "heading": "Repealed. Pub. L. 103–355, title VI, § 6001(a)(1), Oct. 13, 1994, 108 Stat. 3362]",
+          "identifier": "/us/usc/t37/s801"
+        },
+        {
+          "number": "802",
+          "numText": "§ 802.",
+          "heading": "Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs",
+          "identifier": "/us/usc/t37/s802"
+        },
+        {
+          "number": "803",
+          "numText": "§ 803.",
+          "heading": "Commissioned officers of the Army, Air Force, or Space Force: forfeiture of pay when dropped from rolls",
+          "identifier": "/us/usc/t37/s803"
+        },
+        {
+          "number": "804",
+          "numText": "[§ 804.",
+          "heading": "Repealed. Pub. L. 104–106, div. A, title XI, § 1122(c)(1), Feb. 10, 1996, 110 Stat. 463]",
+          "identifier": "/us/usc/t37/s804"
+        },
+        {
+          "number": "805",
+          "numText": "[§ 805.",
+          "heading": "Repealed. Pub. L. 99–145, title VI, § 683(b)(1), Nov. 8, 1985, 99 Stat. 665]",
+          "identifier": "/us/usc/t37/s805"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "17",
+      "heading": "MISCELLANEOUS RIGHTS AND BENEFITS",
+      "identifier": "/us/usc/t37/ch17",
+      "children": [
+        {
+          "number": "901",
+          "numText": "§ 901.",
+          "heading": "Wartime pay of officer of armed force exercising command higher than his grade",
+          "identifier": "/us/usc/t37/s901"
+        },
+        {
+          "number": "902",
+          "numText": "§ 902.",
+          "heading": "Pay of crews of wrecked or lost naval vessels",
+          "identifier": "/us/usc/t37/s902"
+        },
+        {
+          "number": "903",
+          "numText": "§ 903.",
+          "heading": "Retired members recalled to active duty; former members",
+          "identifier": "/us/usc/t37/s903"
+        },
+        {
+          "number": "904",
+          "numText": "[§ 904.",
+          "heading": "Repealed. Pub. L. 96–513, title IV, § 403(a), Dec. 12, 1980, 94 Stat. 2904]",
+          "identifier": "/us/usc/t37/s904"
+        },
+        {
+          "number": "905",
+          "numText": "§ 905.",
+          "heading": "Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances",
+          "identifier": "/us/usc/t37/s905"
+        },
+        {
+          "number": "906",
+          "numText": "§ 906.",
+          "heading": "Extension of enlistment: effect on pay and allowances",
+          "identifier": "/us/usc/t37/s906"
+        },
+        {
+          "number": "907",
+          "numText": "§ 907.",
+          "heading": "Enlisted members and warrant officers appointed as officers: pay and allowances stabilized",
+          "identifier": "/us/usc/t37/s907"
+        },
+        {
+          "number": "908",
+          "numText": "§ 908.",
+          "heading": "Reserves and retired members: acceptance of employment, payments, and awards from foreign governments",
+          "identifier": "/us/usc/t37/s908"
+        },
+        {
+          "number": "909",
+          "numText": "§ 909.",
+          "heading": "Special and incentive pay: payment at unreduced rates during suspension of personnel laws",
+          "identifier": "/us/usc/t37/s909"
+        },
+        {
+          "number": "910",
+          "numText": "§ 910.",
+          "heading": "Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service",
+          "identifier": "/us/usc/t37/s910"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "19",
+      "heading": "ADMINISTRATION",
+      "identifier": "/us/usc/t37/ch19",
+      "children": [
+        {
+          "number": "1001",
+          "numText": "§ 1001.",
+          "heading": "Regulations relating to pay and allowances",
+          "identifier": "/us/usc/t37/s1001"
+        },
+        {
+          "number": "1002",
+          "numText": "§ 1002.",
+          "heading": "Additional training or duty without pay: Reserves and members of National Guard",
+          "identifier": "/us/usc/t37/s1002"
+        },
+        {
+          "number": "1003",
+          "numText": "§ 1003.",
+          "heading": "Assimilation of pay and allowances",
+          "identifier": "/us/usc/t37/s1003"
+        },
+        {
+          "number": "1004",
+          "numText": "§ 1004.",
+          "heading": "Computation of pay and allowances for month or part of month",
+          "identifier": "/us/usc/t37/s1004"
+        },
+        {
+          "number": "1005",
+          "numText": "§ 1005.",
+          "heading": "Army, Air Force, and Space Force: prompt payments required",
+          "identifier": "/us/usc/t37/s1005"
+        },
+        {
+          "number": "1006",
+          "numText": "§ 1006.",
+          "heading": "Advance payments",
+          "identifier": "/us/usc/t37/s1006"
+        },
+        {
+          "number": "1007",
+          "numText": "§ 1007.",
+          "heading": "Deductions from pay",
+          "identifier": "/us/usc/t37/s1007"
+        },
+        {
+          "number": "1008",
+          "numText": "§ 1008.",
+          "heading": "Presidential recommendations concerning adjustments and changes in pay and allowances",
+          "identifier": "/us/usc/t37/s1008"
+        },
+        {
+          "number": "1009",
+          "numText": "§ 1009.",
+          "heading": "Adjustments of monthly basic pay",
+          "identifier": "/us/usc/t37/s1009"
+        },
+        {
+          "number": "1010",
+          "numText": "§ 1010.",
+          "heading": "Commissioned officers: promotions; effective date for pay and allowances",
+          "identifier": "/us/usc/t37/s1010"
+        },
+        {
+          "number": "1011",
+          "numText": "§ 1011.",
+          "heading": "Mess operation: reimbursement of expenses",
+          "identifier": "/us/usc/t37/s1011"
+        },
+        {
+          "number": "1012",
+          "numText": "§ 1012.",
+          "heading": "Disbursement and accounting: pay of enlisted members of the National Guard",
+          "identifier": "/us/usc/t37/s1012"
+        },
+        {
+          "number": "1013",
+          "numText": "§ 1013.",
+          "heading": "Payment of compensation for victims of terrorism",
+          "identifier": "/us/usc/t37/s1013"
+        },
+        {
+          "number": "1014",
+          "numText": "§ 1014.",
+          "heading": "Payment date for pay and allowances",
+          "identifier": "/us/usc/t37/s1014"
+        },
+        {
+          "number": "1015",
+          "numText": "§ 1015.",
+          "heading": "Recordation of installment payment obligations for incentive pays and similar benefits",
+          "identifier": "/us/usc/t37/s1015"
+        }
+      ]
+    }
+  ]
+}

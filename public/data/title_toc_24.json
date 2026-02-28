@@ -1,0 +1,1157 @@
+{
+  "number": "24",
+  "name": "Hospitals And Asylums",
+  "identifier": "/us/usc/t24",
+  "version": "Online@119-73not60",
+  "updated": "2025-09-29",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "NAVY HOSPITALS, ARMY AND NAVY HOSPITAL, AND HOSPITAL RELIEF FOR SEAMEN AND OTHERS",
+      "identifier": "/us/usc/t24/ch1",
+      "children": [
+        {
+          "number": "1, 2",
+          "numText": "§§ 1, 2.",
+          "heading": "Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714",
+          "identifier": "/us/usc/t24/s1 /us/usc/t24/s2"
+        },
+        {
+          "number": "3 to 5",
+          "numText": "§§ 3 to 5.",
+          "heading": "Repealed. June 15, 1943, ch. 125, § 3, 57 Stat. 153, eff. July 1, 1943",
+          "identifier": "/us/usc/t24/s3...5"
+        },
+        {
+          "number": "6",
+          "numText": "§ 6.",
+          "heading": "Pension paid to fund for benefit of naval hospital",
+          "identifier": "/us/usc/t24/s6"
+        },
+        {
+          "number": "6a",
+          "numText": "§ 6a.",
+          "heading": "Disposition of amounts deducted from pensions",
+          "identifier": "/us/usc/t24/s6a"
+        },
+        {
+          "number": "7 to 12",
+          "numText": "§§ 7 to 12.",
+          "heading": "Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714",
+          "identifier": "/us/usc/t24/s7...12"
+        },
+        {
+          "number": "13",
+          "numText": "§ 13.",
+          "heading": "Admission of cases for study",
+          "identifier": "/us/usc/t24/s13"
+        },
+        {
+          "number": "14",
+          "numText": "§ 14.",
+          "heading": "Establishment of Navy hospitals",
+          "identifier": "/us/usc/t24/s14"
+        },
+        {
+          "number": "14a",
+          "numText": "§ 14a.",
+          "heading": "Annual appropriations for maintenance, operation, and improvement of naval hospitals",
+          "identifier": "/us/usc/t24/s14a"
+        },
+        {
+          "number": "15",
+          "numText": "§ 15.",
+          "heading": "Superintendence of Navy hospitals",
+          "identifier": "/us/usc/t24/s15"
+        },
+        {
+          "number": "16",
+          "numText": "§ 16.",
+          "heading": "Allowance of rations to Navy hospitals",
+          "identifier": "/us/usc/t24/s16"
+        },
+        {
+          "number": "16a",
+          "numText": "§ 16a.",
+          "heading": "Additional personnel for patients of Department of Veterans Affairs in naval hospitals",
+          "identifier": "/us/usc/t24/s16a"
+        },
+        {
+          "number": "17",
+          "numText": "§ 17.",
+          "heading": "Government of Naval Asylum",
+          "identifier": "/us/usc/t24/s17"
+        },
+        {
+          "number": "18",
+          "numText": "§ 18.",
+          "heading": "Rules and regulations for Army and Navy Hospital",
+          "identifier": "/us/usc/t24/s18"
+        },
+        {
+          "number": "19",
+          "numText": "§ 19.",
+          "heading": "Tubercular hospital at Fort Bayard",
+          "identifier": "/us/usc/t24/s19"
+        },
+        {
+          "number": "20",
+          "numText": "§ 20.",
+          "heading": "Discipline of patients at Army and Navy Hospital",
+          "identifier": "/us/usc/t24/s20"
+        },
+        {
+          "number": "21",
+          "numText": "§ 21.",
+          "heading": "Repealed. June 12, 1948, ch. 450, § 4, 62 Stat. 380",
+          "identifier": "/us/usc/t24/s21"
+        },
+        {
+          "number": "21a to 25",
+          "numText": "§§ 21a to 25.",
+          "heading": "Repealed. Pub. L. 101–510, div. A, title XV, § 1532(a), Nov. 5, 1990, 104 Stat. 1732",
+          "identifier": "/us/usc/t24/s21a...25"
+        },
+        {
+          "number": "26 to 28",
+          "numText": "§§ 26 to 28.",
+          "heading": "Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714",
+          "identifier": "/us/usc/t24/s26...28"
+        },
+        {
+          "number": "29, 29a",
+          "numText": "§§ 29, 29a.",
+          "heading": "Repealed. Oct. 31, 1951, ch. 654, § 1(45), 65 Stat. 703",
+          "identifier": "/us/usc/t24/s29 /us/usc/t24/s29a"
+        },
+        {
+          "number": "30",
+          "numText": "§ 30.",
+          "heading": "Payments to donors of blood for persons undergoing treatment at Government expense",
+          "identifier": "/us/usc/t24/s30"
+        },
+        {
+          "number": "31",
+          "numText": "§ 31.",
+          "heading": "Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641",
+          "identifier": "/us/usc/t24/s31"
+        },
+        {
+          "number": "32, 33",
+          "numText": "§§ 32, 33.",
+          "heading": "Repealed. June 7, 1956, ch. 374, § 306(2), 70 Stat. 254",
+          "identifier": "/us/usc/t24/s32 /us/usc/t24/s33"
+        },
+        {
+          "number": "34",
+          "numText": "§ 34.",
+          "heading": "Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of charges; disposition of payments",
+          "identifier": "/us/usc/t24/s34"
+        },
+        {
+          "number": "35",
+          "numText": "§ 35.",
+          "heading": "Limitation of medical, surgical or hospital services",
+          "identifier": "/us/usc/t24/s35"
+        },
+        {
+          "number": "36",
+          "numText": "§ 36.",
+          "heading": "Repealed. June 7, 1956, ch. 374, § 306(2), 70 Stat. 254",
+          "identifier": "/us/usc/t24/s36"
+        },
+        {
+          "number": "37",
+          "numText": "§ 37.",
+          "heading": "Manufacture of products by patients at naval hospitals; ownership of products",
+          "identifier": "/us/usc/t24/s37"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "SOLDIERS’ AND AIRMEN’S HOME",
+      "identifier": "/us/usc/t24/ch2",
+      "children": [
+        {
+          "number": "41 to 43",
+          "numText": "§§ 41 to 43.",
+          "heading": "Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(1)–(3), Nov. 5, 1990, 104 Stat. 1733",
+          "identifier": "/us/usc/t24/s41...43"
+        },
+        {
+          "number": "44",
+          "numText": "§ 44.",
+          "heading": "Repealed. Pub. L. 101–189, div. A, title III, § 347(1), Nov. 29, 1989, 103 Stat. 1422",
+          "identifier": "/us/usc/t24/s44"
+        },
+        {
+          "number": "44a",
+          "numText": "§ 44a.",
+          "heading": "Repealed. Pub. L. 94–454, § 2(b), Oct. 2, 1976, 90 Stat. 1518",
+          "identifier": "/us/usc/t24/s44a"
+        },
+        {
+          "number": "44b",
+          "numText": "§ 44b.",
+          "heading": "Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(4), Nov. 5, 1990, 104 Stat. 1733",
+          "identifier": "/us/usc/t24/s44b"
+        },
+        {
+          "number": "44c",
+          "numText": "§ 44c.",
+          "heading": "Repealed. Pub. L. 101–189, div. A, title III, § 347(4), Nov. 29, 1989, 103 Stat. 1422",
+          "identifier": "/us/usc/t24/s44c"
+        },
+        {
+          "number": "45 to 46b",
+          "numText": "§§ 45 to 46b.",
+          "heading": "Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(1), (2), (5), (6), Nov. 5, 1990, 104 Stat. 1733",
+          "identifier": "/us/usc/t24/s45...46b"
+        },
+        {
+          "number": "47",
+          "numText": "§ 47.",
+          "heading": "Repealed. Pub. L. 101–189, div. A, title III, § 347(3), Nov. 29, 1989, 103 Stat. 1422",
+          "identifier": "/us/usc/t24/s47"
+        },
+        {
+          "number": "48 to 50",
+          "numText": "§§ 48 to 50.",
+          "heading": "Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(1), (2), Nov. 5, 1990, 104 Stat. 1733",
+          "identifier": "/us/usc/t24/s48...50"
+        },
+        {
+          "number": "51 to 53",
+          "numText": "§§ 51 to 53.",
+          "heading": "Repealed. Pub. L. 101–189, div. A, title III, § 347(1), (2), Nov. 29, 1989, 103 Stat. 1422",
+          "identifier": "/us/usc/t24/s51...53"
+        },
+        {
+          "number": "54",
+          "numText": "§ 54.",
+          "heading": "Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(1), Nov. 5, 1990, 104 Stat. 1733",
+          "identifier": "/us/usc/t24/s54"
+        },
+        {
+          "number": "55 to 57",
+          "numText": "§§ 55 to 57.",
+          "heading": "Repealed. Pub. L. 101–189, div. A, title III, § 347(2), Nov. 29, 1989, 103 Stat. 1422",
+          "identifier": "/us/usc/t24/s55...57"
+        },
+        {
+          "number": "58",
+          "numText": "§ 58.",
+          "heading": "Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641",
+          "identifier": "/us/usc/t24/s58"
+        },
+        {
+          "number": "59",
+          "numText": "§ 59.",
+          "heading": "Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(2), Nov. 5, 1990, 104 Stat. 1733",
+          "identifier": "/us/usc/t24/s59"
+        },
+        {
+          "number": "60",
+          "numText": "§ 60.",
+          "heading": "Repealed. Pub. L. 101–189, div. A, title III, § 347(2), Nov. 29, 1989, 103 Stat. 1422",
+          "identifier": "/us/usc/t24/s60"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "NATIONAL HOME FOR DISABLED VOLUNTEER SOLDIERS",
+      "identifier": "/us/usc/t24/ch3",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "ESTABLISHMENT AND MANAGEMENT",
+          "identifier": "/us/usc/t24/ch3/schI",
+          "children": [
+            {
+              "number": "71 to 77a",
+              "numText": "§§ 71 to 77a.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(1), (6), (9), (16), (35), (59), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272",
+              "identifier": "/us/usc/t24/s71...77a"
+            },
+            {
+              "number": "78",
+              "numText": "§ 78.",
+              "heading": "Repealed. Pub. L. 85–56, title XXII, § 2202(58), June 17, 1957, 71 Stat. 164",
+              "identifier": "/us/usc/t24/s78"
+            },
+            {
+              "number": "79",
+              "numText": "§ 79.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t24/s79"
+            },
+            {
+              "number": "80 to 82",
+              "numText": "§§ 80 to 82.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(3), (18), (19), Sept. 2, 1958, 72 Stat. 1268, 1270",
+              "identifier": "/us/usc/t24/s80...82"
+            },
+            {
+              "number": "83",
+              "numText": "§ 83.",
+              "heading": "Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641",
+              "identifier": "/us/usc/t24/s83"
+            },
+            {
+              "number": "84",
+              "numText": "§ 84.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(16), Sept. 2, 1958, 72 Stat. 1269",
+              "identifier": "/us/usc/t24/s84"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "OFFICERS AND EMPLOYEES",
+          "identifier": "/us/usc/t24/ch3/schII",
+          "children": [
+            {
+              "number": "91",
+              "numText": "§ 91.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(1), Sept. 2, 1958, 72 Stat. 1268",
+              "identifier": "/us/usc/t24/s91"
+            },
+            {
+              "number": "92",
+              "numText": "§ 92.",
+              "heading": "Repealed. Pub. L. 85–56, title XXII, § 2202(66), June 17, 1957, 71 Stat. 162",
+              "identifier": "/us/usc/t24/s92"
+            },
+            {
+              "number": "93 to 96",
+              "numText": "§§ 93 to 96.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(16), (23), (25), Sept. 2, 1958, 72 Stat. 1269, 1270",
+              "identifier": "/us/usc/t24/s93...96"
+            },
+            {
+              "number": "97",
+              "numText": "§ 97.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t24/s97"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "FUNDS AND ACCOUNTS",
+          "identifier": "/us/usc/t24/ch3/schIII",
+          "children": [
+            {
+              "number": "111 to 123",
+              "numText": "§§ 111 to 123.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(1), (2), (7), (9), (14)–(16), (22), (25), (27), (34), (46), Sept. 2, 1958, 72 Stat. 1268–1271",
+              "identifier": "/us/usc/t24/s111...123"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "BENEFICIARIES AND PENSIONS",
+          "identifier": "/us/usc/t24/ch3/schIV",
+          "children": [
+            {
+              "number": "131",
+              "numText": "§ 131.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(49), Sept. 2, 1958, 72 Stat. 1271",
+              "identifier": "/us/usc/t24/s131"
+            },
+            {
+              "number": "131a, 131b",
+              "numText": "§§ 131a, 131b.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t24/s131a /us/usc/t24/s131b"
+            },
+            {
+              "number": "132",
+              "numText": "§ 132.",
+              "heading": "Repealed. Pub. L. 85–56, title XXII, § 2202(100), June 17, 1957, 71 Stat. 166",
+              "identifier": "/us/usc/t24/s132"
+            },
+            {
+              "number": "133 to 135",
+              "numText": "§§ 133 to 135.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(1), (10), (12), (50), (52), (64), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272",
+              "identifier": "/us/usc/t24/s133...135"
+            },
+            {
+              "number": "136",
+              "numText": "§ 136.",
+              "heading": "Repealed. Pub. L. 85–56, title XXII, § 2202(1), (85), June 17, 1957, 71 Stat. 162, 165",
+              "identifier": "/us/usc/t24/s136"
+            },
+            {
+              "number": "137",
+              "numText": "§ 137.",
+              "heading": "Repealed. July 3, 1930, ch. 863, § 7, 46 Stat. 1018",
+              "identifier": "/us/usc/t24/s137"
+            },
+            {
+              "number": "138, 139",
+              "numText": "§§ 138, 139.",
+              "heading": "Repealed. Pub. L. 85–857, § 14(4), (5), (26), Sept. 2, 1958, 72 Stat. 1269, 1270",
+              "identifier": "/us/usc/t24/s138 /us/usc/t24/s139"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "BATTLE MOUNTAIN SANITARIUM RESERVE",
+          "identifier": "/us/usc/t24/ch3/schV",
+          "children": [
+            {
+              "number": "151",
+              "numText": "§ 151.",
+              "heading": "Battle Mountain Sanitarium Reserve; establishment; rights to lands, not affected",
+              "identifier": "/us/usc/t24/s151"
+            },
+            {
+              "number": "152",
+              "numText": "§ 152.",
+              "heading": "Name; control, rules and regulations",
+              "identifier": "/us/usc/t24/s152"
+            },
+            {
+              "number": "153",
+              "numText": "§ 153.",
+              "heading": "Perfecting bona fide claims to lands; exchange of private lands",
+              "identifier": "/us/usc/t24/s153"
+            },
+            {
+              "number": "154",
+              "numText": "§ 154.",
+              "heading": "Unlawful intrusion, or violation of rules and regulations",
+              "identifier": "/us/usc/t24/s154"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "SAINT ELIZABETHS HOSPITAL",
+      "identifier": "/us/usc/t24/ch4",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "ESTABLISHMENT AND MANAGEMENT; PENSIONS, MONEYS, AND APPROPRIATIONS",
+          "identifier": "/us/usc/t24/ch4/schI",
+          "children": [
+            {
+              "number": "161",
+              "numText": "§ 161.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s161"
+            },
+            {
+              "number": "162, 163",
+              "numText": "§§ 162, 163.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632",
+              "identifier": "/us/usc/t24/s162 /us/usc/t24/s163"
+            },
+            {
+              "number": "164, 165",
+              "numText": "§§ 164, 165.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s164 /us/usc/t24/s165"
+            },
+            {
+              "number": "165a",
+              "numText": "§ 165a.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t24/s165a"
+            },
+            {
+              "number": "166",
+              "numText": "§ 166.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(b), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s166"
+            },
+            {
+              "number": "167",
+              "numText": "§ 167.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644",
+              "identifier": "/us/usc/t24/s167"
+            },
+            {
+              "number": "168",
+              "numText": "§ 168.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(c), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s168"
+            },
+            {
+              "number": "168a",
+              "numText": "§ 168a.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s168a"
+            },
+            {
+              "number": "168b",
+              "numText": "§ 168b.",
+              "heading": "Computation of maximum amount available from Federal sources",
+              "identifier": "/us/usc/t24/s168b"
+            },
+            {
+              "number": "169, 169a",
+              "numText": "§§ 169, 169a.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s169 /us/usc/t24/s169a"
+            },
+            {
+              "number": "170",
+              "numText": "§ 170.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s170"
+            },
+            {
+              "number": "170a",
+              "numText": "§ 170a.",
+              "heading": "Maximum amount available from Federal sources",
+              "identifier": "/us/usc/t24/s170a"
+            },
+            {
+              "number": "171",
+              "numText": "§ 171.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(e), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s171"
+            },
+            {
+              "number": "172",
+              "numText": "§ 172.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(f)(1), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s172"
+            },
+            {
+              "number": "173, 174",
+              "numText": "§§ 173, 174.",
+              "heading": "Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(20), (21), formerly title V, § 602(a)(20), (21), 63 Stat. 400, 401, eff. July 1, 1949; renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583",
+              "identifier": "/us/usc/t24/s173 /us/usc/t24/s174"
+            },
+            {
+              "number": "175",
+              "numText": "§ 175.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(g), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s175"
+            },
+            {
+              "number": "176",
+              "numText": "§ 176.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(c), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s176"
+            },
+            {
+              "number": "177",
+              "numText": "§ 177.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(h), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s177"
+            },
+            {
+              "number": "178",
+              "numText": "§ 178.",
+              "heading": "Repealed. Oct. 31, 1951, ch. 654, § 1(46), 65 Stat. 703",
+              "identifier": "/us/usc/t24/s178"
+            },
+            {
+              "number": "179",
+              "numText": "§ 179.",
+              "heading": "Repealed. Aug. 7, 1946, ch. 770, § 1(59), 60 Stat. 871",
+              "identifier": "/us/usc/t24/s179"
+            },
+            {
+              "number": "180",
+              "numText": "§ 180.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(i), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s180"
+            },
+            {
+              "number": "181 to 184",
+              "numText": "§§ 181 to 184.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(j), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s181...184"
+            },
+            {
+              "number": "185",
+              "numText": "§ 185.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s185"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "INMATES; BURDEN OF EXPENSES THEREOF; DETENTION OF INSANE",
+          "identifier": "/us/usc/t24/ch4/schII",
+          "children": [
+            {
+              "number": "191",
+              "numText": "§ 191.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s191"
+            },
+            {
+              "number": "191a",
+              "numText": "§ 191a.",
+              "heading": "Repealed. Pub. L. 86–571, § 10(a), July 5, 1960, 74 Stat. 310",
+              "identifier": "/us/usc/t24/s191a"
+            },
+            {
+              "number": "192",
+              "numText": "§ 192.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(k), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s192"
+            },
+            {
+              "number": "193",
+              "numText": "§ 193.",
+              "heading": "Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714",
+              "identifier": "/us/usc/t24/s193"
+            },
+            {
+              "number": "194",
+              "numText": "§ 194.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(l), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s194"
+            },
+            {
+              "number": "195",
+              "numText": "§ 195.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(f)(2), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s195"
+            },
+            {
+              "number": "195a",
+              "numText": "§ 195a.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s195a"
+            },
+            {
+              "number": "196",
+              "numText": "§ 196.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(m), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s196"
+            },
+            {
+              "number": "196a",
+              "numText": "§ 196a.",
+              "heading": "Repealed. Pub. L. 86–571, § 10(b), July 5, 1960, 74 Stat. 310",
+              "identifier": "/us/usc/t24/s196a"
+            },
+            {
+              "number": "196b",
+              "numText": "§ 196b.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(n), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s196b"
+            },
+            {
+              "number": "197",
+              "numText": "§ 197.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(o), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s197"
+            },
+            {
+              "number": "198",
+              "numText": "§ 198.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(p), Nov. 8, 1984, 98 Stat. 3381",
+              "identifier": "/us/usc/t24/s198"
+            },
+            {
+              "number": "199, 200",
+              "numText": "§§ 199, 200.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(k)(2), Nov. 8, 1984, 98 Stat. 3380",
+              "identifier": "/us/usc/t24/s199 /us/usc/t24/s200"
+            },
+            {
+              "number": "201",
+              "numText": "§ 201.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s201"
+            },
+            {
+              "number": "202",
+              "numText": "§ 202.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(u), Nov. 8, 1984, 98 Stat. 3381",
+              "identifier": "/us/usc/t24/s202"
+            },
+            {
+              "number": "203",
+              "numText": "§ 203.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(v), Nov. 8, 1984, 98 Stat. 3381",
+              "identifier": "/us/usc/t24/s203"
+            },
+            {
+              "number": "204",
+              "numText": "§ 204.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s204"
+            },
+            {
+              "number": "205",
+              "numText": "§ 205.",
+              "heading": "Repealed. Pub. L. 88–597, § 19(d), Sept. 15, 1964, 78 Stat. 953",
+              "identifier": "/us/usc/t24/s205"
+            },
+            {
+              "number": "206",
+              "numText": "§ 206.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s206"
+            },
+            {
+              "number": "207",
+              "numText": "§ 207.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t24/s207"
+            },
+            {
+              "number": "208 to 210h",
+              "numText": "§§ 208 to 210h.",
+              "heading": "Repealed. Pub. L. 89–183, § 8, Sept. 14, 1965, 79 Stat. 784, 785, 787",
+              "identifier": "/us/usc/t24/s208...210h"
+            },
+            {
+              "number": "211 to 211b",
+              "numText": "§§ 211 to 211b.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s211...211b"
+            },
+            {
+              "number": "212 to 214",
+              "numText": "§§ 212 to 214.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(q), Nov. 8, 1984, 98 Stat. 3381",
+              "identifier": "/us/usc/t24/s212...214"
+            },
+            {
+              "number": "215 to 220",
+              "numText": "§§ 215 to 220.",
+              "heading": "Repealed. Pub. L. 88–597, § 19(c), Sept. 15, 1964, 78 Stat. 953",
+              "identifier": "/us/usc/t24/s215...220"
+            },
+            {
+              "number": "221, 222",
+              "numText": "§§ 221, 222.",
+              "heading": "Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379",
+              "identifier": "/us/usc/t24/s221 /us/usc/t24/s222"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA",
+          "identifier": "/us/usc/t24/ch4/schIII",
+          "children": [
+            {
+              "number": "225",
+              "numText": "§ 225.",
+              "heading": "Findings and purposes",
+              "identifier": "/us/usc/t24/s225"
+            },
+            {
+              "number": "225a",
+              "numText": "§ 225a.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t24/s225a"
+            },
+            {
+              "number": "225b",
+              "numText": "§ 225b.",
+              "heading": "Development of plan for mental health system for the District",
+              "identifier": "/us/usc/t24/s225b"
+            },
+            {
+              "number": "225c",
+              "numText": "§ 225c.",
+              "heading": "Congressional review of system implementation plan",
+              "identifier": "/us/usc/t24/s225c"
+            },
+            {
+              "number": "225d",
+              "numText": "§ 225d.",
+              "heading": "Transition provisions for employees of Hospital",
+              "identifier": "/us/usc/t24/s225d"
+            },
+            {
+              "number": "225e",
+              "numText": "§ 225e.",
+              "heading": "Conditions of employment for former employees of Hospital",
+              "identifier": "/us/usc/t24/s225e"
+            },
+            {
+              "number": "225f",
+              "numText": "§ 225f.",
+              "heading": "Property transfer",
+              "identifier": "/us/usc/t24/s225f"
+            },
+            {
+              "number": "225g",
+              "numText": "§ 225g.",
+              "heading": "Financing provisions",
+              "identifier": "/us/usc/t24/s225g"
+            },
+            {
+              "number": "225h",
+              "numText": "§ 225h.",
+              "heading": "Buy American provisions",
+              "identifier": "/us/usc/t24/s225h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "COLUMBIA INSTITUTION FOR THE DEAF",
+      "identifier": "/us/usc/t24/ch5",
+      "children": [
+        {
+          "number": "231 to 250",
+          "numText": "§§ 231 to 250.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t24/s231...250"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "FREEDMEN’S HOSPITAL",
+      "identifier": "/us/usc/t24/ch6",
+      "children": [
+        {
+          "number": "261 to 264",
+          "numText": "§§ 261 to 264.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t24/s261...264"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "NATIONAL CEMETERIES",
+      "identifier": "/us/usc/t24/ch7",
+      "children": [
+        {
+          "number": "271 to 276",
+          "numText": "§§ 271 to 276.",
+          "heading": "Repealed. Pub. L. 93–43, § 7(a)(1)–(3), (61), June 18, 1973, 87 Stat. 82, 88",
+          "identifier": "/us/usc/t24/s271...276"
+        },
+        {
+          "number": "277",
+          "numText": "§ 277.",
+          "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 646",
+          "identifier": "/us/usc/t24/s277"
+        },
+        {
+          "number": "278 to 279d",
+          "numText": "§§ 278 to 279d.",
+          "heading": "Repealed. Pub. L. 93–43, § 7(a)(1), (4), (5), (7), June 18, 1973, 87 Stat. 82",
+          "identifier": "/us/usc/t24/s278...279d"
+        },
+        {
+          "number": "280 to 280b",
+          "numText": "§§ 280 to 280b.",
+          "heading": "Repealed. July 1, 1948, ch. 791, § 4, 62 Stat. 1216",
+          "identifier": "/us/usc/t24/s280...280b"
+        },
+        {
+          "number": "281 to 282",
+          "numText": "§§ 281 to 282.",
+          "heading": "Repealed. Pub. L. 93–43, § 7(a)(6), (8), (10)–(12), (60), June 18, 1973, 87 Stat. 82, 88",
+          "identifier": "/us/usc/t24/s281...282"
+        },
+        {
+          "number": "283 to 285",
+          "numText": "§§ 283 to 285.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t24/s283...285"
+        },
+        {
+          "number": "286 to 290",
+          "numText": "§§ 286 to 290.",
+          "heading": "Repealed. Pub. L. 93–43, § 7(a)(1), (13)–(18), (42), (44)–(46), June 18, 1973, 87 Stat. 82, 83, 85",
+          "identifier": "/us/usc/t24/s286...290"
+        },
+        {
+          "number": "291 to 295",
+          "numText": "§§ 291 to 295.",
+          "heading": "Repealed. Pub. L. 86–694, § 2, Sept. 2, 1960, 74 Stat. 739",
+          "identifier": "/us/usc/t24/s291...295"
+        },
+        {
+          "number": "295a",
+          "numText": "§ 295a.",
+          "heading": "Arlington Memorial Amphitheater",
+          "identifier": "/us/usc/t24/s295a"
+        },
+        {
+          "number": "296",
+          "numText": "§ 296.",
+          "heading": "Repealed. Pub. L. 93–43, § 7(a)(9), June 18, 1973, 87 Stat. 82",
+          "identifier": "/us/usc/t24/s296"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7A",
+      "heading": "PRIVATE AND COMMERCIAL CEMETERIES",
+      "identifier": "/us/usc/t24/ch7A",
+      "children": [
+        {
+          "number": "298",
+          "numText": "§ 298.",
+          "heading": "Repealed. Oct. 31, 1951, ch. 654, § 1(47), 65 Stat. 703",
+          "identifier": "/us/usc/t24/s298"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8",
+      "heading": "GORGAS HOSPITAL",
+      "identifier": "/us/usc/t24/ch8",
+      "children": [
+        {
+          "number": "301",
+          "numText": "§ 301.",
+          "heading": "Ancon Hospital to be known as Gorgas Hospital",
+          "identifier": "/us/usc/t24/s301"
+        },
+        {
+          "number": "302",
+          "numText": "§ 302.",
+          "heading": "Change of name as affecting various rights; rec­ords, maps, and public documents",
+          "identifier": "/us/usc/t24/s302"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "HOSPITALIZATION OF MENTALLY ILL NATIONALS RETURNED FROM FOREIGN COUNTRIES",
+      "identifier": "/us/usc/t24/ch9",
+      "children": [
+        {
+          "number": "321",
+          "numText": "§ 321.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t24/s321"
+        },
+        {
+          "number": "322",
+          "numText": "§ 322.",
+          "heading": "Reception of eligible persons at ports of entry or debarkation",
+          "identifier": "/us/usc/t24/s322"
+        },
+        {
+          "number": "323",
+          "numText": "§ 323.",
+          "heading": "Transfer and release to State of residence or legal domicile, or to relative",
+          "identifier": "/us/usc/t24/s323"
+        },
+        {
+          "number": "324",
+          "numText": "§ 324.",
+          "heading": "Care and treatment of eligible persons until transfer and release",
+          "identifier": "/us/usc/t24/s324"
+        },
+        {
+          "number": "325",
+          "numText": "§ 325.",
+          "heading": "Examination of persons admitted",
+          "identifier": "/us/usc/t24/s325"
+        },
+        {
+          "number": "326",
+          "numText": "§ 326.",
+          "heading": "Release of patient",
+          "identifier": "/us/usc/t24/s326"
+        },
+        {
+          "number": "327",
+          "numText": "§ 327.",
+          "heading": "Notification to committing court of discharge or conditional release",
+          "identifier": "/us/usc/t24/s327"
+        },
+        {
+          "number": "328",
+          "numText": "§ 328.",
+          "heading": "Payment for care and treatment",
+          "identifier": "/us/usc/t24/s328"
+        },
+        {
+          "number": "329",
+          "numText": "§ 329.",
+          "heading": "Availability of appropriations for transportation",
+          "identifier": "/us/usc/t24/s329"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "10",
+      "heading": "ARMED FORCES RETIREMENT HOME",
+      "identifier": "/us/usc/t24/ch10",
+      "children": [
+        {
+          "number": "401",
+          "numText": "§ 401.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t24/s401"
+        },
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "ESTABLISHMENT AND OPERATION OF RETIREMENT HOME",
+          "identifier": "/us/usc/t24/ch10/schI",
+          "children": [
+            {
+              "number": "411",
+              "numText": "§ 411.",
+              "heading": "Establishment of the Armed Forces Retirement Home",
+              "identifier": "/us/usc/t24/s411"
+            },
+            {
+              "number": "412",
+              "numText": "§ 412.",
+              "heading": "Residents of Retirement Home",
+              "identifier": "/us/usc/t24/s412"
+            },
+            {
+              "number": "413",
+              "numText": "§ 413.",
+              "heading": "Services provided to residents",
+              "identifier": "/us/usc/t24/s413"
+            },
+            {
+              "number": "413a",
+              "numText": "§ 413a.",
+              "heading": "Oversight of health care provided to residents",
+              "identifier": "/us/usc/t24/s413a"
+            },
+            {
+              "number": "414",
+              "numText": "§ 414.",
+              "heading": "Fees paid by residents",
+              "identifier": "/us/usc/t24/s414"
+            },
+            {
+              "number": "415",
+              "numText": "§ 415.",
+              "heading": "Chief Operating Officer",
+              "identifier": "/us/usc/t24/s415"
+            },
+            {
+              "number": "416",
+              "numText": "§ 416.",
+              "heading": "Advisory Council",
+              "identifier": "/us/usc/t24/s416"
+            },
+            {
+              "number": "416a",
+              "numText": "§ 416a.",
+              "heading": "Resident Advisory Committees",
+              "identifier": "/us/usc/t24/s416a"
+            },
+            {
+              "number": "417",
+              "numText": "§ 417.",
+              "heading": "Administrators, Ombudsmen, and staff of facilities",
+              "identifier": "/us/usc/t24/s417"
+            },
+            {
+              "number": "418",
+              "numText": "§ 418.",
+              "heading": "Periodic inspection of retirement home facilities",
+              "identifier": "/us/usc/t24/s418"
+            },
+            {
+              "number": "419",
+              "numText": "§ 419.",
+              "heading": "Armed Forces Retirement Home Trust Fund",
+              "identifier": "/us/usc/t24/s419"
+            },
+            {
+              "number": "420",
+              "numText": "§ 420.",
+              "heading": "Disposition of effects of deceased persons; unclaimed property",
+              "identifier": "/us/usc/t24/s420"
+            },
+            {
+              "number": "421",
+              "numText": "§ 421.",
+              "heading": "Payment of residents for services",
+              "identifier": "/us/usc/t24/s421"
+            },
+            {
+              "number": "422",
+              "numText": "§ 422.",
+              "heading": "Authority to accept certain uncompensated services",
+              "identifier": "/us/usc/t24/s422"
+            },
+            {
+              "number": "423",
+              "numText": "§ 423.",
+              "heading": "Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington",
+              "identifier": "/us/usc/t24/s423"
+            },
+            {
+              "number": "424",
+              "numText": "§ 424.",
+              "heading": "Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(a)(5), Dec. 28, 2001, 115 Stat. 1266",
+              "identifier": "/us/usc/t24/s424"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "TRANSITIONAL PROVISIONS",
+          "identifier": "/us/usc/t24/ch10/schII",
+          "children": [
+            {
+              "number": "431 to 433",
+              "numText": "§§ 431 to 433.",
+              "heading": "Repealed. Pub. L. 112–81, div. A, title V, § 567(a), Dec. 31, 2011, 125 Stat. 1425",
+              "identifier": "/us/usc/t24/s431...433"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "AUTHORIZATION OF APPROPRIATIONS",
+          "identifier": "/us/usc/t24/ch10/schIII",
+          "children": [
+            {
+              "number": "441",
+              "numText": "§ 441.",
+              "heading": "Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(b)(3), Dec. 28, 2001, 115 Stat. 1266",
+              "identifier": "/us/usc/t24/s441"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

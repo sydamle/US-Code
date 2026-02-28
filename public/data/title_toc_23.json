@@ -1,0 +1,1089 @@
+{
+  "number": "23",
+  "name": "Highways",
+  "identifier": "/us/usc/t23",
+  "version": "Online@119-73not60",
+  "updated": "2025-09-29",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "FEDERAL-AID HIGHWAYS",
+      "identifier": "/us/usc/t23/ch1",
+      "children": [
+        {
+          "number": "101",
+          "numText": "§ 101.",
+          "heading": "Definitions and declaration of policy",
+          "identifier": "/us/usc/t23/s101"
+        },
+        {
+          "number": "102",
+          "numText": "§ 102.",
+          "heading": "Program efficiencies",
+          "identifier": "/us/usc/t23/s102"
+        },
+        {
+          "number": "103",
+          "numText": "§ 103.",
+          "heading": "National Highway System",
+          "identifier": "/us/usc/t23/s103"
+        },
+        {
+          "number": "104",
+          "numText": "§ 104.",
+          "heading": "Apportionment",
+          "identifier": "/us/usc/t23/s104"
+        },
+        {
+          "number": "105",
+          "numText": "[§ 105.",
+          "heading": "Repealed. Pub. L. 117–58, div. A, title I, § 11501(a), Nov. 15, 2021, 135 Stat. 578]",
+          "identifier": "/us/usc/t23/s105"
+        },
+        {
+          "number": "106",
+          "numText": "§ 106.",
+          "heading": "Project approval and oversight",
+          "identifier": "/us/usc/t23/s106"
+        },
+        {
+          "number": "107",
+          "numText": "§ 107.",
+          "heading": "Acquisition of rights-of-way—Interstate System",
+          "identifier": "/us/usc/t23/s107"
+        },
+        {
+          "number": "108",
+          "numText": "§ 108.",
+          "heading": "Advance acquisition of real property",
+          "identifier": "/us/usc/t23/s108"
+        },
+        {
+          "number": "109",
+          "numText": "§ 109.",
+          "heading": "Standards",
+          "identifier": "/us/usc/t23/s109"
+        },
+        {
+          "number": "110",
+          "numText": "[§ 110.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]",
+          "identifier": "/us/usc/t23/s110"
+        },
+        {
+          "number": "111",
+          "numText": "§ 111.",
+          "heading": "Agreements relating to use of and access to rights-of-way—Interstate System",
+          "identifier": "/us/usc/t23/s111"
+        },
+        {
+          "number": "112",
+          "numText": "§ 112.",
+          "heading": "Letting of contracts",
+          "identifier": "/us/usc/t23/s112"
+        },
+        {
+          "number": "113",
+          "numText": "§ 113.",
+          "heading": "Prevailing rate of wage",
+          "identifier": "/us/usc/t23/s113"
+        },
+        {
+          "number": "114",
+          "numText": "§ 114.",
+          "heading": "Construction",
+          "identifier": "/us/usc/t23/s114"
+        },
+        {
+          "number": "115",
+          "numText": "§ 115.",
+          "heading": "Advance construction",
+          "identifier": "/us/usc/t23/s115"
+        },
+        {
+          "number": "116",
+          "numText": "§ 116.",
+          "heading": "Maintenance",
+          "identifier": "/us/usc/t23/s116"
+        },
+        {
+          "number": "117",
+          "numText": "§ 117.",
+          "heading": "Nationally significant multimodal freight and highway projects",
+          "identifier": "/us/usc/t23/s117"
+        },
+        {
+          "number": "118",
+          "numText": "§ 118.",
+          "heading": "Availability of funds",
+          "identifier": "/us/usc/t23/s118"
+        },
+        {
+          "number": "119",
+          "numText": "§ 119.",
+          "heading": "National highway performance program",
+          "identifier": "/us/usc/t23/s119"
+        },
+        {
+          "number": "120",
+          "numText": "§ 120.",
+          "heading": "Federal share payable",
+          "identifier": "/us/usc/t23/s120"
+        },
+        {
+          "number": "121",
+          "numText": "§ 121.",
+          "heading": "Payment to States for construction",
+          "identifier": "/us/usc/t23/s121"
+        },
+        {
+          "number": "122",
+          "numText": "§ 122.",
+          "heading": "Payments to States for bond and other debt instrument financing",
+          "identifier": "/us/usc/t23/s122"
+        },
+        {
+          "number": "123",
+          "numText": "§ 123.",
+          "heading": "Relocation of utility facilities",
+          "identifier": "/us/usc/t23/s123"
+        },
+        {
+          "number": "124",
+          "numText": "§ 124.",
+          "heading": "Bridge investment program",
+          "identifier": "/us/usc/t23/s124"
+        },
+        {
+          "number": "125",
+          "numText": "§ 125.",
+          "heading": "Emergency relief",
+          "identifier": "/us/usc/t23/s125"
+        },
+        {
+          "number": "126",
+          "numText": "§ 126.",
+          "heading": "Transferability of Federal-aid highway funds",
+          "identifier": "/us/usc/t23/s126"
+        },
+        {
+          "number": "127",
+          "numText": "§ 127.",
+          "heading": "Vehicle weight limitations—Interstate System",
+          "identifier": "/us/usc/t23/s127"
+        },
+        {
+          "number": "128",
+          "numText": "§ 128.",
+          "heading": "Public hearings",
+          "identifier": "/us/usc/t23/s128"
+        },
+        {
+          "number": "129",
+          "numText": "§ 129.",
+          "heading": "Toll roads, bridges, tunnels, and ferries",
+          "identifier": "/us/usc/t23/s129"
+        },
+        {
+          "number": "130",
+          "numText": "§ 130.",
+          "heading": "Railway-highway crossings",
+          "identifier": "/us/usc/t23/s130"
+        },
+        {
+          "number": "131",
+          "numText": "§ 131.",
+          "heading": "Control of outdoor advertising",
+          "identifier": "/us/usc/t23/s131"
+        },
+        {
+          "number": "132",
+          "numText": "§ 132.",
+          "heading": "Payments on Federal-aid projects undertaken by a Federal agency",
+          "identifier": "/us/usc/t23/s132"
+        },
+        {
+          "number": "133",
+          "numText": "§ 133.",
+          "heading": "Surface transportation block grant program",
+          "identifier": "/us/usc/t23/s133"
+        },
+        {
+          "number": "134",
+          "numText": "§ 134.",
+          "heading": "Metropolitan transportation planning",
+          "identifier": "/us/usc/t23/s134"
+        },
+        {
+          "number": "135",
+          "numText": "§ 135.",
+          "heading": "Statewide and nonmetropolitan transportation planning",
+          "identifier": "/us/usc/t23/s135"
+        },
+        {
+          "number": "136",
+          "numText": "§ 136.",
+          "heading": "Control of junkyards",
+          "identifier": "/us/usc/t23/s136"
+        },
+        {
+          "number": "137",
+          "numText": "§ 137.",
+          "heading": "Fringe and corridor parking facilities",
+          "identifier": "/us/usc/t23/s137"
+        },
+        {
+          "number": "138",
+          "numText": "§ 138.",
+          "heading": "Preservation of parklands",
+          "identifier": "/us/usc/t23/s138"
+        },
+        {
+          "number": "139",
+          "numText": "§ 139.",
+          "heading": "Efficient environmental reviews for project decisionmaking and One Federal Decision",
+          "identifier": "/us/usc/t23/s139"
+        },
+        {
+          "number": "140",
+          "numText": "§ 140.",
+          "heading": "Nondiscrimination",
+          "identifier": "/us/usc/t23/s140"
+        },
+        {
+          "number": "141",
+          "numText": "§ 141.",
+          "heading": "Enforcement of requirements",
+          "identifier": "/us/usc/t23/s141"
+        },
+        {
+          "number": "142",
+          "numText": "§ 142.",
+          "heading": "Public transportation",
+          "identifier": "/us/usc/t23/s142"
+        },
+        {
+          "number": "143",
+          "numText": "§ 143.",
+          "heading": "Highway use tax evasion projects",
+          "identifier": "/us/usc/t23/s143"
+        },
+        {
+          "number": "144",
+          "numText": "§ 144.",
+          "heading": "National bridge and tunnel inventory and inspection standards",
+          "identifier": "/us/usc/t23/s144"
+        },
+        {
+          "number": "145",
+          "numText": "§ 145.",
+          "heading": "Federal-State relationship",
+          "identifier": "/us/usc/t23/s145"
+        },
+        {
+          "number": "146",
+          "numText": "§ 146.",
+          "heading": "Carpool and vanpool projects",
+          "identifier": "/us/usc/t23/s146"
+        },
+        {
+          "number": "147",
+          "numText": "§ 147.",
+          "heading": "Construction of ferry boats and ferry terminal facilities",
+          "identifier": "/us/usc/t23/s147"
+        },
+        {
+          "number": "148",
+          "numText": "§ 148.",
+          "heading": "Highway safety improvement program",
+          "identifier": "/us/usc/t23/s148"
+        },
+        {
+          "number": "149",
+          "numText": "§ 149.",
+          "heading": "Congestion mitigation and air quality improvement program",
+          "identifier": "/us/usc/t23/s149"
+        },
+        {
+          "number": "150",
+          "numText": "§ 150.",
+          "heading": "National goals and performance management measures",
+          "identifier": "/us/usc/t23/s150"
+        },
+        {
+          "number": "151",
+          "numText": "§ 151.",
+          "heading": "National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors",
+          "identifier": "/us/usc/t23/s151"
+        },
+        {
+          "number": "152",
+          "numText": "§ 152.",
+          "heading": "Hazard elimination program",
+          "identifier": "/us/usc/t23/s152"
+        },
+        {
+          "number": "153",
+          "numText": "§ 153.",
+          "heading": "Use of safety belts and motorcycle helmets",
+          "identifier": "/us/usc/t23/s153"
+        },
+        {
+          "number": "154",
+          "numText": "§ 154.",
+          "heading": "Open container requirements",
+          "identifier": "/us/usc/t23/s154"
+        },
+        {
+          "number": "155",
+          "numText": "[§ 155.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]",
+          "identifier": "/us/usc/t23/s155"
+        },
+        {
+          "number": "156",
+          "numText": "§ 156.",
+          "heading": "Proceeds from the sale or lease of real property",
+          "identifier": "/us/usc/t23/s156"
+        },
+        {
+          "number": "157",
+          "numText": "§ 157.",
+          "heading": "National Environmental Policy Act of 1969 reporting program",
+          "identifier": "/us/usc/t23/s157"
+        },
+        {
+          "number": "158",
+          "numText": "§ 158.",
+          "heading": "National minimum drinking age",
+          "identifier": "/us/usc/t23/s158"
+        },
+        {
+          "number": "159",
+          "numText": "§ 159.",
+          "heading": "Revocation or suspension of drivers’ licenses of individuals convicted of drug offenses",
+          "identifier": "/us/usc/t23/s159"
+        },
+        {
+          "number": "160",
+          "numText": "[§ 160.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]",
+          "identifier": "/us/usc/t23/s160"
+        },
+        {
+          "number": "161",
+          "numText": "§ 161.",
+          "heading": "Operation of motor vehicles by intoxicated minors",
+          "identifier": "/us/usc/t23/s161"
+        },
+        {
+          "number": "162",
+          "numText": "§ 162.",
+          "heading": "National scenic byways program",
+          "identifier": "/us/usc/t23/s162"
+        },
+        {
+          "number": "163",
+          "numText": "§ 163.",
+          "heading": "Safety incentives to prevent operation of motor vehicles by intoxicated persons",
+          "identifier": "/us/usc/t23/s163"
+        },
+        {
+          "number": "164",
+          "numText": "§ 164.",
+          "heading": "Minimum penalties for repeat offenders for driving while intoxicated or driving under the influence",
+          "identifier": "/us/usc/t23/s164"
+        },
+        {
+          "number": "165",
+          "numText": "§ 165.",
+          "heading": "Territorial and Puerto Rico highway program",
+          "identifier": "/us/usc/t23/s165"
+        },
+        {
+          "number": "166",
+          "numText": "§ 166.",
+          "heading": "HOV facilities",
+          "identifier": "/us/usc/t23/s166"
+        },
+        {
+          "number": "167",
+          "numText": "§ 167.",
+          "heading": "National highway freight program",
+          "identifier": "/us/usc/t23/s167"
+        },
+        {
+          "number": "168",
+          "numText": "§ 168.",
+          "heading": "Integration of planning and environmental review",
+          "identifier": "/us/usc/t23/s168"
+        },
+        {
+          "number": "169",
+          "numText": "§ 169.",
+          "heading": "Development of programmatic mitigation plans",
+          "identifier": "/us/usc/t23/s169"
+        },
+        {
+          "number": "170",
+          "numText": "§ 170.",
+          "heading": "Funding flexibility for transportation emergencies",
+          "identifier": "/us/usc/t23/s170"
+        },
+        {
+          "number": "171",
+          "numText": "§ 171.",
+          "heading": "Wildlife crossings pilot program",
+          "identifier": "/us/usc/t23/s171"
+        },
+        {
+          "number": "172",
+          "numText": "§ 172.",
+          "heading": "Wildlife-vehicle collision reduction and habitat connectivity improvement",
+          "identifier": "/us/usc/t23/s172"
+        },
+        {
+          "number": "173",
+          "numText": "§ 173.",
+          "heading": "Rural surface transportation grant program",
+          "identifier": "/us/usc/t23/s173"
+        },
+        {
+          "number": "174",
+          "numText": "§ 174.",
+          "heading": "State human capital plans",
+          "identifier": "/us/usc/t23/s174"
+        },
+        {
+          "number": "175",
+          "numText": "§ 175.",
+          "heading": "Carbon reduction program",
+          "identifier": "/us/usc/t23/s175"
+        },
+        {
+          "number": "176",
+          "numText": "§ 176.",
+          "heading": "Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program",
+          "identifier": "/us/usc/t23/s176"
+        },
+        {
+          "number": "177",
+          "numText": "§ 177.",
+          "heading": "Neighborhood access and equity grant program",
+          "identifier": "/us/usc/t23/s177"
+        },
+        {
+          "number": "178",
+          "numText": "§ 178.",
+          "heading": "Environmental review implementation funds",
+          "identifier": "/us/usc/t23/s178"
+        },
+        {
+          "number": "179",
+          "numText": "§ 179.",
+          "heading": "Low-carbon transportation materials grants",
+          "identifier": "/us/usc/t23/s179"
+        },
+        {
+          "number": "181 to 190",
+          "numText": "[§§ 181 to 190.",
+          "heading": "Renumbered §§ 601 to 610]",
+          "identifier": "/us/usc/t23/s181...190"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "OTHER HIGHWAYS",
+      "identifier": "/us/usc/t23/ch2",
+      "children": [
+        {
+          "number": "201",
+          "numText": "§ 201.",
+          "heading": "Federal lands and tribal transportation programs",
+          "identifier": "/us/usc/t23/s201"
+        },
+        {
+          "number": "202",
+          "numText": "§ 202.",
+          "heading": "Tribal transportation program",
+          "identifier": "/us/usc/t23/s202"
+        },
+        {
+          "number": "203",
+          "numText": "§ 203.",
+          "heading": "Federal lands transportation program",
+          "identifier": "/us/usc/t23/s203"
+        },
+        {
+          "number": "204",
+          "numText": "§ 204.",
+          "heading": "Federal lands access program",
+          "identifier": "/us/usc/t23/s204"
+        },
+        {
+          "number": "205",
+          "numText": "§ 205.",
+          "heading": "Forest development roads and trails",
+          "identifier": "/us/usc/t23/s205"
+        },
+        {
+          "number": "206",
+          "numText": "§ 206.",
+          "heading": "Recreational trails program",
+          "identifier": "/us/usc/t23/s206"
+        },
+        {
+          "number": "207",
+          "numText": "§ 207.",
+          "heading": "Tribal transportation self-governance program",
+          "identifier": "/us/usc/t23/s207"
+        },
+        {
+          "number": "208",
+          "numText": "§ 208.",
+          "heading": "Safe routes to school",
+          "identifier": "/us/usc/t23/s208"
+        },
+        {
+          "number": "209",
+          "numText": "[§ 209.",
+          "heading": "Repealed. Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115]",
+          "identifier": "/us/usc/t23/s209"
+        },
+        {
+          "number": "210",
+          "numText": "§ 210.",
+          "heading": "Defense access roads",
+          "identifier": "/us/usc/t23/s210"
+        },
+        {
+          "number": "211",
+          "numText": "[§ 211.",
+          "heading": "Repealed. Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173]",
+          "identifier": "/us/usc/t23/s211"
+        },
+        {
+          "number": "212",
+          "numText": "[§ 212.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]",
+          "identifier": "/us/usc/t23/s212"
+        },
+        {
+          "number": "213",
+          "numText": "[§ 213.",
+          "heading": "Repealed. Pub. L. 114–94, div. A, title I, § 1109(c)(2), Dec. 4, 2015, 129 Stat. 1343]",
+          "identifier": "/us/usc/t23/s213"
+        },
+        {
+          "number": "214",
+          "numText": "[§ 214.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1119(b), July 6, 2012, 126 Stat. 491]",
+          "identifier": "/us/usc/t23/s214"
+        },
+        {
+          "number": "215",
+          "numText": "[§ 215.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1114(b)(2)(A), July 6, 2012, 126 Stat. 468]",
+          "identifier": "/us/usc/t23/s215"
+        },
+        {
+          "number": "216",
+          "numText": "[§ 216.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]",
+          "identifier": "/us/usc/t23/s216"
+        },
+        {
+          "number": "217",
+          "numText": "§ 217.",
+          "heading": "Bicycle transportation and pedestrian walkways",
+          "identifier": "/us/usc/t23/s217"
+        },
+        {
+          "number": "218",
+          "numText": "§ 218.",
+          "heading": "Alaska Highway",
+          "identifier": "/us/usc/t23/s218"
+        },
+        {
+          "number": "219",
+          "numText": "[§ 219.",
+          "heading": "Repealed. Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173]",
+          "identifier": "/us/usc/t23/s219"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "GENERAL PROVISIONS",
+      "identifier": "/us/usc/t23/ch3",
+      "children": [
+        {
+          "number": "301",
+          "numText": "§ 301.",
+          "heading": "Freedom from tolls",
+          "identifier": "/us/usc/t23/s301"
+        },
+        {
+          "number": "302",
+          "numText": "§ 302.",
+          "heading": "State transportation department",
+          "identifier": "/us/usc/t23/s302"
+        },
+        {
+          "number": "303",
+          "numText": "[§ 303.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]",
+          "identifier": "/us/usc/t23/s303"
+        },
+        {
+          "number": "304",
+          "numText": "§ 304.",
+          "heading": "Participation by small business enterprises",
+          "identifier": "/us/usc/t23/s304"
+        },
+        {
+          "number": "305",
+          "numText": "§ 305.",
+          "heading": "Archeological and paleontological salvage",
+          "identifier": "/us/usc/t23/s305"
+        },
+        {
+          "number": "306",
+          "numText": "§ 306.",
+          "heading": "Mapping",
+          "identifier": "/us/usc/t23/s306"
+        },
+        {
+          "number": "307",
+          "numText": "[§ 307.",
+          "heading": "Repealed. Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452]",
+          "identifier": "/us/usc/t23/s307"
+        },
+        {
+          "number": "308",
+          "numText": "§ 308.",
+          "heading": "Cooperation with Federal and State agencies and foreign countries",
+          "identifier": "/us/usc/t23/s308"
+        },
+        {
+          "number": "309",
+          "numText": "[§ 309.",
+          "heading": "Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]",
+          "identifier": "/us/usc/t23/s309"
+        },
+        {
+          "number": "310",
+          "numText": "§ 310.",
+          "heading": "Civil defense",
+          "identifier": "/us/usc/t23/s310"
+        },
+        {
+          "number": "311",
+          "numText": "§ 311.",
+          "heading": "Highway improvements strategically important to the national defense",
+          "identifier": "/us/usc/t23/s311"
+        },
+        {
+          "number": "312",
+          "numText": "§ 312.",
+          "heading": "Detail of Army, Navy, and Air Force officers",
+          "identifier": "/us/usc/t23/s312"
+        },
+        {
+          "number": "313",
+          "numText": "§ 313.",
+          "heading": "Buy America",
+          "identifier": "/us/usc/t23/s313"
+        },
+        {
+          "number": "314",
+          "numText": "§ 314.",
+          "heading": "Relief of employees in hazardous work",
+          "identifier": "/us/usc/t23/s314"
+        },
+        {
+          "number": "315",
+          "numText": "§ 315.",
+          "heading": "Rules, regulations, and recommendations",
+          "identifier": "/us/usc/t23/s315"
+        },
+        {
+          "number": "316",
+          "numText": "§ 316.",
+          "heading": "Consent by United States to conveyance of property",
+          "identifier": "/us/usc/t23/s316"
+        },
+        {
+          "number": "317",
+          "numText": "§ 317.",
+          "heading": "Appropriation for highway purposes of lands or interests in lands owned by the United States",
+          "identifier": "/us/usc/t23/s317"
+        },
+        {
+          "number": "318",
+          "numText": "§ 318.",
+          "heading": "Highway relocation due to airport",
+          "identifier": "/us/usc/t23/s318"
+        },
+        {
+          "number": "319",
+          "numText": "§ 319.",
+          "heading": "Landscaping and scenic enhancement",
+          "identifier": "/us/usc/t23/s319"
+        },
+        {
+          "number": "320",
+          "numText": "§ 320.",
+          "heading": "Bridges on Federal dams",
+          "identifier": "/us/usc/t23/s320"
+        },
+        {
+          "number": "321",
+          "numText": "§ 321.",
+          "heading": "Signs identifying funding sources",
+          "identifier": "/us/usc/t23/s321"
+        },
+        {
+          "number": "322",
+          "numText": "§ 322.",
+          "heading": "Magnetic levitation transportation technology deployment program",
+          "identifier": "/us/usc/t23/s322"
+        },
+        {
+          "number": "323",
+          "numText": "§ 323.",
+          "heading": "Donations and credits",
+          "identifier": "/us/usc/t23/s323"
+        },
+        {
+          "number": "324",
+          "numText": "§ 324.",
+          "heading": "Prohibition of discrimination on the basis of sex",
+          "identifier": "/us/usc/t23/s324"
+        },
+        {
+          "number": "325",
+          "numText": "[§ 325.",
+          "heading": "Repealed. Pub. L. 117–58, div. A, title I, § 11525(r), Nov. 15, 2021, 135 Stat. 608]",
+          "identifier": "/us/usc/t23/s325"
+        },
+        {
+          "number": "326",
+          "numText": "§ 326.",
+          "heading": "State assumption of responsibility for categorical exclusions",
+          "identifier": "/us/usc/t23/s326"
+        },
+        {
+          "number": "327",
+          "numText": "§ 327.",
+          "heading": "Surface transportation project delivery program",
+          "identifier": "/us/usc/t23/s327"
+        },
+        {
+          "number": "328",
+          "numText": "§ 328.",
+          "heading": "Eligibility for environmental restoration and pollution abatement",
+          "identifier": "/us/usc/t23/s328"
+        },
+        {
+          "number": "329",
+          "numText": "§ 329.",
+          "heading": "Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species",
+          "identifier": "/us/usc/t23/s329"
+        },
+        {
+          "number": "330",
+          "numText": "§ 330.",
+          "heading": "Program for eliminating duplication of environmental reviews",
+          "identifier": "/us/usc/t23/s330"
+        },
+        {
+          "number": "331",
+          "numText": "§ 331.",
+          "heading": "Evaluation of projects within an operational right-of-way",
+          "identifier": "/us/usc/t23/s331"
+        },
+        {
+          "number": "332",
+          "numText": "§ 332.",
+          "heading": "Pollinator-friendly practices on roadsides and highway rights-of-way",
+          "identifier": "/us/usc/t23/s332"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "HIGHWAY SAFETY",
+      "identifier": "/us/usc/t23/ch4",
+      "children": [
+        {
+          "number": "401",
+          "numText": "§ 401.",
+          "heading": "Authority of the Secretary",
+          "identifier": "/us/usc/t23/s401"
+        },
+        {
+          "number": "402",
+          "numText": "§ 402.",
+          "heading": "Highway safety programs",
+          "identifier": "/us/usc/t23/s402"
+        },
+        {
+          "number": "403",
+          "numText": "§ 403.",
+          "heading": "Highway safety research and development",
+          "identifier": "/us/usc/t23/s403"
+        },
+        {
+          "number": "404",
+          "numText": "§ 404.",
+          "heading": "High-visibility enforcement program",
+          "identifier": "/us/usc/t23/s404"
+        },
+        {
+          "number": "405",
+          "numText": "§ 405.",
+          "heading": "National priority safety programs",
+          "identifier": "/us/usc/t23/s405"
+        },
+        {
+          "number": "406",
+          "numText": "§ 406.",
+          "heading": "General requirements for Federal assistance",
+          "identifier": "/us/usc/t23/s406"
+        },
+        {
+          "number": "407",
+          "numText": "§ 407.",
+          "heading": "Discovery and admission as evidence of certain reports and surveys",
+          "identifier": "/us/usc/t23/s407"
+        },
+        {
+          "number": "408",
+          "numText": "§ 408.",
+          "heading": "Agency accountability",
+          "identifier": "/us/usc/t23/s408"
+        },
+        {
+          "number": "409",
+          "numText": "[§ 409.",
+          "heading": "Renumbered § 407]",
+          "identifier": "/us/usc/t23/s409"
+        },
+        {
+          "number": "410, 411",
+          "numText": "[§§ 410, 411.",
+          "heading": "Repealed. Pub. L. 112–141, div. C, title I, § 31109(e), (f), July 6, 2012, 126 Stat. 757]",
+          "identifier": "/us/usc/t23/s410 /us/usc/t23/s411"
+        },
+        {
+          "number": "412",
+          "numText": "[§ 412.",
+          "heading": "Renumbered § 408]",
+          "identifier": "/us/usc/t23/s412"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "RESEARCH, TECHNOLOGY, AND EDUCATION",
+      "identifier": "/us/usc/t23/ch5",
+      "children": [
+        {
+          "number": "501",
+          "numText": "§ 501.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t23/s501"
+        },
+        {
+          "number": "502",
+          "numText": "§ 502.",
+          "heading": "Surface transportation research, development, and technology",
+          "identifier": "/us/usc/t23/s502"
+        },
+        {
+          "number": "503",
+          "numText": "§ 503.",
+          "heading": "Research and technology development and deployment",
+          "identifier": "/us/usc/t23/s503"
+        },
+        {
+          "number": "504",
+          "numText": "§ 504.",
+          "heading": "Training and education",
+          "identifier": "/us/usc/t23/s504"
+        },
+        {
+          "number": "505",
+          "numText": "§ 505.",
+          "heading": "State planning and research",
+          "identifier": "/us/usc/t23/s505"
+        },
+        {
+          "number": "506, 507",
+          "numText": "[§§ 506, 507.",
+          "heading": "Repealed. Pub. L. 112–141, div. E, title II, §§ 52006(a), 52007(a), July 6, 2012, 126 Stat. 882]",
+          "identifier": "/us/usc/t23/s506 /us/usc/t23/s507"
+        },
+        {
+          "number": "508",
+          "numText": "[§ 508.",
+          "heading": "Repealed. Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581]",
+          "identifier": "/us/usc/t23/s508"
+        },
+        {
+          "number": "509",
+          "numText": "[§ 509.",
+          "heading": "Repealed. Pub. L. 112–141, div. E, title II, § 52008(a), July 6, 2012, 126 Stat. 882]",
+          "identifier": "/us/usc/t23/s509"
+        },
+        {
+          "number": "510",
+          "numText": "§ 510.",
+          "heading": "Future strategic highway research program",
+          "identifier": "/us/usc/t23/s510"
+        },
+        {
+          "number": "511",
+          "numText": "§ 511.",
+          "heading": "Multistate corridor operations and management",
+          "identifier": "/us/usc/t23/s511"
+        },
+        {
+          "number": "512",
+          "numText": "§ 512.",
+          "heading": "National ITS program plan",
+          "identifier": "/us/usc/t23/s512"
+        },
+        {
+          "number": "513",
+          "numText": "§ 513.",
+          "heading": "Use of funds for ITS activities",
+          "identifier": "/us/usc/t23/s513"
+        },
+        {
+          "number": "514",
+          "numText": "§ 514.",
+          "heading": "Goals and purposes",
+          "identifier": "/us/usc/t23/s514"
+        },
+        {
+          "number": "515",
+          "numText": "§ 515.",
+          "heading": "General authorities and requirements",
+          "identifier": "/us/usc/t23/s515"
+        },
+        {
+          "number": "516",
+          "numText": "§ 516.",
+          "heading": "Research and development",
+          "identifier": "/us/usc/t23/s516"
+        },
+        {
+          "number": "517",
+          "numText": "§ 517.",
+          "heading": "National architecture and standards",
+          "identifier": "/us/usc/t23/s517"
+        },
+        {
+          "number": "518",
+          "numText": "§ 518.",
+          "heading": "Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment",
+          "identifier": "/us/usc/t23/s518"
+        },
+        {
+          "number": "519",
+          "numText": "§ 519.",
+          "heading": "Infrastructure development",
+          "identifier": "/us/usc/t23/s519"
+        },
+        {
+          "number": "520",
+          "numText": "§ 520.",
+          "heading": "Transportation Resilience and Adaptation Centers of Excellence",
+          "identifier": "/us/usc/t23/s520"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "INFRASTRUCTURE FINANCE",
+      "identifier": "/us/usc/t23/ch6",
+      "children": [
+        {
+          "number": "601",
+          "numText": "§ 601.",
+          "heading": "Generally applicable provisions",
+          "identifier": "/us/usc/t23/s601"
+        },
+        {
+          "number": "602",
+          "numText": "§ 602.",
+          "heading": "Determination of eligibility and project selection",
+          "identifier": "/us/usc/t23/s602"
+        },
+        {
+          "number": "603",
+          "numText": "§ 603.",
+          "heading": "Secured loans",
+          "identifier": "/us/usc/t23/s603"
+        },
+        {
+          "number": "604",
+          "numText": "§ 604.",
+          "heading": "Lines of credit",
+          "identifier": "/us/usc/t23/s604"
+        },
+        {
+          "number": "605",
+          "numText": "§ 605.",
+          "heading": "Program administration",
+          "identifier": "/us/usc/t23/s605"
+        },
+        {
+          "number": "606",
+          "numText": "§ 606.",
+          "heading": "State and local permits",
+          "identifier": "/us/usc/t23/s606"
+        },
+        {
+          "number": "607",
+          "numText": "§ 607.",
+          "heading": "Regulations",
+          "identifier": "/us/usc/t23/s607"
+        },
+        {
+          "number": "608",
+          "numText": "§ 608.",
+          "heading": "Funding",
+          "identifier": "/us/usc/t23/s608"
+        },
+        {
+          "number": "609",
+          "numText": "§ 609.",
+          "heading": "Reports to Congress",
+          "identifier": "/us/usc/t23/s609"
+        },
+        {
+          "number": "610",
+          "numText": "§ 610.",
+          "heading": "State infrastructure bank program",
+          "identifier": "/us/usc/t23/s610"
+        },
+        {
+          "number": "611",
+          "numText": "§ 611.",
+          "heading": "Asset concessions and innovative finance assistance",
+          "identifier": "/us/usc/t23/s611"
+        }
+      ]
+    }
+  ]
+}

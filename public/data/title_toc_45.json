@@ -1,0 +1,2205 @@
+{
+  "number": "45",
+  "name": "Railroads",
+  "identifier": "/us/usc/t45",
+  "version": "Online@119-73not60",
+  "updated": "2024-06-14",
+  "children": [
+    {
+      "type": "chapter",
+      "number": "1",
+      "heading": "SAFETY APPLIANCES AND EQUIPMENT ON RAILROAD ENGINES AND CARS, AND PROTECTION OF EMPLOYEES AND TRAVELERS",
+      "identifier": "/us/usc/t45/ch1",
+      "children": [
+        {
+          "number": "1 to 14",
+          "numText": "§§ 1 to 14.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s1...14"
+        },
+        {
+          "number": "15",
+          "numText": "§ 15.",
+          "heading": "Repealed. Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2444",
+          "identifier": "/us/usc/t45/s15"
+        },
+        {
+          "number": "16",
+          "numText": "§ 16.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s16"
+        },
+        {
+          "number": "17 to 21",
+          "numText": "§§ 17 to 21.",
+          "heading": "Repealed. Pub. L. 97–468, title VII, § 705, Jan. 14, 1983, 96 Stat. 2580",
+          "identifier": "/us/usc/t45/s17...21"
+        },
+        {
+          "number": "22 to 43a",
+          "numText": "§§ 22 to 43a.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s22...43a"
+        },
+        {
+          "number": "44 to 46",
+          "numText": "§§ 44 to 46.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t45/s44...46"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "2",
+      "heading": "LIABILITY FOR INJURIES TO EMPLOYEES",
+      "identifier": "/us/usc/t45/ch2",
+      "children": [
+        {
+          "number": "51",
+          "numText": "§ 51.",
+          "heading": "Liability of common carriers by railroad, in interstate or foreign commerce, for injuries to employees from negligence; employee defined",
+          "identifier": "/us/usc/t45/s51"
+        },
+        {
+          "number": "52",
+          "numText": "§ 52.",
+          "heading": "Carriers in Territories or other possessions of United States",
+          "identifier": "/us/usc/t45/s52"
+        },
+        {
+          "number": "53",
+          "numText": "§ 53.",
+          "heading": "Contributory negligence; diminution of damages",
+          "identifier": "/us/usc/t45/s53"
+        },
+        {
+          "number": "54",
+          "numText": "§ 54.",
+          "heading": "Assumption of risks of employment",
+          "identifier": "/us/usc/t45/s54"
+        },
+        {
+          "number": "54a",
+          "numText": "§ 54a.",
+          "heading": "Certain Federal and State regulations deemed statutory authority",
+          "identifier": "/us/usc/t45/s54a"
+        },
+        {
+          "number": "55",
+          "numText": "§ 55.",
+          "heading": "Contract, rule, regulation, or device exempting from liability; set-off",
+          "identifier": "/us/usc/t45/s55"
+        },
+        {
+          "number": "56",
+          "numText": "§ 56.",
+          "heading": "Actions; limitation; concurrent jurisdiction of courts",
+          "identifier": "/us/usc/t45/s56"
+        },
+        {
+          "number": "57",
+          "numText": "§ 57.",
+          "heading": "Who included in term “common carrier”",
+          "identifier": "/us/usc/t45/s57"
+        },
+        {
+          "number": "58",
+          "numText": "§ 58.",
+          "heading": "Duty or liability of common carriers and rights of employees under other acts not impaired",
+          "identifier": "/us/usc/t45/s58"
+        },
+        {
+          "number": "59",
+          "numText": "§ 59.",
+          "heading": "Survival of right of action of person injured",
+          "identifier": "/us/usc/t45/s59"
+        },
+        {
+          "number": "60",
+          "numText": "§ 60.",
+          "heading": "Penalty for suppression of voluntary information incident to accidents; separability",
+          "identifier": "/us/usc/t45/s60"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "3",
+      "heading": "HOURS OF SERVICE OF EMPLOYEES",
+      "identifier": "/us/usc/t45/ch3",
+      "children": [
+        {
+          "number": "61 to 64b",
+          "numText": "§§ 61 to 64b.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s61...64b"
+        },
+        {
+          "number": "65, 66",
+          "numText": "§§ 65, 66.",
+          "heading": "Repealed. Pub. L. 104–287, § 10(b), Oct. 11, 1996, 110 Stat. 3401",
+          "identifier": "/us/usc/t45/s65 /us/usc/t45/s66"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "4",
+      "heading": "CARE OF ANIMALS IN TRANSIT",
+      "identifier": "/us/usc/t45/ch4",
+      "children": [
+        {
+          "number": "71 to 74",
+          "numText": "§§ 71 to 74.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s71...74"
+        },
+        {
+          "number": "75, 76",
+          "numText": "§§ 75, 76.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t45/s75 /us/usc/t45/s76"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "5",
+      "heading": "GOVERNMENT-AIDED RAILROADS",
+      "identifier": "/us/usc/t45/ch5",
+      "children": [
+        {
+          "number": "81 to 92",
+          "numText": "§§ 81 to 92.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s81...92"
+        },
+        {
+          "number": "92a",
+          "numText": "§ 92a.",
+          "heading": "Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641",
+          "identifier": "/us/usc/t45/s92a"
+        },
+        {
+          "number": "93",
+          "numText": "§ 93.",
+          "heading": "Transferred",
+          "identifier": "/us/usc/t45/s93"
+        },
+        {
+          "number": "94, 95",
+          "numText": "§§ 94, 95.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s94 /us/usc/t45/s95"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "6",
+      "heading": "MEDIATION, CONCILIATION, AND ARBITRATION IN CONTROVERSIES BETWEEN CARRIERS AND EMPLOYEES",
+      "identifier": "/us/usc/t45/ch6",
+      "children": [
+        {
+          "number": "101 to 125",
+          "numText": "§§ 101 to 125.",
+          "heading": "Repealed. May 20, 1926, ch. 347, § 14, 44 Stat. 587",
+          "identifier": "/us/usc/t45/s101...125"
+        },
+        {
+          "number": "126",
+          "numText": "§ 126.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s126"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "7",
+      "heading": "ADJUSTMENT BOARDS AND LABOR BOARDS",
+      "identifier": "/us/usc/t45/ch7",
+      "children": [
+        {
+          "number": "131 to 146",
+          "numText": "§§ 131 to 146.",
+          "heading": "Repealed. May 20, 1926, ch. 347, § 14, 44 Stat. 587",
+          "identifier": "/us/usc/t45/s131...146"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "8",
+      "heading": "RAILWAY LABOR",
+      "identifier": "/us/usc/t45/ch8",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t45/ch8/schI",
+          "children": [
+            {
+              "number": "151",
+              "numText": "§ 151.",
+              "heading": "Definitions; short title",
+              "identifier": "/us/usc/t45/s151"
+            },
+            {
+              "number": "151a",
+              "numText": "§ 151a.",
+              "heading": "General purposes",
+              "identifier": "/us/usc/t45/s151a"
+            },
+            {
+              "number": "152",
+              "numText": "§ 152.",
+              "heading": "General duties",
+              "identifier": "/us/usc/t45/s152"
+            },
+            {
+              "number": "153",
+              "numText": "§ 153.",
+              "heading": "National Railroad Adjustment Board",
+              "identifier": "/us/usc/t45/s153"
+            },
+            {
+              "number": "154",
+              "numText": "§ 154.",
+              "heading": "National Mediation Board",
+              "identifier": "/us/usc/t45/s154"
+            },
+            {
+              "number": "155",
+              "numText": "§ 155.",
+              "heading": "Functions of Mediation Board",
+              "identifier": "/us/usc/t45/s155"
+            },
+            {
+              "number": "156",
+              "numText": "§ 156.",
+              "heading": "Procedure in changing rates of pay, rules, and working conditions",
+              "identifier": "/us/usc/t45/s156"
+            },
+            {
+              "number": "157",
+              "numText": "§ 157.",
+              "heading": "Arbitration",
+              "identifier": "/us/usc/t45/s157"
+            },
+            {
+              "number": "158",
+              "numText": "§ 158.",
+              "heading": "Agreement to arbitrate; form and contents; signatures and acknowledgment; revocation",
+              "identifier": "/us/usc/t45/s158"
+            },
+            {
+              "number": "159",
+              "numText": "§ 159.",
+              "heading": "Award and judgment thereon; effect of chapter on individual employee",
+              "identifier": "/us/usc/t45/s159"
+            },
+            {
+              "number": "159a",
+              "numText": "§ 159a.",
+              "heading": "Special procedure for commuter service",
+              "identifier": "/us/usc/t45/s159a"
+            },
+            {
+              "number": "160",
+              "numText": "§ 160.",
+              "heading": "Emergency board",
+              "identifier": "/us/usc/t45/s160"
+            },
+            {
+              "number": "160a",
+              "numText": "§ 160a.",
+              "heading": "Rules and regulations",
+              "identifier": "/us/usc/t45/s160a"
+            },
+            {
+              "number": "161",
+              "numText": "§ 161.",
+              "heading": "Effect of partial invalidity of chapter",
+              "identifier": "/us/usc/t45/s161"
+            },
+            {
+              "number": "162",
+              "numText": "§ 162.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t45/s162"
+            },
+            {
+              "number": "163",
+              "numText": "§ 163.",
+              "heading": "Repeal of prior legislation; exception",
+              "identifier": "/us/usc/t45/s163"
+            },
+            {
+              "number": "164",
+              "numText": "§ 164.",
+              "heading": "Repealed. Oct. 10, 1940, ch. 851, § 4, 54 Stat. 1111",
+              "identifier": "/us/usc/t45/s164"
+            },
+            {
+              "number": "165",
+              "numText": "§ 165.",
+              "heading": "Evaluation and audit of Mediation Board",
+              "identifier": "/us/usc/t45/s165"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "CARRIERS BY AIR",
+          "identifier": "/us/usc/t45/ch8/schII",
+          "children": [
+            {
+              "number": "181",
+              "numText": "§ 181.",
+              "heading": "Application of subchapter I to carriers by air",
+              "identifier": "/us/usc/t45/s181"
+            },
+            {
+              "number": "182",
+              "numText": "§ 182.",
+              "heading": "Duties, penalties, benefits, and privileges of subchapter I applicable",
+              "identifier": "/us/usc/t45/s182"
+            },
+            {
+              "number": "183",
+              "numText": "§ 183.",
+              "heading": "Disputes within jurisdiction of Mediation Board",
+              "identifier": "/us/usc/t45/s183"
+            },
+            {
+              "number": "184",
+              "numText": "§ 184.",
+              "heading": "System, group, or regional boards of adjustment",
+              "identifier": "/us/usc/t45/s184"
+            },
+            {
+              "number": "185",
+              "numText": "§ 185.",
+              "heading": "National Air Transport Adjustment Board",
+              "identifier": "/us/usc/t45/s185"
+            },
+            {
+              "number": "186",
+              "numText": "§ 186.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t45/s186"
+            },
+            {
+              "number": "187",
+              "numText": "§ 187.",
+              "heading": "Separability",
+              "identifier": "/us/usc/t45/s187"
+            },
+            {
+              "number": "188",
+              "numText": "§ 188.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t45/s188"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "9",
+      "heading": "RETIREMENT OF RAILROAD EMPLOYEES",
+      "identifier": "/us/usc/t45/ch9",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "RAILROAD RETIREMENT ACT OF 1934",
+          "identifier": "/us/usc/t45/ch9/schI",
+          "children": [
+            {
+              "number": "201 to 208",
+              "numText": "§§ 201 to 208.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t45/s201...208"
+            },
+            {
+              "number": "209",
+              "numText": "§ 209.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649",
+              "identifier": "/us/usc/t45/s209"
+            },
+            {
+              "number": "210 to 214",
+              "numText": "§§ 210 to 214.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t45/s210...214"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "RAILROAD RETIREMENT ACT OF 1935",
+          "identifier": "/us/usc/t45/ch9/schII",
+          "children": [
+            {
+              "number": "215 to 228",
+              "numText": "§§ 215 to 228.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t45/s215...228"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "RAILROAD RETIREMENT ACT OF 1937",
+          "identifier": "/us/usc/t45/ch9/schIII",
+          "children": [
+            {
+              "number": "228a to 228c–1",
+              "numText": "§§ 228a to 228c–1.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t45/s228a...228c–1"
+            },
+            {
+              "number": "228d",
+              "numText": "§ 228d.",
+              "heading": "Repealed. July 31, 1946, ch. 709, § 212, 60 Stat. 729",
+              "identifier": "/us/usc/t45/s228d"
+            },
+            {
+              "number": "228e to 228z–1",
+              "numText": "§§ 228e to 228z–1.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t45/s228e...228z–1"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "RAILROAD RETIREMENT ACT OF 1974",
+          "identifier": "/us/usc/t45/ch9/schIV",
+          "children": [
+            {
+              "number": "231",
+              "numText": "§ 231.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t45/s231"
+            },
+            {
+              "number": "231a",
+              "numText": "§ 231a.",
+              "heading": "Annuity eligibility requirements",
+              "identifier": "/us/usc/t45/s231a"
+            },
+            {
+              "number": "231b",
+              "numText": "§ 231b.",
+              "heading": "Computation of annuities",
+              "identifier": "/us/usc/t45/s231b"
+            },
+            {
+              "number": "231c",
+              "numText": "§ 231c.",
+              "heading": "Computation of spouse and survivor annuities",
+              "identifier": "/us/usc/t45/s231c"
+            },
+            {
+              "number": "231d",
+              "numText": "§ 231d.",
+              "heading": "Annuity beginning and ending dates",
+              "identifier": "/us/usc/t45/s231d"
+            },
+            {
+              "number": "231e",
+              "numText": "§ 231e.",
+              "heading": "Lump sum payments",
+              "identifier": "/us/usc/t45/s231e"
+            },
+            {
+              "number": "231f",
+              "numText": "§ 231f.",
+              "heading": "Railroad Retirement Board",
+              "identifier": "/us/usc/t45/s231f"
+            },
+            {
+              "number": "231f–1",
+              "numText": "§ 231f–1.",
+              "heading": "Annual actuarial report",
+              "identifier": "/us/usc/t45/s231f–1"
+            },
+            {
+              "number": "231g",
+              "numText": "§ 231g.",
+              "heading": "Court jurisdiction",
+              "identifier": "/us/usc/t45/s231g"
+            },
+            {
+              "number": "231h",
+              "numText": "§ 231h.",
+              "heading": "Returns of compensation; conclusiveness",
+              "identifier": "/us/usc/t45/s231h"
+            },
+            {
+              "number": "231i",
+              "numText": "§ 231i.",
+              "heading": "Erroneous payments",
+              "identifier": "/us/usc/t45/s231i"
+            },
+            {
+              "number": "231j",
+              "numText": "§ 231j.",
+              "heading": "Waiver of annuities",
+              "identifier": "/us/usc/t45/s231j"
+            },
+            {
+              "number": "231k",
+              "numText": "§ 231k.",
+              "heading": "Incompetence",
+              "identifier": "/us/usc/t45/s231k"
+            },
+            {
+              "number": "231l",
+              "numText": "§ 231l.",
+              "heading": "Penalties",
+              "identifier": "/us/usc/t45/s231l"
+            },
+            {
+              "number": "231m",
+              "numText": "§ 231m.",
+              "heading": "Assignability; exemption from levy",
+              "identifier": "/us/usc/t45/s231m"
+            },
+            {
+              "number": "231n",
+              "numText": "§ 231n.",
+              "heading": "Railroad Retirement Account",
+              "identifier": "/us/usc/t45/s231n"
+            },
+            {
+              "number": "231n–1",
+              "numText": "§ 231n–1.",
+              "heading": "Social Security Equivalent Benefit Account",
+              "identifier": "/us/usc/t45/s231n–1"
+            },
+            {
+              "number": "231o",
+              "numText": "§ 231o.",
+              "heading": "Private pensions",
+              "identifier": "/us/usc/t45/s231o"
+            },
+            {
+              "number": "231p",
+              "numText": "§ 231p.",
+              "heading": "Free transportation",
+              "identifier": "/us/usc/t45/s231p"
+            },
+            {
+              "number": "231q",
+              "numText": "§ 231q.",
+              "heading": "Crediting service under Social Security Act",
+              "identifier": "/us/usc/t45/s231q"
+            },
+            {
+              "number": "231r",
+              "numText": "§ 231r.",
+              "heading": "Automatic benefit eligibility requirement adjustments",
+              "identifier": "/us/usc/t45/s231r"
+            },
+            {
+              "number": "231s",
+              "numText": "§ 231s.",
+              "heading": "Separability",
+              "identifier": "/us/usc/t45/s231s"
+            },
+            {
+              "number": "231t",
+              "numText": "§ 231t.",
+              "heading": "Short title",
+              "identifier": "/us/usc/t45/s231t"
+            },
+            {
+              "number": "231u",
+              "numText": "§ 231u.",
+              "heading": "Benefit preservation",
+              "identifier": "/us/usc/t45/s231u"
+            },
+            {
+              "number": "231v",
+              "numText": "§ 231v.",
+              "heading": "Computation and certification of account benefit ratios",
+              "identifier": "/us/usc/t45/s231v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "10",
+      "heading": "TAX ON CARRIERS AND EMPLOYEES",
+      "identifier": "/us/usc/t45/ch10",
+      "children": [
+        {
+          "number": "241 to 253",
+          "numText": "§§ 241 to 253.",
+          "heading": "Repealed. June 29, 1937, ch. 405, § 11, 50 Stat. 440",
+          "identifier": "/us/usc/t45/s241...253"
+        },
+        {
+          "number": "261 to 273",
+          "numText": "§§ 261 to 273.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t45/s261...273"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "11",
+      "heading": "RAILROAD UNEMPLOYMENT INSURANCE",
+      "identifier": "/us/usc/t45/ch11",
+      "children": [
+        {
+          "number": "351",
+          "numText": "§ 351.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t45/s351"
+        },
+        {
+          "number": "352",
+          "numText": "§ 352.",
+          "heading": "Benefits",
+          "identifier": "/us/usc/t45/s352"
+        },
+        {
+          "number": "353",
+          "numText": "§ 353.",
+          "heading": "Qualifying condition",
+          "identifier": "/us/usc/t45/s353"
+        },
+        {
+          "number": "354",
+          "numText": "§ 354.",
+          "heading": "Disqualifying conditions",
+          "identifier": "/us/usc/t45/s354"
+        },
+        {
+          "number": "355",
+          "numText": "§ 355.",
+          "heading": "Claims for benefits",
+          "identifier": "/us/usc/t45/s355"
+        },
+        {
+          "number": "355a",
+          "numText": "§ 355a.",
+          "heading": "Acceptance of claims for benefits",
+          "identifier": "/us/usc/t45/s355a"
+        },
+        {
+          "number": "356",
+          "numText": "§ 356.",
+          "heading": "Returns of compensation; conclusiveness; failure to make",
+          "identifier": "/us/usc/t45/s356"
+        },
+        {
+          "number": "357",
+          "numText": "§ 357.",
+          "heading": "Free transportation",
+          "identifier": "/us/usc/t45/s357"
+        },
+        {
+          "number": "358",
+          "numText": "§ 358.",
+          "heading": "Contributions",
+          "identifier": "/us/usc/t45/s358"
+        },
+        {
+          "number": "359",
+          "numText": "§ 359.",
+          "heading": "Penalties",
+          "identifier": "/us/usc/t45/s359"
+        },
+        {
+          "number": "360",
+          "numText": "§ 360.",
+          "heading": "Railroad unemployment insurance account",
+          "identifier": "/us/usc/t45/s360"
+        },
+        {
+          "number": "361",
+          "numText": "§ 361.",
+          "heading": "Railroad unemployment insurance administration fund",
+          "identifier": "/us/usc/t45/s361"
+        },
+        {
+          "number": "362",
+          "numText": "§ 362.",
+          "heading": "Duties and powers of Board",
+          "identifier": "/us/usc/t45/s362"
+        },
+        {
+          "number": "363",
+          "numText": "§ 363.",
+          "heading": "Exclusiveness of provisions; transfers from State unemployment compensation accounts to railroad unemployment insurance account",
+          "identifier": "/us/usc/t45/s363"
+        },
+        {
+          "number": "363a",
+          "numText": "§ 363a.",
+          "heading": "Refunds of State unemployment contributions by employees; amount; application period; definitions",
+          "identifier": "/us/usc/t45/s363a"
+        },
+        {
+          "number": "364",
+          "numText": "§ 364.",
+          "heading": "District of Columbia account, transfer of funds to railroad unemployment insurance account",
+          "identifier": "/us/usc/t45/s364"
+        },
+        {
+          "number": "365",
+          "numText": "§ 365.",
+          "heading": "Omitted",
+          "identifier": "/us/usc/t45/s365"
+        },
+        {
+          "number": "366",
+          "numText": "§ 366.",
+          "heading": "Separability",
+          "identifier": "/us/usc/t45/s366"
+        },
+        {
+          "number": "366a",
+          "numText": "§ 366a.",
+          "heading": "Effect of Internal Revenue Code",
+          "identifier": "/us/usc/t45/s366a"
+        },
+        {
+          "number": "367",
+          "numText": "§ 367.",
+          "heading": "Short title",
+          "identifier": "/us/usc/t45/s367"
+        },
+        {
+          "number": "368",
+          "numText": "§ 368.",
+          "heading": "Repealed. Pub. L. 104–251, § 5(c), Oct. 9, 1996, 110 Stat. 3165",
+          "identifier": "/us/usc/t45/s368"
+        },
+        {
+          "number": "369",
+          "numText": "§ 369.",
+          "heading": "Annual report",
+          "identifier": "/us/usc/t45/s369"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "12",
+      "heading": "TEMPORARY RAILROAD UNEMPLOYMENT INSURANCE PROGRAM",
+      "identifier": "/us/usc/t45/ch12",
+      "children": [
+        {
+          "number": "401",
+          "numText": "§ 401.",
+          "heading": "Payment of compensation; eligibility; duration; maximum aggregate amount payable; duplication of benefits; application of railroad unemployment insurance provisions",
+          "identifier": "/us/usc/t45/s401"
+        },
+        {
+          "number": "402",
+          "numText": "§ 402.",
+          "heading": "Exchange of information between Secretary of Labor and Railroad Retirement Board",
+          "identifier": "/us/usc/t45/s402"
+        },
+        {
+          "number": "403",
+          "numText": "§ 403.",
+          "heading": "Appropriation to railroad unemployment insurance account; transfer and repayment of funds; interest",
+          "identifier": "/us/usc/t45/s403"
+        },
+        {
+          "number": "404",
+          "numText": "§ 404.",
+          "heading": "Temporary increase in employers’ contribution rate",
+          "identifier": "/us/usc/t45/s404"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "13",
+      "heading": "RAILROAD SAFETY",
+      "identifier": "/us/usc/t45/ch13",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t45/ch13/schI",
+          "children": [
+            {
+              "number": "421",
+              "numText": "§ 421.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s421"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "RULES, REGULATIONS, ORDERS, AND STANDARDS",
+          "identifier": "/us/usc/t45/ch13/schII",
+          "children": [
+            {
+              "number": "431 to 447",
+              "numText": "§§ 431 to 447.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s431...447"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "14",
+      "heading": "RAIL PASSENGER SERVICE",
+      "identifier": "/us/usc/t45/ch14",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t45/ch14/schI",
+          "children": [
+            {
+              "number": "501 to 502",
+              "numText": "§§ 501 to 502.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s501...502"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "BASIC NATIONAL RAIL PASSENGER SYSTEM",
+          "identifier": "/us/usc/t45/ch14/schII",
+          "children": [
+            {
+              "number": "521, 522",
+              "numText": "§§ 521, 522.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s521 /us/usc/t45/s522"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "NATIONAL RAILROAD PASSENGER CORPORATION",
+          "identifier": "/us/usc/t45/ch14/schIII",
+          "children": [
+            {
+              "number": "541 to 548",
+              "numText": "§§ 541 to 548.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s541...548"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "PROVISION OF RAIL PASSENGER SERVICES",
+          "identifier": "/us/usc/t45/ch14/schIV",
+          "children": [
+            {
+              "number": "561 to 563",
+              "numText": "§§ 561 to 563.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s561...563"
+            },
+            {
+              "number": "564",
+              "numText": "§ 564.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379; Pub. L. 103–429, § 8(6), Oct. 31, 1994, 108 Stat. 4390",
+              "identifier": "/us/usc/t45/s564"
+            },
+            {
+              "number": "565, 566",
+              "numText": "§§ 565, 566.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s565 /us/usc/t45/s566"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "AMTRAK COMMUTER SERVICES",
+          "identifier": "/us/usc/t45/ch14/schV",
+          "children": [
+            {
+              "number": "581 to 591",
+              "numText": "§§ 581 to 591.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s581...591"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "FEDERAL FINANCIAL ASSISTANCE",
+          "identifier": "/us/usc/t45/ch14/schVI",
+          "children": [
+            {
+              "number": "601",
+              "numText": "§ 601.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s601"
+            },
+            {
+              "number": "602",
+              "numText": "§ 602.",
+              "heading": "Repealed. Pub. L. 102–533, § 7(c), Oct. 27, 1992, 106 Stat. 3519",
+              "identifier": "/us/usc/t45/s602"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "EMERGENCY FINANCIAL ASSISTANCE",
+          "identifier": "/us/usc/t45/ch14/schVII",
+          "children": [
+            {
+              "number": "621, 622",
+              "numText": "§§ 621, 622.",
+              "heading": "Repealed. Pub. L. 99–272, title IV, § 4007(c), Apr. 7, 1986, 100 Stat. 108",
+              "identifier": "/us/usc/t45/s621 /us/usc/t45/s622"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VIII",
+          "heading": "MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t45/ch14/schVIII",
+          "children": [
+            {
+              "number": "641",
+              "numText": "§ 641.",
+              "heading": "Repealed. Pub. L. 96–73, title I, § 111(b), Sept. 29, 1979, 93 Stat. 541",
+              "identifier": "/us/usc/t45/s641"
+            },
+            {
+              "number": "642 to 644",
+              "numText": "§§ 642 to 644.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s642...644"
+            },
+            {
+              "number": "645",
+              "numText": "§ 645.",
+              "heading": "Repealed. Pub. L. 99–272, title IV, § 4007(b), Apr. 7, 1986, 100 Stat. 108",
+              "identifier": "/us/usc/t45/s645"
+            },
+            {
+              "number": "646 to 650c",
+              "numText": "§§ 646 to 650c.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s646...650c"
+            },
+            {
+              "number": "650d, 650e",
+              "numText": "§§ 650d, 650e.",
+              "heading": "Repealed. Pub. L. 103–429, § 8(6), Oct. 31, 1994, 108 Stat. 4390",
+              "identifier": "/us/usc/t45/s650d /us/usc/t45/s650e"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IX",
+          "heading": "RAIL PASSENGER CORRIDORS",
+          "identifier": "/us/usc/t45/ch14/schIX",
+          "children": [
+            {
+              "number": "651 to 658",
+              "numText": "§§ 651 to 658.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s651...658"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "15",
+      "heading": "EMERGENCY RAIL SERVICES",
+      "identifier": "/us/usc/t45/ch15",
+      "children": [
+        {
+          "number": "661",
+          "numText": "§ 661.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t45/s661"
+        },
+        {
+          "number": "662",
+          "numText": "§ 662.",
+          "heading": "Guarantee of certificates",
+          "identifier": "/us/usc/t45/s662"
+        },
+        {
+          "number": "663",
+          "numText": "§ 663.",
+          "heading": "Inspection of accounts, books, etc., of railroad receiving financial assistance",
+          "identifier": "/us/usc/t45/s663"
+        },
+        {
+          "number": "664",
+          "numText": "§ 664.",
+          "heading": "Issuance of obligations to Secretary of the Treasury",
+          "identifier": "/us/usc/t45/s664"
+        },
+        {
+          "number": "665",
+          "numText": "§ 665.",
+          "heading": "Utilization of services and facilities of Federal departments and agencies; reimbursement; consultation with Board; coordination of activities with Federal departments and agencies",
+          "identifier": "/us/usc/t45/s665"
+        },
+        {
+          "number": "666",
+          "numText": "§ 666.",
+          "heading": "Court supervision of expenditures; findings; report to Secretary",
+          "identifier": "/us/usc/t45/s666"
+        },
+        {
+          "number": "667",
+          "numText": "§ 667.",
+          "heading": "Audit by Comptroller General; report to Congress",
+          "identifier": "/us/usc/t45/s667"
+        },
+        {
+          "number": "668",
+          "numText": "§ 668.",
+          "heading": "Guarantee fees; amount; deposit",
+          "identifier": "/us/usc/t45/s668"
+        },
+        {
+          "number": "669",
+          "numText": "§ 669.",
+          "heading": "Repealed. Pub. L. 97–375, title I, § 111(e), Dec. 21, 1982, 96 Stat. 1821",
+          "identifier": "/us/usc/t45/s669"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "16",
+      "heading": "REGIONAL RAIL REORGANIZATION",
+      "identifier": "/us/usc/t45/ch16",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t45/ch16/schI",
+          "children": [
+            {
+              "number": "701",
+              "numText": "§ 701.",
+              "heading": "Congressional declaration of policy",
+              "identifier": "/us/usc/t45/s701"
+            },
+            {
+              "number": "702",
+              "numText": "§ 702.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t45/s702"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "UNITED STATES RAILWAY ASSOCIATION",
+          "identifier": "/us/usc/t45/ch16/schII",
+          "children": [
+            {
+              "number": "711",
+              "numText": "§ 711.",
+              "heading": "Formation and structure",
+              "identifier": "/us/usc/t45/s711"
+            },
+            {
+              "number": "712",
+              "numText": "§ 712.",
+              "heading": "Functions of Association",
+              "identifier": "/us/usc/t45/s712"
+            },
+            {
+              "number": "713",
+              "numText": "§ 713.",
+              "heading": "Access to information",
+              "identifier": "/us/usc/t45/s713"
+            },
+            {
+              "number": "714",
+              "numText": "§ 714.",
+              "heading": "Omitted",
+              "identifier": "/us/usc/t45/s714"
+            },
+            {
+              "number": "715",
+              "numText": "§ 715.",
+              "heading": "Repealed. Pub. L. 95–473, § 4(b), Oct. 17, 1978, 92 Stat. 1466",
+              "identifier": "/us/usc/t45/s715"
+            },
+            {
+              "number": "716",
+              "numText": "§ 716.",
+              "heading": "Final system plan",
+              "identifier": "/us/usc/t45/s716"
+            },
+            {
+              "number": "717",
+              "numText": "§ 717.",
+              "heading": "Adoption of final system plan",
+              "identifier": "/us/usc/t45/s717"
+            },
+            {
+              "number": "718",
+              "numText": "§ 718.",
+              "heading": "Review by Congress",
+              "identifier": "/us/usc/t45/s718"
+            },
+            {
+              "number": "719",
+              "numText": "§ 719.",
+              "heading": "Judicial review",
+              "identifier": "/us/usc/t45/s719"
+            },
+            {
+              "number": "720",
+              "numText": "§ 720.",
+              "heading": "Obligations of Association",
+              "identifier": "/us/usc/t45/s720"
+            },
+            {
+              "number": "721",
+              "numText": "§ 721.",
+              "heading": "Loans",
+              "identifier": "/us/usc/t45/s721"
+            },
+            {
+              "number": "722",
+              "numText": "§ 722.",
+              "heading": "Records, audit, and examination",
+              "identifier": "/us/usc/t45/s722"
+            },
+            {
+              "number": "723",
+              "numText": "§ 723.",
+              "heading": "Emergency assistance pending implementation",
+              "identifier": "/us/usc/t45/s723"
+            },
+            {
+              "number": "724",
+              "numText": "§ 724.",
+              "heading": "Authorization of appropriations",
+              "identifier": "/us/usc/t45/s724"
+            },
+            {
+              "number": "725",
+              "numText": "§ 725.",
+              "heading": "Interim agreements",
+              "identifier": "/us/usc/t45/s725"
+            },
+            {
+              "number": "726",
+              "numText": "§ 726.",
+              "heading": "Debentures and series A preferred stock",
+              "identifier": "/us/usc/t45/s726"
+            },
+            {
+              "number": "727",
+              "numText": "§ 727.",
+              "heading": "Additional purchases of Series A preferred stock",
+              "identifier": "/us/usc/t45/s727"
+            },
+            {
+              "number": "728",
+              "numText": "§ 728.",
+              "heading": "Reports to Congress",
+              "identifier": "/us/usc/t45/s728"
+            },
+            {
+              "number": "729",
+              "numText": "§ 729.",
+              "heading": "Advisory Board",
+              "identifier": "/us/usc/t45/s729"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "CONSOLIDATED RAIL CORPORATION",
+          "identifier": "/us/usc/t45/ch16/schIII",
+          "children": [
+            {
+              "number": "741",
+              "numText": "§ 741.",
+              "heading": "Formation and structure",
+              "identifier": "/us/usc/t45/s741"
+            },
+            {
+              "number": "742",
+              "numText": "§ 742.",
+              "heading": "Powers and duties of Corporation",
+              "identifier": "/us/usc/t45/s742"
+            },
+            {
+              "number": "743",
+              "numText": "§ 743.",
+              "heading": "Valuation and conveyance of rail properties",
+              "identifier": "/us/usc/t45/s743"
+            },
+            {
+              "number": "744",
+              "numText": "§ 744.",
+              "heading": "Termination and continuation of rail services",
+              "identifier": "/us/usc/t45/s744"
+            },
+            {
+              "number": "744a",
+              "numText": "§ 744a.",
+              "heading": "End of Conrail commuter service obligation",
+              "identifier": "/us/usc/t45/s744a"
+            },
+            {
+              "number": "745",
+              "numText": "§ 745.",
+              "heading": "Continuing reorganization; supplemental transactions",
+              "identifier": "/us/usc/t45/s745"
+            },
+            {
+              "number": "746",
+              "numText": "§ 746.",
+              "heading": "Certificates of value",
+              "identifier": "/us/usc/t45/s746"
+            },
+            {
+              "number": "747",
+              "numText": "§ 747.",
+              "heading": "Protection of Federal funds",
+              "identifier": "/us/usc/t45/s747"
+            },
+            {
+              "number": "748",
+              "numText": "§ 748.",
+              "heading": "Abandonments",
+              "identifier": "/us/usc/t45/s748"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "TRANSFER OF FREIGHT SERVICES",
+          "identifier": "/us/usc/t45/ch16/schIV",
+          "children": [
+            {
+              "number": "761 to 769c",
+              "numText": "§§ 761 to 769c.",
+              "heading": "Repealed. Pub. L. 99–509, title IV, § 4033(a)(1), Oct. 21, 1986, 100 Stat. 1908",
+              "identifier": "/us/usc/t45/s761...769c"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "V",
+          "heading": "EMPLOYEE PROTECTION",
+          "identifier": "/us/usc/t45/ch16/schV",
+          "children": [
+            {
+              "number": "771 to 780",
+              "numText": "§§ 771 to 780.",
+              "heading": "Repealed. Pub. L. 97–35, title XI, § 1144(a)(1), Aug. 13, 1981, 95 Stat. 669",
+              "identifier": "/us/usc/t45/s771...780"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VI",
+          "heading": "MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t45/ch16/schVI",
+          "children": [
+            {
+              "number": "791",
+              "numText": "§ 791.",
+              "heading": "Relationship to other laws",
+              "identifier": "/us/usc/t45/s791"
+            },
+            {
+              "number": "792",
+              "numText": "§ 792.",
+              "heading": "Repealed. Pub. L. 97–375, title I, § 111(b), Dec. 21, 1982, 96 Stat. 1821",
+              "identifier": "/us/usc/t45/s792"
+            },
+            {
+              "number": "793",
+              "numText": "§ 793.",
+              "heading": "Repealed. Pub. L. 95–473, § 4(b), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 97–449, § 4(b)(2), Jan. 12, 1983, 96 Stat. 2441, eff. Oct. 17, 1978",
+              "identifier": "/us/usc/t45/s793"
+            },
+            {
+              "number": "794",
+              "numText": "§ 794.",
+              "heading": "Tax payments to States",
+              "identifier": "/us/usc/t45/s794"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "VII",
+          "heading": "PROTECTION OF EMPLOYEES",
+          "identifier": "/us/usc/t45/ch16/schVII",
+          "children": [
+            {
+              "number": "797",
+              "numText": "§ 797.",
+              "heading": "Repealed. Pub. L. 99–509, title IV, § 4024(c), Oct. 21, 1986, 100 Stat. 1904",
+              "identifier": "/us/usc/t45/s797"
+            },
+            {
+              "number": "797a",
+              "numText": "§ 797a.",
+              "heading": "Termination allowance",
+              "identifier": "/us/usc/t45/s797a"
+            },
+            {
+              "number": "797b",
+              "numText": "§ 797b.",
+              "heading": "Preferential hiring",
+              "identifier": "/us/usc/t45/s797b"
+            },
+            {
+              "number": "797c",
+              "numText": "§ 797c.",
+              "heading": "Central register of railroad employment",
+              "identifier": "/us/usc/t45/s797c"
+            },
+            {
+              "number": "797d",
+              "numText": "§ 797d.",
+              "heading": "Election and treatment of benefits",
+              "identifier": "/us/usc/t45/s797d"
+            },
+            {
+              "number": "797e",
+              "numText": "§ 797e.",
+              "heading": "Assignment of work",
+              "identifier": "/us/usc/t45/s797e"
+            },
+            {
+              "number": "797f",
+              "numText": "§ 797f.",
+              "heading": "Contracting out",
+              "identifier": "/us/usc/t45/s797f"
+            },
+            {
+              "number": "797g",
+              "numText": "§ 797g.",
+              "heading": "New collective-bargaining agreements",
+              "identifier": "/us/usc/t45/s797g"
+            },
+            {
+              "number": "797h",
+              "numText": "§ 797h.",
+              "heading": "Employee and personal injury claims",
+              "identifier": "/us/usc/t45/s797h"
+            },
+            {
+              "number": "797i",
+              "numText": "§ 797i.",
+              "heading": "Limitations on liability",
+              "identifier": "/us/usc/t45/s797i"
+            },
+            {
+              "number": "797j",
+              "numText": "§ 797j.",
+              "heading": "Preemption",
+              "identifier": "/us/usc/t45/s797j"
+            },
+            {
+              "number": "797k",
+              "numText": "§ 797k.",
+              "heading": "Factfinding panel",
+              "identifier": "/us/usc/t45/s797k"
+            },
+            {
+              "number": "797l",
+              "numText": "§ 797l.",
+              "heading": "Class II railroads receiving Federal assistance",
+              "identifier": "/us/usc/t45/s797l"
+            },
+            {
+              "number": "797m",
+              "numText": "§ 797m.",
+              "heading": "Arbitration",
+              "identifier": "/us/usc/t45/s797m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "17",
+      "heading": "RAILROAD REVITALIZATION AND REGULATORY REFORM",
+      "identifier": "/us/usc/t45/ch17",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t45/ch17/schI",
+          "children": [
+            {
+              "number": "801",
+              "numText": "§ 801.",
+              "heading": "Declaration of policy",
+              "identifier": "/us/usc/t45/s801"
+            },
+            {
+              "number": "802",
+              "numText": "§ 802.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t45/s802"
+            },
+            {
+              "number": "803",
+              "numText": "§ 803.",
+              "heading": "Repealed. Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2443",
+              "identifier": "/us/usc/t45/s803"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "RAILROAD REHABILITATION AND IMPROVEMENT FINANCING",
+          "identifier": "/us/usc/t45/ch17/schII",
+          "children": [
+            {
+              "number": "821 to 823",
+              "numText": "§§ 821 to 823.",
+              "heading": "Repealed. Pub. L. 117–58, div. B, title I, § 21301(b)(1)(A), Nov. 15, 2021, 135 Stat. 683",
+              "identifier": "/us/usc/t45/s821...823"
+            },
+            {
+              "number": "824, 825",
+              "numText": "§§ 824, 825.",
+              "heading": "Repealed. Pub. L. 105–178, title VII, § 7203(a)(1), (2), June 9, 1998, 112 Stat. 471, 477",
+              "identifier": "/us/usc/t45/s824 /us/usc/t45/s825"
+            },
+            {
+              "number": "825a",
+              "numText": "§ 825a.",
+              "heading": "Repealed. Pub. L. 99–509, title IV, § 4033(c)(6), Oct. 21, 1986, 100 Stat. 1909",
+              "identifier": "/us/usc/t45/s825a"
+            },
+            {
+              "number": "826 to 830",
+              "numText": "§§ 826 to 830.",
+              "heading": "Repealed. Pub. L. 105–178, title VII, § 7203(a)(2), June 9, 1998, 112 Stat. 477",
+              "identifier": "/us/usc/t45/s826...830"
+            },
+            {
+              "number": "831",
+              "numText": "§ 831.",
+              "heading": "Transferred",
+              "identifier": "/us/usc/t45/s831"
+            },
+            {
+              "number": "832 to 834",
+              "numText": "§§ 832 to 834.",
+              "heading": "Repealed. Pub. L. 105–178, title VII, § 7203(a)(2), June 9, 1998, 112 Stat. 477",
+              "identifier": "/us/usc/t45/s832...834"
+            },
+            {
+              "number": "835",
+              "numText": "§ 835.",
+              "heading": "Repealed. Pub. L. 97–375, title I, § 111(d), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 105–178, title VII, § 7203(a)(2), June 9, 1998, 112 Stat. 477",
+              "identifier": "/us/usc/t45/s835"
+            },
+            {
+              "number": "836",
+              "numText": "§ 836.",
+              "heading": "Repealed. Pub. L. 117–58, div. B, title I, § 21301(b)(1)(A), Nov. 15, 2021, 135 Stat. 683",
+              "identifier": "/us/usc/t45/s836"
+            },
+            {
+              "number": "837, 838",
+              "numText": "§§ 837, 838.",
+              "heading": "Repealed. Pub. L. 105–178, title VII, § 7203(a)(2), June 9, 1998, 112 Stat. 477",
+              "identifier": "/us/usc/t45/s837 /us/usc/t45/s838"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "III",
+          "heading": "NORTHEAST CORRIDOR PROJECT IMPLEMENTATION",
+          "identifier": "/us/usc/t45/ch17/schIII",
+          "children": [
+            {
+              "number": "851",
+              "numText": "§ 851.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s851"
+            },
+            {
+              "number": "852",
+              "numText": "§ 852.",
+              "heading": "Repealed. Pub. L. 97–35, title XI, § 1188(e), Aug. 13, 1981, 95 Stat. 699",
+              "identifier": "/us/usc/t45/s852"
+            },
+            {
+              "number": "853 to 855",
+              "numText": "§§ 853 to 855.",
+              "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+              "identifier": "/us/usc/t45/s853...855"
+            },
+            {
+              "number": "856",
+              "numText": "§ 856.",
+              "heading": "Repealed. Pub. L. 103–429, § 7(a)(1), Oct. 31, 1994, 108 Stat. 4388",
+              "identifier": "/us/usc/t45/s856"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "18",
+      "heading": "MILWAUKEE RAILROAD RESTRUCTURING",
+      "identifier": "/us/usc/t45/ch18",
+      "children": [
+        {
+          "number": "901",
+          "numText": "§ 901.",
+          "heading": "Congressional findings",
+          "identifier": "/us/usc/t45/s901"
+        },
+        {
+          "number": "902",
+          "numText": "§ 902.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t45/s902"
+        },
+        {
+          "number": "903",
+          "numText": "§ 903.",
+          "heading": "Sales and transfers",
+          "identifier": "/us/usc/t45/s903"
+        },
+        {
+          "number": "904",
+          "numText": "§ 904.",
+          "heading": "Court approved abandonments and sales",
+          "identifier": "/us/usc/t45/s904"
+        },
+        {
+          "number": "905",
+          "numText": "§ 905.",
+          "heading": "Employee or employee-shipper ownership plan",
+          "identifier": "/us/usc/t45/s905"
+        },
+        {
+          "number": "906",
+          "numText": "§ 906.",
+          "heading": "Guarantee of trustee certificates",
+          "identifier": "/us/usc/t45/s906"
+        },
+        {
+          "number": "907",
+          "numText": "§ 907.",
+          "heading": "Railroad hiring",
+          "identifier": "/us/usc/t45/s907"
+        },
+        {
+          "number": "908",
+          "numText": "§ 908.",
+          "heading": "Employee protection agreements",
+          "identifier": "/us/usc/t45/s908"
+        },
+        {
+          "number": "909",
+          "numText": "§ 909.",
+          "heading": "Supplementary unemployment insurance",
+          "identifier": "/us/usc/t45/s909"
+        },
+        {
+          "number": "910",
+          "numText": "§ 910.",
+          "heading": "Repealed. Pub. L. 97–35, title XI, § 1144(b), Aug. 13, 1981, 95 Stat. 669",
+          "identifier": "/us/usc/t45/s910"
+        },
+        {
+          "number": "911",
+          "numText": "§ 911.",
+          "heading": "New career training assistance",
+          "identifier": "/us/usc/t45/s911"
+        },
+        {
+          "number": "912",
+          "numText": "§ 912.",
+          "heading": "Election",
+          "identifier": "/us/usc/t45/s912"
+        },
+        {
+          "number": "913",
+          "numText": "§ 913.",
+          "heading": "Authorization of appropriations",
+          "identifier": "/us/usc/t45/s913"
+        },
+        {
+          "number": "914",
+          "numText": "§ 914.",
+          "heading": "Obligation guarantees",
+          "identifier": "/us/usc/t45/s914"
+        },
+        {
+          "number": "915",
+          "numText": "§ 915.",
+          "heading": "Court approved abandonment and sales in pending cases",
+          "identifier": "/us/usc/t45/s915"
+        },
+        {
+          "number": "916",
+          "numText": "§ 916.",
+          "heading": "Repealed. Pub. L. 104–88, title III, § 328, Dec. 29, 1995, 109 Stat. 952",
+          "identifier": "/us/usc/t45/s916"
+        },
+        {
+          "number": "917",
+          "numText": "§ 917.",
+          "heading": "Applicability of National Environmental Policy Act",
+          "identifier": "/us/usc/t45/s917"
+        },
+        {
+          "number": "918",
+          "numText": "§ 918.",
+          "heading": "Authority of Railroad Retirement Board",
+          "identifier": "/us/usc/t45/s918"
+        },
+        {
+          "number": "919",
+          "numText": "§ 919.",
+          "heading": "Publications and reports",
+          "identifier": "/us/usc/t45/s919"
+        },
+        {
+          "number": "920",
+          "numText": "§ 920.",
+          "heading": "Continuation of service",
+          "identifier": "/us/usc/t45/s920"
+        },
+        {
+          "number": "921",
+          "numText": "§ 921.",
+          "heading": "Office of Rail Public Counsel",
+          "identifier": "/us/usc/t45/s921"
+        },
+        {
+          "number": "922",
+          "numText": "§ 922.",
+          "heading": "Employee stock ownership plan for surviving portion of Milwaukee Railroad",
+          "identifier": "/us/usc/t45/s922"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "19",
+      "heading": "ROCK ISLAND RAILROAD EMPLOYEE ASSISTANCE",
+      "identifier": "/us/usc/t45/ch19",
+      "children": [
+        {
+          "number": "1001",
+          "numText": "§ 1001.",
+          "heading": "Congressional findings",
+          "identifier": "/us/usc/t45/s1001"
+        },
+        {
+          "number": "1002",
+          "numText": "§ 1002.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t45/s1002"
+        },
+        {
+          "number": "1003",
+          "numText": "§ 1003.",
+          "heading": "Service continuation",
+          "identifier": "/us/usc/t45/s1003"
+        },
+        {
+          "number": "1004",
+          "numText": "§ 1004.",
+          "heading": "Railroad hiring",
+          "identifier": "/us/usc/t45/s1004"
+        },
+        {
+          "number": "1005",
+          "numText": "§ 1005.",
+          "heading": "Employee protection agreement",
+          "identifier": "/us/usc/t45/s1005"
+        },
+        {
+          "number": "1006",
+          "numText": "§ 1006.",
+          "heading": "Repealed. Pub. L. 97–35, title XI, § 1144(b), Aug. 13, 1981, 95 Stat. 669",
+          "identifier": "/us/usc/t45/s1006"
+        },
+        {
+          "number": "1007",
+          "numText": "§ 1007.",
+          "heading": "Election",
+          "identifier": "/us/usc/t45/s1007"
+        },
+        {
+          "number": "1008",
+          "numText": "§ 1008.",
+          "heading": "Repealed. Pub. L. 97–468, title II, § 234(a), Jan. 14, 1983, 96 Stat. 2547",
+          "identifier": "/us/usc/t45/s1008"
+        },
+        {
+          "number": "1009",
+          "numText": "§ 1009.",
+          "heading": "Expedited proceedings",
+          "identifier": "/us/usc/t45/s1009"
+        },
+        {
+          "number": "1010",
+          "numText": "§ 1010.",
+          "heading": "Applicability of National Environmental Policy Act and section 6362(b) of title 42",
+          "identifier": "/us/usc/t45/s1010"
+        },
+        {
+          "number": "1011",
+          "numText": "§ 1011.",
+          "heading": "Authority of Railroad Retirement Board",
+          "identifier": "/us/usc/t45/s1011"
+        },
+        {
+          "number": "1012",
+          "numText": "§ 1012.",
+          "heading": "Publications and reports",
+          "identifier": "/us/usc/t45/s1012"
+        },
+        {
+          "number": "1013",
+          "numText": "§ 1013.",
+          "heading": "Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379",
+          "identifier": "/us/usc/t45/s1013"
+        },
+        {
+          "number": "1014",
+          "numText": "§ 1014.",
+          "heading": "New career training assistance",
+          "identifier": "/us/usc/t45/s1014"
+        },
+        {
+          "number": "1015",
+          "numText": "§ 1015.",
+          "heading": "Repealed. Pub. L. 104–88, title III, § 329(2), Dec. 29, 1995, 109 Stat. 952",
+          "identifier": "/us/usc/t45/s1015"
+        },
+        {
+          "number": "1016",
+          "numText": "§ 1016.",
+          "heading": "Temporary rail banking",
+          "identifier": "/us/usc/t45/s1016"
+        },
+        {
+          "number": "1017",
+          "numText": "§ 1017.",
+          "heading": "Temporary operating approval",
+          "identifier": "/us/usc/t45/s1017"
+        },
+        {
+          "number": "1018",
+          "numText": "§ 1018.",
+          "heading": "Judicial review",
+          "identifier": "/us/usc/t45/s1018"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "20",
+      "heading": "NORTHEAST RAIL SERVICE",
+      "identifier": "/us/usc/t45/ch20",
+      "children": [
+        {
+          "number": "1101",
+          "numText": "§ 1101.",
+          "heading": "Congressional findings and declarations",
+          "identifier": "/us/usc/t45/s1101"
+        },
+        {
+          "number": "1102",
+          "numText": "§ 1102.",
+          "heading": "Statement of purpose",
+          "identifier": "/us/usc/t45/s1102"
+        },
+        {
+          "number": "1103",
+          "numText": "§ 1103.",
+          "heading": "Goals and objectives",
+          "identifier": "/us/usc/t45/s1103"
+        },
+        {
+          "number": "1104",
+          "numText": "§ 1104.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t45/s1104"
+        },
+        {
+          "number": "1105",
+          "numText": "§ 1105.",
+          "heading": "Judicial review",
+          "identifier": "/us/usc/t45/s1105"
+        },
+        {
+          "number": "1106",
+          "numText": "§ 1106.",
+          "heading": "Exemption from transfer taxes and fees; recordation",
+          "identifier": "/us/usc/t45/s1106"
+        },
+        {
+          "number": "1107",
+          "numText": "§ 1107.",
+          "heading": "Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)(I), Oct. 21, 1986, 100 Stat. 1908",
+          "identifier": "/us/usc/t45/s1107"
+        },
+        {
+          "number": "1108",
+          "numText": "§ 1108.",
+          "heading": "Concerted economic action",
+          "identifier": "/us/usc/t45/s1108"
+        },
+        {
+          "number": "1109",
+          "numText": "§ 1109.",
+          "heading": "Effectuation of cost reductions",
+          "identifier": "/us/usc/t45/s1109"
+        },
+        {
+          "number": "1110",
+          "numText": "§ 1110.",
+          "heading": "Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)(II), Oct. 21, 1986, 100 Stat. 1908",
+          "identifier": "/us/usc/t45/s1110"
+        },
+        {
+          "number": "1111",
+          "numText": "§ 1111.",
+          "heading": "Repealed. Pub. L. 105–134, title IV, § 408, Dec. 2, 1997, 111 Stat. 2586",
+          "identifier": "/us/usc/t45/s1111"
+        },
+        {
+          "number": "1112",
+          "numText": "§ 1112.",
+          "heading": "Interstate Commerce Commission proceedings",
+          "identifier": "/us/usc/t45/s1112"
+        },
+        {
+          "number": "1113",
+          "numText": "§ 1113.",
+          "heading": "Intercity passenger service",
+          "identifier": "/us/usc/t45/s1113"
+        },
+        {
+          "number": "1114",
+          "numText": "§ 1114.",
+          "heading": "Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)(III), Oct. 21, 1986, 100 Stat. 1908",
+          "identifier": "/us/usc/t45/s1114"
+        },
+        {
+          "number": "1115",
+          "numText": "§ 1115.",
+          "heading": "Redemption of stock",
+          "identifier": "/us/usc/t45/s1115"
+        },
+        {
+          "number": "1116",
+          "numText": "§ 1116.",
+          "heading": "Applicability of other laws",
+          "identifier": "/us/usc/t45/s1116"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "21",
+      "heading": "ALASKA RAILROAD TRANSFER",
+      "identifier": "/us/usc/t45/ch21",
+      "children": [
+        {
+          "number": "1201",
+          "numText": "§ 1201.",
+          "heading": "Findings",
+          "identifier": "/us/usc/t45/s1201"
+        },
+        {
+          "number": "1202",
+          "numText": "§ 1202.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t45/s1202"
+        },
+        {
+          "number": "1203",
+          "numText": "§ 1203.",
+          "heading": "Transfer authorization",
+          "identifier": "/us/usc/t45/s1203"
+        },
+        {
+          "number": "1204",
+          "numText": "§ 1204.",
+          "heading": "Transition period",
+          "identifier": "/us/usc/t45/s1204"
+        },
+        {
+          "number": "1205",
+          "numText": "§ 1205.",
+          "heading": "Lands to be transferred",
+          "identifier": "/us/usc/t45/s1205"
+        },
+        {
+          "number": "1206",
+          "numText": "§ 1206.",
+          "heading": "Employees of Alaska Railroad",
+          "identifier": "/us/usc/t45/s1206"
+        },
+        {
+          "number": "1207",
+          "numText": "§ 1207.",
+          "heading": "State operation",
+          "identifier": "/us/usc/t45/s1207"
+        },
+        {
+          "number": "1208",
+          "numText": "§ 1208.",
+          "heading": "Future rights-of-way",
+          "identifier": "/us/usc/t45/s1208"
+        },
+        {
+          "number": "1209",
+          "numText": "§ 1209.",
+          "heading": "Repealed. Pub. L. 108–7, div. I, title III, § 345(5), Feb. 20, 2003, 117 Stat. 418",
+          "identifier": "/us/usc/t45/s1209"
+        },
+        {
+          "number": "1210",
+          "numText": "§ 1210.",
+          "heading": "Other disposition",
+          "identifier": "/us/usc/t45/s1210"
+        },
+        {
+          "number": "1211",
+          "numText": "§ 1211.",
+          "heading": "Denali National Park and Preserve lands",
+          "identifier": "/us/usc/t45/s1211"
+        },
+        {
+          "number": "1212",
+          "numText": "§ 1212.",
+          "heading": "Applicability of other laws",
+          "identifier": "/us/usc/t45/s1212"
+        },
+        {
+          "number": "1213",
+          "numText": "§ 1213.",
+          "heading": "Conflict with other laws",
+          "identifier": "/us/usc/t45/s1213"
+        },
+        {
+          "number": "1214",
+          "numText": "§ 1214.",
+          "heading": "Separability",
+          "identifier": "/us/usc/t45/s1214"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "22",
+      "heading": "CONRAIL PRIVATIZATION",
+      "identifier": "/us/usc/t45/ch22",
+      "children": [
+        {
+          "type": "subchapter",
+          "number": "I",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t45/ch22/schI",
+          "children": [
+            {
+              "number": "1301",
+              "numText": "§ 1301.",
+              "heading": "Findings",
+              "identifier": "/us/usc/t45/s1301"
+            },
+            {
+              "number": "1302",
+              "numText": "§ 1302.",
+              "heading": "Purposes",
+              "identifier": "/us/usc/t45/s1302"
+            },
+            {
+              "number": "1303",
+              "numText": "§ 1303.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t45/s1303"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "II",
+          "heading": "CONRAIL",
+          "identifier": "/us/usc/t45/ch22/schII",
+          "children": [
+            {
+              "type": "part",
+              "number": "A",
+              "heading": "Sale of Conrail",
+              "identifier": "/us/usc/t45/ch22/schII/ptA",
+              "children": [
+                {
+                  "number": "1311",
+                  "numText": "§ 1311.",
+                  "heading": "Preparation for public offering",
+                  "identifier": "/us/usc/t45/s1311"
+                },
+                {
+                  "number": "1312",
+                  "numText": "§ 1312.",
+                  "heading": "Public offering",
+                  "identifier": "/us/usc/t45/s1312"
+                },
+                {
+                  "number": "1313",
+                  "numText": "§ 1313.",
+                  "heading": "Fees",
+                  "identifier": "/us/usc/t45/s1313"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "B",
+              "heading": "Other Matters Relating to Sale",
+              "identifier": "/us/usc/t45/ch22/schII/ptB",
+              "children": [
+                {
+                  "number": "1321",
+                  "numText": "§ 1321.",
+                  "heading": "Rail service obligations",
+                  "identifier": "/us/usc/t45/s1321"
+                },
+                {
+                  "number": "1322",
+                  "numText": "§ 1322.",
+                  "heading": "Ownership limitations",
+                  "identifier": "/us/usc/t45/s1322"
+                },
+                {
+                  "number": "1323",
+                  "numText": "§ 1323.",
+                  "heading": "Board of Directors",
+                  "identifier": "/us/usc/t45/s1323"
+                },
+                {
+                  "number": "1324",
+                  "numText": "§ 1324.",
+                  "heading": "Certain enforcement relief",
+                  "identifier": "/us/usc/t45/s1324"
+                }
+              ]
+            },
+            {
+              "type": "part",
+              "number": "C",
+              "heading": "Miscellaneous Provisions",
+              "identifier": "/us/usc/t45/ch22/schII/ptC",
+              "children": [
+                {
+                  "number": "1341",
+                  "numText": "§ 1341.",
+                  "heading": "Abolition of United States Railway Association",
+                  "identifier": "/us/usc/t45/s1341"
+                },
+                {
+                  "number": "1342",
+                  "numText": "§ 1342.",
+                  "heading": "Exemption from liability",
+                  "identifier": "/us/usc/t45/s1342"
+                },
+                {
+                  "number": "1343",
+                  "numText": "§ 1343.",
+                  "heading": "Charter amendment",
+                  "identifier": "/us/usc/t45/s1343"
+                },
+                {
+                  "number": "1344",
+                  "numText": "§ 1344.",
+                  "heading": "Status of Conrail after sale",
+                  "identifier": "/us/usc/t45/s1344"
+                },
+                {
+                  "number": "1345",
+                  "numText": "§ 1345.",
+                  "heading": "Effect on contracts",
+                  "identifier": "/us/usc/t45/s1345"
+                },
+                {
+                  "number": "1346",
+                  "numText": "§ 1346.",
+                  "heading": "Resolution of certain issues",
+                  "identifier": "/us/usc/t45/s1346"
+                },
+                {
+                  "number": "1347",
+                  "numText": "§ 1347.",
+                  "heading": "Tax treatment of Conrail public sale",
+                  "identifier": "/us/usc/t45/s1347"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

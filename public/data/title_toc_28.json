@@ -1,0 +1,5555 @@
+{
+  "number": "28",
+  "name": "Judiciary And Judicial Procedure",
+  "identifier": "/us/usc/t28",
+  "version": "Online@119-73not60",
+  "updated": "2025-12-03",
+  "children": [
+    {
+      "type": "part",
+      "number": "I",
+      "heading": "ORGANIZATION OF COURTS",
+      "identifier": "/us/usc/t28/ptI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "1",
+          "heading": "SUPREME COURT",
+          "identifier": "/us/usc/t28/ptI/ch1",
+          "children": [
+            {
+              "number": "1",
+              "numText": "§ 1.",
+              "heading": "Number of justices; quorum",
+              "identifier": "/us/usc/t28/s1"
+            },
+            {
+              "number": "2",
+              "numText": "§ 2.",
+              "heading": "Terms of court",
+              "identifier": "/us/usc/t28/s2"
+            },
+            {
+              "number": "3",
+              "numText": "§ 3.",
+              "heading": "Vacancy in office of Chief Justice; disability",
+              "identifier": "/us/usc/t28/s3"
+            },
+            {
+              "number": "4",
+              "numText": "§ 4.",
+              "heading": "Precedence of associate justices",
+              "identifier": "/us/usc/t28/s4"
+            },
+            {
+              "number": "5",
+              "numText": "§ 5.",
+              "heading": "Salaries of justices",
+              "identifier": "/us/usc/t28/s5"
+            },
+            {
+              "number": "6",
+              "numText": "§ 6.",
+              "heading": "Records of former court of appeals",
+              "identifier": "/us/usc/t28/s6"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "3",
+          "heading": "COURTS OF APPEALS",
+          "identifier": "/us/usc/t28/ptI/ch3",
+          "children": [
+            {
+              "number": "41",
+              "numText": "§ 41.",
+              "heading": "Number and composition of circuits",
+              "identifier": "/us/usc/t28/s41"
+            },
+            {
+              "number": "42",
+              "numText": "§ 42.",
+              "heading": "Allotment of Supreme Court justices to circuits",
+              "identifier": "/us/usc/t28/s42"
+            },
+            {
+              "number": "43",
+              "numText": "§ 43.",
+              "heading": "Creation and composition of courts",
+              "identifier": "/us/usc/t28/s43"
+            },
+            {
+              "number": "44",
+              "numText": "§ 44.",
+              "heading": "Appointment, tenure, residence and salary of circuit judges",
+              "identifier": "/us/usc/t28/s44"
+            },
+            {
+              "number": "45",
+              "numText": "§ 45.",
+              "heading": "Chief judges; precedence of judges",
+              "identifier": "/us/usc/t28/s45"
+            },
+            {
+              "number": "46",
+              "numText": "§ 46.",
+              "heading": "Assignment of judges; panels; hearings; quorum",
+              "identifier": "/us/usc/t28/s46"
+            },
+            {
+              "number": "47",
+              "numText": "§ 47.",
+              "heading": "Disqualification of trial judge to hear appeal",
+              "identifier": "/us/usc/t28/s47"
+            },
+            {
+              "number": "48",
+              "numText": "§ 48.",
+              "heading": "Terms of court",
+              "identifier": "/us/usc/t28/s48"
+            },
+            {
+              "number": "49",
+              "numText": "§ 49.",
+              "heading": "Assignment of judges to division to appoint independent counsels",
+              "identifier": "/us/usc/t28/s49"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "5",
+          "heading": "DISTRICT COURTS",
+          "identifier": "/us/usc/t28/ptI/ch5",
+          "children": [
+            {
+              "number": "81",
+              "numText": "§ 81.",
+              "heading": "Alabama",
+              "identifier": "/us/usc/t28/s81"
+            },
+            {
+              "number": "81A",
+              "numText": "§ 81A.",
+              "heading": "Alaska",
+              "identifier": "/us/usc/t28/s81A"
+            },
+            {
+              "number": "82",
+              "numText": "§ 82.",
+              "heading": "Arizona",
+              "identifier": "/us/usc/t28/s82"
+            },
+            {
+              "number": "83",
+              "numText": "§ 83.",
+              "heading": "Arkansas",
+              "identifier": "/us/usc/t28/s83"
+            },
+            {
+              "number": "84",
+              "numText": "§ 84.",
+              "heading": "California",
+              "identifier": "/us/usc/t28/s84"
+            },
+            {
+              "number": "85",
+              "numText": "§ 85.",
+              "heading": "Colorado",
+              "identifier": "/us/usc/t28/s85"
+            },
+            {
+              "number": "86",
+              "numText": "§ 86.",
+              "heading": "Connecticut",
+              "identifier": "/us/usc/t28/s86"
+            },
+            {
+              "number": "87",
+              "numText": "§ 87.",
+              "heading": "Delaware",
+              "identifier": "/us/usc/t28/s87"
+            },
+            {
+              "number": "88",
+              "numText": "§ 88.",
+              "heading": "District of Columbia",
+              "identifier": "/us/usc/t28/s88"
+            },
+            {
+              "number": "89",
+              "numText": "§ 89.",
+              "heading": "Florida",
+              "identifier": "/us/usc/t28/s89"
+            },
+            {
+              "number": "90",
+              "numText": "§ 90.",
+              "heading": "Georgia",
+              "identifier": "/us/usc/t28/s90"
+            },
+            {
+              "number": "91",
+              "numText": "§ 91.",
+              "heading": "Hawaii",
+              "identifier": "/us/usc/t28/s91"
+            },
+            {
+              "number": "92",
+              "numText": "§ 92.",
+              "heading": "Idaho",
+              "identifier": "/us/usc/t28/s92"
+            },
+            {
+              "number": "93",
+              "numText": "§ 93.",
+              "heading": "Illinois",
+              "identifier": "/us/usc/t28/s93"
+            },
+            {
+              "number": "94",
+              "numText": "§ 94.",
+              "heading": "Indiana",
+              "identifier": "/us/usc/t28/s94"
+            },
+            {
+              "number": "95",
+              "numText": "§ 95.",
+              "heading": "Iowa",
+              "identifier": "/us/usc/t28/s95"
+            },
+            {
+              "number": "96",
+              "numText": "§ 96.",
+              "heading": "Kansas",
+              "identifier": "/us/usc/t28/s96"
+            },
+            {
+              "number": "97",
+              "numText": "§ 97.",
+              "heading": "Kentucky",
+              "identifier": "/us/usc/t28/s97"
+            },
+            {
+              "number": "98",
+              "numText": "§ 98.",
+              "heading": "Louisiana",
+              "identifier": "/us/usc/t28/s98"
+            },
+            {
+              "number": "99",
+              "numText": "§ 99.",
+              "heading": "Maine",
+              "identifier": "/us/usc/t28/s99"
+            },
+            {
+              "number": "100",
+              "numText": "§ 100.",
+              "heading": "Maryland",
+              "identifier": "/us/usc/t28/s100"
+            },
+            {
+              "number": "101",
+              "numText": "§ 101.",
+              "heading": "Massachusetts",
+              "identifier": "/us/usc/t28/s101"
+            },
+            {
+              "number": "102",
+              "numText": "§ 102.",
+              "heading": "Michigan",
+              "identifier": "/us/usc/t28/s102"
+            },
+            {
+              "number": "103",
+              "numText": "§ 103.",
+              "heading": "Minnesota",
+              "identifier": "/us/usc/t28/s103"
+            },
+            {
+              "number": "104",
+              "numText": "§ 104.",
+              "heading": "Mississippi",
+              "identifier": "/us/usc/t28/s104"
+            },
+            {
+              "number": "105",
+              "numText": "§ 105.",
+              "heading": "Missouri",
+              "identifier": "/us/usc/t28/s105"
+            },
+            {
+              "number": "106",
+              "numText": "§ 106.",
+              "heading": "Montana",
+              "identifier": "/us/usc/t28/s106"
+            },
+            {
+              "number": "107",
+              "numText": "§ 107.",
+              "heading": "Nebraska",
+              "identifier": "/us/usc/t28/s107"
+            },
+            {
+              "number": "108",
+              "numText": "§ 108.",
+              "heading": "Nevada",
+              "identifier": "/us/usc/t28/s108"
+            },
+            {
+              "number": "109",
+              "numText": "§ 109.",
+              "heading": "New Hampshire",
+              "identifier": "/us/usc/t28/s109"
+            },
+            {
+              "number": "110",
+              "numText": "§ 110.",
+              "heading": "New Jersey",
+              "identifier": "/us/usc/t28/s110"
+            },
+            {
+              "number": "111",
+              "numText": "§ 111.",
+              "heading": "New Mexico",
+              "identifier": "/us/usc/t28/s111"
+            },
+            {
+              "number": "112",
+              "numText": "§ 112.",
+              "heading": "New York",
+              "identifier": "/us/usc/t28/s112"
+            },
+            {
+              "number": "113",
+              "numText": "§ 113.",
+              "heading": "North Carolina",
+              "identifier": "/us/usc/t28/s113"
+            },
+            {
+              "number": "114",
+              "numText": "§ 114.",
+              "heading": "North Dakota",
+              "identifier": "/us/usc/t28/s114"
+            },
+            {
+              "number": "115",
+              "numText": "§ 115.",
+              "heading": "Ohio",
+              "identifier": "/us/usc/t28/s115"
+            },
+            {
+              "number": "116",
+              "numText": "§ 116.",
+              "heading": "Oklahoma",
+              "identifier": "/us/usc/t28/s116"
+            },
+            {
+              "number": "117",
+              "numText": "§ 117.",
+              "heading": "Oregon",
+              "identifier": "/us/usc/t28/s117"
+            },
+            {
+              "number": "118",
+              "numText": "§ 118.",
+              "heading": "Pennsylvania",
+              "identifier": "/us/usc/t28/s118"
+            },
+            {
+              "number": "119",
+              "numText": "§ 119.",
+              "heading": "Puerto Rico",
+              "identifier": "/us/usc/t28/s119"
+            },
+            {
+              "number": "120",
+              "numText": "§ 120.",
+              "heading": "Rhode Island",
+              "identifier": "/us/usc/t28/s120"
+            },
+            {
+              "number": "121",
+              "numText": "§ 121.",
+              "heading": "South Carolina",
+              "identifier": "/us/usc/t28/s121"
+            },
+            {
+              "number": "122",
+              "numText": "§ 122.",
+              "heading": "South Dakota",
+              "identifier": "/us/usc/t28/s122"
+            },
+            {
+              "number": "123",
+              "numText": "§ 123.",
+              "heading": "Tennessee",
+              "identifier": "/us/usc/t28/s123"
+            },
+            {
+              "number": "124",
+              "numText": "§ 124.",
+              "heading": "Texas",
+              "identifier": "/us/usc/t28/s124"
+            },
+            {
+              "number": "125",
+              "numText": "§ 125.",
+              "heading": "Utah",
+              "identifier": "/us/usc/t28/s125"
+            },
+            {
+              "number": "126",
+              "numText": "§ 126.",
+              "heading": "Vermont",
+              "identifier": "/us/usc/t28/s126"
+            },
+            {
+              "number": "127",
+              "numText": "§ 127.",
+              "heading": "Virginia",
+              "identifier": "/us/usc/t28/s127"
+            },
+            {
+              "number": "128",
+              "numText": "§ 128.",
+              "heading": "Washington",
+              "identifier": "/us/usc/t28/s128"
+            },
+            {
+              "number": "129",
+              "numText": "§ 129.",
+              "heading": "West Virginia",
+              "identifier": "/us/usc/t28/s129"
+            },
+            {
+              "number": "130",
+              "numText": "§ 130.",
+              "heading": "Wisconsin",
+              "identifier": "/us/usc/t28/s130"
+            },
+            {
+              "number": "131",
+              "numText": "§ 131.",
+              "heading": "Wyoming",
+              "identifier": "/us/usc/t28/s131"
+            },
+            {
+              "number": "132",
+              "numText": "§ 132.",
+              "heading": "Creation and composition of district courts",
+              "identifier": "/us/usc/t28/s132"
+            },
+            {
+              "number": "133",
+              "numText": "§ 133.",
+              "heading": "Appointment and number of district judges",
+              "identifier": "/us/usc/t28/s133"
+            },
+            {
+              "number": "134",
+              "numText": "§ 134.",
+              "heading": "Tenure and residence of district judges",
+              "identifier": "/us/usc/t28/s134"
+            },
+            {
+              "number": "135",
+              "numText": "§ 135.",
+              "heading": "Salaries of district judges",
+              "identifier": "/us/usc/t28/s135"
+            },
+            {
+              "number": "136",
+              "numText": "§ 136.",
+              "heading": "Chief judges; precedence of district judges",
+              "identifier": "/us/usc/t28/s136"
+            },
+            {
+              "number": "137",
+              "numText": "§ 137.",
+              "heading": "Division of business among district judges",
+              "identifier": "/us/usc/t28/s137"
+            },
+            {
+              "number": "138",
+              "numText": "§ 138.",
+              "heading": "Terms abolished",
+              "identifier": "/us/usc/t28/s138"
+            },
+            {
+              "number": "139",
+              "numText": "§ 139.",
+              "heading": "Times for holding regular sessions",
+              "identifier": "/us/usc/t28/s139"
+            },
+            {
+              "number": "140",
+              "numText": "§ 140.",
+              "heading": "Adjournment",
+              "identifier": "/us/usc/t28/s140"
+            },
+            {
+              "number": "141",
+              "numText": "§ 141.",
+              "heading": "Special sessions; places; notice",
+              "identifier": "/us/usc/t28/s141"
+            },
+            {
+              "number": "142",
+              "numText": "[§ 142.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 115(c)(3), Apr. 2, 1982, 96 Stat. 32]",
+              "identifier": "/us/usc/t28/s142"
+            },
+            {
+              "number": "143",
+              "numText": "§ 143.",
+              "heading": "Vacant judgeship as affecting proceedings",
+              "identifier": "/us/usc/t28/s143"
+            },
+            {
+              "number": "144",
+              "numText": "§ 144.",
+              "heading": "Bias or prejudice of judge",
+              "identifier": "/us/usc/t28/s144"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "6",
+          "heading": "BANKRUPTCY JUDGES",
+          "identifier": "/us/usc/t28/ptI/ch6",
+          "children": [
+            {
+              "number": "151",
+              "numText": "§ 151.",
+              "heading": "Designation of bankruptcy courts",
+              "identifier": "/us/usc/t28/s151"
+            },
+            {
+              "number": "152",
+              "numText": "§ 152.",
+              "heading": "Appointment of bankruptcy judges",
+              "identifier": "/us/usc/t28/s152"
+            },
+            {
+              "number": "153",
+              "numText": "§ 153.",
+              "heading": "Salaries; character of service",
+              "identifier": "/us/usc/t28/s153"
+            },
+            {
+              "number": "154",
+              "numText": "§ 154.",
+              "heading": "Division of businesses; chief judge",
+              "identifier": "/us/usc/t28/s154"
+            },
+            {
+              "number": "155",
+              "numText": "§ 155.",
+              "heading": "Temporary transfer of bankruptcy judges",
+              "identifier": "/us/usc/t28/s155"
+            },
+            {
+              "number": "156",
+              "numText": "§ 156.",
+              "heading": "Staff; expenses",
+              "identifier": "/us/usc/t28/s156"
+            },
+            {
+              "number": "157",
+              "numText": "§ 157.",
+              "heading": "Procedures",
+              "identifier": "/us/usc/t28/s157"
+            },
+            {
+              "number": "158",
+              "numText": "§ 158.",
+              "heading": "Appeals",
+              "identifier": "/us/usc/t28/s158"
+            },
+            {
+              "number": "159",
+              "numText": "§ 159.",
+              "heading": "Bankruptcy statistics",
+              "identifier": "/us/usc/t28/s159"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "7",
+          "heading": "UNITED STATES COURT OF FEDERAL CLAIMS",
+          "identifier": "/us/usc/t28/ptI/ch7",
+          "children": [
+            {
+              "number": "171",
+              "numText": "§ 171.",
+              "heading": "Appointment and number of judges; character of court; designation of chief judge",
+              "identifier": "/us/usc/t28/s171"
+            },
+            {
+              "number": "172",
+              "numText": "§ 172.",
+              "heading": "Tenure and salaries of judges",
+              "identifier": "/us/usc/t28/s172"
+            },
+            {
+              "number": "173",
+              "numText": "§ 173.",
+              "heading": "Times and places of holding court",
+              "identifier": "/us/usc/t28/s173"
+            },
+            {
+              "number": "174",
+              "numText": "§ 174.",
+              "heading": "Assignment of judges; decisions",
+              "identifier": "/us/usc/t28/s174"
+            },
+            {
+              "number": "175",
+              "numText": "§ 175.",
+              "heading": "Official duty station; residence",
+              "identifier": "/us/usc/t28/s175"
+            },
+            {
+              "number": "176",
+              "numText": "§ 176.",
+              "heading": "Removal from office",
+              "identifier": "/us/usc/t28/s176"
+            },
+            {
+              "number": "177",
+              "numText": "§ 177.",
+              "heading": "Disbarment of removed judges",
+              "identifier": "/us/usc/t28/s177"
+            },
+            {
+              "number": "178",
+              "numText": "§ 178.",
+              "heading": "Retirement of judges of the Court of Federal Claims",
+              "identifier": "/us/usc/t28/s178"
+            },
+            {
+              "number": "179",
+              "numText": "§ 179.",
+              "heading": "Personnel application and insurance programs",
+              "identifier": "/us/usc/t28/s179"
+            },
+            {
+              "number": "180",
+              "numText": "[§ 180.",
+              "heading": "Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, § 654(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165]",
+              "identifier": "/us/usc/t28/s180"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "9",
+          "heading": "REPEALED]",
+          "identifier": "/us/usc/t28/ptI/ch9",
+          "children": [
+            {
+              "number": "211 to 216",
+              "numText": "[§§ 211 to 216.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 106, Apr. 2, 1982, 96 Stat. 28]",
+              "identifier": "/us/usc/t28/s211...216"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "11",
+          "heading": "COURT OF INTERNATIONAL TRADE",
+          "identifier": "/us/usc/t28/ptI/ch11",
+          "children": [
+            {
+              "number": "251",
+              "numText": "§ 251.",
+              "heading": "Appointment and number of judges; offices",
+              "identifier": "/us/usc/t28/s251"
+            },
+            {
+              "number": "252",
+              "numText": "§ 252.",
+              "heading": "Tenure and salaries of judges",
+              "identifier": "/us/usc/t28/s252"
+            },
+            {
+              "number": "253",
+              "numText": "§ 253.",
+              "heading": "Duties of chief judge",
+              "identifier": "/us/usc/t28/s253"
+            },
+            {
+              "number": "254",
+              "numText": "§ 254.",
+              "heading": "Single-judge trials",
+              "identifier": "/us/usc/t28/s254"
+            },
+            {
+              "number": "255",
+              "numText": "§ 255.",
+              "heading": "Three-judge trials",
+              "identifier": "/us/usc/t28/s255"
+            },
+            {
+              "number": "256",
+              "numText": "§ 256.",
+              "heading": "Trials at ports other than New York",
+              "identifier": "/us/usc/t28/s256"
+            },
+            {
+              "number": "257",
+              "numText": "§ 257.",
+              "heading": "Publication of decisions",
+              "identifier": "/us/usc/t28/s257"
+            },
+            {
+              "number": "258",
+              "numText": "§ 258.",
+              "heading": "Chief judges; precedence of judges",
+              "identifier": "/us/usc/t28/s258"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "13",
+          "heading": "ASSIGNMENT OF JUDGES TO OTHER COURTS",
+          "identifier": "/us/usc/t28/ptI/ch13",
+          "children": [
+            {
+              "number": "291",
+              "numText": "§ 291.",
+              "heading": "Circuit judges",
+              "identifier": "/us/usc/t28/s291"
+            },
+            {
+              "number": "292",
+              "numText": "§ 292.",
+              "heading": "District judges",
+              "identifier": "/us/usc/t28/s292"
+            },
+            {
+              "number": "293",
+              "numText": "§ 293.",
+              "heading": "Judges of the Court of International Trade",
+              "identifier": "/us/usc/t28/s293"
+            },
+            {
+              "number": "294",
+              "numText": "§ 294.",
+              "heading": "Assignment of retired Justices or judges to active duty",
+              "identifier": "/us/usc/t28/s294"
+            },
+            {
+              "number": "295",
+              "numText": "§ 295.",
+              "heading": "Conditions upon designation and assignment",
+              "identifier": "/us/usc/t28/s295"
+            },
+            {
+              "number": "296",
+              "numText": "§ 296.",
+              "heading": "Powers upon designation and assignment",
+              "identifier": "/us/usc/t28/s296"
+            },
+            {
+              "number": "297",
+              "numText": "§ 297.",
+              "heading": "Assignment of judges to courts of the freely associated compact states",
+              "identifier": "/us/usc/t28/s297"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "15",
+          "heading": "CONFERENCES AND COUNCILS OF JUDGES",
+          "identifier": "/us/usc/t28/ptI/ch15",
+          "children": [
+            {
+              "number": "331",
+              "numText": "§ 331.",
+              "heading": "Judicial Conference of the United States",
+              "identifier": "/us/usc/t28/s331"
+            },
+            {
+              "number": "332",
+              "numText": "§ 332.",
+              "heading": "Judicial councils of circuits",
+              "identifier": "/us/usc/t28/s332"
+            },
+            {
+              "number": "333",
+              "numText": "§ 333.",
+              "heading": "Judicial conferences of circuits",
+              "identifier": "/us/usc/t28/s333"
+            },
+            {
+              "number": "334",
+              "numText": "§ 334.",
+              "heading": "Institutes and joint councils on sentencing",
+              "identifier": "/us/usc/t28/s334"
+            },
+            {
+              "number": "335",
+              "numText": "§ 335.",
+              "heading": "Judicial Conference of the Court of International Trade",
+              "identifier": "/us/usc/t28/s335"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "16",
+          "heading": "COMPLAINTS AGAINST JUDGES AND JUDICIAL DISCIPLINE",
+          "identifier": "/us/usc/t28/ptI/ch16",
+          "children": [
+            {
+              "number": "351",
+              "numText": "§ 351.",
+              "heading": "Complaints; judge defined",
+              "identifier": "/us/usc/t28/s351"
+            },
+            {
+              "number": "352",
+              "numText": "§ 352.",
+              "heading": "Review of complaint by chief judge",
+              "identifier": "/us/usc/t28/s352"
+            },
+            {
+              "number": "353",
+              "numText": "§ 353.",
+              "heading": "Special committees",
+              "identifier": "/us/usc/t28/s353"
+            },
+            {
+              "number": "354",
+              "numText": "§ 354.",
+              "heading": "Action by judicial council",
+              "identifier": "/us/usc/t28/s354"
+            },
+            {
+              "number": "355",
+              "numText": "§ 355.",
+              "heading": "Action by Judicial Conference",
+              "identifier": "/us/usc/t28/s355"
+            },
+            {
+              "number": "356",
+              "numText": "§ 356.",
+              "heading": "Subpoena power",
+              "identifier": "/us/usc/t28/s356"
+            },
+            {
+              "number": "357",
+              "numText": "§ 357.",
+              "heading": "Review of orders and actions",
+              "identifier": "/us/usc/t28/s357"
+            },
+            {
+              "number": "358",
+              "numText": "§ 358.",
+              "heading": "Rules",
+              "identifier": "/us/usc/t28/s358"
+            },
+            {
+              "number": "359",
+              "numText": "§ 359.",
+              "heading": "Restrictions",
+              "identifier": "/us/usc/t28/s359"
+            },
+            {
+              "number": "360",
+              "numText": "§ 360.",
+              "heading": "Disclosure of information",
+              "identifier": "/us/usc/t28/s360"
+            },
+            {
+              "number": "361",
+              "numText": "§ 361.",
+              "heading": "Reimbursement of expenses",
+              "identifier": "/us/usc/t28/s361"
+            },
+            {
+              "number": "362",
+              "numText": "§ 362.",
+              "heading": "Other provisions and rules not affected",
+              "identifier": "/us/usc/t28/s362"
+            },
+            {
+              "number": "363",
+              "numText": "§ 363.",
+              "heading": "Court of Federal Claims, Court of International Trade, Court of Appeals for the Federal Circuit",
+              "identifier": "/us/usc/t28/s363"
+            },
+            {
+              "number": "364",
+              "numText": "§ 364.",
+              "heading": "Effect of felony conviction",
+              "identifier": "/us/usc/t28/s364"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "17",
+          "heading": "RESIGNATION AND RETIREMENT OF JUSTICES AND JUDGES",
+          "identifier": "/us/usc/t28/ptI/ch17",
+          "children": [
+            {
+              "number": "371",
+              "numText": "§ 371.",
+              "heading": "Retirement on salary; retirement in senior status",
+              "identifier": "/us/usc/t28/s371"
+            },
+            {
+              "number": "372",
+              "numText": "§ 372.",
+              "heading": "Retirement for disability; substitute judge on failure to retire",
+              "identifier": "/us/usc/t28/s372"
+            },
+            {
+              "number": "373",
+              "numText": "§ 373.",
+              "heading": "Judges in territories and possessions",
+              "identifier": "/us/usc/t28/s373"
+            },
+            {
+              "number": "374",
+              "numText": "§ 374.",
+              "heading": "Residence of retired judges; official station",
+              "identifier": "/us/usc/t28/s374"
+            },
+            {
+              "number": "375",
+              "numText": "§ 375.",
+              "heading": "Recall of certain judges and magistrate judges",
+              "identifier": "/us/usc/t28/s375"
+            },
+            {
+              "number": "376",
+              "numText": "§ 376.",
+              "heading": "Annuities for survivors of certain judicial officials of the United States",
+              "identifier": "/us/usc/t28/s376"
+            },
+            {
+              "number": "377",
+              "numText": "§ 377.",
+              "heading": "Retirement of bankruptcy judges and magistrate judges",
+              "identifier": "/us/usc/t28/s377"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "19",
+          "heading": "DISTRIBUTION OF REPORTS AND DIGESTS",
+          "identifier": "/us/usc/t28/ptI/ch19",
+          "children": [
+            {
+              "number": "411",
+              "numText": "§ 411.",
+              "heading": "Supreme Court reports; printing, binding, and distribution",
+              "identifier": "/us/usc/t28/s411"
+            },
+            {
+              "number": "412",
+              "numText": "§ 412.",
+              "heading": "Sale of Supreme Court reports",
+              "identifier": "/us/usc/t28/s412"
+            },
+            {
+              "number": "413",
+              "numText": "§ 413.",
+              "heading": "Publications; distribution to courts",
+              "identifier": "/us/usc/t28/s413"
+            },
+            {
+              "number": "414",
+              "numText": "§ 414.",
+              "heading": "Transmittal of books to successors",
+              "identifier": "/us/usc/t28/s414"
+            },
+            {
+              "number": "415",
+              "numText": "[§ 415.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 113, Apr. 2, 1982, 96 Stat. 29]",
+              "identifier": "/us/usc/t28/s415"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "21",
+          "heading": "GENERAL PROVISIONS APPLICABLE TO COURTS AND JUDGES",
+          "identifier": "/us/usc/t28/ptI/ch21",
+          "children": [
+            {
+              "number": "451",
+              "numText": "§ 451.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s451"
+            },
+            {
+              "number": "452",
+              "numText": "§ 452.",
+              "heading": "Courts always open; powers unrestricted by expiration of sessions",
+              "identifier": "/us/usc/t28/s452"
+            },
+            {
+              "number": "453",
+              "numText": "§ 453.",
+              "heading": "Oaths of justices and judges",
+              "identifier": "/us/usc/t28/s453"
+            },
+            {
+              "number": "454",
+              "numText": "§ 454.",
+              "heading": "Practice of law by justices and judges",
+              "identifier": "/us/usc/t28/s454"
+            },
+            {
+              "number": "455",
+              "numText": "§ 455.",
+              "heading": "Disqualification of justice, judge, or magistrate judge",
+              "identifier": "/us/usc/t28/s455"
+            },
+            {
+              "number": "456",
+              "numText": "§ 456.",
+              "heading": "Traveling expenses of justices and judges; official duty stations",
+              "identifier": "/us/usc/t28/s456"
+            },
+            {
+              "number": "457",
+              "numText": "§ 457.",
+              "heading": "Records; obsolete papers",
+              "identifier": "/us/usc/t28/s457"
+            },
+            {
+              "number": "458",
+              "numText": "§ 458.",
+              "heading": "Relative of justice or judge ineligible to appointment",
+              "identifier": "/us/usc/t28/s458"
+            },
+            {
+              "number": "459",
+              "numText": "§ 459.",
+              "heading": "Administration of oaths and acknowledgments",
+              "identifier": "/us/usc/t28/s459"
+            },
+            {
+              "number": "460",
+              "numText": "§ 460.",
+              "heading": "Application to other courts",
+              "identifier": "/us/usc/t28/s460"
+            },
+            {
+              "number": "461",
+              "numText": "§ 461.",
+              "heading": "Adjustments in certain salaries",
+              "identifier": "/us/usc/t28/s461"
+            },
+            {
+              "number": "462",
+              "numText": "§ 462.",
+              "heading": "Court accommodations",
+              "identifier": "/us/usc/t28/s462"
+            },
+            {
+              "number": "463",
+              "numText": "§ 463.",
+              "heading": "Expenses of litigation",
+              "identifier": "/us/usc/t28/s463"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "23",
+          "heading": "CIVIL JUSTICE EXPENSE AND DELAY REDUCTION PLANS",
+          "identifier": "/us/usc/t28/ptI/ch23",
+          "children": [
+            {
+              "number": "471",
+              "numText": "§ 471.",
+              "heading": "Requirement for a district court civil justice expense and delay reduction plan",
+              "identifier": "/us/usc/t28/s471"
+            },
+            {
+              "number": "472",
+              "numText": "§ 472.",
+              "heading": "Development and implementation of a civil justice expense and delay reduction plan",
+              "identifier": "/us/usc/t28/s472"
+            },
+            {
+              "number": "473",
+              "numText": "§ 473.",
+              "heading": "Content of civil justice expense and delay reduction plans",
+              "identifier": "/us/usc/t28/s473"
+            },
+            {
+              "number": "474",
+              "numText": "§ 474.",
+              "heading": "Review of district court action",
+              "identifier": "/us/usc/t28/s474"
+            },
+            {
+              "number": "475",
+              "numText": "§ 475.",
+              "heading": "Periodic district court assessment",
+              "identifier": "/us/usc/t28/s475"
+            },
+            {
+              "number": "476",
+              "numText": "§ 476.",
+              "heading": "Enhancement of judicial information dissemination",
+              "identifier": "/us/usc/t28/s476"
+            },
+            {
+              "number": "477",
+              "numText": "§ 477.",
+              "heading": "Model civil justice expense and delay reduction plan",
+              "identifier": "/us/usc/t28/s477"
+            },
+            {
+              "number": "478",
+              "numText": "§ 478.",
+              "heading": "Advisory groups",
+              "identifier": "/us/usc/t28/s478"
+            },
+            {
+              "number": "479",
+              "numText": "§ 479.",
+              "heading": "Information on litigation management and cost and delay reduction",
+              "identifier": "/us/usc/t28/s479"
+            },
+            {
+              "number": "480",
+              "numText": "§ 480.",
+              "heading": "Training programs",
+              "identifier": "/us/usc/t28/s480"
+            },
+            {
+              "number": "481",
+              "numText": "§ 481.",
+              "heading": "Automated case information",
+              "identifier": "/us/usc/t28/s481"
+            },
+            {
+              "number": "482",
+              "numText": "§ 482.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s482"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "II",
+      "heading": "DEPARTMENT OF JUSTICE",
+      "identifier": "/us/usc/t28/ptII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "31",
+          "heading": "THE ATTORNEY GENERAL",
+          "identifier": "/us/usc/t28/ptII/ch31",
+          "children": [
+            {
+              "number": "501",
+              "numText": "§ 501.",
+              "heading": "Executive department",
+              "identifier": "/us/usc/t28/s501"
+            },
+            {
+              "number": "502",
+              "numText": "§ 502.",
+              "heading": "Seal",
+              "identifier": "/us/usc/t28/s502"
+            },
+            {
+              "number": "503",
+              "numText": "§ 503.",
+              "heading": "Attorney General",
+              "identifier": "/us/usc/t28/s503"
+            },
+            {
+              "number": "504",
+              "numText": "§ 504.",
+              "heading": "Deputy Attorney General",
+              "identifier": "/us/usc/t28/s504"
+            },
+            {
+              "number": "504a",
+              "numText": "§ 504a.",
+              "heading": "Associate Attorney General",
+              "identifier": "/us/usc/t28/s504a"
+            },
+            {
+              "number": "505",
+              "numText": "§ 505.",
+              "heading": "Solicitor General",
+              "identifier": "/us/usc/t28/s505"
+            },
+            {
+              "number": "506",
+              "numText": "§ 506.",
+              "heading": "Assistant Attorneys General",
+              "identifier": "/us/usc/t28/s506"
+            },
+            {
+              "number": "507",
+              "numText": "§ 507.",
+              "heading": "Assistant Attorney General for Administration",
+              "identifier": "/us/usc/t28/s507"
+            },
+            {
+              "number": "507A",
+              "numText": "§ 507A.",
+              "heading": "Assistant Attorney General for National Security",
+              "identifier": "/us/usc/t28/s507A"
+            },
+            {
+              "number": "508",
+              "numText": "§ 508.",
+              "heading": "Vacancies",
+              "identifier": "/us/usc/t28/s508"
+            },
+            {
+              "number": "509",
+              "numText": "§ 509.",
+              "heading": "Functions of the Attorney General",
+              "identifier": "/us/usc/t28/s509"
+            },
+            {
+              "number": "509A",
+              "numText": "§ 509A.",
+              "heading": "National Security Division",
+              "identifier": "/us/usc/t28/s509A"
+            },
+            {
+              "number": "509B",
+              "numText": "§ 509B.",
+              "heading": "Section to enforce human rights laws",
+              "identifier": "/us/usc/t28/s509B"
+            },
+            {
+              "number": "510",
+              "numText": "§ 510.",
+              "heading": "Delegation of authority",
+              "identifier": "/us/usc/t28/s510"
+            },
+            {
+              "number": "511",
+              "numText": "§ 511.",
+              "heading": "Attorney General to advise the President",
+              "identifier": "/us/usc/t28/s511"
+            },
+            {
+              "number": "512",
+              "numText": "§ 512.",
+              "heading": "Attorney General to advise heads of executive departments",
+              "identifier": "/us/usc/t28/s512"
+            },
+            {
+              "number": "513",
+              "numText": "§ 513.",
+              "heading": "Attorney General to advise Secretaries of military departments",
+              "identifier": "/us/usc/t28/s513"
+            },
+            {
+              "number": "514",
+              "numText": "§ 514.",
+              "heading": "Legal services on pending claims in departments and agencies",
+              "identifier": "/us/usc/t28/s514"
+            },
+            {
+              "number": "515",
+              "numText": "§ 515.",
+              "heading": "Authority for legal proceedings; commission, oath, and salary for special attorneys",
+              "identifier": "/us/usc/t28/s515"
+            },
+            {
+              "number": "516",
+              "numText": "§ 516.",
+              "heading": "Conduct of litigation reserved to Department of Justice",
+              "identifier": "/us/usc/t28/s516"
+            },
+            {
+              "number": "517",
+              "numText": "§ 517.",
+              "heading": "Interests of United States in pending suits",
+              "identifier": "/us/usc/t28/s517"
+            },
+            {
+              "number": "518",
+              "numText": "§ 518.",
+              "heading": "Conduct and argument of cases",
+              "identifier": "/us/usc/t28/s518"
+            },
+            {
+              "number": "519",
+              "numText": "§ 519.",
+              "heading": "Supervision of litigation",
+              "identifier": "/us/usc/t28/s519"
+            },
+            {
+              "number": "520",
+              "numText": "§ 520.",
+              "heading": "Transmission of petitions in United States Court of Federal Claims or in United States Court of Appeals for the Federal Circuit; statement furnished by departments",
+              "identifier": "/us/usc/t28/s520"
+            },
+            {
+              "number": "521",
+              "numText": "§ 521.",
+              "heading": "Publication and distribution of opinions",
+              "identifier": "/us/usc/t28/s521"
+            },
+            {
+              "number": "522",
+              "numText": "§ 522.",
+              "heading": "Report of business and statistics",
+              "identifier": "/us/usc/t28/s522"
+            },
+            {
+              "number": "523",
+              "numText": "§ 523.",
+              "heading": "Requisitions",
+              "identifier": "/us/usc/t28/s523"
+            },
+            {
+              "number": "524",
+              "numText": "§ 524.",
+              "heading": "Availability of appropriations",
+              "identifier": "/us/usc/t28/s524"
+            },
+            {
+              "number": "525",
+              "numText": "§ 525.",
+              "heading": "Procurement of law books, reference books, and periodicals; sale and exchange",
+              "identifier": "/us/usc/t28/s525"
+            },
+            {
+              "number": "526",
+              "numText": "§ 526.",
+              "heading": "Authority of Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others",
+              "identifier": "/us/usc/t28/s526"
+            },
+            {
+              "number": "527",
+              "numText": "§ 527.",
+              "heading": "Establishment of working capital fund",
+              "identifier": "/us/usc/t28/s527"
+            },
+            {
+              "number": "528",
+              "numText": "§ 528.",
+              "heading": "Disqualification of officers and employees of the Department of Justice",
+              "identifier": "/us/usc/t28/s528"
+            },
+            {
+              "number": "529",
+              "numText": "§ 529.",
+              "heading": "Annual report of Attorney General",
+              "identifier": "/us/usc/t28/s529"
+            },
+            {
+              "number": "530",
+              "numText": "§ 530.",
+              "heading": "Payment of travel and transportation expenses of newly appointed special agents",
+              "identifier": "/us/usc/t28/s530"
+            },
+            {
+              "number": "530A",
+              "numText": "§ 530A.",
+              "heading": "Authorization of appropriations for travel and related expenses and for health care of personnel serving abroad",
+              "identifier": "/us/usc/t28/s530A"
+            },
+            {
+              "number": "530B",
+              "numText": "§ 530B.",
+              "heading": "Ethical standards for attorneys for the Government",
+              "identifier": "/us/usc/t28/s530B"
+            },
+            {
+              "number": "530C",
+              "numText": "§ 530C.",
+              "heading": "Authority to use available funds",
+              "identifier": "/us/usc/t28/s530C"
+            },
+            {
+              "number": "530D",
+              "numText": "§ 530D.",
+              "heading": "Report on enforcement of laws",
+              "identifier": "/us/usc/t28/s530D"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "33",
+          "heading": "FEDERAL BUREAU OF INVESTIGATION",
+          "identifier": "/us/usc/t28/ptII/ch33",
+          "children": [
+            {
+              "number": "531",
+              "numText": "§ 531.",
+              "heading": "Federal Bureau of Investigation",
+              "identifier": "/us/usc/t28/s531"
+            },
+            {
+              "number": "532",
+              "numText": "§ 532.",
+              "heading": "Director of the Federal Bureau of Investigation",
+              "identifier": "/us/usc/t28/s532"
+            },
+            {
+              "number": "533",
+              "numText": "§ 533.",
+              "heading": "Investigative and other officials; appointment",
+              "identifier": "/us/usc/t28/s533"
+            },
+            {
+              "number": "534",
+              "numText": "§ 534.",
+              "heading": "Acquisition, preservation, and exchange of identification records and information; appointment of officials",
+              "identifier": "/us/usc/t28/s534"
+            },
+            {
+              "number": "535",
+              "numText": "§ 535.",
+              "heading": "Investigation of crimes involving Government officers and employees; limitations",
+              "identifier": "/us/usc/t28/s535"
+            },
+            {
+              "number": "536",
+              "numText": "§ 536.",
+              "heading": "Positions in excepted service",
+              "identifier": "/us/usc/t28/s536"
+            },
+            {
+              "number": "537",
+              "numText": "§ 537.",
+              "heading": "Expenses of unforeseen emergencies of a confidential character",
+              "identifier": "/us/usc/t28/s537"
+            },
+            {
+              "number": "538",
+              "numText": "§ 538.",
+              "heading": "Investigation of aircraft piracy and related violations",
+              "identifier": "/us/usc/t28/s538"
+            },
+            {
+              "number": "539",
+              "numText": "§ 539.",
+              "heading": "Counterintelligence official reception and representation expenses",
+              "identifier": "/us/usc/t28/s539"
+            },
+            {
+              "number": "540",
+              "numText": "§ 540.",
+              "heading": "Investigation of felonious killings of State or local law enforcement officers",
+              "identifier": "/us/usc/t28/s540"
+            },
+            {
+              "number": "540A",
+              "numText": "§ 540A.",
+              "heading": "Investigation of violent crimes against travelers",
+              "identifier": "/us/usc/t28/s540A"
+            },
+            {
+              "number": "540B",
+              "numText": "§ 540B.",
+              "heading": "Investigation of serial killings",
+              "identifier": "/us/usc/t28/s540B"
+            },
+            {
+              "number": "540C",
+              "numText": "§ 540C.",
+              "heading": "FBI police",
+              "identifier": "/us/usc/t28/s540C"
+            },
+            {
+              "number": "540D",
+              "numText": "§ 540D.",
+              "heading": "Multidisciplinary teams",
+              "identifier": "/us/usc/t28/s540D"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "35",
+          "heading": "UNITED STATES ATTORNEYS",
+          "identifier": "/us/usc/t28/ptII/ch35",
+          "children": [
+            {
+              "number": "541",
+              "numText": "§ 541.",
+              "heading": "United States attorneys",
+              "identifier": "/us/usc/t28/s541"
+            },
+            {
+              "number": "542",
+              "numText": "§ 542.",
+              "heading": "Assistant United States attorneys",
+              "identifier": "/us/usc/t28/s542"
+            },
+            {
+              "number": "543",
+              "numText": "§ 543.",
+              "heading": "Special attorneys",
+              "identifier": "/us/usc/t28/s543"
+            },
+            {
+              "number": "544",
+              "numText": "§ 544.",
+              "heading": "Oath of office",
+              "identifier": "/us/usc/t28/s544"
+            },
+            {
+              "number": "545",
+              "numText": "§ 545.",
+              "heading": "Residence",
+              "identifier": "/us/usc/t28/s545"
+            },
+            {
+              "number": "546",
+              "numText": "§ 546.",
+              "heading": "Vacancies",
+              "identifier": "/us/usc/t28/s546"
+            },
+            {
+              "number": "547",
+              "numText": "§ 547.",
+              "heading": "Duties",
+              "identifier": "/us/usc/t28/s547"
+            },
+            {
+              "number": "548",
+              "numText": "§ 548.",
+              "heading": "Salaries",
+              "identifier": "/us/usc/t28/s548"
+            },
+            {
+              "number": "549",
+              "numText": "§ 549.",
+              "heading": "Expenses",
+              "identifier": "/us/usc/t28/s549"
+            },
+            {
+              "number": "550",
+              "numText": "§ 550.",
+              "heading": "Clerical assistants, messengers, and private process servers",
+              "identifier": "/us/usc/t28/s550"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "37",
+          "heading": "UNITED STATES MARSHALS SERVICE",
+          "identifier": "/us/usc/t28/ptII/ch37",
+          "children": [
+            {
+              "number": "561",
+              "numText": "§ 561.",
+              "heading": "United States Marshals Service",
+              "identifier": "/us/usc/t28/s561"
+            },
+            {
+              "number": "562",
+              "numText": "§ 562.",
+              "heading": "Vacancies",
+              "identifier": "/us/usc/t28/s562"
+            },
+            {
+              "number": "563",
+              "numText": "§ 563.",
+              "heading": "Oath of office",
+              "identifier": "/us/usc/t28/s563"
+            },
+            {
+              "number": "564",
+              "numText": "§ 564.",
+              "heading": "Powers as sheriff",
+              "identifier": "/us/usc/t28/s564"
+            },
+            {
+              "number": "565",
+              "numText": "§ 565.",
+              "heading": "Expenses of the Service",
+              "identifier": "/us/usc/t28/s565"
+            },
+            {
+              "number": "566",
+              "numText": "§ 566.",
+              "heading": "Powers and duties",
+              "identifier": "/us/usc/t28/s566"
+            },
+            {
+              "number": "567",
+              "numText": "§ 567.",
+              "heading": "Collection of fees; accounting",
+              "identifier": "/us/usc/t28/s567"
+            },
+            {
+              "number": "568",
+              "numText": "§ 568.",
+              "heading": "Practice of law prohibited",
+              "identifier": "/us/usc/t28/s568"
+            },
+            {
+              "number": "569",
+              "numText": "§ 569.",
+              "heading": "Reemployment rights",
+              "identifier": "/us/usc/t28/s569"
+            },
+            {
+              "number": "570, 571",
+              "numText": "[§§ 570, 571.",
+              "heading": "Repealed. Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4512]",
+              "identifier": "/us/usc/t28/s570 /us/usc/t28/s571"
+            },
+            {
+              "number": "572",
+              "numText": "[§ 572.",
+              "heading": "Renumbered § 567]",
+              "identifier": "/us/usc/t28/s572"
+            },
+            {
+              "number": "572a to 574",
+              "numText": "[§§ 572a to 574.",
+              "heading": "Repealed. Pub. L. 100–690, title VII, § 7608(a)(2)(A), Nov. 18, 1988, 102 Stat. 4514]",
+              "identifier": "/us/usc/t28/s572a...574"
+            },
+            {
+              "number": "575, 576",
+              "numText": "[§§ 575, 576.",
+              "heading": "Renumbered §§ 568, 569]",
+              "identifier": "/us/usc/t28/s575 /us/usc/t28/s576"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "39",
+          "heading": "UNITED STATES TRUSTEES",
+          "identifier": "/us/usc/t28/ptII/ch39",
+          "children": [
+            {
+              "number": "581",
+              "numText": "§ 581.",
+              "heading": "United States trustees",
+              "identifier": "/us/usc/t28/s581"
+            },
+            {
+              "number": "582",
+              "numText": "§ 582.",
+              "heading": "Assistant United States trustees",
+              "identifier": "/us/usc/t28/s582"
+            },
+            {
+              "number": "583",
+              "numText": "§ 583.",
+              "heading": "Oath of office",
+              "identifier": "/us/usc/t28/s583"
+            },
+            {
+              "number": "584",
+              "numText": "§ 584.",
+              "heading": "Official stations",
+              "identifier": "/us/usc/t28/s584"
+            },
+            {
+              "number": "585",
+              "numText": "§ 585.",
+              "heading": "Vacancies",
+              "identifier": "/us/usc/t28/s585"
+            },
+            {
+              "number": "586",
+              "numText": "§ 586.",
+              "heading": "Duties; supervision by Attorney General",
+              "identifier": "/us/usc/t28/s586"
+            },
+            {
+              "number": "587",
+              "numText": "§ 587.",
+              "heading": "Salaries",
+              "identifier": "/us/usc/t28/s587"
+            },
+            {
+              "number": "588",
+              "numText": "§ 588.",
+              "heading": "Expenses",
+              "identifier": "/us/usc/t28/s588"
+            },
+            {
+              "number": "589",
+              "numText": "§ 589.",
+              "heading": "Staff and other employees",
+              "identifier": "/us/usc/t28/s589"
+            },
+            {
+              "number": "589a",
+              "numText": "§ 589a.",
+              "heading": "United States Trustee System Fund",
+              "identifier": "/us/usc/t28/s589a"
+            },
+            {
+              "number": "589b",
+              "numText": "§ 589b.",
+              "heading": "Bankruptcy data",
+              "identifier": "/us/usc/t28/s589b"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "40",
+          "heading": "INDEPENDENT COUNSEL",
+          "identifier": "/us/usc/t28/ptII/ch40",
+          "children": [
+            {
+              "number": "591",
+              "numText": "§ 591.",
+              "heading": "Applicability of provisions of this chapter",
+              "identifier": "/us/usc/t28/s591"
+            },
+            {
+              "number": "592",
+              "numText": "§ 592.",
+              "heading": "Preliminary investigation and application for appointment of an independent counsel",
+              "identifier": "/us/usc/t28/s592"
+            },
+            {
+              "number": "593",
+              "numText": "§ 593.",
+              "heading": "Duties of the division of the court",
+              "identifier": "/us/usc/t28/s593"
+            },
+            {
+              "number": "594",
+              "numText": "§ 594.",
+              "heading": "Authority and duties of an independent counsel",
+              "identifier": "/us/usc/t28/s594"
+            },
+            {
+              "number": "595",
+              "numText": "§ 595.",
+              "heading": "Congressional oversight",
+              "identifier": "/us/usc/t28/s595"
+            },
+            {
+              "number": "596",
+              "numText": "§ 596.",
+              "heading": "Removal of an independent counsel; termination of office",
+              "identifier": "/us/usc/t28/s596"
+            },
+            {
+              "number": "597",
+              "numText": "§ 597.",
+              "heading": "Relationship with Department of Justice",
+              "identifier": "/us/usc/t28/s597"
+            },
+            {
+              "number": "598",
+              "numText": "§ 598.",
+              "heading": "Severability",
+              "identifier": "/us/usc/t28/s598"
+            },
+            {
+              "number": "599",
+              "numText": "§ 599.",
+              "heading": "Termination of effect of chapter",
+              "identifier": "/us/usc/t28/s599"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "40A",
+          "heading": "BUREAU OF ALCOHOL, TOBACCO, FIREARMS, AND EXPLOSIVES",
+          "identifier": "/us/usc/t28/ptII/ch40A",
+          "children": [
+            {
+              "number": "599A",
+              "numText": "§ 599A.",
+              "heading": "Bureau of alcohol, tobacco, firearms, and Explosives 11 So in original. Probably should be “Bureau of Alcohol, Tobacco, Firearms, and Explosives”.",
+              "identifier": "/us/usc/t28/s599A"
+            },
+            {
+              "number": "599B",
+              "numText": "§ 599B.",
+              "heading": "Personnel Management demonstration 11 So in original. Probably should be capitalized. project 1",
+              "identifier": "/us/usc/t28/s599B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "III",
+      "heading": "COURT OFFICERS AND EMPLOYEES",
+      "identifier": "/us/usc/t28/ptIII",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "41",
+          "heading": "ADMINISTRATIVE OFFICE OF UNITED STATES COURTS",
+          "identifier": "/us/usc/t28/ptIII/ch41",
+          "children": [
+            {
+              "number": "601",
+              "numText": "§ 601.",
+              "heading": "Creation; Director and Deputy Director",
+              "identifier": "/us/usc/t28/s601"
+            },
+            {
+              "number": "602",
+              "numText": "§ 602.",
+              "heading": "Employees",
+              "identifier": "/us/usc/t28/s602"
+            },
+            {
+              "number": "603",
+              "numText": "§ 603.",
+              "heading": "Salaries",
+              "identifier": "/us/usc/t28/s603"
+            },
+            {
+              "number": "604",
+              "numText": "§ 604.",
+              "heading": "Duties of Director generally",
+              "identifier": "/us/usc/t28/s604"
+            },
+            {
+              "number": "605",
+              "numText": "§ 605.",
+              "heading": "Budget estimates",
+              "identifier": "/us/usc/t28/s605"
+            },
+            {
+              "number": "606",
+              "numText": "§ 606.",
+              "heading": "Duties of Deputy Director",
+              "identifier": "/us/usc/t28/s606"
+            },
+            {
+              "number": "607",
+              "numText": "§ 607.",
+              "heading": "Practice of law prohibited",
+              "identifier": "/us/usc/t28/s607"
+            },
+            {
+              "number": "608",
+              "numText": "§ 608.",
+              "heading": "Seal",
+              "identifier": "/us/usc/t28/s608"
+            },
+            {
+              "number": "609",
+              "numText": "§ 609.",
+              "heading": "Courts’ appointive power unaffected",
+              "identifier": "/us/usc/t28/s609"
+            },
+            {
+              "number": "610",
+              "numText": "§ 610.",
+              "heading": "Courts defined",
+              "identifier": "/us/usc/t28/s610"
+            },
+            {
+              "number": "611",
+              "numText": "§ 611.",
+              "heading": "Retirement of Director",
+              "identifier": "/us/usc/t28/s611"
+            },
+            {
+              "number": "612",
+              "numText": "§ 612.",
+              "heading": "Judiciary Information Technology Fund",
+              "identifier": "/us/usc/t28/s612"
+            },
+            {
+              "number": "613",
+              "numText": "§ 613.",
+              "heading": "Disbursing and certifying officers",
+              "identifier": "/us/usc/t28/s613"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "42",
+          "heading": "FEDERAL JUDICIAL CENTER",
+          "identifier": "/us/usc/t28/ptIII/ch42",
+          "children": [
+            {
+              "number": "620",
+              "numText": "§ 620.",
+              "heading": "Federal Judicial Center",
+              "identifier": "/us/usc/t28/s620"
+            },
+            {
+              "number": "621",
+              "numText": "§ 621.",
+              "heading": "Board; composition, tenure of members, compensation",
+              "identifier": "/us/usc/t28/s621"
+            },
+            {
+              "number": "622",
+              "numText": "§ 622.",
+              "heading": "Meetings; conduct of business",
+              "identifier": "/us/usc/t28/s622"
+            },
+            {
+              "number": "623",
+              "numText": "§ 623.",
+              "heading": "Duties of the Board",
+              "identifier": "/us/usc/t28/s623"
+            },
+            {
+              "number": "624",
+              "numText": "§ 624.",
+              "heading": "Powers of the Board",
+              "identifier": "/us/usc/t28/s624"
+            },
+            {
+              "number": "625",
+              "numText": "§ 625.",
+              "heading": "Director and staff",
+              "identifier": "/us/usc/t28/s625"
+            },
+            {
+              "number": "626",
+              "numText": "§ 626.",
+              "heading": "Compensation of the Director and Deputy Director",
+              "identifier": "/us/usc/t28/s626"
+            },
+            {
+              "number": "627",
+              "numText": "§ 627.",
+              "heading": "Retirement; employee benefits",
+              "identifier": "/us/usc/t28/s627"
+            },
+            {
+              "number": "628",
+              "numText": "§ 628.",
+              "heading": "Appropriations and accounting",
+              "identifier": "/us/usc/t28/s628"
+            },
+            {
+              "number": "629",
+              "numText": "§ 629.",
+              "heading": "Federal Judicial Center Foundation",
+              "identifier": "/us/usc/t28/s629"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "43",
+          "heading": "UNITED STATES MAGISTRATE JUDGES",
+          "identifier": "/us/usc/t28/ptIII/ch43",
+          "children": [
+            {
+              "number": "631",
+              "numText": "§ 631.",
+              "heading": "Appointment and tenure",
+              "identifier": "/us/usc/t28/s631"
+            },
+            {
+              "number": "632",
+              "numText": "§ 632.",
+              "heading": "Character of service",
+              "identifier": "/us/usc/t28/s632"
+            },
+            {
+              "number": "633",
+              "numText": "§ 633.",
+              "heading": "Determination of number, locations, and salaries of magistrate judges",
+              "identifier": "/us/usc/t28/s633"
+            },
+            {
+              "number": "634",
+              "numText": "§ 634.",
+              "heading": "Compensation",
+              "identifier": "/us/usc/t28/s634"
+            },
+            {
+              "number": "635",
+              "numText": "§ 635.",
+              "heading": "Expenses",
+              "identifier": "/us/usc/t28/s635"
+            },
+            {
+              "number": "636",
+              "numText": "§ 636.",
+              "heading": "Jurisdiction, powers, and temporary assignment",
+              "identifier": "/us/usc/t28/s636"
+            },
+            {
+              "number": "637",
+              "numText": "§ 637.",
+              "heading": "Training",
+              "identifier": "/us/usc/t28/s637"
+            },
+            {
+              "number": "638",
+              "numText": "§ 638.",
+              "heading": "Dockets and forms; United States Code; seals",
+              "identifier": "/us/usc/t28/s638"
+            },
+            {
+              "number": "639",
+              "numText": "§ 639.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s639"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "44",
+          "heading": "ALTERNATIVE DISPUTE RESOLUTION",
+          "identifier": "/us/usc/t28/ptIII/ch44",
+          "children": [
+            {
+              "number": "651",
+              "numText": "§ 651.",
+              "heading": "Authorization of alternative dispute resolution",
+              "identifier": "/us/usc/t28/s651"
+            },
+            {
+              "number": "652",
+              "numText": "§ 652.",
+              "heading": "Jurisdiction",
+              "identifier": "/us/usc/t28/s652"
+            },
+            {
+              "number": "653",
+              "numText": "§ 653.",
+              "heading": "Neutrals",
+              "identifier": "/us/usc/t28/s653"
+            },
+            {
+              "number": "654",
+              "numText": "§ 654.",
+              "heading": "Arbitration",
+              "identifier": "/us/usc/t28/s654"
+            },
+            {
+              "number": "655",
+              "numText": "§ 655.",
+              "heading": "Arbitrators",
+              "identifier": "/us/usc/t28/s655"
+            },
+            {
+              "number": "656",
+              "numText": "§ 656.",
+              "heading": "Subpoenas",
+              "identifier": "/us/usc/t28/s656"
+            },
+            {
+              "number": "657",
+              "numText": "§ 657.",
+              "heading": "Arbitration award and judgment",
+              "identifier": "/us/usc/t28/s657"
+            },
+            {
+              "number": "658",
+              "numText": "§ 658.",
+              "heading": "Compensation of arbitrators and neutrals",
+              "identifier": "/us/usc/t28/s658"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "45",
+          "heading": "SUPREME COURT",
+          "identifier": "/us/usc/t28/ptIII/ch45",
+          "children": [
+            {
+              "number": "671",
+              "numText": "§ 671.",
+              "heading": "Clerk",
+              "identifier": "/us/usc/t28/s671"
+            },
+            {
+              "number": "672",
+              "numText": "§ 672.",
+              "heading": "Marshal",
+              "identifier": "/us/usc/t28/s672"
+            },
+            {
+              "number": "673",
+              "numText": "§ 673.",
+              "heading": "Reporter",
+              "identifier": "/us/usc/t28/s673"
+            },
+            {
+              "number": "674",
+              "numText": "§ 674.",
+              "heading": "Librarian",
+              "identifier": "/us/usc/t28/s674"
+            },
+            {
+              "number": "675",
+              "numText": "§ 675.",
+              "heading": "Law clerks and secretaries",
+              "identifier": "/us/usc/t28/s675"
+            },
+            {
+              "number": "676",
+              "numText": "§ 676.",
+              "heading": "Printing and binding",
+              "identifier": "/us/usc/t28/s676"
+            },
+            {
+              "number": "677",
+              "numText": "§ 677.",
+              "heading": "Counselor to the Chief Justice",
+              "identifier": "/us/usc/t28/s677"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "47",
+          "heading": "COURTS OF APPEALS",
+          "identifier": "/us/usc/t28/ptIII/ch47",
+          "children": [
+            {
+              "number": "711",
+              "numText": "§ 711.",
+              "heading": "Clerks and employees",
+              "identifier": "/us/usc/t28/s711"
+            },
+            {
+              "number": "712",
+              "numText": "§ 712.",
+              "heading": "Law clerks and secretaries",
+              "identifier": "/us/usc/t28/s712"
+            },
+            {
+              "number": "713",
+              "numText": "§ 713.",
+              "heading": "Librarians",
+              "identifier": "/us/usc/t28/s713"
+            },
+            {
+              "number": "714",
+              "numText": "§ 714.",
+              "heading": "Criers and messengers",
+              "identifier": "/us/usc/t28/s714"
+            },
+            {
+              "number": "715",
+              "numText": "§ 715.",
+              "heading": "Staff attorneys and technical assistants",
+              "identifier": "/us/usc/t28/s715"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "49",
+          "heading": "DISTRICT COURTS",
+          "identifier": "/us/usc/t28/ptIII/ch49",
+          "children": [
+            {
+              "number": "751",
+              "numText": "§ 751.",
+              "heading": "Clerks",
+              "identifier": "/us/usc/t28/s751"
+            },
+            {
+              "number": "752",
+              "numText": "§ 752.",
+              "heading": "Law clerks and secretaries",
+              "identifier": "/us/usc/t28/s752"
+            },
+            {
+              "number": "753",
+              "numText": "§ 753.",
+              "heading": "Reporters",
+              "identifier": "/us/usc/t28/s753"
+            },
+            {
+              "number": "754",
+              "numText": "§ 754.",
+              "heading": "Receivers of property in different districts",
+              "identifier": "/us/usc/t28/s754"
+            },
+            {
+              "number": "755",
+              "numText": "§ 755.",
+              "heading": "Criers and bailiffs",
+              "identifier": "/us/usc/t28/s755"
+            },
+            {
+              "number": "756",
+              "numText": "§ 756.",
+              "heading": "Power to appoint",
+              "identifier": "/us/usc/t28/s756"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "50",
+          "heading": "OMITTED]",
+          "identifier": "/us/usc/t28/ptIII/ch50",
+          "children": []
+        },
+        {
+          "type": "chapter",
+          "number": "51",
+          "heading": "UNITED STATES COURT OF FEDERAL CLAIMS",
+          "identifier": "/us/usc/t28/ptIII/ch51",
+          "children": [
+            {
+              "number": "791",
+              "numText": "§ 791.",
+              "heading": "Clerk",
+              "identifier": "/us/usc/t28/s791"
+            },
+            {
+              "number": "792",
+              "numText": "[§ 792.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 121(b), Apr. 2, 1982, 96 Stat. 34]",
+              "identifier": "/us/usc/t28/s792"
+            },
+            {
+              "number": "793",
+              "numText": "[§ 793.",
+              "heading": "Repealed. July 28, 1953, ch. 253, § 6, 67 Stat. 226]",
+              "identifier": "/us/usc/t28/s793"
+            },
+            {
+              "number": "794",
+              "numText": "§ 794.",
+              "heading": "Law clerks and secretaries",
+              "identifier": "/us/usc/t28/s794"
+            },
+            {
+              "number": "795",
+              "numText": "§ 795.",
+              "heading": "Bailiffs and messengers",
+              "identifier": "/us/usc/t28/s795"
+            },
+            {
+              "number": "796",
+              "numText": "§ 796.",
+              "heading": "Reporting of court proceedings",
+              "identifier": "/us/usc/t28/s796"
+            },
+            {
+              "number": "797",
+              "numText": "§ 797.",
+              "heading": "Recall of retired judges",
+              "identifier": "/us/usc/t28/s797"
+            },
+            {
+              "number": "798",
+              "numText": "§ 798.",
+              "heading": "Places of holding court; appointment of special masters",
+              "identifier": "/us/usc/t28/s798"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "53",
+          "heading": "REPEALED]",
+          "identifier": "/us/usc/t28/ptIII/ch53",
+          "children": [
+            {
+              "number": "831 to 834",
+              "numText": "[§§ 831 to 834.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 122(a), Apr. 2, 1982, 96 Stat. 36]",
+              "identifier": "/us/usc/t28/s831...834"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "55",
+          "heading": "COURT OF INTERNATIONAL TRADE",
+          "identifier": "/us/usc/t28/ptIII/ch55",
+          "children": [
+            {
+              "number": "871",
+              "numText": "§ 871.",
+              "heading": "Clerk, chief deputy clerk, assistant clerk, deputies, assistants, and other employees",
+              "identifier": "/us/usc/t28/s871"
+            },
+            {
+              "number": "872",
+              "numText": "§ 872.",
+              "heading": "Criers, bailiffs, and messengers",
+              "identifier": "/us/usc/t28/s872"
+            },
+            {
+              "number": "873",
+              "numText": "[§ 873.",
+              "heading": "Renumbered § 872]",
+              "identifier": "/us/usc/t28/s873"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "57",
+          "heading": "GENERAL PROVISIONS APPLICABLE TO COURT OFFICERS AND EMPLOYEES",
+          "identifier": "/us/usc/t28/ptIII/ch57",
+          "children": [
+            {
+              "number": "951",
+              "numText": "§ 951.",
+              "heading": "Oath of office of clerks and deputies",
+              "identifier": "/us/usc/t28/s951"
+            },
+            {
+              "number": "952",
+              "numText": "[§ 952.",
+              "heading": "Repealed. Pub. L. 92–310, title II, § 206(e)(1), June 6, 1972, 86 Stat. 203]",
+              "identifier": "/us/usc/t28/s952"
+            },
+            {
+              "number": "953",
+              "numText": "§ 953.",
+              "heading": "Administration of oaths and acknowledgments",
+              "identifier": "/us/usc/t28/s953"
+            },
+            {
+              "number": "954",
+              "numText": "§ 954.",
+              "heading": "Vacancy in clerk position; absence of clerk",
+              "identifier": "/us/usc/t28/s954"
+            },
+            {
+              "number": "955",
+              "numText": "§ 955.",
+              "heading": "Practice of law restricted",
+              "identifier": "/us/usc/t28/s955"
+            },
+            {
+              "number": "956",
+              "numText": "§ 956.",
+              "heading": "Powers and duties of clerks and deputies",
+              "identifier": "/us/usc/t28/s956"
+            },
+            {
+              "number": "957",
+              "numText": "§ 957.",
+              "heading": "Clerks ineligible for certain offices",
+              "identifier": "/us/usc/t28/s957"
+            },
+            {
+              "number": "958",
+              "numText": "§ 958.",
+              "heading": "Persons ineligible as receivers",
+              "identifier": "/us/usc/t28/s958"
+            },
+            {
+              "number": "959",
+              "numText": "§ 959.",
+              "heading": "Trustees and receivers suable; management; State laws",
+              "identifier": "/us/usc/t28/s959"
+            },
+            {
+              "number": "960",
+              "numText": "§ 960.",
+              "heading": "Tax liability",
+              "identifier": "/us/usc/t28/s960"
+            },
+            {
+              "number": "961",
+              "numText": "§ 961.",
+              "heading": "Office expenses of clerks",
+              "identifier": "/us/usc/t28/s961"
+            },
+            {
+              "number": "962",
+              "numText": "[§ 962.",
+              "heading": "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663]",
+              "identifier": "/us/usc/t28/s962"
+            },
+            {
+              "number": "963",
+              "numText": "§ 963.",
+              "heading": "Courts defined",
+              "identifier": "/us/usc/t28/s963"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "58",
+          "heading": "UNITED STATES SENTENCING COMMISSION",
+          "identifier": "/us/usc/t28/ptIII/ch58",
+          "children": [
+            {
+              "number": "991",
+              "numText": "§ 991.",
+              "heading": "United States Sentencing Commission; establishment and purposes",
+              "identifier": "/us/usc/t28/s991"
+            },
+            {
+              "number": "992",
+              "numText": "§ 992.",
+              "heading": "Terms of office; compensation",
+              "identifier": "/us/usc/t28/s992"
+            },
+            {
+              "number": "993",
+              "numText": "§ 993.",
+              "heading": "Powers and duties of Chair",
+              "identifier": "/us/usc/t28/s993"
+            },
+            {
+              "number": "994",
+              "numText": "§ 994.",
+              "heading": "Duties of the Commission",
+              "identifier": "/us/usc/t28/s994"
+            },
+            {
+              "number": "995",
+              "numText": "§ 995.",
+              "heading": "Powers of the Commission",
+              "identifier": "/us/usc/t28/s995"
+            },
+            {
+              "number": "996",
+              "numText": "§ 996.",
+              "heading": "Director and staff",
+              "identifier": "/us/usc/t28/s996"
+            },
+            {
+              "number": "997",
+              "numText": "§ 997.",
+              "heading": "Annual report",
+              "identifier": "/us/usc/t28/s997"
+            },
+            {
+              "number": "998",
+              "numText": "§ 998.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s998"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "IV",
+      "heading": "JURISDICTION AND VENUE",
+      "identifier": "/us/usc/t28/ptIV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "81",
+          "heading": "SUPREME COURT",
+          "identifier": "/us/usc/t28/ptIV/ch81",
+          "children": [
+            {
+              "number": "1251",
+              "numText": "§ 1251.",
+              "heading": "Original jurisdiction",
+              "identifier": "/us/usc/t28/s1251"
+            },
+            {
+              "number": "1252",
+              "numText": "[§ 1252.",
+              "heading": "Repealed. Pub. L. 100–352, § 1, June 27, 1988, 102 Stat. 662]",
+              "identifier": "/us/usc/t28/s1252"
+            },
+            {
+              "number": "1253",
+              "numText": "§ 1253.",
+              "heading": "Direct appeals from decisions of three-judge courts",
+              "identifier": "/us/usc/t28/s1253"
+            },
+            {
+              "number": "1254",
+              "numText": "§ 1254.",
+              "heading": "Courts of appeals; certiorari; certified questions",
+              "identifier": "/us/usc/t28/s1254"
+            },
+            {
+              "number": "1255, 1256",
+              "numText": "[§§ 1255, 1256.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 123, Apr. 2, 1982, 96 Stat. 36]",
+              "identifier": "/us/usc/t28/s1255 /us/usc/t28/s1256"
+            },
+            {
+              "number": "1257",
+              "numText": "§ 1257.",
+              "heading": "State courts; certiorari",
+              "identifier": "/us/usc/t28/s1257"
+            },
+            {
+              "number": "1258",
+              "numText": "§ 1258.",
+              "heading": "Supreme Court of Puerto Rico; certiorari",
+              "identifier": "/us/usc/t28/s1258"
+            },
+            {
+              "number": "1259",
+              "numText": "§ 1259.",
+              "heading": "Court of Appeals for the Armed Forces; certiorari",
+              "identifier": "/us/usc/t28/s1259"
+            },
+            {
+              "number": "1260",
+              "numText": "§ 1260.",
+              "heading": "Supreme Court of the Virgin Islands; certiorari",
+              "identifier": "/us/usc/t28/s1260"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "83",
+          "heading": "COURTS OF APPEALS",
+          "identifier": "/us/usc/t28/ptIV/ch83",
+          "children": [
+            {
+              "number": "1291",
+              "numText": "§ 1291.",
+              "heading": "Final decisions of district courts",
+              "identifier": "/us/usc/t28/s1291"
+            },
+            {
+              "number": "1292",
+              "numText": "§ 1292.",
+              "heading": "Interlocutory decisions",
+              "identifier": "/us/usc/t28/s1292"
+            },
+            {
+              "number": "1293",
+              "numText": "[§ 1293.",
+              "heading": "Repealed. Pub. L. 87–189, § 3, Aug. 30, 1961, 75 Stat. 417]",
+              "identifier": "/us/usc/t28/s1293"
+            },
+            {
+              "number": "1294",
+              "numText": "§ 1294.",
+              "heading": "Circuits in which decisions reviewable",
+              "identifier": "/us/usc/t28/s1294"
+            },
+            {
+              "number": "1295",
+              "numText": "§ 1295.",
+              "heading": "Jurisdiction of the United States Court of Appeals for the Federal Circuit",
+              "identifier": "/us/usc/t28/s1295"
+            },
+            {
+              "number": "1296",
+              "numText": "§ 1296.",
+              "heading": "Review of certain agency actions",
+              "identifier": "/us/usc/t28/s1296"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "85",
+          "heading": "DISTRICT COURTS; JURISDICTION",
+          "identifier": "/us/usc/t28/ptIV/ch85",
+          "children": [
+            {
+              "number": "1330",
+              "numText": "§ 1330.",
+              "heading": "Actions against foreign states",
+              "identifier": "/us/usc/t28/s1330"
+            },
+            {
+              "number": "1331",
+              "numText": "§ 1331.",
+              "heading": "Federal question",
+              "identifier": "/us/usc/t28/s1331"
+            },
+            {
+              "number": "1332",
+              "numText": "§ 1332.",
+              "heading": "Diversity of citizenship; amount in controversy; costs",
+              "identifier": "/us/usc/t28/s1332"
+            },
+            {
+              "number": "1333",
+              "numText": "§ 1333.",
+              "heading": "Admiralty, maritime and prize cases",
+              "identifier": "/us/usc/t28/s1333"
+            },
+            {
+              "number": "1334",
+              "numText": "§ 1334.",
+              "heading": "Bankruptcy cases and proceedings",
+              "identifier": "/us/usc/t28/s1334"
+            },
+            {
+              "number": "1335",
+              "numText": "§ 1335.",
+              "heading": "Interpleader",
+              "identifier": "/us/usc/t28/s1335"
+            },
+            {
+              "number": "1336",
+              "numText": "§ 1336.",
+              "heading": "Surface Transportation Board’s orders",
+              "identifier": "/us/usc/t28/s1336"
+            },
+            {
+              "number": "1337",
+              "numText": "§ 1337.",
+              "heading": "Commerce and antitrust regulations; amount in controversy, costs",
+              "identifier": "/us/usc/t28/s1337"
+            },
+            {
+              "number": "1338",
+              "numText": "§ 1338.",
+              "heading": "Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition",
+              "identifier": "/us/usc/t28/s1338"
+            },
+            {
+              "number": "1339",
+              "numText": "§ 1339.",
+              "heading": "Postal matters",
+              "identifier": "/us/usc/t28/s1339"
+            },
+            {
+              "number": "1340",
+              "numText": "§ 1340.",
+              "heading": "Internal revenue; customs duties",
+              "identifier": "/us/usc/t28/s1340"
+            },
+            {
+              "number": "1341",
+              "numText": "§ 1341.",
+              "heading": "Taxes by States",
+              "identifier": "/us/usc/t28/s1341"
+            },
+            {
+              "number": "1342",
+              "numText": "§ 1342.",
+              "heading": "Rate orders of State agencies",
+              "identifier": "/us/usc/t28/s1342"
+            },
+            {
+              "number": "1343",
+              "numText": "§ 1343.",
+              "heading": "Civil rights and elective franchise",
+              "identifier": "/us/usc/t28/s1343"
+            },
+            {
+              "number": "1344",
+              "numText": "§ 1344.",
+              "heading": "Election disputes",
+              "identifier": "/us/usc/t28/s1344"
+            },
+            {
+              "number": "1345",
+              "numText": "§ 1345.",
+              "heading": "United States as plaintiff",
+              "identifier": "/us/usc/t28/s1345"
+            },
+            {
+              "number": "1346",
+              "numText": "§ 1346.",
+              "heading": "United States as defendant",
+              "identifier": "/us/usc/t28/s1346"
+            },
+            {
+              "number": "1347",
+              "numText": "§ 1347.",
+              "heading": "Partition action where United States is joint tenant",
+              "identifier": "/us/usc/t28/s1347"
+            },
+            {
+              "number": "1348",
+              "numText": "§ 1348.",
+              "heading": "Banking association as party",
+              "identifier": "/us/usc/t28/s1348"
+            },
+            {
+              "number": "1349",
+              "numText": "§ 1349.",
+              "heading": "Corporation organized under federal law as party",
+              "identifier": "/us/usc/t28/s1349"
+            },
+            {
+              "number": "1350",
+              "numText": "§ 1350.",
+              "heading": "Alien’s action for tort",
+              "identifier": "/us/usc/t28/s1350"
+            },
+            {
+              "number": "1351",
+              "numText": "§ 1351.",
+              "heading": "Consuls, vice consuls, and members of a diplomatic mission as defendant",
+              "identifier": "/us/usc/t28/s1351"
+            },
+            {
+              "number": "1352",
+              "numText": "§ 1352.",
+              "heading": "Bonds executed under federal law",
+              "identifier": "/us/usc/t28/s1352"
+            },
+            {
+              "number": "1353",
+              "numText": "§ 1353.",
+              "heading": "Indian allotments",
+              "identifier": "/us/usc/t28/s1353"
+            },
+            {
+              "number": "1354",
+              "numText": "§ 1354.",
+              "heading": "Land grants from different states",
+              "identifier": "/us/usc/t28/s1354"
+            },
+            {
+              "number": "1355",
+              "numText": "§ 1355.",
+              "heading": "Fine, penalty or forfeiture",
+              "identifier": "/us/usc/t28/s1355"
+            },
+            {
+              "number": "1356",
+              "numText": "§ 1356.",
+              "heading": "Seizures not within admiralty and maritime jurisdiction",
+              "identifier": "/us/usc/t28/s1356"
+            },
+            {
+              "number": "1357",
+              "numText": "§ 1357.",
+              "heading": "Injuries under Federal laws",
+              "identifier": "/us/usc/t28/s1357"
+            },
+            {
+              "number": "1358",
+              "numText": "§ 1358.",
+              "heading": "Eminent domain",
+              "identifier": "/us/usc/t28/s1358"
+            },
+            {
+              "number": "1359",
+              "numText": "§ 1359.",
+              "heading": "Parties collusively joined or made",
+              "identifier": "/us/usc/t28/s1359"
+            },
+            {
+              "number": "1360",
+              "numText": "§ 1360.",
+              "heading": "State civil jurisdiction in actions to which Indians are parties",
+              "identifier": "/us/usc/t28/s1360"
+            },
+            {
+              "number": "1361",
+              "numText": "§ 1361.",
+              "heading": "Action to compel an officer of the United States to perform his duty",
+              "identifier": "/us/usc/t28/s1361"
+            },
+            {
+              "number": "1362",
+              "numText": "§ 1362.",
+              "heading": "Indian tribes",
+              "identifier": "/us/usc/t28/s1362"
+            },
+            {
+              "number": "1363",
+              "numText": "§ 1363.",
+              "heading": "Jurors’ employment rights",
+              "identifier": "/us/usc/t28/s1363"
+            },
+            {
+              "number": "1364",
+              "numText": "§ 1364.",
+              "heading": "Direct actions against insurers of members of diplomatic missions and their families",
+              "identifier": "/us/usc/t28/s1364"
+            },
+            {
+              "number": "1365",
+              "numText": "§ 1365.",
+              "heading": "Senate actions",
+              "identifier": "/us/usc/t28/s1365"
+            },
+            {
+              "number": "1366",
+              "numText": "§ 1366.",
+              "heading": "Construction of references to laws of the United States or Acts of Congress",
+              "identifier": "/us/usc/t28/s1366"
+            },
+            {
+              "number": "1367",
+              "numText": "§ 1367.",
+              "heading": "Supplemental jurisdiction",
+              "identifier": "/us/usc/t28/s1367"
+            },
+            {
+              "number": "1368",
+              "numText": "§ 1368.",
+              "heading": "Counterclaims in unfair practices in international trade.",
+              "identifier": "/us/usc/t28/s1368"
+            },
+            {
+              "number": "1369",
+              "numText": "§ 1369.",
+              "heading": "Multiparty, multiforum jurisdiction",
+              "identifier": "/us/usc/t28/s1369"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "87",
+          "heading": "DISTRICT COURTS; VENUE",
+          "identifier": "/us/usc/t28/ptIV/ch87",
+          "children": [
+            {
+              "number": "1390",
+              "numText": "§ 1390.",
+              "heading": "Scope",
+              "identifier": "/us/usc/t28/s1390"
+            },
+            {
+              "number": "1391",
+              "numText": "§ 1391.",
+              "heading": "Venue generally",
+              "identifier": "/us/usc/t28/s1391"
+            },
+            {
+              "number": "1392",
+              "numText": "[§ 1392.",
+              "heading": "Repealed. Pub. L. 112–63, § 203, Dec. 7, 2011, 125 Stat. 764]",
+              "identifier": "/us/usc/t28/s1392"
+            },
+            {
+              "number": "1393",
+              "numText": "[§ 1393.",
+              "heading": "Repealed. Pub. L. 100–702, title X, § 1001(a), Nov. 19, 1988, 102 Stat. 4664]",
+              "identifier": "/us/usc/t28/s1393"
+            },
+            {
+              "number": "1394",
+              "numText": "§ 1394.",
+              "heading": "Banking association’s action against Comptroller of Currency",
+              "identifier": "/us/usc/t28/s1394"
+            },
+            {
+              "number": "1395",
+              "numText": "§ 1395.",
+              "heading": "Fine, penalty or forfeiture",
+              "identifier": "/us/usc/t28/s1395"
+            },
+            {
+              "number": "1396",
+              "numText": "§ 1396.",
+              "heading": "Internal revenue taxes",
+              "identifier": "/us/usc/t28/s1396"
+            },
+            {
+              "number": "1397",
+              "numText": "§ 1397.",
+              "heading": "Interpleader",
+              "identifier": "/us/usc/t28/s1397"
+            },
+            {
+              "number": "1398",
+              "numText": "§ 1398.",
+              "heading": "Interstate Commerce Commission’s orders",
+              "identifier": "/us/usc/t28/s1398"
+            },
+            {
+              "number": "1399",
+              "numText": "§ 1399.",
+              "heading": "Partition action involving United States",
+              "identifier": "/us/usc/t28/s1399"
+            },
+            {
+              "number": "1400",
+              "numText": "§ 1400.",
+              "heading": "Patents and copyrights, mask works, and designs",
+              "identifier": "/us/usc/t28/s1400"
+            },
+            {
+              "number": "1401",
+              "numText": "§ 1401.",
+              "heading": "Stockholder’s derivative action",
+              "identifier": "/us/usc/t28/s1401"
+            },
+            {
+              "number": "1402",
+              "numText": "§ 1402.",
+              "heading": "United States as defendant",
+              "identifier": "/us/usc/t28/s1402"
+            },
+            {
+              "number": "1403",
+              "numText": "§ 1403.",
+              "heading": "Eminent domain",
+              "identifier": "/us/usc/t28/s1403"
+            },
+            {
+              "number": "1404",
+              "numText": "§ 1404.",
+              "heading": "Change of venue",
+              "identifier": "/us/usc/t28/s1404"
+            },
+            {
+              "number": "1405",
+              "numText": "§ 1405.",
+              "heading": "Creation or alteration of district or division",
+              "identifier": "/us/usc/t28/s1405"
+            },
+            {
+              "number": "1406",
+              "numText": "§ 1406.",
+              "heading": "Cure or waiver of defects",
+              "identifier": "/us/usc/t28/s1406"
+            },
+            {
+              "number": "1407",
+              "numText": "§ 1407.",
+              "heading": "Multidistrict litigation",
+              "identifier": "/us/usc/t28/s1407"
+            },
+            {
+              "number": "1408",
+              "numText": "§ 1408.",
+              "heading": "Venue of cases under title 11",
+              "identifier": "/us/usc/t28/s1408"
+            },
+            {
+              "number": "1409",
+              "numText": "§ 1409.",
+              "heading": "Venue of proceedings arising under title 11 or arising in or related to cases under title 11",
+              "identifier": "/us/usc/t28/s1409"
+            },
+            {
+              "number": "1410",
+              "numText": "§ 1410.",
+              "heading": "Venue of cases ancillary to foreign proceedings",
+              "identifier": "/us/usc/t28/s1410"
+            },
+            {
+              "number": "1411",
+              "numText": "§ 1411.",
+              "heading": "Jury trials",
+              "identifier": "/us/usc/t28/s1411"
+            },
+            {
+              "number": "1412",
+              "numText": "§ 1412.",
+              "heading": "Change of venue",
+              "identifier": "/us/usc/t28/s1412"
+            },
+            {
+              "number": "1413",
+              "numText": "§ 1413.",
+              "heading": "Venue of cases under chapter 5 of title 3",
+              "identifier": "/us/usc/t28/s1413"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "89",
+          "heading": "DISTRICT COURTS; REMOVAL OF CASES FROM STATE COURTS",
+          "identifier": "/us/usc/t28/ptIV/ch89",
+          "children": [
+            {
+              "number": "1441",
+              "numText": "§ 1441.",
+              "heading": "Removal of civil actions",
+              "identifier": "/us/usc/t28/s1441"
+            },
+            {
+              "number": "1442",
+              "numText": "§ 1442.",
+              "heading": "Federal officers or agencies sued or prosecuted",
+              "identifier": "/us/usc/t28/s1442"
+            },
+            {
+              "number": "1442a",
+              "numText": "§ 1442a.",
+              "heading": "Members of armed forces sued or prosecuted",
+              "identifier": "/us/usc/t28/s1442a"
+            },
+            {
+              "number": "1443",
+              "numText": "§ 1443.",
+              "heading": "Civil rights cases",
+              "identifier": "/us/usc/t28/s1443"
+            },
+            {
+              "number": "1444",
+              "numText": "§ 1444.",
+              "heading": "Foreclosure action against United States",
+              "identifier": "/us/usc/t28/s1444"
+            },
+            {
+              "number": "1445",
+              "numText": "§ 1445.",
+              "heading": "Nonremovable actions",
+              "identifier": "/us/usc/t28/s1445"
+            },
+            {
+              "number": "1446",
+              "numText": "§ 1446.",
+              "heading": "Procedure for removal of civil actions",
+              "identifier": "/us/usc/t28/s1446"
+            },
+            {
+              "number": "1447",
+              "numText": "§ 1447.",
+              "heading": "Procedure after removal generally",
+              "identifier": "/us/usc/t28/s1447"
+            },
+            {
+              "number": "1448",
+              "numText": "§ 1448.",
+              "heading": "Process after removal",
+              "identifier": "/us/usc/t28/s1448"
+            },
+            {
+              "number": "1449",
+              "numText": "§ 1449.",
+              "heading": "State court record supplied",
+              "identifier": "/us/usc/t28/s1449"
+            },
+            {
+              "number": "1450",
+              "numText": "§ 1450.",
+              "heading": "Attachment or sequestration; securities",
+              "identifier": "/us/usc/t28/s1450"
+            },
+            {
+              "number": "1451",
+              "numText": "§ 1451.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s1451"
+            },
+            {
+              "number": "1452",
+              "numText": "§ 1452.",
+              "heading": "Removal of claims related to bankruptcy cases",
+              "identifier": "/us/usc/t28/s1452"
+            },
+            {
+              "number": "1453",
+              "numText": "§ 1453.",
+              "heading": "Removal of class actions",
+              "identifier": "/us/usc/t28/s1453"
+            },
+            {
+              "number": "1454",
+              "numText": "§ 1454.",
+              "heading": "Patent, plant variety protection, and copyright cases",
+              "identifier": "/us/usc/t28/s1454"
+            },
+            {
+              "number": "1455",
+              "numText": "§ 1455.",
+              "heading": "Procedure for removal of criminal prosecutions",
+              "identifier": "/us/usc/t28/s1455"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "90",
+          "heading": "OMITTED]",
+          "identifier": "/us/usc/t28/ptIV/ch90",
+          "children": []
+        },
+        {
+          "type": "chapter",
+          "number": "91",
+          "heading": "UNITED STATES COURT OF FEDERAL CLAIMS",
+          "identifier": "/us/usc/t28/ptIV/ch91",
+          "children": [
+            {
+              "number": "1491",
+              "numText": "§ 1491.",
+              "heading": "Claims against United States generally; actions involving Tennessee Valley Authority",
+              "identifier": "/us/usc/t28/s1491"
+            },
+            {
+              "number": "1492",
+              "numText": "§ 1492.",
+              "heading": "Congressional reference cases",
+              "identifier": "/us/usc/t28/s1492"
+            },
+            {
+              "number": "1493",
+              "numText": "[§ 1493.",
+              "heading": "Repealed. July 28, 1953, ch. 253, § 8, 67 Stat. 226]",
+              "identifier": "/us/usc/t28/s1493"
+            },
+            {
+              "number": "1494",
+              "numText": "§ 1494.",
+              "heading": "Accounts of officers, agents or contractors",
+              "identifier": "/us/usc/t28/s1494"
+            },
+            {
+              "number": "1495",
+              "numText": "§ 1495.",
+              "heading": "Damages for unjust conviction and imprisonment; claim against United States",
+              "identifier": "/us/usc/t28/s1495"
+            },
+            {
+              "number": "1496",
+              "numText": "§ 1496.",
+              "heading": "Disbursing officers’ claims",
+              "identifier": "/us/usc/t28/s1496"
+            },
+            {
+              "number": "1497",
+              "numText": "§ 1497.",
+              "heading": "Oyster growers’ damages from dredging operations",
+              "identifier": "/us/usc/t28/s1497"
+            },
+            {
+              "number": "1498",
+              "numText": "§ 1498.",
+              "heading": "Patent and copyright cases",
+              "identifier": "/us/usc/t28/s1498"
+            },
+            {
+              "number": "1499",
+              "numText": "§ 1499.",
+              "heading": "Liquidated damages withheld from contractors under chapter 37 of title 40",
+              "identifier": "/us/usc/t28/s1499"
+            },
+            {
+              "number": "1500",
+              "numText": "§ 1500.",
+              "heading": "Pendency of claims in other courts",
+              "identifier": "/us/usc/t28/s1500"
+            },
+            {
+              "number": "1501",
+              "numText": "§ 1501.",
+              "heading": "Pensions",
+              "identifier": "/us/usc/t28/s1501"
+            },
+            {
+              "number": "1502",
+              "numText": "§ 1502.",
+              "heading": "Treaty cases",
+              "identifier": "/us/usc/t28/s1502"
+            },
+            {
+              "number": "1503",
+              "numText": "§ 1503.",
+              "heading": "Set-offs",
+              "identifier": "/us/usc/t28/s1503"
+            },
+            {
+              "number": "1504",
+              "numText": "[§ 1504.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 133(f), Apr. 2, 1982, 96 Stat. 41]",
+              "identifier": "/us/usc/t28/s1504"
+            },
+            {
+              "number": "1505",
+              "numText": "§ 1505.",
+              "heading": "Indian claims",
+              "identifier": "/us/usc/t28/s1505"
+            },
+            {
+              "number": "1506",
+              "numText": "[§ 1506.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 133(h), Apr. 2, 1982, 96 Stat. 41]",
+              "identifier": "/us/usc/t28/s1506"
+            },
+            {
+              "number": "1507",
+              "numText": "§ 1507.",
+              "heading": "Jurisdiction for certain declaratory judgments",
+              "identifier": "/us/usc/t28/s1507"
+            },
+            {
+              "number": "1508",
+              "numText": "§ 1508.",
+              "heading": "Jurisdiction for certain partnership proceedings",
+              "identifier": "/us/usc/t28/s1508"
+            },
+            {
+              "number": "1509",
+              "numText": "§ 1509.",
+              "heading": "No jurisdiction in cases involving refunds of tax shelter promoter and understatement penalties",
+              "identifier": "/us/usc/t28/s1509"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "93",
+          "heading": "REPEALED]",
+          "identifier": "/us/usc/t28/ptIV/ch93",
+          "children": [
+            {
+              "number": "1541 to 1546",
+              "numText": "[§§ 1541 to 1546.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 134, Apr. 2, 1982, 96 Stat. 41]",
+              "identifier": "/us/usc/t28/s1541...1546"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "95",
+          "heading": "COURT OF INTERNATIONAL TRADE",
+          "identifier": "/us/usc/t28/ptIV/ch95",
+          "children": [
+            {
+              "number": "1581",
+              "numText": "§ 1581.",
+              "heading": "Civil actions against the United States and agencies and officers thereof",
+              "identifier": "/us/usc/t28/s1581"
+            },
+            {
+              "number": "1582",
+              "numText": "§ 1582.",
+              "heading": "Civil actions commenced by the United States",
+              "identifier": "/us/usc/t28/s1582"
+            },
+            {
+              "number": "1583",
+              "numText": "§ 1583.",
+              "heading": "Counterclaims, cross-claims, and third-party actions",
+              "identifier": "/us/usc/t28/s1583"
+            },
+            {
+              "number": "1584",
+              "numText": "§ 1584.",
+              "heading": "Civil actions under the United States-Canada Free-Trade Agreement or the USMCA",
+              "identifier": "/us/usc/t28/s1584"
+            },
+            {
+              "number": "1585",
+              "numText": "§ 1585.",
+              "heading": "Powers in law and equity",
+              "identifier": "/us/usc/t28/s1585"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "97",
+          "heading": "JURISDICTIONAL IMMUNITIES OF FOREIGN STATES",
+          "identifier": "/us/usc/t28/ptIV/ch97",
+          "children": [
+            {
+              "number": "1602",
+              "numText": "§ 1602.",
+              "heading": "Findings and declaration of purpose",
+              "identifier": "/us/usc/t28/s1602"
+            },
+            {
+              "number": "1603",
+              "numText": "§ 1603.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s1603"
+            },
+            {
+              "number": "1604",
+              "numText": "§ 1604.",
+              "heading": "Immunity of a foreign state from jurisdiction",
+              "identifier": "/us/usc/t28/s1604"
+            },
+            {
+              "number": "1605",
+              "numText": "§ 1605.",
+              "heading": "General exceptions to the jurisdictional immunity of a foreign state",
+              "identifier": "/us/usc/t28/s1605"
+            },
+            {
+              "number": "1605A",
+              "numText": "§ 1605A.",
+              "heading": "Terrorism exception to the jurisdictional immunity of a foreign state",
+              "identifier": "/us/usc/t28/s1605A"
+            },
+            {
+              "number": "1605B",
+              "numText": "§ 1605B.",
+              "heading": "Responsibility of foreign states for international terrorism against the United States",
+              "identifier": "/us/usc/t28/s1605B"
+            },
+            {
+              "number": "1606",
+              "numText": "§ 1606.",
+              "heading": "Extent of liability",
+              "identifier": "/us/usc/t28/s1606"
+            },
+            {
+              "number": "1607",
+              "numText": "§ 1607.",
+              "heading": "Counterclaims",
+              "identifier": "/us/usc/t28/s1607"
+            },
+            {
+              "number": "1608",
+              "numText": "§ 1608.",
+              "heading": "Service; time to answer; default",
+              "identifier": "/us/usc/t28/s1608"
+            },
+            {
+              "number": "1609",
+              "numText": "§ 1609.",
+              "heading": "Immunity from attachment and execution of property of a foreign state",
+              "identifier": "/us/usc/t28/s1609"
+            },
+            {
+              "number": "1610",
+              "numText": "§ 1610.",
+              "heading": "Exceptions to the immunity from attachment or execution",
+              "identifier": "/us/usc/t28/s1610"
+            },
+            {
+              "number": "1611",
+              "numText": "§ 1611.",
+              "heading": "Certain types of property immune from execution",
+              "identifier": "/us/usc/t28/s1611"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "99",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t28/ptIV/ch99",
+          "children": [
+            {
+              "number": "1631",
+              "numText": "§ 1631.",
+              "heading": "Transfer to cure want of jurisdiction",
+              "identifier": "/us/usc/t28/s1631"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "V",
+      "heading": "PROCEDURE",
+      "identifier": "/us/usc/t28/ptV",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "111",
+          "heading": "GENERAL PROVISIONS",
+          "identifier": "/us/usc/t28/ptV/ch111",
+          "children": [
+            {
+              "number": "1651",
+              "numText": "§ 1651.",
+              "heading": "Writs",
+              "identifier": "/us/usc/t28/s1651"
+            },
+            {
+              "number": "1652",
+              "numText": "§ 1652.",
+              "heading": "State laws as rules of decision",
+              "identifier": "/us/usc/t28/s1652"
+            },
+            {
+              "number": "1653",
+              "numText": "§ 1653.",
+              "heading": "Amendment of pleadings to show jurisdiction",
+              "identifier": "/us/usc/t28/s1653"
+            },
+            {
+              "number": "1654",
+              "numText": "§ 1654.",
+              "heading": "Appearance personally or by counsel",
+              "identifier": "/us/usc/t28/s1654"
+            },
+            {
+              "number": "1655",
+              "numText": "§ 1655.",
+              "heading": "Lien enforcement; absent defendants",
+              "identifier": "/us/usc/t28/s1655"
+            },
+            {
+              "number": "1656",
+              "numText": "§ 1656.",
+              "heading": "Creation of new district or division or transfer of territory; lien enforcement",
+              "identifier": "/us/usc/t28/s1656"
+            },
+            {
+              "number": "1657",
+              "numText": "§ 1657.",
+              "heading": "Priority of civil actions",
+              "identifier": "/us/usc/t28/s1657"
+            },
+            {
+              "number": "1658",
+              "numText": "§ 1658.",
+              "heading": "Time limitations on the commencement of civil actions arising under Acts of Congress",
+              "identifier": "/us/usc/t28/s1658"
+            },
+            {
+              "number": "1659",
+              "numText": "§ 1659.",
+              "heading": "Stay of certain actions pending disposition of related proceedings before the United States International Trade Commission",
+              "identifier": "/us/usc/t28/s1659"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "113",
+          "heading": "PROCESS",
+          "identifier": "/us/usc/t28/ptV/ch113",
+          "children": [
+            {
+              "number": "1691",
+              "numText": "§ 1691.",
+              "heading": "Seal and teste of process",
+              "identifier": "/us/usc/t28/s1691"
+            },
+            {
+              "number": "1692",
+              "numText": "§ 1692.",
+              "heading": "Process and orders affecting property in different districts",
+              "identifier": "/us/usc/t28/s1692"
+            },
+            {
+              "number": "1693",
+              "numText": "§ 1693.",
+              "heading": "Place of arrest in civil action",
+              "identifier": "/us/usc/t28/s1693"
+            },
+            {
+              "number": "1694",
+              "numText": "§ 1694.",
+              "heading": "Patent infringement action",
+              "identifier": "/us/usc/t28/s1694"
+            },
+            {
+              "number": "1695",
+              "numText": "§ 1695.",
+              "heading": "Stockholder’s derivative action",
+              "identifier": "/us/usc/t28/s1695"
+            },
+            {
+              "number": "1696",
+              "numText": "§ 1696.",
+              "heading": "Service in foreign and international litigation",
+              "identifier": "/us/usc/t28/s1696"
+            },
+            {
+              "number": "1697",
+              "numText": "§ 1697.",
+              "heading": "Service in multiparty, multiforum actions",
+              "identifier": "/us/usc/t28/s1697"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "114",
+          "heading": "CLASS ACTIONS",
+          "identifier": "/us/usc/t28/ptV/ch114",
+          "children": [
+            {
+              "number": "1711",
+              "numText": "§ 1711.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s1711"
+            },
+            {
+              "number": "1712",
+              "numText": "§ 1712.",
+              "heading": "Coupon settlements",
+              "identifier": "/us/usc/t28/s1712"
+            },
+            {
+              "number": "1713",
+              "numText": "§ 1713.",
+              "heading": "Protection against loss by class members",
+              "identifier": "/us/usc/t28/s1713"
+            },
+            {
+              "number": "1714",
+              "numText": "§ 1714.",
+              "heading": "Protection against discrimination based on geographic location",
+              "identifier": "/us/usc/t28/s1714"
+            },
+            {
+              "number": "1715",
+              "numText": "§ 1715.",
+              "heading": "Notifications to appropriate Federal and State officials",
+              "identifier": "/us/usc/t28/s1715"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "115",
+          "heading": "EVIDENCE; DOCUMENTARY",
+          "identifier": "/us/usc/t28/ptV/ch115",
+          "children": [
+            {
+              "number": "1731",
+              "numText": "§ 1731.",
+              "heading": "Handwriting",
+              "identifier": "/us/usc/t28/s1731"
+            },
+            {
+              "number": "1732",
+              "numText": "§ 1732.",
+              "heading": "Record made in regular course of business; photographic copies",
+              "identifier": "/us/usc/t28/s1732"
+            },
+            {
+              "number": "1733",
+              "numText": "§ 1733.",
+              "heading": "Government records and papers; copies",
+              "identifier": "/us/usc/t28/s1733"
+            },
+            {
+              "number": "1734",
+              "numText": "§ 1734.",
+              "heading": "Court record lost or destroyed, generally",
+              "identifier": "/us/usc/t28/s1734"
+            },
+            {
+              "number": "1735",
+              "numText": "§ 1735.",
+              "heading": "Court record lost or destroyed where United States interested",
+              "identifier": "/us/usc/t28/s1735"
+            },
+            {
+              "number": "1736",
+              "numText": "§ 1736.",
+              "heading": "Congressional Journals",
+              "identifier": "/us/usc/t28/s1736"
+            },
+            {
+              "number": "1737",
+              "numText": "§ 1737.",
+              "heading": "Copy of officer’s bond",
+              "identifier": "/us/usc/t28/s1737"
+            },
+            {
+              "number": "1738",
+              "numText": "§ 1738.",
+              "heading": "State and Territorial statutes and judicial proceedings; full faith and credit",
+              "identifier": "/us/usc/t28/s1738"
+            },
+            {
+              "number": "1738A",
+              "numText": "§ 1738A.",
+              "heading": "Full faith and credit given to child custody determinations",
+              "identifier": "/us/usc/t28/s1738A"
+            },
+            {
+              "number": "1738B",
+              "numText": "§ 1738B.",
+              "heading": "Full faith and credit for child support orders",
+              "identifier": "/us/usc/t28/s1738B"
+            },
+            {
+              "number": "1738C",
+              "numText": "§ 1738C.",
+              "heading": "Certain acts, records, and proceedings and the effect thereof",
+              "identifier": "/us/usc/t28/s1738C"
+            },
+            {
+              "number": "1739",
+              "numText": "§ 1739.",
+              "heading": "State and Territorial nonjudicial records; full faith and credit",
+              "identifier": "/us/usc/t28/s1739"
+            },
+            {
+              "number": "1740",
+              "numText": "§ 1740.",
+              "heading": "Copies of consular papers",
+              "identifier": "/us/usc/t28/s1740"
+            },
+            {
+              "number": "1741",
+              "numText": "§ 1741.",
+              "heading": "Foreign official documents",
+              "identifier": "/us/usc/t28/s1741"
+            },
+            {
+              "number": "1742",
+              "numText": "[§ 1742.",
+              "heading": "Repealed. Pub. L. 88–619, § 6(a), Oct. 3, 1964, 78 Stat. 996]",
+              "identifier": "/us/usc/t28/s1742"
+            },
+            {
+              "number": "1743",
+              "numText": "§ 1743.",
+              "heading": "Demand on postmaster",
+              "identifier": "/us/usc/t28/s1743"
+            },
+            {
+              "number": "1744",
+              "numText": "§ 1744.",
+              "heading": "Copies of United States Patent and Trademark Office documents, generally",
+              "identifier": "/us/usc/t28/s1744"
+            },
+            {
+              "number": "1745",
+              "numText": "§ 1745.",
+              "heading": "Copies of foreign patent documents",
+              "identifier": "/us/usc/t28/s1745"
+            },
+            {
+              "number": "1746",
+              "numText": "§ 1746.",
+              "heading": "Unsworn declarations under penalty of per­jury",
+              "identifier": "/us/usc/t28/s1746"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "117",
+          "heading": "EVIDENCE; DEPOSITIONS",
+          "identifier": "/us/usc/t28/ptV/ch117",
+          "children": [
+            {
+              "number": "1781",
+              "numText": "§ 1781.",
+              "heading": "Transmittal of letter rogatory or request",
+              "identifier": "/us/usc/t28/s1781"
+            },
+            {
+              "number": "1782",
+              "numText": "§ 1782.",
+              "heading": "Assistance to foreign and international tribunals and to litigants before such tribunals",
+              "identifier": "/us/usc/t28/s1782"
+            },
+            {
+              "number": "1783",
+              "numText": "§ 1783.",
+              "heading": "Subpoena of person in foreign country",
+              "identifier": "/us/usc/t28/s1783"
+            },
+            {
+              "number": "1784",
+              "numText": "§ 1784.",
+              "heading": "Contempt",
+              "identifier": "/us/usc/t28/s1784"
+            },
+            {
+              "number": "1785",
+              "numText": "§ 1785.",
+              "heading": "Subpoenas in multiparty, multiforum actions",
+              "identifier": "/us/usc/t28/s1785"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "119",
+          "heading": "EVIDENCE; WITNESSES",
+          "identifier": "/us/usc/t28/ptV/ch119",
+          "children": [
+            {
+              "number": "1821",
+              "numText": "§ 1821.",
+              "heading": "Per diem and mileage generally; subsistence",
+              "identifier": "/us/usc/t28/s1821"
+            },
+            {
+              "number": "1822",
+              "numText": "§ 1822.",
+              "heading": "Competency of interested persons; share of penalties payable",
+              "identifier": "/us/usc/t28/s1822"
+            },
+            {
+              "number": "1823",
+              "numText": "[§ 1823.",
+              "heading": "Repealed. Pub. L. 91–563, § 5(a), Dec. 19, 1970, 84 Stat. 1478]",
+              "identifier": "/us/usc/t28/s1823"
+            },
+            {
+              "number": "1824",
+              "numText": "§ 1824.",
+              "heading": "Mileage fees under summons as both witness and juror",
+              "identifier": "/us/usc/t28/s1824"
+            },
+            {
+              "number": "1825",
+              "numText": "§ 1825.",
+              "heading": "Payment of fees",
+              "identifier": "/us/usc/t28/s1825"
+            },
+            {
+              "number": "1826",
+              "numText": "§ 1826.",
+              "heading": "Recalcitrant witnesses",
+              "identifier": "/us/usc/t28/s1826"
+            },
+            {
+              "number": "1827",
+              "numText": "§ 1827.",
+              "heading": "Interpreters in courts of the United States",
+              "identifier": "/us/usc/t28/s1827"
+            },
+            {
+              "number": "1828",
+              "numText": "§ 1828.",
+              "heading": "Special interpretation services",
+              "identifier": "/us/usc/t28/s1828"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "121",
+          "heading": "JURIES; TRIAL BY JURY",
+          "identifier": "/us/usc/t28/ptV/ch121",
+          "children": [
+            {
+              "number": "1861",
+              "numText": "§ 1861.",
+              "heading": "Declaration of policy",
+              "identifier": "/us/usc/t28/s1861"
+            },
+            {
+              "number": "1862",
+              "numText": "§ 1862.",
+              "heading": "Discrimination prohibited",
+              "identifier": "/us/usc/t28/s1862"
+            },
+            {
+              "number": "1863",
+              "numText": "§ 1863.",
+              "heading": "Plan for random jury selection",
+              "identifier": "/us/usc/t28/s1863"
+            },
+            {
+              "number": "1864",
+              "numText": "§ 1864.",
+              "heading": "Drawing of names from the master jury wheel; completion of juror qualification form",
+              "identifier": "/us/usc/t28/s1864"
+            },
+            {
+              "number": "1865",
+              "numText": "§ 1865.",
+              "heading": "Qualifications for jury service",
+              "identifier": "/us/usc/t28/s1865"
+            },
+            {
+              "number": "1866",
+              "numText": "§ 1866.",
+              "heading": "Selection and summoning of jury panels",
+              "identifier": "/us/usc/t28/s1866"
+            },
+            {
+              "number": "1867",
+              "numText": "§ 1867.",
+              "heading": "Challenging compliance with selection procedures",
+              "identifier": "/us/usc/t28/s1867"
+            },
+            {
+              "number": "1868",
+              "numText": "§ 1868.",
+              "heading": "Maintenance and inspection of records",
+              "identifier": "/us/usc/t28/s1868"
+            },
+            {
+              "number": "1869",
+              "numText": "§ 1869.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s1869"
+            },
+            {
+              "number": "1870",
+              "numText": "§ 1870.",
+              "heading": "Challenges",
+              "identifier": "/us/usc/t28/s1870"
+            },
+            {
+              "number": "1871",
+              "numText": "§ 1871.",
+              "heading": "Fees",
+              "identifier": "/us/usc/t28/s1871"
+            },
+            {
+              "number": "1872",
+              "numText": "§ 1872.",
+              "heading": "Issues of fact in Supreme Court",
+              "identifier": "/us/usc/t28/s1872"
+            },
+            {
+              "number": "1873",
+              "numText": "§ 1873.",
+              "heading": "Admiralty and maritime cases",
+              "identifier": "/us/usc/t28/s1873"
+            },
+            {
+              "number": "1874",
+              "numText": "§ 1874.",
+              "heading": "Actions on bonds and specialties",
+              "identifier": "/us/usc/t28/s1874"
+            },
+            {
+              "number": "1875",
+              "numText": "§ 1875.",
+              "heading": "Protection of jurors’ employment",
+              "identifier": "/us/usc/t28/s1875"
+            },
+            {
+              "number": "1876",
+              "numText": "§ 1876.",
+              "heading": "Trial by jury in the Court of International Trade",
+              "identifier": "/us/usc/t28/s1876"
+            },
+            {
+              "number": "1877",
+              "numText": "§ 1877.",
+              "heading": "Protection of jurors",
+              "identifier": "/us/usc/t28/s1877"
+            },
+            {
+              "number": "1878",
+              "numText": "§ 1878.",
+              "heading": "Optional use of a one-step summoning and qualification procedure",
+              "identifier": "/us/usc/t28/s1878"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "123",
+          "heading": "FEES AND COSTS",
+          "identifier": "/us/usc/t28/ptV/ch123",
+          "children": [
+            {
+              "number": "1911",
+              "numText": "§ 1911.",
+              "heading": "Supreme Court",
+              "identifier": "/us/usc/t28/s1911"
+            },
+            {
+              "number": "1912",
+              "numText": "§ 1912.",
+              "heading": "Damages and costs on affirmance",
+              "identifier": "/us/usc/t28/s1912"
+            },
+            {
+              "number": "1913",
+              "numText": "§ 1913.",
+              "heading": "Courts of appeals",
+              "identifier": "/us/usc/t28/s1913"
+            },
+            {
+              "number": "1914",
+              "numText": "§ 1914.",
+              "heading": "District court; filing and miscellaneous fees; rules of court",
+              "identifier": "/us/usc/t28/s1914"
+            },
+            {
+              "number": "1915",
+              "numText": "§ 1915.",
+              "heading": "Proceedings in forma pauperis",
+              "identifier": "/us/usc/t28/s1915"
+            },
+            {
+              "number": "1915A",
+              "numText": "§ 1915A.",
+              "heading": "Screening",
+              "identifier": "/us/usc/t28/s1915A"
+            },
+            {
+              "number": "1916",
+              "numText": "§ 1916.",
+              "heading": "Seamen’s suits",
+              "identifier": "/us/usc/t28/s1916"
+            },
+            {
+              "number": "1917",
+              "numText": "§ 1917.",
+              "heading": "District courts; fee on filing notice of or petition for appeal",
+              "identifier": "/us/usc/t28/s1917"
+            },
+            {
+              "number": "1918",
+              "numText": "§ 1918.",
+              "heading": "District courts; fines, forfeitures and criminal proceedings",
+              "identifier": "/us/usc/t28/s1918"
+            },
+            {
+              "number": "1919",
+              "numText": "§ 1919.",
+              "heading": "Dismissal for lack of jurisdiction",
+              "identifier": "/us/usc/t28/s1919"
+            },
+            {
+              "number": "1920",
+              "numText": "§ 1920.",
+              "heading": "Taxation of costs",
+              "identifier": "/us/usc/t28/s1920"
+            },
+            {
+              "number": "1921",
+              "numText": "§ 1921.",
+              "heading": "United States marshal’s fees",
+              "identifier": "/us/usc/t28/s1921"
+            },
+            {
+              "number": "1922",
+              "numText": "§ 1922.",
+              "heading": "Witness fees before United States magistrate judges",
+              "identifier": "/us/usc/t28/s1922"
+            },
+            {
+              "number": "1923",
+              "numText": "§ 1923.",
+              "heading": "Docket fees and costs of briefs",
+              "identifier": "/us/usc/t28/s1923"
+            },
+            {
+              "number": "1924",
+              "numText": "§ 1924.",
+              "heading": "Verification of bill of costs",
+              "identifier": "/us/usc/t28/s1924"
+            },
+            {
+              "number": "1925",
+              "numText": "§ 1925.",
+              "heading": "Admiralty and maritime cases",
+              "identifier": "/us/usc/t28/s1925"
+            },
+            {
+              "number": "1926",
+              "numText": "§ 1926.",
+              "heading": "Court of Federal Claims",
+              "identifier": "/us/usc/t28/s1926"
+            },
+            {
+              "number": "1927",
+              "numText": "§ 1927.",
+              "heading": "Counsel’s liability for excessive costs",
+              "identifier": "/us/usc/t28/s1927"
+            },
+            {
+              "number": "1928",
+              "numText": "§ 1928.",
+              "heading": "Patent infringement action; disclaimer not filed",
+              "identifier": "/us/usc/t28/s1928"
+            },
+            {
+              "number": "1929",
+              "numText": "§ 1929.",
+              "heading": "Extraordinary expenses not expressly authorized",
+              "identifier": "/us/usc/t28/s1929"
+            },
+            {
+              "number": "1930",
+              "numText": "§ 1930.",
+              "heading": "Bankruptcy fees",
+              "identifier": "/us/usc/t28/s1930"
+            },
+            {
+              "number": "1931",
+              "numText": "§ 1931.",
+              "heading": "Disposition of filing fees",
+              "identifier": "/us/usc/t28/s1931"
+            },
+            {
+              "number": "1932",
+              "numText": "§ 1932.",
+              "heading": "Judicial Panel on Multidistrict Litigation",
+              "identifier": "/us/usc/t28/s1932"
+            },
+            {
+              "number": "1932",
+              "numText": "§ 1932.",
+              "heading": "Revocation of earned release credit",
+              "identifier": "/us/usc/t28/s1932"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "125",
+          "heading": "PENDING ACTIONS AND JUDGMENTS",
+          "identifier": "/us/usc/t28/ptV/ch125",
+          "children": [
+            {
+              "number": "1961",
+              "numText": "§ 1961.",
+              "heading": "Interest",
+              "identifier": "/us/usc/t28/s1961"
+            },
+            {
+              "number": "1962",
+              "numText": "§ 1962.",
+              "heading": "Lien",
+              "identifier": "/us/usc/t28/s1962"
+            },
+            {
+              "number": "1963",
+              "numText": "§ 1963.",
+              "heading": "Registration of judgments for enforcement in other districts",
+              "identifier": "/us/usc/t28/s1963"
+            },
+            {
+              "number": "1963A",
+              "numText": "[§ 1963A.",
+              "heading": "Repealed. Pub. L. 100–702, title X, § 1002(b)(2), Nov. 19, 1988, 102 Stat. 4664]",
+              "identifier": "/us/usc/t28/s1963A"
+            },
+            {
+              "number": "1964",
+              "numText": "§ 1964.",
+              "heading": "Constructive notice of pending actions",
+              "identifier": "/us/usc/t28/s1964"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "127",
+          "heading": "EXECUTIONS AND JUDICIAL SALES",
+          "identifier": "/us/usc/t28/ptV/ch127",
+          "children": [
+            {
+              "number": "2001",
+              "numText": "§ 2001.",
+              "heading": "Sale of realty generally",
+              "identifier": "/us/usc/t28/s2001"
+            },
+            {
+              "number": "2002",
+              "numText": "§ 2002.",
+              "heading": "Notice of sale of realty",
+              "identifier": "/us/usc/t28/s2002"
+            },
+            {
+              "number": "2003",
+              "numText": "§ 2003.",
+              "heading": "Marshal’s incapacity after levy on or sale of realty",
+              "identifier": "/us/usc/t28/s2003"
+            },
+            {
+              "number": "2004",
+              "numText": "§ 2004.",
+              "heading": "Sale of personalty generally",
+              "identifier": "/us/usc/t28/s2004"
+            },
+            {
+              "number": "2005",
+              "numText": "§ 2005.",
+              "heading": "Appraisal of goods taken on execution",
+              "identifier": "/us/usc/t28/s2005"
+            },
+            {
+              "number": "2006",
+              "numText": "§ 2006.",
+              "heading": "Execution against revenue officer",
+              "identifier": "/us/usc/t28/s2006"
+            },
+            {
+              "number": "2007",
+              "numText": "§ 2007.",
+              "heading": "Imprisonment for debt",
+              "identifier": "/us/usc/t28/s2007"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "129",
+          "heading": "MONEYS PAID INTO COURT",
+          "identifier": "/us/usc/t28/ptV/ch129",
+          "children": [
+            {
+              "number": "2041",
+              "numText": "§ 2041.",
+              "heading": "Deposit of moneys in pending or adjudicated cases",
+              "identifier": "/us/usc/t28/s2041"
+            },
+            {
+              "number": "2042",
+              "numText": "§ 2042.",
+              "heading": "Withdrawal",
+              "identifier": "/us/usc/t28/s2042"
+            },
+            {
+              "number": "2043",
+              "numText": "§ 2043.",
+              "heading": "Deposit of other moneys",
+              "identifier": "/us/usc/t28/s2043"
+            },
+            {
+              "number": "2044",
+              "numText": "§ 2044.",
+              "heading": "Payment of fine with bond money",
+              "identifier": "/us/usc/t28/s2044"
+            },
+            {
+              "number": "2045",
+              "numText": "§ 2045.",
+              "heading": "Investment of court registry funds",
+              "identifier": "/us/usc/t28/s2045"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "131",
+          "heading": "RULES OF COURTS",
+          "identifier": "/us/usc/t28/ptV/ch131",
+          "children": [
+            {
+              "number": "2071",
+              "numText": "§ 2071.",
+              "heading": "Rule-making power generally",
+              "identifier": "/us/usc/t28/s2071"
+            },
+            {
+              "number": "2072",
+              "numText": "§ 2072.",
+              "heading": "Rules of procedure and evidence; power to prescribe",
+              "identifier": "/us/usc/t28/s2072"
+            },
+            {
+              "number": "2073",
+              "numText": "§ 2073.",
+              "heading": "Rules of procedure and evidence; method of prescribing",
+              "identifier": "/us/usc/t28/s2073"
+            },
+            {
+              "number": "2074",
+              "numText": "§ 2074.",
+              "heading": "Rules of procedure and evidence; submission to Congress; effective date",
+              "identifier": "/us/usc/t28/s2074"
+            },
+            {
+              "number": "2075",
+              "numText": "§ 2075.",
+              "heading": "Bankruptcy rules",
+              "identifier": "/us/usc/t28/s2075"
+            },
+            {
+              "number": "2076",
+              "numText": "[§ 2076.",
+              "heading": "Repealed. Pub. L. 100–702, title IV, § 401(c), Nov. 19, 1988, 102 Stat. 4650]",
+              "identifier": "/us/usc/t28/s2076"
+            },
+            {
+              "number": "2077",
+              "numText": "§ 2077.",
+              "heading": "Publication of rules; advisory committees",
+              "identifier": "/us/usc/t28/s2077"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "133",
+          "heading": "REVIEW—MISCELLANEOUS PROVISIONS",
+          "identifier": "/us/usc/t28/ptV/ch133",
+          "children": [
+            {
+              "number": "2101",
+              "numText": "§ 2101.",
+              "heading": "Supreme Court; time for appeal or certiorari; docketing; stay",
+              "identifier": "/us/usc/t28/s2101"
+            },
+            {
+              "number": "2102",
+              "numText": "§ 2102.",
+              "heading": "Priority of criminal case on appeal from State court",
+              "identifier": "/us/usc/t28/s2102"
+            },
+            {
+              "number": "2103",
+              "numText": "[§ 2103.",
+              "heading": "Repealed. Pub. L. 100–352, § 5(c), June 27, 1988, 102 Stat. 663]",
+              "identifier": "/us/usc/t28/s2103"
+            },
+            {
+              "number": "2104",
+              "numText": "§ 2104.",
+              "heading": "Reviews of State court decisions",
+              "identifier": "/us/usc/t28/s2104"
+            },
+            {
+              "number": "2105",
+              "numText": "§ 2105.",
+              "heading": "Scope of review; abatement",
+              "identifier": "/us/usc/t28/s2105"
+            },
+            {
+              "number": "2106",
+              "numText": "§ 2106.",
+              "heading": "Determination",
+              "identifier": "/us/usc/t28/s2106"
+            },
+            {
+              "number": "2107",
+              "numText": "§ 2107.",
+              "heading": "Time for appeal to court of appeals",
+              "identifier": "/us/usc/t28/s2107"
+            },
+            {
+              "number": "2108",
+              "numText": "§ 2108.",
+              "heading": "Proof of amount in controversy",
+              "identifier": "/us/usc/t28/s2108"
+            },
+            {
+              "number": "2109",
+              "numText": "§ 2109.",
+              "heading": "Quorum of Supreme Court justices absent",
+              "identifier": "/us/usc/t28/s2109"
+            },
+            {
+              "number": "2110",
+              "numText": "[§ 2110.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 136, Apr. 2, 1982, 96 Stat. 41]",
+              "identifier": "/us/usc/t28/s2110"
+            },
+            {
+              "number": "2111",
+              "numText": "§ 2111.",
+              "heading": "Harmless error",
+              "identifier": "/us/usc/t28/s2111"
+            },
+            {
+              "number": "2112",
+              "numText": "§ 2112.",
+              "heading": "Record on review and enforcement of agency orders",
+              "identifier": "/us/usc/t28/s2112"
+            },
+            {
+              "number": "2113",
+              "numText": "§ 2113.",
+              "heading": "Definition",
+              "identifier": "/us/usc/t28/s2113"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "part",
+      "number": "VI",
+      "heading": "PARTICULAR PROCEEDINGS",
+      "identifier": "/us/usc/t28/ptVI",
+      "children": [
+        {
+          "type": "chapter",
+          "number": "151",
+          "heading": "DECLARATORY JUDGMENTS",
+          "identifier": "/us/usc/t28/ptVI/ch151",
+          "children": [
+            {
+              "number": "2201",
+              "numText": "§ 2201.",
+              "heading": "Creation of remedy",
+              "identifier": "/us/usc/t28/s2201"
+            },
+            {
+              "number": "2202",
+              "numText": "§ 2202.",
+              "heading": "Further relief",
+              "identifier": "/us/usc/t28/s2202"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "153",
+          "heading": "HABEAS CORPUS",
+          "identifier": "/us/usc/t28/ptVI/ch153",
+          "children": [
+            {
+              "number": "2241",
+              "numText": "§ 2241.",
+              "heading": "Power to grant writ",
+              "identifier": "/us/usc/t28/s2241"
+            },
+            {
+              "number": "2242",
+              "numText": "§ 2242.",
+              "heading": "Application",
+              "identifier": "/us/usc/t28/s2242"
+            },
+            {
+              "number": "2243",
+              "numText": "§ 2243.",
+              "heading": "Issuance of writ; return; hearing; decision",
+              "identifier": "/us/usc/t28/s2243"
+            },
+            {
+              "number": "2244",
+              "numText": "§ 2244.",
+              "heading": "Finality of determination",
+              "identifier": "/us/usc/t28/s2244"
+            },
+            {
+              "number": "2245",
+              "numText": "§ 2245.",
+              "heading": "Certificate of trial judge admissible in evidence",
+              "identifier": "/us/usc/t28/s2245"
+            },
+            {
+              "number": "2246",
+              "numText": "§ 2246.",
+              "heading": "Evidence; depositions; affidavits",
+              "identifier": "/us/usc/t28/s2246"
+            },
+            {
+              "number": "2247",
+              "numText": "§ 2247.",
+              "heading": "Documentary evidence",
+              "identifier": "/us/usc/t28/s2247"
+            },
+            {
+              "number": "2248",
+              "numText": "§ 2248.",
+              "heading": "Return or answer; conclusiveness",
+              "identifier": "/us/usc/t28/s2248"
+            },
+            {
+              "number": "2249",
+              "numText": "§ 2249.",
+              "heading": "Certified copies of indictment, plea and judgment; duty of respondent",
+              "identifier": "/us/usc/t28/s2249"
+            },
+            {
+              "number": "2250",
+              "numText": "§ 2250.",
+              "heading": "Indigent petitioner entitled to documents without cost",
+              "identifier": "/us/usc/t28/s2250"
+            },
+            {
+              "number": "2251",
+              "numText": "§ 2251.",
+              "heading": "Stay of State court proceedings",
+              "identifier": "/us/usc/t28/s2251"
+            },
+            {
+              "number": "2252",
+              "numText": "§ 2252.",
+              "heading": "Notice",
+              "identifier": "/us/usc/t28/s2252"
+            },
+            {
+              "number": "2253",
+              "numText": "§ 2253.",
+              "heading": "Appeal",
+              "identifier": "/us/usc/t28/s2253"
+            },
+            {
+              "number": "2254",
+              "numText": "§ 2254.",
+              "heading": "State custody; remedies in Federal courts",
+              "identifier": "/us/usc/t28/s2254"
+            },
+            {
+              "number": "2255",
+              "numText": "§ 2255.",
+              "heading": "Federal custody; remedies on motion attacking sentence",
+              "identifier": "/us/usc/t28/s2255"
+            },
+            {
+              "number": "2256",
+              "numText": "[§ 2256.",
+              "heading": "Omitted]",
+              "identifier": "/us/usc/t28/s2256"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "154",
+          "heading": "SPECIAL HABEAS CORPUS PROCEDURES IN CAPITAL CASES",
+          "identifier": "/us/usc/t28/ptVI/ch154",
+          "children": [
+            {
+              "number": "2261",
+              "numText": "§ 2261.",
+              "heading": "Prisoners in State custody subject to capital sentence; appointment of counsel; requirement of rule of court or statute; procedures for appointment",
+              "identifier": "/us/usc/t28/s2261"
+            },
+            {
+              "number": "2262",
+              "numText": "§ 2262.",
+              "heading": "Mandatory stay of execution; duration; limits on stays of execution; successive petitions",
+              "identifier": "/us/usc/t28/s2262"
+            },
+            {
+              "number": "2263",
+              "numText": "§ 2263.",
+              "heading": "Filing of habeas corpus application; time requirements; tolling rules",
+              "identifier": "/us/usc/t28/s2263"
+            },
+            {
+              "number": "2264",
+              "numText": "§ 2264.",
+              "heading": "Scope of Federal review; district court adjudications",
+              "identifier": "/us/usc/t28/s2264"
+            },
+            {
+              "number": "2265",
+              "numText": "§ 2265.",
+              "heading": "Certification and judicial review",
+              "identifier": "/us/usc/t28/s2265"
+            },
+            {
+              "number": "2266",
+              "numText": "§ 2266.",
+              "heading": "Limitation periods for determining applications and motions",
+              "identifier": "/us/usc/t28/s2266"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "155",
+          "heading": "INJUNCTIONS; THREE-JUDGE COURTS",
+          "identifier": "/us/usc/t28/ptVI/ch155",
+          "children": [
+            {
+              "number": "2281, 2282",
+              "numText": "[§§ 2281, 2282.",
+              "heading": "Repealed. Pub. L. 94–381, §§ 1, 2, Aug. 12, 1976, 90 Stat. 1119]",
+              "identifier": "/us/usc/t28/s2281 /us/usc/t28/s2282"
+            },
+            {
+              "number": "2283",
+              "numText": "§ 2283.",
+              "heading": "Stay of State court proceedings",
+              "identifier": "/us/usc/t28/s2283"
+            },
+            {
+              "number": "2284",
+              "numText": "§ 2284.",
+              "heading": "Three-judge court; when required; composition; procedure",
+              "identifier": "/us/usc/t28/s2284"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "157",
+          "heading": "SURFACE TRANSPORTATION BOARD ORDERS; ENFORCEMENT AND REVIEW",
+          "identifier": "/us/usc/t28/ptVI/ch157",
+          "children": [
+            {
+              "number": "2321",
+              "numText": "§ 2321.",
+              "heading": "Judicial review of Board’s orders and decisions; procedure generally; process",
+              "identifier": "/us/usc/t28/s2321"
+            },
+            {
+              "number": "2322",
+              "numText": "§ 2322.",
+              "heading": "United States as party",
+              "identifier": "/us/usc/t28/s2322"
+            },
+            {
+              "number": "2323",
+              "numText": "§ 2323.",
+              "heading": "Duties of Attorney General; intervenors",
+              "identifier": "/us/usc/t28/s2323"
+            },
+            {
+              "number": "2324, 2325",
+              "numText": "[§§ 2324, 2325.",
+              "heading": "Repealed. Pub. L. 93–584, § 7, Jan. 2, 1975, 88 Stat. 1918]",
+              "identifier": "/us/usc/t28/s2324 /us/usc/t28/s2325"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "158",
+          "heading": "ORDERS OF FEDERAL AGENCIES; REVIEW",
+          "identifier": "/us/usc/t28/ptVI/ch158",
+          "children": [
+            {
+              "number": "2341",
+              "numText": "§ 2341.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s2341"
+            },
+            {
+              "number": "2342",
+              "numText": "§ 2342.",
+              "heading": "Jurisdiction of court of appeals",
+              "identifier": "/us/usc/t28/s2342"
+            },
+            {
+              "number": "2343",
+              "numText": "§ 2343.",
+              "heading": "Venue",
+              "identifier": "/us/usc/t28/s2343"
+            },
+            {
+              "number": "2344",
+              "numText": "§ 2344.",
+              "heading": "Review of orders; time; notice; contents of petition; service",
+              "identifier": "/us/usc/t28/s2344"
+            },
+            {
+              "number": "2345",
+              "numText": "§ 2345.",
+              "heading": "Prehearing conference",
+              "identifier": "/us/usc/t28/s2345"
+            },
+            {
+              "number": "2346",
+              "numText": "§ 2346.",
+              "heading": "Certification of record on review",
+              "identifier": "/us/usc/t28/s2346"
+            },
+            {
+              "number": "2347",
+              "numText": "§ 2347.",
+              "heading": "Petitions to review; proceedings",
+              "identifier": "/us/usc/t28/s2347"
+            },
+            {
+              "number": "2348",
+              "numText": "§ 2348.",
+              "heading": "Representation in proceeding; intervention",
+              "identifier": "/us/usc/t28/s2348"
+            },
+            {
+              "number": "2349",
+              "numText": "§ 2349.",
+              "heading": "Jurisdiction of the proceeding",
+              "identifier": "/us/usc/t28/s2349"
+            },
+            {
+              "number": "2350",
+              "numText": "§ 2350.",
+              "heading": "Review in Supreme Court on certiorari or certification",
+              "identifier": "/us/usc/t28/s2350"
+            },
+            {
+              "number": "2351",
+              "numText": "§ 2351.",
+              "heading": "Enforcement of orders by district courts",
+              "identifier": "/us/usc/t28/s2351"
+            },
+            {
+              "number": "2352",
+              "numText": "[§ 2352.",
+              "heading": "Repealed. Pub. L. 89–773, § 4, Nov. 6, 1966, 80 Stat. 1323]",
+              "identifier": "/us/usc/t28/s2352"
+            },
+            {
+              "number": "2353",
+              "numText": "[§ 2353.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 138, Apr. 2, 1982, 96 Stat. 42]",
+              "identifier": "/us/usc/t28/s2353"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "159",
+          "heading": "INTERPLEADER",
+          "identifier": "/us/usc/t28/ptVI/ch159",
+          "children": [
+            {
+              "number": "2361",
+              "numText": "§ 2361.",
+              "heading": "Process and procedure",
+              "identifier": "/us/usc/t28/s2361"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "161",
+          "heading": "UNITED STATES AS PARTY GENERALLY",
+          "identifier": "/us/usc/t28/ptVI/ch161",
+          "children": [
+            {
+              "number": "2401",
+              "numText": "§ 2401.",
+              "heading": "Time for commencing action against United States",
+              "identifier": "/us/usc/t28/s2401"
+            },
+            {
+              "number": "2402",
+              "numText": "§ 2402.",
+              "heading": "Jury trial in actions against United States",
+              "identifier": "/us/usc/t28/s2402"
+            },
+            {
+              "number": "2403",
+              "numText": "§ 2403.",
+              "heading": "Intervention by United States or a State; constitutional question",
+              "identifier": "/us/usc/t28/s2403"
+            },
+            {
+              "number": "2404",
+              "numText": "§ 2404.",
+              "heading": "Death of defendant in damage action",
+              "identifier": "/us/usc/t28/s2404"
+            },
+            {
+              "number": "2405",
+              "numText": "§ 2405.",
+              "heading": "Garnishment",
+              "identifier": "/us/usc/t28/s2405"
+            },
+            {
+              "number": "2406",
+              "numText": "§ 2406.",
+              "heading": "Credits in actions by United States; prior disallowance",
+              "identifier": "/us/usc/t28/s2406"
+            },
+            {
+              "number": "2407",
+              "numText": "§ 2407.",
+              "heading": "Delinquents for public money; judgment at return term; continuance",
+              "identifier": "/us/usc/t28/s2407"
+            },
+            {
+              "number": "2408",
+              "numText": "§ 2408.",
+              "heading": "Security not required of United States",
+              "identifier": "/us/usc/t28/s2408"
+            },
+            {
+              "number": "2409",
+              "numText": "§ 2409.",
+              "heading": "Partition actions involving United States",
+              "identifier": "/us/usc/t28/s2409"
+            },
+            {
+              "number": "2409a",
+              "numText": "§ 2409a.",
+              "heading": "Real property quiet title actions",
+              "identifier": "/us/usc/t28/s2409a"
+            },
+            {
+              "number": "2410",
+              "numText": "§ 2410.",
+              "heading": "Actions affecting property on which United States has lien",
+              "identifier": "/us/usc/t28/s2410"
+            },
+            {
+              "number": "2411",
+              "numText": "§ 2411.",
+              "heading": "Interest",
+              "identifier": "/us/usc/t28/s2411"
+            },
+            {
+              "number": "2412",
+              "numText": "§ 2412.",
+              "heading": "Costs and fees",
+              "identifier": "/us/usc/t28/s2412"
+            },
+            {
+              "number": "2413",
+              "numText": "§ 2413.",
+              "heading": "Executions in favor of United States",
+              "identifier": "/us/usc/t28/s2413"
+            },
+            {
+              "number": "2414",
+              "numText": "§ 2414.",
+              "heading": "Payment of judgments and compromise settlements",
+              "identifier": "/us/usc/t28/s2414"
+            },
+            {
+              "number": "2415",
+              "numText": "§ 2415.",
+              "heading": "Time for commencing actions brought by the United States",
+              "identifier": "/us/usc/t28/s2415"
+            },
+            {
+              "number": "2416",
+              "numText": "§ 2416.",
+              "heading": "Time for commencing actions brought by the United States—Exclusions",
+              "identifier": "/us/usc/t28/s2416"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "163",
+          "heading": "FINES, PENALTIES AND FORFEITURES",
+          "identifier": "/us/usc/t28/ptVI/ch163",
+          "children": [
+            {
+              "number": "2461",
+              "numText": "§ 2461.",
+              "heading": "Mode of recovery",
+              "identifier": "/us/usc/t28/s2461"
+            },
+            {
+              "number": "2462",
+              "numText": "§ 2462.",
+              "heading": "Time for commencing proceedings",
+              "identifier": "/us/usc/t28/s2462"
+            },
+            {
+              "number": "2463",
+              "numText": "§ 2463.",
+              "heading": "Property taken under revenue law not re­pleviable",
+              "identifier": "/us/usc/t28/s2463"
+            },
+            {
+              "number": "2464",
+              "numText": "§ 2464.",
+              "heading": "Security; special bond",
+              "identifier": "/us/usc/t28/s2464"
+            },
+            {
+              "number": "2465",
+              "numText": "§ 2465.",
+              "heading": "Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest",
+              "identifier": "/us/usc/t28/s2465"
+            },
+            {
+              "number": "2466",
+              "numText": "§ 2466.",
+              "heading": "Fugitive disentitlement",
+              "identifier": "/us/usc/t28/s2466"
+            },
+            {
+              "number": "2467",
+              "numText": "§ 2467.",
+              "heading": "Enforcement of foreign judgment",
+              "identifier": "/us/usc/t28/s2467"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "165",
+          "heading": "UNITED STATES COURT OF FEDERAL CLAIMS PROCEDURE",
+          "identifier": "/us/usc/t28/ptVI/ch165",
+          "children": [
+            {
+              "number": "2501",
+              "numText": "§ 2501.",
+              "heading": "Time for filing suit",
+              "identifier": "/us/usc/t28/s2501"
+            },
+            {
+              "number": "2502",
+              "numText": "§ 2502.",
+              "heading": "Aliens’ privilege to sue",
+              "identifier": "/us/usc/t28/s2502"
+            },
+            {
+              "number": "2503",
+              "numText": "§ 2503.",
+              "heading": "Proceedings generally",
+              "identifier": "/us/usc/t28/s2503"
+            },
+            {
+              "number": "2504",
+              "numText": "§ 2504.",
+              "heading": "Plaintiff’s testimony",
+              "identifier": "/us/usc/t28/s2504"
+            },
+            {
+              "number": "2505",
+              "numText": "§ 2505.",
+              "heading": "Trial before judges",
+              "identifier": "/us/usc/t28/s2505"
+            },
+            {
+              "number": "2506",
+              "numText": "§ 2506.",
+              "heading": "Interest of witness",
+              "identifier": "/us/usc/t28/s2506"
+            },
+            {
+              "number": "2507",
+              "numText": "§ 2507.",
+              "heading": "Calls and discovery",
+              "identifier": "/us/usc/t28/s2507"
+            },
+            {
+              "number": "2508",
+              "numText": "§ 2508.",
+              "heading": "Counterclaim or set-off; registration of judgment",
+              "identifier": "/us/usc/t28/s2508"
+            },
+            {
+              "number": "2509",
+              "numText": "§ 2509.",
+              "heading": "Congressional reference cases",
+              "identifier": "/us/usc/t28/s2509"
+            },
+            {
+              "number": "2510",
+              "numText": "§ 2510.",
+              "heading": "Referral of cases by Comptroller General",
+              "identifier": "/us/usc/t28/s2510"
+            },
+            {
+              "number": "2511",
+              "numText": "§ 2511.",
+              "heading": "Accounts of officers, agents or contractors",
+              "identifier": "/us/usc/t28/s2511"
+            },
+            {
+              "number": "2512",
+              "numText": "§ 2512.",
+              "heading": "Disbursing officers; relief",
+              "identifier": "/us/usc/t28/s2512"
+            },
+            {
+              "number": "2513",
+              "numText": "§ 2513.",
+              "heading": "Unjust conviction and imprisonment",
+              "identifier": "/us/usc/t28/s2513"
+            },
+            {
+              "number": "2514",
+              "numText": "§ 2514.",
+              "heading": "Forfeiture of fraudulent claims",
+              "identifier": "/us/usc/t28/s2514"
+            },
+            {
+              "number": "2515",
+              "numText": "§ 2515.",
+              "heading": "New trial; stay of judgment",
+              "identifier": "/us/usc/t28/s2515"
+            },
+            {
+              "number": "2516",
+              "numText": "§ 2516.",
+              "heading": "Interest on claims and judgments",
+              "identifier": "/us/usc/t28/s2516"
+            },
+            {
+              "number": "2517",
+              "numText": "§ 2517.",
+              "heading": "Payment of judgments",
+              "identifier": "/us/usc/t28/s2517"
+            },
+            {
+              "number": "2518",
+              "numText": "[§ 2518.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 139(l), Apr. 2, 1982, 96 Stat. 43]",
+              "identifier": "/us/usc/t28/s2518"
+            },
+            {
+              "number": "2519",
+              "numText": "§ 2519.",
+              "heading": "Conclusiveness of judgment",
+              "identifier": "/us/usc/t28/s2519"
+            },
+            {
+              "number": "2520",
+              "numText": "[§ 2520.",
+              "heading": "Repealed. Pub. L. 106–518, title II, § 207, Nov. 13, 2000, 114 Stat. 2414]",
+              "identifier": "/us/usc/t28/s2520"
+            },
+            {
+              "number": "2521",
+              "numText": "§ 2521.",
+              "heading": "Subpoenas and incidental powers",
+              "identifier": "/us/usc/t28/s2521"
+            },
+            {
+              "number": "2522",
+              "numText": "§ 2522.",
+              "heading": "Notice of appeal",
+              "identifier": "/us/usc/t28/s2522"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "167",
+          "heading": "REPEALED]",
+          "identifier": "/us/usc/t28/ptVI/ch167",
+          "children": [
+            {
+              "number": "2601 to 2604",
+              "numText": "[§§ 2601 to 2604.",
+              "heading": "Repealed. Pub. L. 97–164, title I, § 140, Apr. 2, 1982, 96 Stat. 44]",
+              "identifier": "/us/usc/t28/s2601...2604"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "169",
+          "heading": "COURT OF INTERNATIONAL TRADE PROCEDURE",
+          "identifier": "/us/usc/t28/ptVI/ch169",
+          "children": [
+            {
+              "number": "2631",
+              "numText": "§ 2631.",
+              "heading": "Persons entitled to commence a civil action",
+              "identifier": "/us/usc/t28/s2631"
+            },
+            {
+              "number": "2632",
+              "numText": "§ 2632.",
+              "heading": "Commencement of a civil action",
+              "identifier": "/us/usc/t28/s2632"
+            },
+            {
+              "number": "2633",
+              "numText": "§ 2633.",
+              "heading": "Procedure and fees",
+              "identifier": "/us/usc/t28/s2633"
+            },
+            {
+              "number": "2634",
+              "numText": "§ 2634.",
+              "heading": "Notice",
+              "identifier": "/us/usc/t28/s2634"
+            },
+            {
+              "number": "2635",
+              "numText": "§ 2635.",
+              "heading": "Filing of official documents",
+              "identifier": "/us/usc/t28/s2635"
+            },
+            {
+              "number": "2636",
+              "numText": "§ 2636.",
+              "heading": "Time for commencement of action",
+              "identifier": "/us/usc/t28/s2636"
+            },
+            {
+              "number": "2637",
+              "numText": "§ 2637.",
+              "heading": "Exhaustion of administrative remedies",
+              "identifier": "/us/usc/t28/s2637"
+            },
+            {
+              "number": "2638",
+              "numText": "§ 2638.",
+              "heading": "New grounds in support of a civil action",
+              "identifier": "/us/usc/t28/s2638"
+            },
+            {
+              "number": "2639",
+              "numText": "§ 2639.",
+              "heading": "Burden of proof; evidence of value",
+              "identifier": "/us/usc/t28/s2639"
+            },
+            {
+              "number": "2640",
+              "numText": "§ 2640.",
+              "heading": "Scope and standard of review",
+              "identifier": "/us/usc/t28/s2640"
+            },
+            {
+              "number": "2641",
+              "numText": "§ 2641.",
+              "heading": "Witnesses; inspection of documents",
+              "identifier": "/us/usc/t28/s2641"
+            },
+            {
+              "number": "2642",
+              "numText": "§ 2642.",
+              "heading": "Analysis of imported merchandise",
+              "identifier": "/us/usc/t28/s2642"
+            },
+            {
+              "number": "2643",
+              "numText": "§ 2643.",
+              "heading": "Relief",
+              "identifier": "/us/usc/t28/s2643"
+            },
+            {
+              "number": "2644",
+              "numText": "§ 2644.",
+              "heading": "Interest",
+              "identifier": "/us/usc/t28/s2644"
+            },
+            {
+              "number": "2645",
+              "numText": "§ 2645.",
+              "heading": "Decisions",
+              "identifier": "/us/usc/t28/s2645"
+            },
+            {
+              "number": "2646",
+              "numText": "§ 2646.",
+              "heading": "Retrial or rehearing",
+              "identifier": "/us/usc/t28/s2646"
+            },
+            {
+              "number": "2647",
+              "numText": "[§ 2647.",
+              "heading": "Repealed. Pub. L. 98–620, title IV, § 402(29)(G), Nov. 8, 1984, 98 Stat. 3359]",
+              "identifier": "/us/usc/t28/s2647"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "171",
+          "heading": "TORT CLAIMS PROCEDURE",
+          "identifier": "/us/usc/t28/ptVI/ch171",
+          "children": [
+            {
+              "number": "2671",
+              "numText": "§ 2671.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s2671"
+            },
+            {
+              "number": "2672",
+              "numText": "§ 2672.",
+              "heading": "Administrative adjustment of claims",
+              "identifier": "/us/usc/t28/s2672"
+            },
+            {
+              "number": "2673",
+              "numText": "§ 2673.",
+              "heading": "Reports to Congress",
+              "identifier": "/us/usc/t28/s2673"
+            },
+            {
+              "number": "2674",
+              "numText": "§ 2674.",
+              "heading": "Liability of United States",
+              "identifier": "/us/usc/t28/s2674"
+            },
+            {
+              "number": "2675",
+              "numText": "§ 2675.",
+              "heading": "Disposition by federal agency as prerequisite; evidence",
+              "identifier": "/us/usc/t28/s2675"
+            },
+            {
+              "number": "2676",
+              "numText": "§ 2676.",
+              "heading": "Judgment as bar",
+              "identifier": "/us/usc/t28/s2676"
+            },
+            {
+              "number": "2677",
+              "numText": "§ 2677.",
+              "heading": "Compromise",
+              "identifier": "/us/usc/t28/s2677"
+            },
+            {
+              "number": "2678",
+              "numText": "§ 2678.",
+              "heading": "Attorney fees; penalty",
+              "identifier": "/us/usc/t28/s2678"
+            },
+            {
+              "number": "2679",
+              "numText": "§ 2679.",
+              "heading": "Exclusiveness of remedy",
+              "identifier": "/us/usc/t28/s2679"
+            },
+            {
+              "number": "2680",
+              "numText": "§ 2680.",
+              "heading": "Exceptions",
+              "identifier": "/us/usc/t28/s2680"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "173",
+          "heading": "ATTACHMENT IN POSTAL SUITS",
+          "identifier": "/us/usc/t28/ptVI/ch173",
+          "children": [
+            {
+              "number": "2710",
+              "numText": "§ 2710.",
+              "heading": "Right of attachment",
+              "identifier": "/us/usc/t28/s2710"
+            },
+            {
+              "number": "2711",
+              "numText": "§ 2711.",
+              "heading": "Application for warrant",
+              "identifier": "/us/usc/t28/s2711"
+            },
+            {
+              "number": "2712",
+              "numText": "§ 2712.",
+              "heading": "Issue of warrant",
+              "identifier": "/us/usc/t28/s2712"
+            },
+            {
+              "number": "2713",
+              "numText": "§ 2713.",
+              "heading": "Trial of ownership of property",
+              "identifier": "/us/usc/t28/s2713"
+            },
+            {
+              "number": "2714",
+              "numText": "§ 2714.",
+              "heading": "Investment of proceeds of attached property",
+              "identifier": "/us/usc/t28/s2714"
+            },
+            {
+              "number": "2715",
+              "numText": "§ 2715.",
+              "heading": "Publication",
+              "identifier": "/us/usc/t28/s2715"
+            },
+            {
+              "number": "2716",
+              "numText": "§ 2716.",
+              "heading": "Personal notice",
+              "identifier": "/us/usc/t28/s2716"
+            },
+            {
+              "number": "2717",
+              "numText": "§ 2717.",
+              "heading": "Discharge",
+              "identifier": "/us/usc/t28/s2717"
+            },
+            {
+              "number": "2718",
+              "numText": "§ 2718.",
+              "heading": "Interest on balances due department",
+              "identifier": "/us/usc/t28/s2718"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "175",
+          "heading": "REPEALED]",
+          "identifier": "/us/usc/t28/ptVI/ch175",
+          "children": [
+            {
+              "number": "2901 to 2906",
+              "numText": "[§§ 2901 to 2906.",
+              "heading": "Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405(c)(1), Oct. 17, 2000, 114 Stat. 1221]",
+              "identifier": "/us/usc/t28/s2901...2906"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "176",
+          "heading": "FEDERAL DEBT COLLECTION PROCEDURE",
+          "identifier": "/us/usc/t28/ptVI/ch176",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "A",
+              "heading": "DEFINITIONS AND GENERAL PROVISIONS",
+              "identifier": "/us/usc/t28/ptVI/ch176/schA",
+              "children": [
+                {
+                  "number": "3001",
+                  "numText": "§ 3001.",
+                  "heading": "Applicability of chapter",
+                  "identifier": "/us/usc/t28/s3001"
+                },
+                {
+                  "number": "3002",
+                  "numText": "§ 3002.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t28/s3002"
+                },
+                {
+                  "number": "3003",
+                  "numText": "§ 3003.",
+                  "heading": "Rules of construction",
+                  "identifier": "/us/usc/t28/s3003"
+                },
+                {
+                  "number": "3004",
+                  "numText": "§ 3004.",
+                  "heading": "Service of process; enforcement; notice",
+                  "identifier": "/us/usc/t28/s3004"
+                },
+                {
+                  "number": "3005",
+                  "numText": "§ 3005.",
+                  "heading": "Application of chapter to judgments",
+                  "identifier": "/us/usc/t28/s3005"
+                },
+                {
+                  "number": "3006",
+                  "numText": "§ 3006.",
+                  "heading": "Affidavit requirements",
+                  "identifier": "/us/usc/t28/s3006"
+                },
+                {
+                  "number": "3007",
+                  "numText": "§ 3007.",
+                  "heading": "Perishable personal property",
+                  "identifier": "/us/usc/t28/s3007"
+                },
+                {
+                  "number": "3008",
+                  "numText": "§ 3008.",
+                  "heading": "Proceedings before United States magistrate judges",
+                  "identifier": "/us/usc/t28/s3008"
+                },
+                {
+                  "number": "3009",
+                  "numText": "§ 3009.",
+                  "heading": "United States marshals’ authority to designate keeper",
+                  "identifier": "/us/usc/t28/s3009"
+                },
+                {
+                  "number": "3010",
+                  "numText": "§ 3010.",
+                  "heading": "Co-owned property",
+                  "identifier": "/us/usc/t28/s3010"
+                },
+                {
+                  "number": "3011",
+                  "numText": "§ 3011.",
+                  "heading": "Assessment of surcharge on a debt",
+                  "identifier": "/us/usc/t28/s3011"
+                },
+                {
+                  "number": "3012",
+                  "numText": "§ 3012.",
+                  "heading": "Joinder of additional defendant",
+                  "identifier": "/us/usc/t28/s3012"
+                },
+                {
+                  "number": "3013",
+                  "numText": "§ 3013.",
+                  "heading": "Modification or protective order; supervision of enforcement",
+                  "identifier": "/us/usc/t28/s3013"
+                },
+                {
+                  "number": "3014",
+                  "numText": "§ 3014.",
+                  "heading": "Exempt property",
+                  "identifier": "/us/usc/t28/s3014"
+                },
+                {
+                  "number": "3015",
+                  "numText": "§ 3015.",
+                  "heading": "Discovery as to debtor’s financial condition",
+                  "identifier": "/us/usc/t28/s3015"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "B",
+              "heading": "PREJUDGMENT REMEDIES",
+              "identifier": "/us/usc/t28/ptVI/ch176/schB",
+              "children": [
+                {
+                  "number": "3101",
+                  "numText": "§ 3101.",
+                  "heading": "Prejudgment remedies",
+                  "identifier": "/us/usc/t28/s3101"
+                },
+                {
+                  "number": "3102",
+                  "numText": "§ 3102.",
+                  "heading": "Attachment",
+                  "identifier": "/us/usc/t28/s3102"
+                },
+                {
+                  "number": "3103",
+                  "numText": "§ 3103.",
+                  "heading": "Receivership",
+                  "identifier": "/us/usc/t28/s3103"
+                },
+                {
+                  "number": "3104",
+                  "numText": "§ 3104.",
+                  "heading": "Garnishment",
+                  "identifier": "/us/usc/t28/s3104"
+                },
+                {
+                  "number": "3105",
+                  "numText": "§ 3105.",
+                  "heading": "Sequestration",
+                  "identifier": "/us/usc/t28/s3105"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "C",
+              "heading": "POSTJUDGMENT REMEDIES",
+              "identifier": "/us/usc/t28/ptVI/ch176/schC",
+              "children": [
+                {
+                  "number": "3201",
+                  "numText": "§ 3201.",
+                  "heading": "Judgment liens",
+                  "identifier": "/us/usc/t28/s3201"
+                },
+                {
+                  "number": "3202",
+                  "numText": "§ 3202.",
+                  "heading": "Enforcement of judgments",
+                  "identifier": "/us/usc/t28/s3202"
+                },
+                {
+                  "number": "3203",
+                  "numText": "§ 3203.",
+                  "heading": "Execution",
+                  "identifier": "/us/usc/t28/s3203"
+                },
+                {
+                  "number": "3204",
+                  "numText": "§ 3204.",
+                  "heading": "Installment payment order",
+                  "identifier": "/us/usc/t28/s3204"
+                },
+                {
+                  "number": "3205",
+                  "numText": "§ 3205.",
+                  "heading": "Garnishment",
+                  "identifier": "/us/usc/t28/s3205"
+                },
+                {
+                  "number": "3206",
+                  "numText": "§ 3206.",
+                  "heading": "Discharge",
+                  "identifier": "/us/usc/t28/s3206"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "D",
+              "heading": "FRAUDULENT TRANSFERS INVOLVING DEBTS",
+              "identifier": "/us/usc/t28/ptVI/ch176/schD",
+              "children": [
+                {
+                  "number": "3301",
+                  "numText": "§ 3301.",
+                  "heading": "Definitions",
+                  "identifier": "/us/usc/t28/s3301"
+                },
+                {
+                  "number": "3302",
+                  "numText": "§ 3302.",
+                  "heading": "Insolvency",
+                  "identifier": "/us/usc/t28/s3302"
+                },
+                {
+                  "number": "3303",
+                  "numText": "§ 3303.",
+                  "heading": "Value for transfer or obligation",
+                  "identifier": "/us/usc/t28/s3303"
+                },
+                {
+                  "number": "3304",
+                  "numText": "§ 3304.",
+                  "heading": "Transfer fraudulent as to a debt to the United States",
+                  "identifier": "/us/usc/t28/s3304"
+                },
+                {
+                  "number": "3305",
+                  "numText": "§ 3305.",
+                  "heading": "When transfer is made or obligation is incurred",
+                  "identifier": "/us/usc/t28/s3305"
+                },
+                {
+                  "number": "3306",
+                  "numText": "§ 3306.",
+                  "heading": "Remedies of the United States",
+                  "identifier": "/us/usc/t28/s3306"
+                },
+                {
+                  "number": "3307",
+                  "numText": "§ 3307.",
+                  "heading": "Defenses, liability, and protection of trans­feree",
+                  "identifier": "/us/usc/t28/s3307"
+                },
+                {
+                  "number": "3308",
+                  "numText": "§ 3308.",
+                  "heading": "Supplementary provision",
+                  "identifier": "/us/usc/t28/s3308"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "178",
+          "heading": "PROFESSIONAL AND AMATEUR SPORTS PROTECTION",
+          "identifier": "/us/usc/t28/ptVI/ch178",
+          "children": [
+            {
+              "number": "3701",
+              "numText": "§ 3701.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s3701"
+            },
+            {
+              "number": "3702",
+              "numText": "§ 3702.",
+              "heading": "Unlawful sports gambling",
+              "identifier": "/us/usc/t28/s3702"
+            },
+            {
+              "number": "3703",
+              "numText": "§ 3703.",
+              "heading": "Injunctions",
+              "identifier": "/us/usc/t28/s3703"
+            },
+            {
+              "number": "3704",
+              "numText": "§ 3704.",
+              "heading": "Applicability",
+              "identifier": "/us/usc/t28/s3704"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "179",
+          "heading": "JUDICIAL REVIEW OF CERTAIN ACTIONS BY PRESIDENTIAL OFFICES",
+          "identifier": "/us/usc/t28/ptVI/ch179",
+          "children": [
+            {
+              "number": "3901",
+              "numText": "§ 3901.",
+              "heading": "Civil actions",
+              "identifier": "/us/usc/t28/s3901"
+            },
+            {
+              "number": "3902",
+              "numText": "§ 3902.",
+              "heading": "Judicial review of regulations",
+              "identifier": "/us/usc/t28/s3902"
+            },
+            {
+              "number": "3903",
+              "numText": "§ 3903.",
+              "heading": "Effect of failure to issue regulations",
+              "identifier": "/us/usc/t28/s3903"
+            },
+            {
+              "number": "3904",
+              "numText": "§ 3904.",
+              "heading": "Expedited review of certain appeals",
+              "identifier": "/us/usc/t28/s3904"
+            },
+            {
+              "number": "3905",
+              "numText": "§ 3905.",
+              "heading": "Attorney’s fees and interest",
+              "identifier": "/us/usc/t28/s3905"
+            },
+            {
+              "number": "3906",
+              "numText": "§ 3906.",
+              "heading": "Payments",
+              "identifier": "/us/usc/t28/s3906"
+            },
+            {
+              "number": "3907",
+              "numText": "§ 3907.",
+              "heading": "Other judicial review prohibited",
+              "identifier": "/us/usc/t28/s3907"
+            },
+            {
+              "number": "3908",
+              "numText": "§ 3908.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s3908"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "180",
+          "heading": "ASSUMPTION OF CERTAIN CONTRACTUAL OBLIGATIONS",
+          "identifier": "/us/usc/t28/ptVI/ch180",
+          "children": [
+            {
+              "number": "4001",
+              "numText": "§ 4001.",
+              "heading": "Assumption of contractual obligations related to transfers of rights in motion pictures",
+              "identifier": "/us/usc/t28/s4001"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "181",
+          "heading": "FOREIGN JUDGMENTS",
+          "identifier": "/us/usc/t28/ptVI/ch181",
+          "children": [
+            {
+              "number": "4101",
+              "numText": "§ 4101.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t28/s4101"
+            },
+            {
+              "number": "4102",
+              "numText": "§ 4102.",
+              "heading": "Recognition of foreign defamation judgments",
+              "identifier": "/us/usc/t28/s4102"
+            },
+            {
+              "number": "4103",
+              "numText": "§ 4103.",
+              "heading": "Removal",
+              "identifier": "/us/usc/t28/s4103"
+            },
+            {
+              "number": "4104",
+              "numText": "§ 4104.",
+              "heading": "Declaratory judgments",
+              "identifier": "/us/usc/t28/s4104"
+            },
+            {
+              "number": "4105",
+              "numText": "§ 4105.",
+              "heading": "Attorneys’ fees",
+              "identifier": "/us/usc/t28/s4105"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "190",
+          "heading": "MISCELLANEOUS",
+          "identifier": "/us/usc/t28/ptVI/ch190",
+          "children": [
+            {
+              "number": "5001",
+              "numText": "§ 5001.",
+              "heading": "Civil action for death or personal injury in a place subject to exclusive jurisdiction of United States",
+              "identifier": "/us/usc/t28/s5001"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
