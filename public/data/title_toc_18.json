@@ -2,8 +2,8 @@
   "number": "18",
   "name": "Crimes And Criminal Procedure",
   "identifier": "/us/usc/t18",
-  "version": "Online@119-73not60",
-  "updated": "2026-01-28",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "part",
@@ -2108,6 +2108,12 @@
               "numText": "§ 798A.",
               "heading": "Temporary extension of section 794",
               "identifier": "/us/usc/t18/s798A"
+            },
+            {
+              "number": "798B",
+              "numText": "§ 798B.",
+              "heading": "Unauthorized access to intelligence community property",
+              "identifier": "/us/usc/t18/s798B"
             },
             {
               "number": "799",

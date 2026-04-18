@@ -2,8 +2,8 @@
   "number": "50",
   "name": "War And National Defense",
   "identifier": "/us/usc/t50",
-  "version": "Online@119-73not60",
-  "updated": "2025-08-21",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "chapter",
@@ -4898,7 +4898,7 @@
         {
           "number": "2501",
           "numText": "§ 2501.",
-          "heading": "Definitions",
+          "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
           "identifier": "/us/usc/t50/s2501"
         },
         {
@@ -4908,22 +4908,10 @@
           "identifier": "/us/usc/t50/ch42/schI",
           "children": [
             {
-              "number": "2511",
-              "numText": "§ 2511.",
-              "heading": "Naval Nuclear Propulsion Program",
-              "identifier": "/us/usc/t50/s2511"
-            },
-            {
-              "number": "2512",
-              "numText": "§ 2512.",
-              "heading": "Management structure for nuclear security enterprise",
-              "identifier": "/us/usc/t50/s2512"
-            },
-            {
-              "number": "2513",
-              "numText": "§ 2513.",
-              "heading": "Restriction on licensing requirement for certain defense activities and facilities",
-              "identifier": "/us/usc/t50/s2513"
+              "number": "2511 to 2513",
+              "numText": "§§ 2511 to 2513.",
+              "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+              "identifier": "/us/usc/t50/s2511...2513"
             },
             {
               "number": "2514",
@@ -4934,7 +4922,7 @@
             {
               "number": "2515",
               "numText": "§ 2515.",
-              "heading": "Establishment of Center for Security Technology, Analysis, Response, and Testing",
+              "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(2), Dec. 18, 2025, 139 Stat. 1458",
               "identifier": "/us/usc/t50/s2515"
             }
           ]
@@ -4952,22 +4940,10 @@
               "identifier": "/us/usc/t50/ch42/schII/ptA",
               "children": [
                 {
-                  "number": "2521",
-                  "numText": "§ 2521.",
-                  "heading": "Stockpile stewardship program",
-                  "identifier": "/us/usc/t50/s2521"
-                },
-                {
-                  "number": "2522",
-                  "numText": "§ 2522.",
-                  "heading": "Stockpile stewardship criteria",
-                  "identifier": "/us/usc/t50/s2522"
-                },
-                {
-                  "number": "2523",
-                  "numText": "§ 2523.",
-                  "heading": "Nuclear weapons stockpile stewardship, management, and responsiveness plan",
-                  "identifier": "/us/usc/t50/s2523"
+                  "number": "2521 to 2523",
+                  "numText": "§§ 2521 to 2523.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2521...2523"
                 },
                 {
                   "number": "2523a",
@@ -4984,13 +4960,13 @@
                 {
                   "number": "2523c",
                   "numText": "§ 2523c.",
-                  "heading": "Major warhead refurbishment program",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(3), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2523c"
                 },
                 {
                   "number": "2524",
                   "numText": "§ 2524.",
-                  "heading": "Stockpile management program",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2524"
                 },
                 {
@@ -5000,22 +4976,10 @@
                   "identifier": "/us/usc/t50/s2524a"
                 },
                 {
-                  "number": "2525",
-                  "numText": "§ 2525.",
-                  "heading": "Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile",
-                  "identifier": "/us/usc/t50/s2525"
-                },
-                {
-                  "number": "2526",
-                  "numText": "§ 2526.",
-                  "heading": "Form of certifications regarding the safety or reliability of the nuclear weapons stockpile",
-                  "identifier": "/us/usc/t50/s2526"
-                },
-                {
-                  "number": "2527",
-                  "numText": "§ 2527.",
-                  "heading": "Nuclear test ban readiness program",
-                  "identifier": "/us/usc/t50/s2527"
+                  "number": "2525 to 2527",
+                  "numText": "§§ 2525 to 2527.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2525...2527"
                 },
                 {
                   "number": "2528",
@@ -5030,16 +4994,10 @@
                   "identifier": "/us/usc/t50/s2528a"
                 },
                 {
-                  "number": "2529",
-                  "numText": "§ 2529.",
-                  "heading": "Requirements for specific request for new or modified nuclear weapons",
-                  "identifier": "/us/usc/t50/s2529"
-                },
-                {
-                  "number": "2530",
-                  "numText": "§ 2530.",
-                  "heading": "Testing of nuclear weapons",
-                  "identifier": "/us/usc/t50/s2530"
+                  "number": "2529, 2530",
+                  "numText": "§§ 2529, 2530.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2529 /us/usc/t50/s2530"
                 },
                 {
                   "number": "2531",
@@ -5048,16 +5006,10 @@
                   "identifier": "/us/usc/t50/s2531"
                 },
                 {
-                  "number": "2532",
-                  "numText": "§ 2532.",
-                  "heading": "Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile",
-                  "identifier": "/us/usc/t50/s2532"
-                },
-                {
-                  "number": "2533",
-                  "numText": "§ 2533.",
-                  "heading": "Reports on critical difficulties at national security laboratories and nuclear weapons production facilities",
-                  "identifier": "/us/usc/t50/s2533"
+                  "number": "2532, 2533",
+                  "numText": "§§ 2532, 2533.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2532 /us/usc/t50/s2533"
                 },
                 {
                   "number": "2534",
@@ -5078,52 +5030,10 @@
                   "identifier": "/us/usc/t50/s2536"
                 },
                 {
-                  "number": "2537",
-                  "numText": "§ 2537.",
-                  "heading": "Selected Acquisition Reports and independent cost estimates and reviews of certain programs and facilities",
-                  "identifier": "/us/usc/t50/s2537"
-                },
-                {
-                  "number": "2538",
-                  "numText": "§ 2538.",
-                  "heading": "Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile",
-                  "identifier": "/us/usc/t50/s2538"
-                },
-                {
-                  "number": "2538a",
-                  "numText": "§ 2538a.",
-                  "heading": "Plutonium pit production capacity",
-                  "identifier": "/us/usc/t50/s2538a"
-                },
-                {
-                  "number": "2538b",
-                  "numText": "§ 2538b.",
-                  "heading": "Stockpile responsiveness program",
-                  "identifier": "/us/usc/t50/s2538b"
-                },
-                {
-                  "number": "2538c",
-                  "numText": "§ 2538c.",
-                  "heading": "Long-term plan for meeting national security requirements for unencumbered uranium",
-                  "identifier": "/us/usc/t50/s2538c"
-                },
-                {
-                  "number": "2538d",
-                  "numText": "§ 2538d.",
-                  "heading": "Incorporation of integrated surety architecture",
-                  "identifier": "/us/usc/t50/s2538d"
-                },
-                {
-                  "number": "2538e",
-                  "numText": "§ 2538e.",
-                  "heading": "W93 nuclear warhead acquisition process",
-                  "identifier": "/us/usc/t50/s2538e"
-                },
-                {
-                  "number": "2538f",
-                  "numText": "§ 2538f.",
-                  "heading": "Earned value management and technology readiness levels for life extension programs",
-                  "identifier": "/us/usc/t50/s2538f"
+                  "number": "2537 to 2538f",
+                  "numText": "§§ 2537 to 2538f.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2537...2538f"
                 }
               ]
             },
@@ -5134,16 +5044,10 @@
               "identifier": "/us/usc/t50/ch42/schII/ptB",
               "children": [
                 {
-                  "number": "2541",
-                  "numText": "§ 2541.",
-                  "heading": "Tritium production program",
-                  "identifier": "/us/usc/t50/s2541"
-                },
-                {
-                  "number": "2542",
-                  "numText": "§ 2542.",
-                  "heading": "Tritium recycling",
-                  "identifier": "/us/usc/t50/s2542"
+                  "number": "2541, 2542",
+                  "numText": "§§ 2541, 2542.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2541 /us/usc/t50/s2542"
                 },
                 {
                   "number": "2543",
@@ -5154,7 +5058,7 @@
                 {
                   "number": "2544",
                   "numText": "§ 2544.",
-                  "heading": "Modernization and consolidation of tritium recycling facilities",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2544"
                 },
                 {
@@ -5198,22 +5102,10 @@
               "identifier": "/us/usc/t50/s2564"
             },
             {
-              "number": "2565",
-              "numText": "§ 2565.",
-              "heading": "Authority to conduct program relating to fissile materials",
-              "identifier": "/us/usc/t50/s2565"
-            },
-            {
-              "number": "2566",
-              "numText": "§ 2566.",
-              "heading": "Disposition of weapons-usable plutonium at Savannah River Site",
-              "identifier": "/us/usc/t50/s2566"
-            },
-            {
-              "number": "2567",
-              "numText": "§ 2567.",
-              "heading": "Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina",
-              "identifier": "/us/usc/t50/s2567"
+              "number": "2565 to 2567",
+              "numText": "§§ 2565 to 2567.",
+              "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+              "identifier": "/us/usc/t50/s2565...2567"
             },
             {
               "number": "2568",
@@ -5224,7 +5116,7 @@
             {
               "number": "2569",
               "numText": "§ 2569.",
-              "heading": "Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide",
+              "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
               "identifier": "/us/usc/t50/s2569"
             },
             {
@@ -5234,16 +5126,10 @@
               "identifier": "/us/usc/t50/s2570 /us/usc/t50/s2571"
             },
             {
-              "number": "2572",
-              "numText": "§ 2572.",
-              "heading": "International agreements on nuclear weapons data",
-              "identifier": "/us/usc/t50/s2572"
-            },
-            {
-              "number": "2573",
-              "numText": "§ 2573.",
-              "heading": "International agreements on information on radioactive materials",
-              "identifier": "/us/usc/t50/s2573"
+              "number": "2572, 2573",
+              "numText": "§§ 2572, 2573.",
+              "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+              "identifier": "/us/usc/t50/s2572 /us/usc/t50/s2573"
             },
             {
               "number": "2574",
@@ -5252,22 +5138,10 @@
               "identifier": "/us/usc/t50/s2574"
             },
             {
-              "number": "2575",
-              "numText": "§ 2575.",
-              "heading": "Defense nuclear nonproliferation management plan",
-              "identifier": "/us/usc/t50/s2575"
-            },
-            {
-              "number": "2576",
-              "numText": "§ 2576.",
-              "heading": "Information relating to certain defense nuclear nonproliferation programs",
-              "identifier": "/us/usc/t50/s2576"
-            },
-            {
-              "number": "2577",
-              "numText": "§ 2577.",
-              "heading": "Annual Selected Acquisition Reports on certain hardware relating to defense nuclear nonproliferation",
-              "identifier": "/us/usc/t50/s2577"
+              "number": "2575 to 2577",
+              "numText": "§§ 2575 to 2577.",
+              "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+              "identifier": "/us/usc/t50/s2575...2577"
             }
           ]
         },
@@ -5284,22 +5158,10 @@
               "identifier": "/us/usc/t50/ch42/schIV/ptA",
               "children": [
                 {
-                  "number": "2581",
-                  "numText": "§ 2581.",
-                  "heading": "Defense Environmental Cleanup Account",
-                  "identifier": "/us/usc/t50/s2581"
-                },
-                {
-                  "number": "2582",
-                  "numText": "§ 2582.",
-                  "heading": "Requirement to develop future use plans for defense environmental cleanup",
-                  "identifier": "/us/usc/t50/s2582"
-                },
-                {
-                  "number": "2582a",
-                  "numText": "§ 2582a.",
-                  "heading": "Future-years defense environmental cleanup plan",
-                  "identifier": "/us/usc/t50/s2582a"
+                  "number": "2581 to 2582a",
+                  "numText": "§§ 2581 to 2582a.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2581...2582a"
                 },
                 {
                   "number": "2583",
@@ -5314,52 +5176,22 @@
                   "identifier": "/us/usc/t50/s2584"
                 },
                 {
-                  "number": "2585",
-                  "numText": "§ 2585.",
-                  "heading": "Accelerated schedule for defense environmental cleanup activities",
-                  "identifier": "/us/usc/t50/s2585"
-                },
-                {
-                  "number": "2586",
-                  "numText": "§ 2586.",
-                  "heading": "Defense environmental cleanup technology program",
-                  "identifier": "/us/usc/t50/s2586"
-                },
-                {
-                  "number": "2586a",
-                  "numText": "§ 2586a.",
-                  "heading": "Other programs relating to technology development",
-                  "identifier": "/us/usc/t50/s2586a"
-                },
-                {
-                  "number": "2587",
-                  "numText": "§ 2587.",
-                  "heading": "Report on defense environmental cleanup expenditures",
-                  "identifier": "/us/usc/t50/s2587"
-                },
-                {
-                  "number": "2588",
-                  "numText": "§ 2588.",
-                  "heading": "Public participation in planning for defense environmental cleanup",
-                  "identifier": "/us/usc/t50/s2588"
+                  "number": "2585 to 2588",
+                  "numText": "§§ 2585 to 2588.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2585...2588"
                 },
                 {
                   "number": "2589",
                   "numText": "§ 2589.",
-                  "heading": "Policy of Department of Energy regarding future defense environmental management matters",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(4), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2589"
                 },
                 {
-                  "number": "2590",
-                  "numText": "§ 2590.",
-                  "heading": "Estimation of costs of meeting defense environmental cleanup milestones required by consent orders",
-                  "identifier": "/us/usc/t50/s2590"
-                },
-                {
-                  "number": "2591",
-                  "numText": "§ 2591.",
-                  "heading": "Public statement of environmental liabilities",
-                  "identifier": "/us/usc/t50/s2591"
+                  "number": "2590, 2591",
+                  "numText": "§§ 2590, 2591.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2590 /us/usc/t50/s2591"
                 }
               ]
             },
@@ -5376,16 +5208,10 @@
                   "identifier": "/us/usc/t50/s2601"
                 },
                 {
-                  "number": "2602",
-                  "numText": "§ 2602.",
-                  "heading": "Reports in connection with permanent closures of Department of Energy defense nuclear facilities",
-                  "identifier": "/us/usc/t50/s2602"
-                },
-                {
-                  "number": "2603",
-                  "numText": "§ 2603.",
-                  "heading": "Plan for deactivation and decommissioning of nonoperational defense nuclear facilities",
-                  "identifier": "/us/usc/t50/s2603"
+                  "number": "2602, 2603",
+                  "numText": "§§ 2602, 2603.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2602 /us/usc/t50/s2603"
                 }
               ]
             },
@@ -5396,22 +5222,10 @@
               "identifier": "/us/usc/t50/ch42/schIV/ptC",
               "children": [
                 {
-                  "number": "2621",
-                  "numText": "§ 2621.",
-                  "heading": "Safety measures for waste tanks at Hanford Nuclear Reservation",
-                  "identifier": "/us/usc/t50/s2621"
-                },
-                {
-                  "number": "2622",
-                  "numText": "§ 2622.",
-                  "heading": "Hanford waste tank cleanup program reforms",
-                  "identifier": "/us/usc/t50/s2622"
-                },
-                {
-                  "number": "2623",
-                  "numText": "§ 2623.",
-                  "heading": "River Protection Project",
-                  "identifier": "/us/usc/t50/s2623"
+                  "number": "2621 to 2623",
+                  "numText": "§§ 2621 to 2623.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2621...2623"
                 },
                 {
                   "number": "2624 to 2626",
@@ -5422,7 +5236,7 @@
                 {
                   "number": "2627",
                   "numText": "§ 2627.",
-                  "heading": "Notification regarding air release of radioactive or hazardous material",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2627"
                 }
               ]
@@ -5434,22 +5248,10 @@
               "identifier": "/us/usc/t50/ch42/schIV/ptD",
               "children": [
                 {
-                  "number": "2631",
-                  "numText": "§ 2631.",
-                  "heading": "Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site",
-                  "identifier": "/us/usc/t50/s2631"
-                },
-                {
-                  "number": "2632",
-                  "numText": "§ 2632.",
-                  "heading": "Multi-year plan for clean-up",
-                  "identifier": "/us/usc/t50/s2632"
-                },
-                {
-                  "number": "2633",
-                  "numText": "§ 2633.",
-                  "heading": "Continuation of processing, treatment, and disposal of legacy nuclear materials",
-                  "identifier": "/us/usc/t50/s2633"
+                  "number": "2631 to 2633",
+                  "numText": "§§ 2631 to 2633.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2631...2633"
                 },
                 {
                   "number": "2634 to 2637",
@@ -5480,28 +5282,10 @@
               "identifier": "/us/usc/t50/ch42/schV/ptA",
               "children": [
                 {
-                  "number": "2651",
-                  "numText": "§ 2651.",
-                  "heading": "Prohibition on international inspections of Department of Energy facilities unless protection of Restricted Data is certified",
-                  "identifier": "/us/usc/t50/s2651"
-                },
-                {
-                  "number": "2652",
-                  "numText": "§ 2652.",
-                  "heading": "Restrictions on access to national security laboratories by foreign visitors from sensitive countries",
-                  "identifier": "/us/usc/t50/s2652"
-                },
-                {
-                  "number": "2653",
-                  "numText": "§ 2653.",
-                  "heading": "Background investigations of certain personnel at Department of Energy facilities",
-                  "identifier": "/us/usc/t50/s2653"
-                },
-                {
-                  "number": "2654",
-                  "numText": "§ 2654.",
-                  "heading": "Department of Energy counterintelligence polygraph program",
-                  "identifier": "/us/usc/t50/s2654"
+                  "number": "2651 to 2654",
+                  "numText": "§§ 2651 to 2654.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2651...2654"
                 },
                 {
                   "number": "2655",
@@ -5510,16 +5294,10 @@
                   "identifier": "/us/usc/t50/s2655"
                 },
                 {
-                  "number": "2656",
-                  "numText": "§ 2656.",
-                  "heading": "Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs",
-                  "identifier": "/us/usc/t50/s2656"
-                },
-                {
-                  "number": "2657",
-                  "numText": "§ 2657.",
-                  "heading": "Annual report and certification on status of security of atomic energy defense facilities",
-                  "identifier": "/us/usc/t50/s2657"
+                  "number": "2656, 2657",
+                  "numText": "§§ 2656, 2657.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2656 /us/usc/t50/s2657"
                 },
                 {
                   "number": "2658",
@@ -5540,16 +5318,10 @@
                   "identifier": "/us/usc/t50/s2660"
                 },
                 {
-                  "number": "2661",
-                  "numText": "§ 2661.",
-                  "heading": "Protection of certain nuclear facilities and assets from unmanned aircraft",
-                  "identifier": "/us/usc/t50/s2661"
-                },
-                {
-                  "number": "2662",
-                  "numText": "§ 2662.",
-                  "heading": "Reporting on penetrations of networks of contractors and subcontractors",
-                  "identifier": "/us/usc/t50/s2662"
+                  "number": "2661, 2662",
+                  "numText": "§§ 2661, 2662.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2661 /us/usc/t50/s2662"
                 }
               ]
             },
@@ -5560,34 +5332,10 @@
               "identifier": "/us/usc/t50/ch42/schV/ptB",
               "children": [
                 {
-                  "number": "2671",
-                  "numText": "§ 2671.",
-                  "heading": "Review of certain documents before declassification and release",
-                  "identifier": "/us/usc/t50/s2671"
-                },
-                {
-                  "number": "2672",
-                  "numText": "§ 2672.",
-                  "heading": "Protection against inadvertent release of Restricted Data and Formerly Restricted Data",
-                  "identifier": "/us/usc/t50/s2672"
-                },
-                {
-                  "number": "2673",
-                  "numText": "§ 2673.",
-                  "heading": "Supplement to plan for declassification of Restricted Data and Formerly Restricted Data",
-                  "identifier": "/us/usc/t50/s2673"
-                },
-                {
-                  "number": "2674",
-                  "numText": "§ 2674.",
-                  "heading": "Protection of classified information during laboratory-to-laboratory exchanges",
-                  "identifier": "/us/usc/t50/s2674"
-                },
-                {
-                  "number": "2675",
-                  "numText": "§ 2675.",
-                  "heading": "Identification in budget materials of amounts for declassification activities and limitation on expenditures for such activities",
-                  "identifier": "/us/usc/t50/s2675"
+                  "number": "2671 to 2675",
+                  "numText": "§§ 2671 to 2675.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2671...2675"
                 }
               ]
             }
@@ -5606,16 +5354,10 @@
               "identifier": "/us/usc/t50/ch42/schVI/ptA",
               "children": [
                 {
-                  "number": "2701",
-                  "numText": "§ 2701.",
-                  "heading": "Authority for appointment of certain scientific, engineering, and technical personnel",
-                  "identifier": "/us/usc/t50/s2701"
-                },
-                {
-                  "number": "2702",
-                  "numText": "§ 2702.",
-                  "heading": "Whistleblower protection program",
-                  "identifier": "/us/usc/t50/s2702"
+                  "number": "2701, 2702",
+                  "numText": "§§ 2701, 2702.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2701 /us/usc/t50/s2702"
                 },
                 {
                   "number": "2703",
@@ -5624,16 +5366,10 @@
                   "identifier": "/us/usc/t50/s2703"
                 },
                 {
-                  "number": "2704",
-                  "numText": "§ 2704.",
-                  "heading": "Department of Energy defense nuclear facilities workforce restructuring plan",
-                  "identifier": "/us/usc/t50/s2704"
-                },
-                {
-                  "number": "2705",
-                  "numText": "§ 2705.",
-                  "heading": "Authority to provide certificate of commendation to Department of Energy and contractor employees for exemplary service in stockpile stewardship and security",
-                  "identifier": "/us/usc/t50/s2705"
+                  "number": "2704, 2705",
+                  "numText": "§§ 2704, 2705.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2704 /us/usc/t50/s2705"
                 }
               ]
             },
@@ -5644,22 +5380,10 @@
               "identifier": "/us/usc/t50/ch42/schVI/ptB",
               "children": [
                 {
-                  "number": "2721",
-                  "numText": "§ 2721.",
-                  "heading": "Executive management training in Department of Energy",
-                  "identifier": "/us/usc/t50/s2721"
-                },
-                {
-                  "number": "2722",
-                  "numText": "§ 2722.",
-                  "heading": "Stockpile stewardship recruitment and training program",
-                  "identifier": "/us/usc/t50/s2722"
-                },
-                {
-                  "number": "2723",
-                  "numText": "§ 2723.",
-                  "heading": "Fellowship program for development of skills critical to the nuclear security enterprise",
-                  "identifier": "/us/usc/t50/s2723"
+                  "number": "2721 to 2723",
+                  "numText": "§§ 2721 to 2723.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2721...2723"
                 }
               ]
             },
@@ -5670,40 +5394,10 @@
               "identifier": "/us/usc/t50/ch42/schVI/ptC",
               "children": [
                 {
-                  "number": "2731",
-                  "numText": "§ 2731.",
-                  "heading": "Worker protection at nuclear weapons facilities",
-                  "identifier": "/us/usc/t50/s2731"
-                },
-                {
-                  "number": "2732",
-                  "numText": "§ 2732.",
-                  "heading": "Safety oversight and enforcement at defense nuclear facilities",
-                  "identifier": "/us/usc/t50/s2732"
-                },
-                {
-                  "number": "2733",
-                  "numText": "§ 2733.",
-                  "heading": "Program to monitor Department of Energy workers exposed to hazardous and radioactive substances",
-                  "identifier": "/us/usc/t50/s2733"
-                },
-                {
-                  "number": "2734",
-                  "numText": "§ 2734.",
-                  "heading": "Programs for persons who may have been exposed to radiation released from Hanford Nuclear Reservation",
-                  "identifier": "/us/usc/t50/s2734"
-                },
-                {
-                  "number": "2735",
-                  "numText": "§ 2735.",
-                  "heading": "Use of probabilistic risk assessment to ensure nuclear safety of facilities of the Administration and the Office of Environmental Management",
-                  "identifier": "/us/usc/t50/s2735"
-                },
-                {
-                  "number": "2736",
-                  "numText": "§ 2736.",
-                  "heading": "Notification of nuclear criticality and non-nuclear incidents",
-                  "identifier": "/us/usc/t50/s2736"
+                  "number": "2731 to 2736",
+                  "numText": "§§ 2731 to 2736.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2731...2736"
                 }
               ]
             }
@@ -5722,118 +5416,22 @@
               "identifier": "/us/usc/t50/ch42/schVII/ptA",
               "children": [
                 {
-                  "number": "2741",
-                  "numText": "§ 2741.",
-                  "heading": "Definitions",
-                  "identifier": "/us/usc/t50/s2741"
-                },
-                {
-                  "number": "2742",
-                  "numText": "§ 2742.",
-                  "heading": "Reprogramming",
-                  "identifier": "/us/usc/t50/s2742"
-                },
-                {
-                  "number": "2743",
-                  "numText": "§ 2743.",
-                  "heading": "Minor construction projects",
-                  "identifier": "/us/usc/t50/s2743"
+                  "number": "2741 to 2743",
+                  "numText": "§§ 2741 to 2743.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2741...2743"
                 },
                 {
                   "number": "2743a",
                   "numText": "§ 2743a.",
-                  "heading": "General plant projects",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(5), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2743a"
                 },
                 {
-                  "number": "2744",
-                  "numText": "§ 2744.",
-                  "heading": "Limits on construction projects",
-                  "identifier": "/us/usc/t50/s2744"
-                },
-                {
-                  "number": "2745",
-                  "numText": "§ 2745.",
-                  "heading": "Fund transfer authority",
-                  "identifier": "/us/usc/t50/s2745"
-                },
-                {
-                  "number": "2746",
-                  "numText": "§ 2746.",
-                  "heading": "Conceptual and construction design",
-                  "identifier": "/us/usc/t50/s2746"
-                },
-                {
-                  "number": "2747",
-                  "numText": "§ 2747.",
-                  "heading": "Authority for emergency planning, design, and construction activities",
-                  "identifier": "/us/usc/t50/s2747"
-                },
-                {
-                  "number": "2748",
-                  "numText": "§ 2748.",
-                  "heading": "Scope of authority to carry out plant projects",
-                  "identifier": "/us/usc/t50/s2748"
-                },
-                {
-                  "number": "2749",
-                  "numText": "§ 2749.",
-                  "heading": "Availability of funds",
-                  "identifier": "/us/usc/t50/s2749"
-                },
-                {
-                  "number": "2750",
-                  "numText": "§ 2750.",
-                  "heading": "Transfer of defense environmental cleanup funds",
-                  "identifier": "/us/usc/t50/s2750"
-                },
-                {
-                  "number": "2751",
-                  "numText": "§ 2751.",
-                  "heading": "Transfer of weapons activities funds",
-                  "identifier": "/us/usc/t50/s2751"
-                },
-                {
-                  "number": "2752",
-                  "numText": "§ 2752.",
-                  "heading": "Funds available for all national security programs of the Department of Energy",
-                  "identifier": "/us/usc/t50/s2752"
-                },
-                {
-                  "number": "2753",
-                  "numText": "§ 2753.",
-                  "heading": "Notification of cost overruns for certain Department of Energy projects",
-                  "identifier": "/us/usc/t50/s2753"
-                },
-                {
-                  "number": "2754",
-                  "numText": "§ 2754.",
-                  "heading": "Life-cycle cost estimates of certain atomic energy defense capital assets",
-                  "identifier": "/us/usc/t50/s2754"
-                },
-                {
-                  "number": "2755",
-                  "numText": "§ 2755.",
-                  "heading": "Matters relating to critical decisions",
-                  "identifier": "/us/usc/t50/s2755"
-                },
-                {
-                  "number": "2756",
-                  "numText": "§ 2756.",
-                  "heading": "Unfunded priorities of the Administration",
-                  "identifier": "/us/usc/t50/s2756"
-                },
-                {
-                  "number": "2757",
-                  "numText": "§ 2757.",
-                  "heading": "Review of adequacy of nuclear weapons budget",
-                  "identifier": "/us/usc/t50/s2757"
-                },
-                {
-                  "number": "2758",
-                  "numText": "§ 2758.",
-                  "heading": "Improvements to cost estimates informing analyses of alternatives",
-                  "identifier": "/us/usc/t50/s2758"
+                  "number": "2744 to 2758",
+                  "numText": "§§ 2744 to 2758.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2744...2758"
                 }
               ]
             },
@@ -5844,16 +5442,10 @@
               "identifier": "/us/usc/t50/ch42/schVII/ptB",
               "children": [
                 {
-                  "number": "2761",
-                  "numText": "§ 2761.",
-                  "heading": "Restriction on use of funds to pay penalties under environmental laws",
-                  "identifier": "/us/usc/t50/s2761"
-                },
-                {
-                  "number": "2762",
-                  "numText": "§ 2762.",
-                  "heading": "Restriction on use of funds to pay penalties under Clean Air Act",
-                  "identifier": "/us/usc/t50/s2762"
+                  "number": "2761, 2762",
+                  "numText": "§§ 2761, 2762.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2761 /us/usc/t50/s2762"
                 }
               ]
             },
@@ -5870,16 +5462,10 @@
                   "identifier": "/us/usc/t50/s2771"
                 },
                 {
-                  "number": "2772",
-                  "numText": "§ 2772.",
-                  "heading": "Reports on financial balances for atomic energy defense activities",
-                  "identifier": "/us/usc/t50/s2772"
-                },
-                {
-                  "number": "2773",
-                  "numText": "§ 2773.",
-                  "heading": "Independent acquisition project reviews of capital assets acquisition projects",
-                  "identifier": "/us/usc/t50/s2773"
+                  "number": "2772, 2773",
+                  "numText": "§§ 2772, 2773.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2772 /us/usc/t50/s2773"
                 }
               ]
             }
@@ -5898,52 +5484,10 @@
               "identifier": "/us/usc/t50/ch42/schVIII/ptA",
               "children": [
                 {
-                  "number": "2781",
-                  "numText": "§ 2781.",
-                  "heading": "Costs not allowed under covered contracts",
-                  "identifier": "/us/usc/t50/s2781"
-                },
-                {
-                  "number": "2782",
-                  "numText": "§ 2782.",
-                  "heading": "Prohibition and report on bonuses to contractors operating defense nuclear facilities",
-                  "identifier": "/us/usc/t50/s2782"
-                },
-                {
-                  "number": "2782a",
-                  "numText": "§ 2782a.",
-                  "heading": "Assessments of emergency preparedness of defense nuclear facilities",
-                  "identifier": "/us/usc/t50/s2782a"
-                },
-                {
-                  "number": "2783",
-                  "numText": "§ 2783.",
-                  "heading": "Contractor liability for injury or loss of property arising out of atomic weapons testing programs",
-                  "identifier": "/us/usc/t50/s2783"
-                },
-                {
-                  "number": "2784",
-                  "numText": "§ 2784.",
-                  "heading": "Notice-and-wait requirement applicable to certain third-party financing arrangements",
-                  "identifier": "/us/usc/t50/s2784"
-                },
-                {
-                  "number": "2785",
-                  "numText": "§ 2785.",
-                  "heading": "Publication of contractor performance evaluations leading to award fees",
-                  "identifier": "/us/usc/t50/s2785"
-                },
-                {
-                  "number": "2786",
-                  "numText": "§ 2786.",
-                  "heading": "Enhanced procurement authority to manage supply chain risk",
-                  "identifier": "/us/usc/t50/s2786"
-                },
-                {
-                  "number": "2787",
-                  "numText": "§ 2787.",
-                  "heading": "Cost-benefit analyses for competition of management and operating contracts",
-                  "identifier": "/us/usc/t50/s2787"
+                  "number": "2781 to 2787",
+                  "numText": "§§ 2781 to 2787.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2781...2787"
                 }
               ]
             },
@@ -5956,50 +5500,26 @@
                 {
                   "number": "2791",
                   "numText": "§ 2791.",
-                  "heading": "Laboratory-directed research and development programs",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2791"
                 },
                 {
                   "number": "2791a",
                   "numText": "§ 2791a.",
-                  "heading": "Laboratory-directed research and development",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(6), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2791a"
                 },
                 {
                   "number": "2791b",
                   "numText": "§ 2791b.",
-                  "heading": "Charges to individual program, project, or activity",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(3), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2791b"
                 },
                 {
-                  "number": "2792",
-                  "numText": "§ 2792.",
-                  "heading": "Limitations on use of funds for laboratory directed research and development purposes",
-                  "identifier": "/us/usc/t50/s2792"
-                },
-                {
-                  "number": "2793",
-                  "numText": "§ 2793.",
-                  "heading": "Report on use of funds for certain research and development purposes",
-                  "identifier": "/us/usc/t50/s2793"
-                },
-                {
-                  "number": "2794",
-                  "numText": "§ 2794.",
-                  "heading": "Critical technology partnerships and cooperative research and development centers",
-                  "identifier": "/us/usc/t50/s2794"
-                },
-                {
-                  "number": "2795",
-                  "numText": "§ 2795.",
-                  "heading": "University-based research collaboration program",
-                  "identifier": "/us/usc/t50/s2795"
-                },
-                {
-                  "number": "2796",
-                  "numText": "§ 2796.",
-                  "heading": "Limitation on establishing an enduring bioassurance program within the Administration",
-                  "identifier": "/us/usc/t50/s2796"
+                  "number": "2792 to 2796",
+                  "numText": "§§ 2792 to 2796.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2792...2796"
                 }
               ]
             },
@@ -6010,33 +5530,21 @@
               "identifier": "/us/usc/t50/ch42/schVIII/ptC",
               "children": [
                 {
-                  "number": "2811",
-                  "numText": "§ 2811.",
-                  "heading": "Transfers of real property at certain Department of Energy facilities",
-                  "identifier": "/us/usc/t50/s2811"
-                },
-                {
-                  "number": "2812",
-                  "numText": "§ 2812.",
-                  "heading": "Engineering and manufacturing research, development, and demonstration by managers of certain nuclear weapons production facilities",
-                  "identifier": "/us/usc/t50/s2812"
-                },
-                {
-                  "number": "2813",
-                  "numText": "§ 2813.",
-                  "heading": "Pilot program relating to use of proceeds of disposal or utilization of certain Department of Energy assets",
-                  "identifier": "/us/usc/t50/s2813"
+                  "number": "2811 to 2813",
+                  "numText": "§§ 2811 to 2813.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2811...2813"
                 },
                 {
                   "number": "2814",
                   "numText": "§ 2814.",
-                  "heading": "Department of Energy energy parks program",
+                  "heading": "Repealed.Pub. L. 119–60, div. C, title XXXI, § 3111(b)(7), Dec. 18, 2025, 139 Stat. 1459",
                   "identifier": "/us/usc/t50/s2814"
                 },
                 {
                   "number": "2815",
                   "numText": "§ 2815.",
-                  "heading": "Authority to use passenger carriers for contractor commuting",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
                   "identifier": "/us/usc/t50/s2815"
                 }
               ]
@@ -6054,16 +5562,10 @@
                   "identifier": "/us/usc/t50/s2821"
                 },
                 {
-                  "number": "2822",
-                  "numText": "§ 2822.",
-                  "heading": "Payment of costs of operation and maintenance of infrastructure at Nevada National Security Site",
-                  "identifier": "/us/usc/t50/s2822"
-                },
-                {
-                  "number": "2823",
-                  "numText": "§ 2823.",
-                  "heading": "University-based defense nuclear policy collaboration program",
-                  "identifier": "/us/usc/t50/s2823"
+                  "number": "2822, 2823",
+                  "numText": "§§ 2822, 2823.",
+                  "heading": "Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1), Dec. 18, 2025, 139 Stat. 1458",
+                  "identifier": "/us/usc/t50/s2822 /us/usc/t50/s2823"
                 }
               ]
             }
@@ -6514,8 +6016,14 @@
             {
               "number": "3062",
               "numText": "§ 3062.",
-              "heading": "Office of Engagement",
+              "heading": "Repealed. Pub. L. 119–60, div. F, title LXIV, § 6405(b), Dec. 18, 2025, 139 Stat. 1619",
               "identifier": "/us/usc/t50/s3062"
+            },
+            {
+              "number": "3063",
+              "numText": "§ 3063.",
+              "heading": "Designation of senior officials for biotechnology",
+              "identifier": "/us/usc/t50/s3063"
             }
           ]
         },
@@ -6650,7 +6158,7 @@
             {
               "number": "3098",
               "numText": "§ 3098.",
-              "heading": "Annual personnel level assessments for the intelligence community",
+              "heading": "Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(3), Dec. 18, 2025, 139 Stat. 1652",
               "identifier": "/us/usc/t50/s3098"
             },
             {
@@ -6738,6 +6246,12 @@
               "identifier": "/us/usc/t50/s3111"
             },
             {
+              "number": "3111a",
+              "numText": "§ 3111a.",
+              "heading": "Annual report on Federal Bureau of Investigation case data",
+              "identifier": "/us/usc/t50/s3111a"
+            },
+            {
               "number": "3112",
               "numText": "§ 3112.",
               "heading": "Annual reports on the domestic activities of the intelligence community",
@@ -6760,6 +6274,18 @@
               "numText": "§ 3115.",
               "heading": "Submission of legislative proposals",
               "identifier": "/us/usc/t50/s3115"
+            },
+            {
+              "number": "3116",
+              "numText": "§ 3116.",
+              "heading": "Notice of impact of diplomatic and consular post closings on intelligence community",
+              "identifier": "/us/usc/t50/s3116"
+            },
+            {
+              "number": "3117",
+              "numText": "§ 3117.",
+              "heading": "Notice of counterintelligence assessments and investigations of Federal candidates or officeholders",
+              "identifier": "/us/usc/t50/s3117"
             }
           ]
         },
@@ -7056,7 +6582,7 @@
                 {
                   "number": "3227b",
                   "numText": "§ 3227b.",
-                  "heading": "Reporting",
+                  "heading": "Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(4)(A), Dec. 18, 2025, 139 Stat. 1652",
                   "identifier": "/us/usc/t50/s3227b"
                 },
                 {
@@ -7424,6 +6950,12 @@
               "identifier": "/us/usc/t50/s3334b"
             },
             {
+              "number": "3334b–1",
+              "numText": "§ 3334b–1.",
+              "heading": "Prohibiting discrimination in the intelligence community",
+              "identifier": "/us/usc/t50/s3334b–1"
+            },
+            {
               "number": "3334c",
               "numText": "§ 3334c.",
               "heading": "Assessment of homeland security vulnerabilities associated with certain retired and former personnel of the intelligence community",
@@ -7440,6 +6972,12 @@
               "numText": "§ 3334e.",
               "heading": "Enhanced procurement authority to manage supply chain risk",
               "identifier": "/us/usc/t50/s3334e"
+            },
+            {
+              "number": "3334e–1",
+              "numText": "§ 3334e–1.",
+              "heading": "Ensuring intelligence community procurement of domestic United States production of synthetic DNA and RNA",
+              "identifier": "/us/usc/t50/s3334e–1"
             },
             {
               "number": "3334f",
@@ -7900,7 +7438,7 @@
             {
               "number": "3373a",
               "numText": "§ 3373a.",
-              "heading": "Support for and oversight of Unidentified Aerial Phenomena Task Force",
+              "heading": "Repealed. Pub. L. 119–60, div. A, title XVI, § 1672(a), Dec. 18, 2025, 139 Stat. 1202",
               "identifier": "/us/usc/t50/s3373a"
             },
             {
@@ -7908,6 +7446,12 @@
               "numText": "§ 3373b.",
               "heading": "Unidentified anomalous phenomena reporting procedures",
               "identifier": "/us/usc/t50/s3373b"
+            },
+            {
+              "number": "3374",
+              "numText": "§ 3374.",
+              "heading": "Requirements with respect to duty to warn former senior officials and other United States persons",
+              "identifier": "/us/usc/t50/s3374"
             }
           ]
         },
@@ -8064,6 +7608,12 @@
           "numText": "§ 3515.",
           "heading": "Security personnel at Agency installations",
           "identifier": "/us/usc/t50/s3515"
+        },
+        {
+          "number": "3515a",
+          "numText": "§ 3515a.",
+          "heading": "Authority regarding unmanned aircraft systems",
+          "identifier": "/us/usc/t50/s3515a"
         },
         {
           "number": "3516",
@@ -9904,6 +9454,12 @@
               "identifier": "/us/usc/t50/s4565"
             },
             {
+              "number": "4565a",
+              "numText": "§ 4565a.",
+              "heading": "Enhanced intelligence community support to secure United States biological data",
+              "identifier": "/us/usc/t50/s4565a"
+            },
+            {
               "number": "4566",
               "numText": "§ 4566.",
               "heading": "Prohibition on purchase of United States defense contractors by entities controlled by foreign governments",
@@ -9920,6 +9476,68 @@
               "numText": "§ 4568.",
               "heading": "Annual report on impact of offsets",
               "identifier": "/us/usc/t50/s4568"
+            }
+          ]
+        },
+        {
+          "type": "subchapter",
+          "number": "IV",
+          "heading": "PROHIBITION AND NOTIFICATION ON INVESTMENTS RELATING TO COVERED NATIONAL SECURITY TRANSACTIONS",
+          "identifier": "/us/usc/t50/ch55/schIV",
+          "children": [
+            {
+              "number": "4581",
+              "numText": "§ 4581.",
+              "heading": "Prohibition on investments",
+              "identifier": "/us/usc/t50/s4581"
+            },
+            {
+              "number": "4582",
+              "numText": "§ 4582.",
+              "heading": "Notification on investments",
+              "identifier": "/us/usc/t50/s4582"
+            },
+            {
+              "number": "4583",
+              "numText": "§ 4583.",
+              "heading": "Report",
+              "identifier": "/us/usc/t50/s4583"
+            },
+            {
+              "number": "4584",
+              "numText": "§ 4584.",
+              "heading": "Multilateral engagement and coordination",
+              "identifier": "/us/usc/t50/s4584"
+            },
+            {
+              "number": "4585",
+              "numText": "§ 4585.",
+              "heading": "Public database of covered foreign persons",
+              "identifier": "/us/usc/t50/s4585"
+            },
+            {
+              "number": "4586",
+              "numText": "§ 4586.",
+              "heading": "Rule of construction",
+              "identifier": "/us/usc/t50/s4586"
+            },
+            {
+              "number": "4587",
+              "numText": "§ 4587.",
+              "heading": "Penalties",
+              "identifier": "/us/usc/t50/s4587"
+            },
+            {
+              "number": "4588",
+              "numText": "§ 4588.",
+              "heading": "Exemption from disclosure",
+              "identifier": "/us/usc/t50/s4588"
+            },
+            {
+              "number": "4589",
+              "numText": "§ 4589.",
+              "heading": "Definitions",
+              "identifier": "/us/usc/t50/s4589"
             }
           ]
         }

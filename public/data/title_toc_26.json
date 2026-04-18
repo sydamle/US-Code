@@ -2,8 +2,8 @@
   "number": "26",
   "name": "Internal Revenue Code",
   "identifier": "/us/usc/t26",
-  "version": "Online@119-73not60",
-  "updated": "2026-01-12",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "subtitle",
@@ -17213,6 +17213,12 @@
                   "numText": "§ 9825.",
                   "heading": "Reporting on pharmacy benefits and drug costs",
                   "identifier": "/us/usc/t26/s9825"
+                },
+                {
+                  "number": "9826",
+                  "numText": "§ 9826.",
+                  "heading": "Oversight of entities that provide pharmacy benefit management services",
+                  "identifier": "/us/usc/t26/s9826"
                 }
               ]
             },

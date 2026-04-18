@@ -2,8 +2,8 @@
   "number": "22",
   "name": "Foreign Relations And Intercourse",
   "identifier": "/us/usc/t22",
-  "version": "Online@119-73not60",
-  "updated": "2026-01-28",
+  "version": "Online@119–83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "chapter",
@@ -832,6 +832,18 @@
           "numText": "§ 262o–4.",
           "heading": "Promotion of policy goals",
           "identifier": "/us/usc/t22/s262o–4"
+        },
+        {
+          "number": "262o–5",
+          "numText": "§ 262o–5.",
+          "heading": "Multilateral development bank support for nuclear energy",
+          "identifier": "/us/usc/t22/s262o–5"
+        },
+        {
+          "number": "262o–6",
+          "numText": "§ 262o–6.",
+          "heading": "Establishment of Nuclear Energy Assistance Trust Funds",
+          "identifier": "/us/usc/t22/s262o–6"
         },
         {
           "number": "262p",
@@ -2734,6 +2746,18 @@
               "numText": "§ 284dd.",
               "heading": "Twentieth replenishment",
               "identifier": "/us/usc/t22/s284dd"
+            },
+            {
+              "number": "284ee",
+              "numText": "§ 284ee.",
+              "heading": "Twenty-first replenishment",
+              "identifier": "/us/usc/t22/s284ee"
+            },
+            {
+              "number": "284ff",
+              "numText": "§ 284ff.",
+              "heading": "Exemption from securities laws; reports to Securities and Exchange Commission",
+              "identifier": "/us/usc/t22/s284ff"
             }
           ]
         },
@@ -2952,6 +2976,12 @@
               "numText": "§ 285hh.",
               "heading": "Twelfth replenishment",
               "identifier": "/us/usc/t22/s285hh"
+            },
+            {
+              "number": "285ii",
+              "numText": "§ 285ii.",
+              "heading": "Asian Development Fund thirteenth replenishment",
+              "identifier": "/us/usc/t22/s285ii"
             }
           ]
         },
@@ -4202,6 +4232,12 @@
               "numText": "§ 290i–12.",
               "heading": "Seventh capital increase",
               "identifier": "/us/usc/t22/s290i–12"
+            },
+            {
+              "number": "290i–13",
+              "numText": "§ 290i–13.",
+              "heading": "General callable capital increase",
+              "identifier": "/us/usc/t22/s290i–13"
             }
           ]
         },
@@ -8258,6 +8294,12 @@
               "identifier": "/us/usc/t22/s1741d"
             },
             {
+              "number": "1741d–1",
+              "numText": "§ 1741d–1.",
+              "heading": "Designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention",
+              "identifier": "/us/usc/t22/s1741d–1"
+            },
+            {
               "number": "1741e",
               "numText": "§ 1741e.",
               "heading": "Definitions",
@@ -11956,7 +11998,7 @@
         {
           "number": "2452b",
           "numText": "§ 2452b.",
-          "heading": "International expositions",
+          "heading": "Repealed. Pub. L. 119–60, div. E, title IV, § 5405, Dec. 18, 2025, 139 Stat. 1599",
           "identifier": "/us/usc/t22/s2452b"
         },
         {
@@ -12636,7 +12678,7 @@
         {
           "number": "2652b",
           "numText": "§ 2652b.",
-          "heading": "Assistant Secretary of State for South Asian Affairs",
+          "heading": "Repealed. Pub. L. 119–60, div. E, title I, § 5153(b), Dec. 18, 2025, 139 Stat. 1580",
           "identifier": "/us/usc/t22/s2652b"
         },
         {
@@ -12662,6 +12704,12 @@
           "numText": "§ 2655b.",
           "heading": "Diplomatic presence overseas",
           "identifier": "/us/usc/t22/s2655b"
+        },
+        {
+          "number": "2655c",
+          "numText": "§ 2655c.",
+          "heading": "Bureau of Educational and Cultural Affairs",
+          "identifier": "/us/usc/t22/s2655c"
         },
         {
           "number": "2656",
@@ -12818,6 +12866,24 @@
           "numText": "§ 2665a.",
           "heading": "Foreign Service fellowships",
           "identifier": "/us/usc/t22/s2665a"
+        },
+        {
+          "number": "2665b",
+          "numText": "§ 2665b.",
+          "heading": "Veterans Innovation Partnership Fellowship Program",
+          "identifier": "/us/usc/t22/s2665b"
+        },
+        {
+          "number": "2665c",
+          "numText": "§ 2665c.",
+          "heading": "Thomas R. Pickering Foreign Affairs Fellowship Program",
+          "identifier": "/us/usc/t22/s2665c"
+        },
+        {
+          "number": "2665d",
+          "numText": "§ 2665d.",
+          "heading": "Charles B. Rangel International Affairs Fellowship Program",
+          "identifier": "/us/usc/t22/s2665d"
         },
         {
           "number": "2666, 2667",
@@ -12986,6 +13052,12 @@
           "numText": "§ 2680–3.",
           "heading": "Responsiveness to Congressional Research Service inquiries and Congressional Budget Office inquiries",
           "identifier": "/us/usc/t22/s2680–3"
+        },
+        {
+          "number": "2680–4",
+          "numText": "§ 2680–4.",
+          "heading": "Periodic briefings from Bureau of Intelligence and Research",
+          "identifier": "/us/usc/t22/s2680–4"
         },
         {
           "number": "2680a",
@@ -13330,6 +13402,12 @@
           "identifier": "/us/usc/t22/s2719c"
         },
         {
+          "number": "2719d",
+          "numText": "§ 2719d.",
+          "heading": "Language incentive pay for civil service employees",
+          "identifier": "/us/usc/t22/s2719d"
+        },
+        {
           "number": "2720",
           "numText": "§ 2720.",
           "heading": "Closing of consular and diplomatic posts abroad",
@@ -13418,6 +13496,12 @@
           "numText": "§ 2732b.",
           "heading": "Improving research and evaluation of public diplomacy",
           "identifier": "/us/usc/t22/s2732b"
+        },
+        {
+          "number": "2732c",
+          "numText": "§ 2732c.",
+          "heading": "Submission of federally funded research and development center reports to Congress",
+          "identifier": "/us/usc/t22/s2732c"
         },
         {
           "number": "2733",
@@ -13526,6 +13610,12 @@
           "numText": "§ 2736d.",
           "heading": "Payne fellowship authorization",
           "identifier": "/us/usc/t22/s2736d"
+        },
+        {
+          "number": "2736d–1",
+          "numText": "§ 2736d–1.",
+          "heading": "Donald M. Payne International Development Fellowship Program",
+          "identifier": "/us/usc/t22/s2736d–1"
         },
         {
           "number": "2736e",
@@ -16378,6 +16468,12 @@
               "identifier": "/us/usc/t22/s4021"
             },
             {
+              "number": "4021a",
+              "numText": "§ 4021a.",
+              "heading": "Matters relating to the Foreign Service Institute",
+              "identifier": "/us/usc/t22/s4021a"
+            },
+            {
               "number": "4022",
               "numText": "§ 4022.",
               "heading": "Foreign language requirements",
@@ -18104,6 +18200,12 @@
               "numText": "§ 4868.",
               "heading": "Assignment of personnel at high risk, high threat posts",
               "identifier": "/us/usc/t22/s4868"
+            },
+            {
+              "number": "4869",
+              "numText": "§ 4869.",
+              "heading": "Counter-intelligence training for certain Diplomatic Security special agents",
+              "identifier": "/us/usc/t22/s4869"
             }
           ]
         }
@@ -19554,7 +19656,7 @@
             {
               "number": "6038",
               "numText": "§ 6038.",
-              "heading": "Reports on commerce with, and assistance to, Cuba from other foreign countries",
+              "heading": "Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(c)(3), Dec. 18, 2025, 139 Stat. 1654",
               "identifier": "/us/usc/t22/s6038"
             },
             {
@@ -21154,6 +21256,12 @@
               "numText": "§ 7002.",
               "heading": "United States-China Economic and Security Review Commission",
               "identifier": "/us/usc/t22/s7002"
+            },
+            {
+              "number": "7003",
+              "numText": "§ 7003.",
+              "heading": "Strategy to respond to global bases of the People’s Republic of China",
+              "identifier": "/us/usc/t22/s7003"
             }
           ]
         }
@@ -22096,6 +22204,12 @@
               "numText": "§ 7817.",
               "heading": "Special Envoy on North Korean human rights issues",
               "identifier": "/us/usc/t22/s7817"
+            },
+            {
+              "number": "7818",
+              "numText": "§ 7818.",
+              "heading": "National registry of Korean American divided families",
+              "identifier": "/us/usc/t22/s7818"
             }
           ]
         },
@@ -23556,10 +23670,22 @@
           "identifier": "/us/usc/t22/s8925"
         },
         {
+          "number": "8925a",
+          "numText": "§ 8925a.",
+          "heading": "Ukraine Security Assistance Initiative",
+          "identifier": "/us/usc/t22/s8925a"
+        },
+        {
           "number": "8926",
           "numText": "§ 8926.",
           "heading": "Expanded nonmilitary assistance for Ukraine",
           "identifier": "/us/usc/t22/s8926"
+        },
+        {
+          "number": "8926a",
+          "numText": "§ 8926a.",
+          "heading": "Supporting the identification and recovery of abducted Ukrainian children",
+          "identifier": "/us/usc/t22/s8926a"
         },
         {
           "number": "8927",
@@ -24188,7 +24314,7 @@
         {
           "number": "9412",
           "numText": "§ 9412.",
-          "heading": "Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities",
+          "heading": "Report on Iranian expenditures supporting foreign military and terrorist activities",
           "identifier": "/us/usc/t22/s9412"
         }
       ]
@@ -25240,6 +25366,12 @@
           "numText": "§ 10308.",
           "heading": "Cyber protection support for personnel of the Department of State in positions highly vulnerable to cyber attack",
           "identifier": "/us/usc/t22/s10308"
+        },
+        {
+          "number": "10309",
+          "numText": "§ 10309.",
+          "heading": "Post Data Pilot Program",
+          "identifier": "/us/usc/t22/s10309"
         }
       ]
     },
@@ -25388,7 +25520,7 @@
         {
           "number": "10602",
           "numText": "§ 10602.",
-          "heading": "United States Foundation for International Conservation",
+          "heading": "United States Foundation for Natural Security and Counterterrorism",
           "identifier": "/us/usc/t22/s10602"
         },
         {
@@ -25432,6 +25564,74 @@
           "numText": "§ 10609.",
           "heading": "Authorization of appropriations",
           "identifier": "/us/usc/t22/s10609"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "114",
+      "heading": "WESTERN BALKANS DEMOCRACY AND PROSPERITY",
+      "identifier": "/us/usc/t22/ch114",
+      "children": [
+        {
+          "number": "10701",
+          "numText": "§ 10701.",
+          "heading": "Findings",
+          "identifier": "/us/usc/t22/s10701"
+        },
+        {
+          "number": "10702",
+          "numText": "§ 10702.",
+          "heading": "Sense of Congress",
+          "identifier": "/us/usc/t22/s10702"
+        },
+        {
+          "number": "10703",
+          "numText": "§ 10703.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t22/s10703"
+        },
+        {
+          "number": "10704",
+          "numText": "§ 10704.",
+          "heading": "Sanctions relating to the Western Balkans",
+          "identifier": "/us/usc/t22/s10704"
+        },
+        {
+          "number": "10705",
+          "numText": "§ 10705.",
+          "heading": "Democratic and economic development and prosperity initiatives",
+          "identifier": "/us/usc/t22/s10705"
+        },
+        {
+          "number": "10706",
+          "numText": "§ 10706.",
+          "heading": "Promoting cross-cultural and educational engagement",
+          "identifier": "/us/usc/t22/s10706"
+        },
+        {
+          "number": "10707",
+          "numText": "§ 10707.",
+          "heading": "Young Balkan Leaders Initiative",
+          "identifier": "/us/usc/t22/s10707"
+        },
+        {
+          "number": "10708",
+          "numText": "§ 10708.",
+          "heading": "Supporting cybersecurity and cyber resilience in the Western Balkans",
+          "identifier": "/us/usc/t22/s10708"
+        },
+        {
+          "number": "10709",
+          "numText": "§ 10709.",
+          "heading": "Relations between Kosovo and Serbia",
+          "identifier": "/us/usc/t22/s10709"
+        },
+        {
+          "number": "10710",
+          "numText": "§ 10710.",
+          "heading": "Reports on Russian and Chinese malign influence operations and campaigns in the Western Balkans",
+          "identifier": "/us/usc/t22/s10710"
         }
       ]
     }

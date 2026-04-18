@@ -2,8 +2,8 @@
   "number": "32",
   "name": "National Guard",
   "identifier": "/us/usc/t32",
-  "version": "Online@119-73not60",
-  "updated": "2025-12-12",
+  "version": "Online@119-83",
+  "updated": "2026-03-26",
   "children": [
     {
       "type": "chapter",
@@ -246,6 +246,12 @@
           "numText": "§ 328.",
           "heading": "Active Guard and Reserve duty: Governor’s authority",
           "identifier": "/us/usc/t32/s328"
+        },
+        {
+          "number": "328a",
+          "numText": "§ 328a.",
+          "heading": "Active Guard and Reserve duty: State disaster response duty",
+          "identifier": "/us/usc/t32/s328a"
         },
         {
           "number": "329",

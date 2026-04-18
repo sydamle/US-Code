@@ -2,8 +2,8 @@
   "number": "29",
   "name": "Labor",
   "identifier": "/us/usc/t29",
-  "version": "Online@119-73not60",
-  "updated": "2025-12-08",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "chapter",
@@ -1538,6 +1538,12 @@
           "numText": "§ 568.",
           "heading": "Acceptance of donations by Secretary",
           "identifier": "/us/usc/t29/s568"
+        },
+        {
+          "number": "569",
+          "numText": "§ 569.",
+          "heading": "Security detail",
+          "identifier": "/us/usc/t29/s569"
         }
       ]
     },
@@ -3530,6 +3536,12 @@
                           "numText": "§ 1185n.",
                           "heading": "Reporting on pharmacy benefits and drug costs",
                           "identifier": "/us/usc/t29/s1185n"
+                        },
+                        {
+                          "number": "1185o",
+                          "numText": "§ 1185o.",
+                          "heading": "Oversight of entities that provide pharmacy benefit management services",
+                          "identifier": "/us/usc/t29/s1185o"
                         }
                       ]
                     },

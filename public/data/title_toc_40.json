@@ -2,8 +2,8 @@
   "number": "40",
   "name": "Public Buildings, Property, And Works",
   "identifier": "/us/usc/t40",
-  "version": "Online@119-73not60",
-  "updated": "2025-02-10",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "subtitle",
@@ -3218,7 +3218,7 @@
                 {
                   "number": "15735",
                   "numText": "§ 15735.",
-                  "heading": "Mid-Atlantic Regional Commission.",
+                  "heading": "Mid-Atlantic Regional Commission.11 So in original. The period probably should not appear.",
                   "identifier": "/us/usc/t40/s15735"
                 },
                 {

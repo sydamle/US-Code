@@ -2,8 +2,8 @@
   "number": "10",
   "name": "Armed Forces",
   "identifier": "/us/usc/t10",
-  "version": "Online@119-73not60",
-  "updated": "2025-12-03",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "subtitle",
@@ -112,7 +112,7 @@
                 {
                   "number": "118",
                   "numText": "§ 118.",
-                  "heading": "Materiel readiness metrics and objectives for major weapon systems",
+                  "heading": "Materiel readiness metrics and materiel readiness objectives for major weapon systems",
                   "identifier": "/us/usc/t10/s118"
                 },
                 {
@@ -341,8 +341,14 @@
                 },
                 {
                   "number": "130g",
-                  "numText": "[§ 130g.",
-                  "heading": "Renumbered § 394]",
+                  "numText": "§ 130g.",
+                  "heading": "Oversight of sensitive activities of the Department of Defense.",
+                  "identifier": "/us/usc/t10/s130g"
+                },
+                {
+                  "number": "130g",
+                  "numText": "§ 130g.",
+                  "heading": "Notification requirements for waivers issued under Department of Defense guidance related to autonomy in weapon systems",
                   "identifier": "/us/usc/t10/s130g"
                 },
                 {
@@ -386,7 +392,7 @@
                 {
                   "number": "132a",
                   "numText": "§ 132a.",
-                  "heading": "Performance improvement officer 11 So in original. Probably should be capitalized as “Performance Improvement Officer”.",
+                  "heading": "Performance Improvement Officer",
                   "identifier": "/us/usc/t10/s132a"
                 },
                 {
@@ -571,8 +577,8 @@
                 },
                 {
                   "number": "147",
-                  "numText": "§ 147.",
-                  "heading": "Chief Diversity Officer",
+                  "numText": "[§ 147.",
+                  "heading": "Repealed. Pub. L. 119–60, div. A, title IX, § 901(b), Dec. 18, 2025, 139 Stat. 1007]",
                   "identifier": "/us/usc/t10/s147"
                 },
                 {
@@ -930,6 +936,12 @@
                       "numText": "§ 198.",
                       "heading": "Office of Local Defense Community Cooperation",
                       "identifier": "/us/usc/t10/s198"
+                    },
+                    {
+                      "number": "199",
+                      "numText": "§ 199.",
+                      "heading": "Joint Interagency Task Force 401",
+                      "identifier": "/us/usc/t10/s199"
                     }
                   ]
                 },
@@ -1022,10 +1034,10 @@
                   "identifier": "/us/usc/t10/s222e"
                 },
                 {
-                  "number": "222e",
-                  "numText": "§ 222e.",
+                  "number": "222f",
+                  "numText": "§ 222f.",
                   "heading": "Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report",
-                  "identifier": "/us/usc/t10/s222e"
+                  "identifier": "/us/usc/t10/s222f"
                 },
                 {
                   "number": "223",
@@ -1229,8 +1241,8 @@
                 },
                 {
                   "number": "240h",
-                  "numText": "§ 240h.",
-                  "heading": "Annual report on auditable financial statements",
+                  "numText": "[§ 240h.",
+                  "heading": "Repealed. Pub. L. 119–60, div. A, title X, § 1002(c), Dec. 18, 2025, 139 Stat. 1028]",
                   "identifier": "/us/usc/t10/s240h"
                 },
                 {
@@ -1238,12 +1250,6 @@
                   "numText": "§ 240i.",
                   "heading": "Annual report on unfunded priorities",
                   "identifier": "/us/usc/t10/s240i"
-                },
-                {
-                  "number": "251 to 254b",
-                  "numText": "[§§ 251 to 254b.",
-                  "heading": "Renumbered §§ 240a to 240f]",
-                  "identifier": "/us/usc/t10/s251...254b"
                 }
               ]
             },
@@ -1480,7 +1486,7 @@
                     {
                       "number": "321",
                       "numText": "§ 321.",
-                      "heading": "Training with friendly foreign countries: payment of training and exercise expenses",
+                      "heading": "Training and exercises with friendly foreign countries: payment of training and exercise expenses",
                       "identifier": "/us/usc/t10/s321"
                     },
                     {
@@ -1988,7 +1994,7 @@
                     {
                       "number": "430c",
                       "numText": "§ 430c.",
-                      "heading": "Senior intelligence oversight official 11 So in original. Appears in text capitalized as “Senior Intelligence Oversight Official”.",
+                      "heading": "Senior Intelligence Oversight Official",
                       "identifier": "/us/usc/t10/s430c"
                     },
                     {
@@ -1996,6 +2002,12 @@
                       "numText": "§ 430d.",
                       "heading": "Cyber intelligence capability",
                       "identifier": "/us/usc/t10/s430d"
+                    },
+                    {
+                      "number": "430e",
+                      "numText": "§ 430e.",
+                      "heading": "Vendor support to clandestine activities",
+                      "identifier": "/us/usc/t10/s430e"
                     }
                   ]
                 },
@@ -2418,6 +2430,12 @@
                   "numText": "§ 500f.",
                   "heading": "Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions",
                   "identifier": "/us/usc/t10/s500f"
+                },
+                {
+                  "number": "500g",
+                  "numText": "§ 500g.",
+                  "heading": "Integration of electronic warfare into Tier 1 and Tier 2 joint training exercises",
+                  "identifier": "/us/usc/t10/s500g"
                 }
               ]
             }
@@ -3237,8 +3255,8 @@
                 },
                 {
                   "number": "656",
-                  "numText": "§ 656.",
-                  "heading": "Diversity in military leadership: plan; mentoring and career counseling program",
+                  "numText": "[§ 656.",
+                  "heading": "Repealed. Pub. L. 119–60, div. A, title IX, § 901(c), Dec. 18, 2025, 139 Stat. 1007]",
                   "identifier": "/us/usc/t10/s656"
                 },
                 {
@@ -3246,6 +3264,12 @@
                   "numText": "§ 657.",
                   "heading": "Prohibition on service in the armed forces by individuals convicted of certain sexual offenses",
                   "identifier": "/us/usc/t10/s657"
+                },
+                {
+                  "number": "658",
+                  "numText": "§ 658.",
+                  "heading": "Medical accession standards for members of the armed forces",
+                  "identifier": "/us/usc/t10/s658"
                 }
               ]
             },
@@ -3660,7 +3684,7 @@
                 {
                   "number": "723",
                   "numText": "§ 723.",
-                  "heading": "Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel",
+                  "heading": "Support of civil authorities: requirement for use of members of the Armed Forces and Federal law enforcement personnel",
                   "identifier": "/us/usc/t10/s723"
                 }
               ]
@@ -5684,6 +5708,18 @@
                   "numText": "§ 995.",
                   "heading": "Accountability for contractors using military working dogs",
                   "identifier": "/us/usc/t10/s995"
+                },
+                {
+                  "number": "996",
+                  "numText": "§ 996.",
+                  "heading": "Individual Longitudinal Exposure Record",
+                  "identifier": "/us/usc/t10/s996"
+                },
+                {
+                  "number": "997",
+                  "numText": "§ 997.",
+                  "heading": "Establishment of women’s initiative teams",
+                  "identifier": "/us/usc/t10/s997"
                 }
               ]
             },
@@ -6018,7 +6054,7 @@
                 {
                   "number": "1066",
                   "numText": "§ 1066.",
-                  "heading": "Use of commissary stores and MWR facilities: protective services civilian employees",
+                  "heading": "Use of commissary stores and MWR facilities: certain civilian employees",
                   "identifier": "/us/usc/t10/s1066"
                 }
               ]
@@ -6470,7 +6506,7 @@
                 {
                   "number": "1096",
                   "numText": "§ 1096.",
-                  "heading": "Military-civilian health services partnership program",
+                  "heading": "Military-civilian health services partnership program; medical surge program",
                   "identifier": "/us/usc/t10/s1096"
                 },
                 {
@@ -8389,8 +8425,8 @@
                 },
                 {
                   "number": "1599e",
-                  "numText": "[§ 1599e.",
-                  "heading": "Repealed. Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950]",
+                  "numText": "§ 1599e.",
+                  "heading": "Payment of retention bonuses to DOD civilian employees in Guam.",
                   "identifier": "/us/usc/t10/s1599e"
                 },
                 {
@@ -8683,14 +8719,14 @@
                     },
                     {
                       "number": "1732",
-                      "numText": "[§ 1732.",
-                      "heading": "Repealed. Pub. L. 116–92, div. A, title VIII, § 861(j)(5), Dec. 20, 2019, 133 Stat. 1519]",
+                      "numText": "§ 1732.",
+                      "heading": "Portfolio acquisition executive",
                       "identifier": "/us/usc/t10/s1732"
                     },
                     {
                       "number": "1733",
-                      "numText": "[§ 1733.",
-                      "heading": "Renumbered § 1731]",
+                      "numText": "§ 1733.",
+                      "heading": "Product support manager",
                       "identifier": "/us/usc/t10/s1733"
                     },
                     {
@@ -9072,6 +9108,12 @@
                   "identifier": "/us/usc/t10/s2004b"
                 },
                 {
+                  "number": "2004c",
+                  "numText": "§ 2004c.",
+                  "heading": "Detail as students at schools for education required for appointment as a chaplain: commissioned officers; certain enlisted members",
+                  "identifier": "/us/usc/t10/s2004c"
+                },
+                {
                   "number": "2005",
                   "numText": "§ 2005.",
                   "heading": "Advanced education assistance: active duty agreement; reimbursement requirements",
@@ -9109,8 +9151,8 @@
                 },
                 {
                   "number": "2010",
-                  "numText": "[§ 2010.",
-                  "heading": "Renumbered § 321]",
+                  "numText": "§ 2010.",
+                  "heading": "Requirements with respect to motorcycle safety training",
                   "identifier": "/us/usc/t10/s2010"
                 },
                 {
@@ -9662,6 +9704,18 @@
                   "identifier": "/us/usc/t10/s2164b"
                 },
                 {
+                  "number": "2164c",
+                  "numText": "§ 2164c.",
+                  "heading": "Authorization of dual or concurrent enrollment programs for students of Defense Dependent Schools",
+                  "identifier": "/us/usc/t10/s2164c"
+                },
+                {
+                  "number": "2164d",
+                  "numText": "§ 2164d.",
+                  "heading": "Limitation on school closures and certain other actions with respect to schools operated by the Department of Defense Education Activity",
+                  "identifier": "/us/usc/t10/s2164d"
+                },
+                {
                   "number": "2165",
                   "numText": "§ 2165.",
                   "heading": "National Defense University: component institutions",
@@ -10127,8 +10181,8 @@
                 },
                 {
                   "number": "2225",
-                  "numText": "[§ 2225.",
-                  "heading": "Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(2)(A), Dec. 23, 2016, 130 Stat. 2284]",
+                  "numText": "§ 2225.",
+                  "heading": "Insider threat detection",
                   "identifier": "/us/usc/t10/s2225"
                 },
                 {
@@ -10163,8 +10217,8 @@
                 },
                 {
                   "number": "2229b",
-                  "numText": "[§ 2229b.",
-                  "heading": "Renumbered § 3072]",
+                  "numText": "§ 2229b.",
+                  "heading": "Responsibility for contested logistics posture management",
                   "identifier": "/us/usc/t10/s2229b"
                 }
               ]
@@ -10464,6 +10518,12 @@
                   "numText": "§ 2275c.",
                   "heading": "Space Force satellite ground systems",
                   "identifier": "/us/usc/t10/s2275c"
+                },
+                {
+                  "number": "2275d",
+                  "numText": "§ 2275d.",
+                  "heading": "Acquisition and operation of space systems for space warfighting and control",
+                  "identifier": "/us/usc/t10/s2275d"
                 },
                 {
                   "number": "2276",
@@ -11096,6 +11156,12 @@
                       "numText": "§ 2350s.",
                       "heading": "Authority to contribute to innovation fund",
                       "identifier": "/us/usc/t10/s2350s"
+                    },
+                    {
+                      "number": "2350t",
+                      "numText": "§ 2350t.",
+                      "heading": "Military medical cooperation arrangements among Five Eyes countries",
+                      "identifier": "/us/usc/t10/s2350t"
                     }
                   ]
                 }
@@ -13170,6 +13236,12 @@
                   "identifier": "/us/usc/t10/s2636a"
                 },
                 {
+                  "number": "2636b",
+                  "numText": "§ 2636b.",
+                  "heading": "Responsibilities for oversight of personal property transportation",
+                  "identifier": "/us/usc/t10/s2636b"
+                },
+                {
                   "number": "2637",
                   "numText": "§ 2637.",
                   "heading": "Transportation in certain areas outside the United States",
@@ -13276,6 +13348,18 @@
                   "numText": "§ 2652.",
                   "heading": "Prohibition on charge of certain tariffs on aircraft traveling through channel routes",
                   "identifier": "/us/usc/t10/s2652"
+                },
+                {
+                  "number": "2653",
+                  "numText": "§ 2653.",
+                  "heading": "Evacuation of family pets and contract working dogs during noncombatant evacuations of foreign countries",
+                  "identifier": "/us/usc/t10/s2653"
+                },
+                {
+                  "number": "2654",
+                  "numText": "§ 2654.",
+                  "heading": "Aircraft safety: requirements for certain highly trafficked domestic airspace",
+                  "identifier": "/us/usc/t10/s2654"
                 }
               ]
             },
@@ -14054,6 +14138,12 @@
                       "identifier": "/us/usc/t10/s2808"
                     },
                     {
+                      "number": "2808a",
+                      "numText": "§ 2808a.",
+                      "heading": "Facility construction or repair: transactions other than contracts and grants",
+                      "identifier": "/us/usc/t10/s2808a"
+                    },
+                    {
                       "number": "2809",
                       "numText": "§ 2809.",
                       "heading": "Long-term facilities contracts for certain activities and services",
@@ -14124,6 +14214,12 @@
                       "numText": "§ 2819.",
                       "heading": "Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance",
                       "identifier": "/us/usc/t10/s2819"
+                    },
+                    {
+                      "number": "2820",
+                      "numText": "§ 2820.",
+                      "heading": "Development of infrastructure improvement plan for each military department",
+                      "identifier": "/us/usc/t10/s2820"
                     }
                   ]
                 },
@@ -14249,8 +14345,8 @@
                     },
                     {
                       "number": "2839",
-                      "numText": "§ 2839.",
-                      "heading": "Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army",
+                      "numText": "[§ 2839.",
+                      "heading": "Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2826(d), Dec. 18, 2025, 139 Stat. 1310]",
                       "identifier": "/us/usc/t10/s2839"
                     }
                   ]
@@ -14312,7 +14408,7 @@
                     {
                       "number": "2856a",
                       "numText": "§ 2856a.",
-                      "heading": "Covered military unaccompanied housing: waivers of covered privacy and configuration standards",
+                      "heading": "Covered military unaccompanied housing: waivers of covered privacy and configuration standards and covered health and safety standards",
                       "identifier": "/us/usc/t10/s2856a"
                     },
                     {
@@ -14335,8 +14431,8 @@
                     },
                     {
                       "number": "2859",
-                      "numText": "§ 2859.",
-                      "heading": "Construction requirements related to antiterrorism and force protection or urban-training operations",
+                      "numText": "[§ 2859.",
+                      "heading": "Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2848(a), Dec. 18, 2025, 139 Stat. 1319]",
                       "identifier": "/us/usc/t10/s2859"
                     },
                     {
@@ -14380,6 +14476,12 @@
                       "numText": "§ 2866.",
                       "heading": "Water conservation at military installations",
                       "identifier": "/us/usc/t10/s2866"
+                    },
+                    {
+                      "number": "2866a",
+                      "numText": "§ 2866a.",
+                      "heading": "Risk-based approach to water management and water security at military installations",
+                      "identifier": "/us/usc/t10/s2866a"
                     },
                     {
                       "number": "2867",
@@ -15043,8 +15145,8 @@
                     },
                     {
                       "number": "3070",
-                      "numText": "§ 3070.",
-                      "heading": "Limitation on acquisition of excess supplies",
+                      "numText": "[§ 3070.",
+                      "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(2), Dec. 18, 2025, 139 Stat. 948]",
                       "identifier": "/us/usc/t10/s3070"
                     },
                     {
@@ -15070,7 +15172,7 @@
                     {
                       "number": "3102",
                       "numText": "§ 3102.",
-                      "heading": "Customer-oriented acquisition system",
+                      "heading": "Objectives of the defense acquisition system",
                       "identifier": "/us/usc/t10/s3102"
                     },
                     {
@@ -15082,7 +15184,7 @@
                     {
                       "number": "3104",
                       "numText": "§ 3104.",
-                      "heading": "Acquisition-related functions of chiefs of the armed forces",
+                      "heading": "Acquisition-related functions of service chiefs",
                       "identifier": "/us/usc/t10/s3104"
                     },
                     {
@@ -15093,8 +15195,8 @@
                     },
                     {
                       "number": "3106",
-                      "numText": "§ 3106.",
-                      "heading": "Elements of the defense acquisition system: performance goals",
+                      "numText": "[§ 3106.",
+                      "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(3), Dec. 18, 2025, 139 Stat. 948]",
                       "identifier": "/us/usc/t10/s3106"
                     }
                   ]
@@ -15534,8 +15636,8 @@
                     },
                     {
                       "number": "3373",
-                      "numText": "§ 3373.",
-                      "heading": "Undefinitized contractual actions: limitation on inclusion of non-urgent requirements and on modification of scope",
+                      "numText": "[§ 3373.",
+                      "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(4), Dec. 18, 2025, 139 Stat. 948]",
                       "identifier": "/us/usc/t10/s3373"
                     },
                     {
@@ -15616,8 +15718,8 @@
                     },
                     {
                       "number": "3455",
-                      "numText": "§ 3455.",
-                      "heading": "Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress",
+                      "numText": "[§ 3455.",
+                      "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(5), Dec. 18, 2025, 139 Stat. 948]",
                       "identifier": "/us/usc/t10/s3455"
                     },
                     {
@@ -15637,6 +15739,12 @@
                       "numText": "§ 3458.",
                       "heading": "Authority to acquire innovative commercial products and commercial services using general solicitation competitive procedures",
                       "identifier": "/us/usc/t10/s3458"
+                    },
+                    {
+                      "number": "3459",
+                      "numText": "§ 3459.",
+                      "heading": "Limitation on required flowdown of contract clauses to subcontractors providing commercial products or commercial services",
+                      "identifier": "/us/usc/t10/s3459"
                     }
                   ]
                 },
@@ -15757,6 +15865,12 @@
                       "numText": "§ 3604.",
                       "heading": "Program to accelerate the procurement and fielding of innovative technologies",
                       "identifier": "/us/usc/t10/s3604"
+                    },
+                    {
+                      "number": "3605",
+                      "numText": "§ 3605.",
+                      "heading": "Authority to acquire consumption-based solutions",
+                      "identifier": "/us/usc/t10/s3605"
                     }
                   ]
                 },
@@ -15824,8 +15938,8 @@
                     },
                     {
                       "number": "3678",
-                      "numText": "§ 3678.",
-                      "heading": "Contracts with terms of 18 months or more: limitation",
+                      "numText": "[§ 3678.",
+                      "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(6), Dec. 18, 2025, 139 Stat. 948]",
                       "identifier": "/us/usc/t10/s3678"
                     }
                   ]
@@ -15905,6 +16019,12 @@
                       "numText": "§ 3708.",
                       "heading": "Right to examine contractor records",
                       "identifier": "/us/usc/t10/s3708"
+                    },
+                    {
+                      "number": "3709",
+                      "numText": "§ 3709.",
+                      "heading": "Program to accelerate contracting and pricing processes",
+                      "identifier": "/us/usc/t10/s3709"
                     }
                   ]
                 },
@@ -16293,6 +16413,12 @@
                       "numText": "§ 3863.",
                       "heading": "Retention of amounts collected from contractor during the pendency of contract dispute",
                       "identifier": "/us/usc/t10/s3863"
+                    },
+                    {
+                      "number": "3864",
+                      "numText": "§ 3864.",
+                      "heading": "Assumption of uninsurable risk on certain contracts",
+                      "identifier": "/us/usc/t10/s3864"
                     }
                   ]
                 },
@@ -16554,7 +16680,7 @@
                         {
                           "number": "4123",
                           "numText": "§ 4123.",
-                          "heading": "Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions",
+                          "heading": "Mechanisms to provide funds for defense laboratories and test organizations for research and development of technologies for military missions",
                           "identifier": "/us/usc/t10/s4123"
                         },
                         {
@@ -16588,10 +16714,10 @@
                           "identifier": "/us/usc/t10/s4128"
                         },
                         {
-                          "number": "4128",
-                          "numText": "§ 4128.",
+                          "number": "4129",
+                          "numText": "§ 4129.",
                           "heading": "Joint Federated Assurance Center",
-                          "identifier": "/us/usc/t10/s4128"
+                          "identifier": "/us/usc/t10/s4129"
                         }
                       ]
                     }
@@ -16628,10 +16754,16 @@
                       "identifier": "/us/usc/t10/s4144"
                     },
                     {
-                      "number": "4145 to 4147",
-                      "numText": "[§§ 4145 to 4147.",
+                      "number": "4145",
+                      "numText": "§ 4145.",
+                      "heading": "Program for the enhancement of the research, development, test, and evaluation centers of the Department of Defense",
+                      "identifier": "/us/usc/t10/s4145"
+                    },
+                    {
+                      "number": "4146, 4147",
+                      "numText": "[§§ 4146, 4147.",
                       "heading": "Omitted]",
-                      "identifier": "/us/usc/t10/s4145...4147"
+                      "identifier": "/us/usc/t10/s4146 /us/usc/t10/s4147"
                     }
                   ]
                 },
@@ -17023,8 +17155,8 @@
                         },
                         {
                           "number": "4423",
-                          "numText": "§ 4423.",
-                          "heading": "Requirements and limitations for weapon system component or technology prototype projects",
+                          "numText": "[§ 4423.",
+                          "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(7), Dec. 18, 2025, 139 Stat. 948]",
                           "identifier": "/us/usc/t10/s4423"
                         },
                         {
@@ -17126,19 +17258,19 @@
                 {
                   "type": "chapter",
                   "number": "345",
-                  "heading": "ACQUISITION OF INFORMATION TECHNOLOGY",
+                  "heading": "REPEALED]",
                   "identifier": "/us/usc/t10/stA/ptV/sptG/ch345",
                   "children": [
                     {
                       "number": "4571",
-                      "numText": "§ 4571.",
-                      "heading": "Information technology acquisition: planning and oversight processes",
+                      "numText": "[§ 4571.",
+                      "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(1), Dec. 18, 2025, 139 Stat. 948]",
                       "identifier": "/us/usc/t10/s4571"
                     },
                     {
                       "number": "4576",
-                      "numText": "§ 4576.",
-                      "heading": "Requirement for consideration of certain matters during acquisition of noncommercial computer software",
+                      "numText": "[§ 4576.",
+                      "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(1), Dec. 18, 2025, 139 Stat. 948]",
                       "identifier": "/us/usc/t10/s4576"
                     }
                   ]
@@ -17174,6 +17306,12 @@
                       "numText": "§ 4603.",
                       "heading": "Advance notification of contract performance outside the United States",
                       "identifier": "/us/usc/t10/s4603"
+                    },
+                    {
+                      "number": "4604",
+                      "numText": "§ 4604.",
+                      "heading": "Changes to certain documents",
+                      "identifier": "/us/usc/t10/s4604"
                     }
                   ]
                 },
@@ -17260,6 +17398,12 @@
                       "numText": "§ 4663.",
                       "heading": "Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies",
                       "identifier": "/us/usc/t10/s4663"
+                    },
+                    {
+                      "number": "4664",
+                      "numText": "§ 4664.",
+                      "heading": "Requirements relating to long-term concessions agreements with certain retailers",
+                      "identifier": "/us/usc/t10/s4664"
                     }
                   ]
                 },
@@ -17548,6 +17692,12 @@
                           "numText": "§ 4864.",
                           "heading": "Miscellaneous limitations on the procurement of goods other than United States goods",
                           "identifier": "/us/usc/t10/s4864"
+                        },
+                        {
+                          "number": "4865",
+                          "numText": "§ 4865.",
+                          "heading": "Prohibition on acquisition of advanced batteries composed of materials from certain foreign sources",
+                          "identifier": "/us/usc/t10/s4865"
                         }
                       ]
                     },
@@ -17867,7 +18017,7 @@
                         {
                           "number": "5502",
                           "numText": "§ 5502.",
-                          "heading": "Missile defense agency 11 So in original. Probably should be capitalized as “Missile Defense Agency”.",
+                          "heading": "Missile Defense Agency",
                           "identifier": "/us/usc/t10/s5502"
                         }
                       ]
@@ -17893,7 +18043,7 @@
                         {
                           "number": "5513",
                           "numText": "§ 5513.",
-                          "heading": "Unfunded priorities of the missile defense agency:11 So in original. Probably should be capitalized as “Missile Defense Agency:”. annual report",
+                          "heading": "Unfunded priorities of the Missile Defense Agency: annual report",
                           "identifier": "/us/usc/t10/s5513"
                         },
                         {
@@ -17907,6 +18057,12 @@
                           "numText": "§ 5515.",
                           "heading": "Missile defense and defeat programs: major force program and budget assessment",
                           "identifier": "/us/usc/t10/s5515"
+                        },
+                        {
+                          "number": "5516",
+                          "numText": "§ 5516.",
+                          "heading": "Prohibition on privatized or subscription-based missile defense intercept capabilities",
+                          "identifier": "/us/usc/t10/s5516"
                         }
                       ]
                     },
@@ -17983,6 +18139,1104 @@
                           "numText": "§ 5553.",
                           "heading": "Provision of information on flight testing of ground-based midcourse national missile defense system",
                           "identifier": "/us/usc/t10/s5553"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subpart",
+              "number": "B",
+              "heading": "Atomic Energy Defense",
+              "identifier": "/us/usc/t10/stA/ptVI/sptB",
+              "children": [
+                {
+                  "type": "chapter",
+                  "number": "601",
+                  "heading": "ORGANIZATIONAL MATTERS",
+                  "identifier": "/us/usc/t10/stA/ptVI/sptB/ch601",
+                  "children": [
+                    {
+                      "number": "6101",
+                      "numText": "§ 6101.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t10/s6101"
+                    },
+                    {
+                      "number": "6102",
+                      "numText": "§ 6102.",
+                      "heading": "Naval Nuclear Propulsion Program",
+                      "identifier": "/us/usc/t10/s6102"
+                    },
+                    {
+                      "number": "6103",
+                      "numText": "§ 6103.",
+                      "heading": "Management structure for nuclear security enterprise",
+                      "identifier": "/us/usc/t10/s6103"
+                    },
+                    {
+                      "number": "6104",
+                      "numText": "§ 6104.",
+                      "heading": "Monitoring of industrial base for nuclear weapons components, subsystems, and materials",
+                      "identifier": "/us/usc/t10/s6104"
+                    },
+                    {
+                      "number": "6105",
+                      "numText": "§ 6105.",
+                      "heading": "Common financial reporting system for the nuclear security enterprise",
+                      "identifier": "/us/usc/t10/s6105"
+                    },
+                    {
+                      "number": "6106",
+                      "numText": "§ 6106.",
+                      "heading": "Restriction on licensing requirement for certain defense activities and facilities",
+                      "identifier": "/us/usc/t10/s6106"
+                    },
+                    {
+                      "number": "6107",
+                      "numText": "§ 6107.",
+                      "heading": "Establishment of Center for Security Technology, Analysis, Response, and Testing",
+                      "identifier": "/us/usc/t10/s6107"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "602",
+                  "heading": "NUCLEAR WEAPONS STOCKPILE MATTERS",
+                  "identifier": "/us/usc/t10/stA/ptVI/sptB/ch602",
+                  "children": [
+                    {
+                      "type": "subchapter",
+                      "number": "I",
+                      "heading": "STOCKPILE STEWARDSHIP AND WEAPONS PRODUCTION",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch602/schI",
+                      "children": [
+                        {
+                          "number": "6111",
+                          "numText": "§ 6111.",
+                          "heading": "Stockpile stewardship program",
+                          "identifier": "/us/usc/t10/s6111"
+                        },
+                        {
+                          "number": "6112",
+                          "numText": "§ 6112.",
+                          "heading": "Portfolio management framework for National Nuclear Security Administration",
+                          "identifier": "/us/usc/t10/s6112"
+                        },
+                        {
+                          "number": "6113",
+                          "numText": "§ 6113.",
+                          "heading": "Stockpile stewardship criteria",
+                          "identifier": "/us/usc/t10/s6113"
+                        },
+                        {
+                          "number": "6114",
+                          "numText": "§ 6114.",
+                          "heading": "Nuclear weapons stockpile stewardship, management, and responsiveness plan",
+                          "identifier": "/us/usc/t10/s6114"
+                        },
+                        {
+                          "number": "6115",
+                          "numText": "§ 6115.",
+                          "heading": "Major warhead refurbishment program",
+                          "identifier": "/us/usc/t10/s6115"
+                        },
+                        {
+                          "number": "6116",
+                          "numText": "§ 6116.",
+                          "heading": "Stockpile management program",
+                          "identifier": "/us/usc/t10/s6116"
+                        },
+                        {
+                          "number": "6117",
+                          "numText": "§ 6117.",
+                          "heading": "Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile",
+                          "identifier": "/us/usc/t10/s6117"
+                        },
+                        {
+                          "number": "6118",
+                          "numText": "§ 6118.",
+                          "heading": "Form of certifications regarding the safety or reliability of the nuclear weapons stockpile",
+                          "identifier": "/us/usc/t10/s6118"
+                        },
+                        {
+                          "number": "6119",
+                          "numText": "§ 6119.",
+                          "heading": "Nuclear test ban readiness program",
+                          "identifier": "/us/usc/t10/s6119"
+                        },
+                        {
+                          "number": "6120",
+                          "numText": "§ 6120.",
+                          "heading": "Requirements for specific request for new or modified nuclear weapons",
+                          "identifier": "/us/usc/t10/s6120"
+                        },
+                        {
+                          "number": "6121",
+                          "numText": "§ 6121.",
+                          "heading": "Testing of nuclear weapons",
+                          "identifier": "/us/usc/t10/s6121"
+                        },
+                        {
+                          "number": "6122",
+                          "numText": "§ 6122.",
+                          "heading": "Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile",
+                          "identifier": "/us/usc/t10/s6122"
+                        },
+                        {
+                          "number": "6123",
+                          "numText": "§ 6123.",
+                          "heading": "Acceleration of depleted uranium manufacturing processes",
+                          "identifier": "/us/usc/t10/s6123"
+                        },
+                        {
+                          "number": "6124",
+                          "numText": "§ 6124.",
+                          "heading": "Reports on critical difficulties at national security laboratories and nuclear weapons production facilities",
+                          "identifier": "/us/usc/t10/s6124"
+                        },
+                        {
+                          "number": "6125",
+                          "numText": "§ 6125.",
+                          "heading": "Selected acquisition reports 11 So in original. Probably should be “Selected Acquisition Reports”. and independent cost estimates and reviews of certain programs and facilities",
+                          "identifier": "/us/usc/t10/s6125"
+                        },
+                        {
+                          "number": "6126",
+                          "numText": "§ 6126.",
+                          "heading": "Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile",
+                          "identifier": "/us/usc/t10/s6126"
+                        },
+                        {
+                          "number": "6127",
+                          "numText": "§ 6127.",
+                          "heading": "Notification of certain regulations that impact the National Nuclear Security Administration",
+                          "identifier": "/us/usc/t10/s6127"
+                        },
+                        {
+                          "number": "6128",
+                          "numText": "§ 6128.",
+                          "heading": "Plutonium pit production capacity",
+                          "identifier": "/us/usc/t10/s6128"
+                        },
+                        {
+                          "number": "6129",
+                          "numText": "§ 6129.",
+                          "heading": "Certification of completion of milestones with respect to plutonium pit aging",
+                          "identifier": "/us/usc/t10/s6129"
+                        },
+                        {
+                          "number": "6130",
+                          "numText": "§ 6130.",
+                          "heading": "Authorization of workforce development and training partnership programs within National Nuclear Security Administration",
+                          "identifier": "/us/usc/t10/s6130"
+                        },
+                        {
+                          "number": "6131",
+                          "numText": "§ 6131.",
+                          "heading": "Stockpile responsiveness program",
+                          "identifier": "/us/usc/t10/s6131"
+                        },
+                        {
+                          "number": "6132",
+                          "numText": "§ 6132.",
+                          "heading": "Long-term plan for meeting national security requirements for unencumbered uranium",
+                          "identifier": "/us/usc/t10/s6132"
+                        },
+                        {
+                          "number": "6133",
+                          "numText": "§ 6133.",
+                          "heading": "Plan for domestic enrichment capability to satisfy Department of Defense uranium requirements",
+                          "identifier": "/us/usc/t10/s6133"
+                        },
+                        {
+                          "number": "6134",
+                          "numText": "§ 6134.",
+                          "heading": "Incorporation of integrated surety architecture",
+                          "identifier": "/us/usc/t10/s6134"
+                        },
+                        {
+                          "number": "6135",
+                          "numText": "§ 6135.",
+                          "heading": "W93 nuclear warhead acquisition process",
+                          "identifier": "/us/usc/t10/s6135"
+                        },
+                        {
+                          "number": "6136",
+                          "numText": "§ 6136.",
+                          "heading": "Earned value management and technology readiness levels for life extension programs",
+                          "identifier": "/us/usc/t10/s6136"
+                        },
+                        {
+                          "number": "6137",
+                          "numText": "§ 6137.",
+                          "heading": "Rapid capabilities program",
+                          "identifier": "/us/usc/t10/s6137"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "II",
+                      "heading": "TRITIUM",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch602/schII",
+                      "children": [
+                        {
+                          "number": "6141",
+                          "numText": "§ 6141.",
+                          "heading": "Tritium production program",
+                          "identifier": "/us/usc/t10/s6141"
+                        },
+                        {
+                          "number": "6142",
+                          "numText": "§ 6142.",
+                          "heading": "Tritium recycling",
+                          "identifier": "/us/usc/t10/s6142"
+                        },
+                        {
+                          "number": "6143",
+                          "numText": "§ 6143.",
+                          "heading": "Modernization and consolidation of tritium recycling facilities",
+                          "identifier": "/us/usc/t10/s6143"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "603",
+                  "heading": "PROLIFERATION MATTERS",
+                  "identifier": "/us/usc/t10/stA/ptVI/sptB/ch603",
+                  "children": [
+                    {
+                      "number": "6151",
+                      "numText": "§ 6151.",
+                      "heading": "Authority to conduct program relating to fissile materials",
+                      "identifier": "/us/usc/t10/s6151"
+                    },
+                    {
+                      "number": "6152",
+                      "numText": "§ 6152.",
+                      "heading": "Completion of material protection, control, and accounting activities in the Russian Federation",
+                      "identifier": "/us/usc/t10/s6152"
+                    },
+                    {
+                      "number": "6153",
+                      "numText": "§ 6153.",
+                      "heading": "Disposition of weapons-usable plutonium at Savannah River Site",
+                      "identifier": "/us/usc/t10/s6153"
+                    },
+                    {
+                      "number": "6154",
+                      "numText": "§ 6154.",
+                      "heading": "Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina",
+                      "identifier": "/us/usc/t10/s6154"
+                    },
+                    {
+                      "number": "6155",
+                      "numText": "§ 6155.",
+                      "heading": "Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide",
+                      "identifier": "/us/usc/t10/s6155"
+                    },
+                    {
+                      "number": "6156",
+                      "numText": "§ 6156.",
+                      "heading": "Acceleration of replacement of cesium blood irradiation sources",
+                      "identifier": "/us/usc/t10/s6156"
+                    },
+                    {
+                      "number": "6157",
+                      "numText": "§ 6157.",
+                      "heading": "International agreements on nuclear weapons data",
+                      "identifier": "/us/usc/t10/s6157"
+                    },
+                    {
+                      "number": "6158",
+                      "numText": "§ 6158.",
+                      "heading": "International agreements on information on radioactive materials",
+                      "identifier": "/us/usc/t10/s6158"
+                    },
+                    {
+                      "number": "6159",
+                      "numText": "§ 6159.",
+                      "heading": "Defense nuclear nonproliferation management plan",
+                      "identifier": "/us/usc/t10/s6159"
+                    },
+                    {
+                      "number": "6160",
+                      "numText": "§ 6160.",
+                      "heading": "Information relating to certain defense nuclear nonproliferation programs",
+                      "identifier": "/us/usc/t10/s6160"
+                    },
+                    {
+                      "number": "6161",
+                      "numText": "§ 6161.",
+                      "heading": "Annual Selected Acquisition Reports on certain hardware relating to defense nuclear nonproliferation",
+                      "identifier": "/us/usc/t10/s6161"
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "604",
+                  "heading": "DEFENSE ENVIRONMENTAL CLEANUP MATTERS",
+                  "identifier": "/us/usc/t10/stA/ptVI/sptB/ch604",
+                  "children": [
+                    {
+                      "type": "subchapter",
+                      "number": "I",
+                      "heading": "DEFENSE ENVIRONMENTAL CLEANUP",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch604/schI",
+                      "children": [
+                        {
+                          "number": "6171",
+                          "numText": "§ 6171.",
+                          "heading": "Defense environmental cleanup account 11 So in original. Probably should be “Defense Environmental Cleanup Account”.",
+                          "identifier": "/us/usc/t10/s6171"
+                        },
+                        {
+                          "number": "6172",
+                          "numText": "§ 6172.",
+                          "heading": "Classification of defense environmental cleanup as capital asset projects or operations activities",
+                          "identifier": "/us/usc/t10/s6172"
+                        },
+                        {
+                          "number": "6173",
+                          "numText": "§ 6173.",
+                          "heading": "Requirement to develop future use plans for defense environmental cleanup",
+                          "identifier": "/us/usc/t10/s6173"
+                        },
+                        {
+                          "number": "6174",
+                          "numText": "§ 6174.",
+                          "heading": "Future-years defense environmental cleanup plan",
+                          "identifier": "/us/usc/t10/s6174"
+                        },
+                        {
+                          "number": "6175",
+                          "numText": "§ 6175.",
+                          "heading": "Accelerated schedule for defense environmental cleanup activities",
+                          "identifier": "/us/usc/t10/s6175"
+                        },
+                        {
+                          "number": "6176",
+                          "numText": "§ 6176.",
+                          "heading": "Defense environmental cleanup technology program",
+                          "identifier": "/us/usc/t10/s6176"
+                        },
+                        {
+                          "number": "6177",
+                          "numText": "§ 6177.",
+                          "heading": "Other programs relating to technology development",
+                          "identifier": "/us/usc/t10/s6177"
+                        },
+                        {
+                          "number": "6178",
+                          "numText": "§ 6178.",
+                          "heading": "Report on defense environmental cleanup expenditures",
+                          "identifier": "/us/usc/t10/s6178"
+                        },
+                        {
+                          "number": "6179",
+                          "numText": "§ 6179.",
+                          "heading": "Public participation in planning for defense environmental cleanup",
+                          "identifier": "/us/usc/t10/s6179"
+                        },
+                        {
+                          "number": "6180",
+                          "numText": "§ 6180.",
+                          "heading": "Policy of Department of Energy regarding future defense environmental management matters",
+                          "identifier": "/us/usc/t10/s6180"
+                        },
+                        {
+                          "number": "6181",
+                          "numText": "§ 6181.",
+                          "heading": "Estimation of costs of meeting defense environmental cleanup milestones required by consent orders",
+                          "identifier": "/us/usc/t10/s6181"
+                        },
+                        {
+                          "number": "6182",
+                          "numText": "§ 6182.",
+                          "heading": "Public statement of environmental liabilities",
+                          "identifier": "/us/usc/t10/s6182"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "II",
+                      "heading": "CLOSURE OF FACILITIES",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch604/schII",
+                      "children": [
+                        {
+                          "number": "6191",
+                          "numText": "§ 6191.",
+                          "heading": "Reports in connection with permanent closures of Department of Energy defense nuclear facilities",
+                          "identifier": "/us/usc/t10/s6191"
+                        },
+                        {
+                          "number": "6192",
+                          "numText": "§ 6192.",
+                          "heading": "Defense site acceleration completion",
+                          "identifier": "/us/usc/t10/s6192"
+                        },
+                        {
+                          "number": "6193",
+                          "numText": "§ 6193.",
+                          "heading": "Sandia National Laboratories",
+                          "identifier": "/us/usc/t10/s6193"
+                        },
+                        {
+                          "number": "6194",
+                          "numText": "§ 6194.",
+                          "heading": "Plan for deactivation and decommissioning of nonoperational defense nuclear facilities",
+                          "identifier": "/us/usc/t10/s6194"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "III",
+                      "heading": "HANFORD RESERVATION, WASHINGTON",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch604/schIII",
+                      "children": [
+                        {
+                          "number": "6201",
+                          "numText": "§ 6201.",
+                          "heading": "Safety measures for waste tanks at Hanford Nuclear Reservation",
+                          "identifier": "/us/usc/t10/s6201"
+                        },
+                        {
+                          "number": "6202",
+                          "numText": "§ 6202.",
+                          "heading": "Hanford waste tank cleanup program reforms",
+                          "identifier": "/us/usc/t10/s6202"
+                        },
+                        {
+                          "number": "6203",
+                          "numText": "§ 6203.",
+                          "heading": "River protection project",
+                          "identifier": "/us/usc/t10/s6203"
+                        },
+                        {
+                          "number": "6204",
+                          "numText": "§ 6204.",
+                          "heading": "Notification regarding air release of radioactive or hazardous material",
+                          "identifier": "/us/usc/t10/s6204"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "IV",
+                      "heading": "SAVANNAH RIVER SITE, SOUTH CAROLINA",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch604/schIV",
+                      "children": [
+                        {
+                          "number": "6211",
+                          "numText": "§ 6211.",
+                          "heading": "Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site",
+                          "identifier": "/us/usc/t10/s6211"
+                        },
+                        {
+                          "number": "6212",
+                          "numText": "§ 6212.",
+                          "heading": "Multi-year plan for clean-up",
+                          "identifier": "/us/usc/t10/s6212"
+                        },
+                        {
+                          "number": "6213",
+                          "numText": "§ 6213.",
+                          "heading": "Continuation of processing, treatment, and disposal of legacy nuclear materials",
+                          "identifier": "/us/usc/t10/s6213"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "605",
+                  "heading": "SAFEGUARDS AND SECURITY MATTERS",
+                  "identifier": "/us/usc/t10/stA/ptVI/sptB/ch605",
+                  "children": [
+                    {
+                      "type": "subchapter",
+                      "number": "I",
+                      "heading": "SAFEGUARDS AND SECURITY",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch605/schI",
+                      "children": [
+                        {
+                          "number": "6221",
+                          "numText": "§ 6221.",
+                          "heading": "Prohibition on international inspections of Department of Energy facilities unless protection of restricted data is certified",
+                          "identifier": "/us/usc/t10/s6221"
+                        },
+                        {
+                          "number": "6222",
+                          "numText": "§ 6222.",
+                          "heading": "Restrictions on access to national security laboratories by foreign visitors from sensitive countries",
+                          "identifier": "/us/usc/t10/s6222"
+                        },
+                        {
+                          "number": "6223",
+                          "numText": "§ 6223.",
+                          "heading": "Background investigations of certain personnel at Department of Energy facilities",
+                          "identifier": "/us/usc/t10/s6223"
+                        },
+                        {
+                          "number": "6224",
+                          "numText": "§ 6224.",
+                          "heading": "Department of Energy counterintelligence polygraph program",
+                          "identifier": "/us/usc/t10/s6224"
+                        },
+                        {
+                          "number": "6225",
+                          "numText": "§ 6225.",
+                          "heading": "Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs",
+                          "identifier": "/us/usc/t10/s6225"
+                        },
+                        {
+                          "number": "6226",
+                          "numText": "§ 6226.",
+                          "heading": "Annual 11 So in original. Probably should be “Biennial”. report and certification on status of security of atomic energy defense facilities",
+                          "identifier": "/us/usc/t10/s6226"
+                        },
+                        {
+                          "number": "6227",
+                          "numText": "§ 6227.",
+                          "heading": "Protection of certain nuclear facilities and assets from unmanned aircraft",
+                          "identifier": "/us/usc/t10/s6227"
+                        },
+                        {
+                          "number": "6228",
+                          "numText": "§ 6228.",
+                          "heading": "Reporting on penetrations of networks of contractors and subcontractors",
+                          "identifier": "/us/usc/t10/s6228"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "II",
+                      "heading": "CLASSIFIED INFORMATION",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch605/schII",
+                      "children": [
+                        {
+                          "number": "6231",
+                          "numText": "§ 6231.",
+                          "heading": "Review of certain documents before declassification and release",
+                          "identifier": "/us/usc/t10/s6231"
+                        },
+                        {
+                          "number": "6232",
+                          "numText": "§ 6232.",
+                          "heading": "Protection against inadvertent release of restricted data and formerly restricted data",
+                          "identifier": "/us/usc/t10/s6232"
+                        },
+                        {
+                          "number": "6233",
+                          "numText": "§ 6233.",
+                          "heading": "Supplement to plan for declassification of restricted data and formerly restricted data",
+                          "identifier": "/us/usc/t10/s6233"
+                        },
+                        {
+                          "number": "6234",
+                          "numText": "§ 6234.",
+                          "heading": "Protection of classified information during laboratory-to-laboratory exchanges",
+                          "identifier": "/us/usc/t10/s6234"
+                        },
+                        {
+                          "number": "6235",
+                          "numText": "§ 6235.",
+                          "heading": "Identification in budget materials of amounts for declassification activities and limitation on expenditures for such activities",
+                          "identifier": "/us/usc/t10/s6235"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "606",
+                  "heading": "PERSONNEL MATTERS",
+                  "identifier": "/us/usc/t10/stA/ptVI/sptB/ch606",
+                  "children": [
+                    {
+                      "type": "subchapter",
+                      "number": "I",
+                      "heading": "PERSONNEL MANAGEMENT",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch606/schI",
+                      "children": [
+                        {
+                          "number": "6241",
+                          "numText": "§ 6241.",
+                          "heading": "Authority for appointment of certain scientific, engineering, and technical personnel",
+                          "identifier": "/us/usc/t10/s6241"
+                        },
+                        {
+                          "number": "6242",
+                          "numText": "§ 6242.",
+                          "heading": "Whistleblower protection program",
+                          "identifier": "/us/usc/t10/s6242"
+                        },
+                        {
+                          "number": "6243",
+                          "numText": "§ 6243.",
+                          "heading": "Department of Energy defense nuclear facilities workforce restructuring plan",
+                          "identifier": "/us/usc/t10/s6243"
+                        },
+                        {
+                          "number": "6244",
+                          "numText": "§ 6244.",
+                          "heading": "Authority to provide certificate of commendation to Department of Energy and contractor employees for exemplary service in stockpile stewardship and security",
+                          "identifier": "/us/usc/t10/s6244"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "II",
+                      "heading": "EDUCATION AND TRAINING",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch606/schII",
+                      "children": [
+                        {
+                          "number": "6251",
+                          "numText": "§ 6251.",
+                          "heading": "Executive management training in Department of Energy",
+                          "identifier": "/us/usc/t10/s6251"
+                        },
+                        {
+                          "number": "6252",
+                          "numText": "§ 6252.",
+                          "heading": "Stockpile stewardship recruitment and training program",
+                          "identifier": "/us/usc/t10/s6252"
+                        },
+                        {
+                          "number": "6253",
+                          "numText": "§ 6253.",
+                          "heading": "Fellowship program for development of skills critical to the nuclear security enterprise",
+                          "identifier": "/us/usc/t10/s6253"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "III",
+                      "heading": "WORKER SAFETY",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch606/schIII",
+                      "children": [
+                        {
+                          "number": "6261",
+                          "numText": "§ 6261.",
+                          "heading": "Worker protection at nuclear weapons facilities",
+                          "identifier": "/us/usc/t10/s6261"
+                        },
+                        {
+                          "number": "6262",
+                          "numText": "§ 6262.",
+                          "heading": "Safety oversight and enforcement at defense nuclear facilities",
+                          "identifier": "/us/usc/t10/s6262"
+                        },
+                        {
+                          "number": "6263",
+                          "numText": "§ 6263.",
+                          "heading": "Program to monitor department of energy workers exposed to hazardous and radioactive substances",
+                          "identifier": "/us/usc/t10/s6263"
+                        },
+                        {
+                          "number": "6264",
+                          "numText": "§ 6264.",
+                          "heading": "Programs for persons who may have been exposed to radiation released from Hanford Nuclear Reservation",
+                          "identifier": "/us/usc/t10/s6264"
+                        },
+                        {
+                          "number": "6265",
+                          "numText": "§ 6265.",
+                          "heading": "Use of probabilistic risk assessment to ensure nuclear safety of facilities of the Administration and the Office of Environmental Management",
+                          "identifier": "/us/usc/t10/s6265"
+                        },
+                        {
+                          "number": "6266",
+                          "numText": "§ 6266.",
+                          "heading": "Notification of nuclear criticality and non-nuclear incidents",
+                          "identifier": "/us/usc/t10/s6266"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "607",
+                  "heading": "BUDGET AND FINANCIAL MANAGEMENT MATTERS",
+                  "identifier": "/us/usc/t10/stA/ptVI/sptB/ch607",
+                  "children": [
+                    {
+                      "type": "subchapter",
+                      "number": "I",
+                      "heading": "RECURRING NATIONAL SECURITY AUTHORIZATION PROVISIONS",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch607/schI",
+                      "children": [
+                        {
+                          "number": "6271",
+                          "numText": "§ 6271.",
+                          "heading": "Definitions",
+                          "identifier": "/us/usc/t10/s6271"
+                        },
+                        {
+                          "number": "6272",
+                          "numText": "§ 6272.",
+                          "heading": "Reprogramming",
+                          "identifier": "/us/usc/t10/s6272"
+                        },
+                        {
+                          "number": "6273",
+                          "numText": "§ 6273.",
+                          "heading": "Minor construction projects",
+                          "identifier": "/us/usc/t10/s6273"
+                        },
+                        {
+                          "number": "6274",
+                          "numText": "§ 6274.",
+                          "heading": "General plant projects",
+                          "identifier": "/us/usc/t10/s6274"
+                        },
+                        {
+                          "number": "6275",
+                          "numText": "§ 6275.",
+                          "heading": "Limits on construction projects",
+                          "identifier": "/us/usc/t10/s6275"
+                        },
+                        {
+                          "number": "6276",
+                          "numText": "§ 6276.",
+                          "heading": "Fund transfer authority",
+                          "identifier": "/us/usc/t10/s6276"
+                        },
+                        {
+                          "number": "6277",
+                          "numText": "§ 6277.",
+                          "heading": "Conceptual and construction design",
+                          "identifier": "/us/usc/t10/s6277"
+                        },
+                        {
+                          "number": "6278",
+                          "numText": "§ 6278.",
+                          "heading": "Authority for emergency planning, design, and construction activities",
+                          "identifier": "/us/usc/t10/s6278"
+                        },
+                        {
+                          "number": "6279",
+                          "numText": "§ 6279.",
+                          "heading": "Scope of authority to carry out plant projects",
+                          "identifier": "/us/usc/t10/s6279"
+                        },
+                        {
+                          "number": "6280",
+                          "numText": "§ 6280.",
+                          "heading": "Availability of funds",
+                          "identifier": "/us/usc/t10/s6280"
+                        },
+                        {
+                          "number": "6281",
+                          "numText": "§ 6281.",
+                          "heading": "Transfer of defense environmental cleanup funds",
+                          "identifier": "/us/usc/t10/s6281"
+                        },
+                        {
+                          "number": "6282",
+                          "numText": "§ 6282.",
+                          "heading": "Transfer of weapons activities funds",
+                          "identifier": "/us/usc/t10/s6282"
+                        },
+                        {
+                          "number": "6283",
+                          "numText": "§ 6283.",
+                          "heading": "Funds available for all national security programs of the Department of Energy",
+                          "identifier": "/us/usc/t10/s6283"
+                        },
+                        {
+                          "number": "6284",
+                          "numText": "§ 6284.",
+                          "heading": "Notification of cost overruns for certain Department of Energy projects",
+                          "identifier": "/us/usc/t10/s6284"
+                        },
+                        {
+                          "number": "6285",
+                          "numText": "§ 6285.",
+                          "heading": "Life-cycle cost estimates of certain atomic energy defense capital assets",
+                          "identifier": "/us/usc/t10/s6285"
+                        },
+                        {
+                          "number": "6286",
+                          "numText": "§ 6286.",
+                          "heading": "Use of best practices for capital asset projects and nuclear weapon life extension programs",
+                          "identifier": "/us/usc/t10/s6286"
+                        },
+                        {
+                          "number": "6287",
+                          "numText": "§ 6287.",
+                          "heading": "Matters relating to critical decisions",
+                          "identifier": "/us/usc/t10/s6287"
+                        },
+                        {
+                          "number": "6288",
+                          "numText": "§ 6288.",
+                          "heading": "Unfunded priorities of the Administration",
+                          "identifier": "/us/usc/t10/s6288"
+                        },
+                        {
+                          "number": "6289",
+                          "numText": "§ 6289.",
+                          "heading": "Review of adequacy of nuclear weapons budget",
+                          "identifier": "/us/usc/t10/s6289"
+                        },
+                        {
+                          "number": "6290",
+                          "numText": "§ 6290.",
+                          "heading": "Improvements to cost estimates informing analyses of alternatives",
+                          "identifier": "/us/usc/t10/s6290"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "II",
+                      "heading": "PENALTIES",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch607/schII",
+                      "children": [
+                        {
+                          "number": "6301",
+                          "numText": "§ 6301.",
+                          "heading": "Restriction on use of funds to pay penalties under environmental laws",
+                          "identifier": "/us/usc/t10/s6301"
+                        },
+                        {
+                          "number": "6302",
+                          "numText": "§ 6302.",
+                          "heading": "Restriction on use of funds to pay penalties under Clean Air Act",
+                          "identifier": "/us/usc/t10/s6302"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "III",
+                      "heading": "OTHER MATTERS",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch607/schIII",
+                      "children": [
+                        {
+                          "number": "6311",
+                          "numText": "§ 6311.",
+                          "heading": "Reports on financial balances for atomic energy defense activities",
+                          "identifier": "/us/usc/t10/s6311"
+                        },
+                        {
+                          "number": "6312",
+                          "numText": "§ 6312.",
+                          "heading": "Independent acquisition project reviews of capital assets acquisition projects",
+                          "identifier": "/us/usc/t10/s6312"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "chapter",
+                  "number": "608",
+                  "heading": "ADMINISTRATIVE MATTERS",
+                  "identifier": "/us/usc/t10/stA/ptVI/sptB/ch608",
+                  "children": [
+                    {
+                      "type": "subchapter",
+                      "number": "I",
+                      "heading": "CONTRACTS",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch608/schI",
+                      "children": [
+                        {
+                          "number": "6321",
+                          "numText": "§ 6321.",
+                          "heading": "Costs not allowed under covered contracts",
+                          "identifier": "/us/usc/t10/s6321"
+                        },
+                        {
+                          "number": "6322",
+                          "numText": "§ 6322.",
+                          "heading": "Prohibition and report 11 So in original. Requirement to submit report was repealed by Pub. L. 112–239 without corresponding amendment to section catchline. on bonuses to contractors operating defense nuclear facilities",
+                          "identifier": "/us/usc/t10/s6322"
+                        },
+                        {
+                          "number": "6323",
+                          "numText": "§ 6323.",
+                          "heading": "Assessments of emergency preparedness of defense nuclear facilities",
+                          "identifier": "/us/usc/t10/s6323"
+                        },
+                        {
+                          "number": "6324",
+                          "numText": "§ 6324.",
+                          "heading": "Contractor liability for injury or loss of property arising out of atomic weapons testing programs",
+                          "identifier": "/us/usc/t10/s6324"
+                        },
+                        {
+                          "number": "6325",
+                          "numText": "§ 6325.",
+                          "heading": "Notice-and-wait requirement applicable to certain third-party financing arrangements",
+                          "identifier": "/us/usc/t10/s6325"
+                        },
+                        {
+                          "number": "6326",
+                          "numText": "§ 6326.",
+                          "heading": "Publication of contractor performance evaluations leading to award fees",
+                          "identifier": "/us/usc/t10/s6326"
+                        },
+                        {
+                          "number": "6327",
+                          "numText": "§ 6327.",
+                          "heading": "Enhanced procurement authority to manage supply chain risk",
+                          "identifier": "/us/usc/t10/s6327"
+                        },
+                        {
+                          "number": "6328",
+                          "numText": "§ 6328.",
+                          "heading": "Cost-benefit analyses for competition of management and operating contracts",
+                          "identifier": "/us/usc/t10/s6328"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "II",
+                      "heading": "RESEARCH AND DEVELOPMENT",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch608/schII",
+                      "children": [
+                        {
+                          "number": "6331",
+                          "numText": "§ 6331.",
+                          "heading": "Laboratory-directed research and development programs",
+                          "identifier": "/us/usc/t10/s6331"
+                        },
+                        {
+                          "number": "6332",
+                          "numText": "§ 6332.",
+                          "heading": "Laboratory-directed research and development",
+                          "identifier": "/us/usc/t10/s6332"
+                        },
+                        {
+                          "number": "6333",
+                          "numText": "§ 6333.",
+                          "heading": "Funding for laboratory directed research and development",
+                          "identifier": "/us/usc/t10/s6333"
+                        },
+                        {
+                          "number": "6334",
+                          "numText": "§ 6334.",
+                          "heading": "Charges to individual program, project, or activity",
+                          "identifier": "/us/usc/t10/s6334"
+                        },
+                        {
+                          "number": "6335",
+                          "numText": "§ 6335.",
+                          "heading": "Limitations on use of funds for laboratory directed research and development purposes",
+                          "identifier": "/us/usc/t10/s6335"
+                        },
+                        {
+                          "number": "6336",
+                          "numText": "§ 6336.",
+                          "heading": "Report on use of funds for certain research and development purposes",
+                          "identifier": "/us/usc/t10/s6336"
+                        },
+                        {
+                          "number": "6337",
+                          "numText": "§ 6337.",
+                          "heading": "Critical technology partnerships and cooperative research and development centers",
+                          "identifier": "/us/usc/t10/s6337"
+                        },
+                        {
+                          "number": "6338",
+                          "numText": "§ 6338.",
+                          "heading": "University-based research collaboration program",
+                          "identifier": "/us/usc/t10/s6338"
+                        },
+                        {
+                          "number": "6339",
+                          "numText": "§ 6339.",
+                          "heading": "Limitation on establishing an enduring bioassurance program within the administration",
+                          "identifier": "/us/usc/t10/s6339"
+                        },
+                        {
+                          "number": "6340",
+                          "numText": "§ 6340.",
+                          "heading": "Appropriate scoping of artificial intelligence research within the administration",
+                          "identifier": "/us/usc/t10/s6340"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "III",
+                      "heading": "FACILITIES MANAGEMENT",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch608/schIII",
+                      "children": [
+                        {
+                          "number": "6351",
+                          "numText": "§ 6351.",
+                          "heading": "Transfers of real property at certain Department of Energy facilities",
+                          "identifier": "/us/usc/t10/s6351"
+                        },
+                        {
+                          "number": "6352",
+                          "numText": "§ 6352.",
+                          "heading": "Engineering and manufacturing research, development, and demonstration by managers of certain nuclear weapons production facilities",
+                          "identifier": "/us/usc/t10/s6352"
+                        },
+                        {
+                          "number": "6353",
+                          "numText": "§ 6353.",
+                          "heading": "Activities at covered nuclear weapons facilities",
+                          "identifier": "/us/usc/t10/s6353"
+                        },
+                        {
+                          "number": "6354",
+                          "numText": "§ 6354.",
+                          "heading": "Pilot program relating to use of proceeds of disposal or utilization of certain department of energy assets",
+                          "identifier": "/us/usc/t10/s6354"
+                        },
+                        {
+                          "number": "6355",
+                          "numText": "§ 6355.",
+                          "heading": "Department of Energy energy parks program",
+                          "identifier": "/us/usc/t10/s6355"
+                        },
+                        {
+                          "number": "6356",
+                          "numText": "§ 6356.",
+                          "heading": "Authority to use passenger carriers for contractor commuting",
+                          "identifier": "/us/usc/t10/s6356"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "IV",
+                      "heading": "OTHER MATTERS",
+                      "identifier": "/us/usc/t10/stA/ptVI/sptB/ch608/schIV",
+                      "children": [
+                        {
+                          "number": "6361",
+                          "numText": "§ 6361.",
+                          "heading": "Payment of costs of operation and maintenance of infrastructure at Nevada National Security Site",
+                          "identifier": "/us/usc/t10/s6361"
+                        },
+                        {
+                          "number": "6362",
+                          "numText": "§ 6362.",
+                          "heading": "University-based defense nuclear policy collaboration program",
+                          "identifier": "/us/usc/t10/s6362"
                         }
                       ]
                     }
@@ -19505,6 +20759,12 @@
                   "numText": "§ 7714.",
                   "heading": "Collection of captured flags, standards, and colors",
                   "identifier": "/us/usc/t10/s7714"
+                },
+                {
+                  "number": "7715",
+                  "numText": "§ 7715.",
+                  "heading": "Army museum system",
+                  "identifier": "/us/usc/t10/s7715"
                 }
               ]
             },
@@ -20983,6 +22243,12 @@
                   "identifier": "/us/usc/t10/s8451a"
                 },
                 {
+                  "number": "8451b",
+                  "numText": "§ 8451b.",
+                  "heading": "Director of admissions",
+                  "identifier": "/us/usc/t10/s8451b"
+                },
+                {
                   "number": "8452",
                   "numText": "§ 8452.",
                   "heading": "Civilian teachers: number; compensation",
@@ -20997,7 +22263,7 @@
                 {
                   "number": "8454",
                   "numText": "§ 8454.",
-                  "heading": "Midshipmen: number",
+                  "heading": "Midshipmen: appointment; numbers, territorial distribution",
                   "identifier": "/us/usc/t10/s8454"
                 },
                 {
@@ -21401,6 +22667,12 @@
                   "identifier": "/us/usc/t10/s8617"
                 },
                 {
+                  "number": "8617A",
+                  "numText": "§ 8617A.",
+                  "heading": "United States Navy Museum System",
+                  "identifier": "/us/usc/t10/s8617A"
+                },
+                {
                   "number": "8618",
                   "numText": "§ 8618.",
                   "heading": "Marine Corps Heritage Center and National Museum of the Marine Corps at Marine Corps Base, Quantico, Virginia",
@@ -21698,8 +22970,8 @@
                 },
                 {
                   "number": "8688",
-                  "numText": "§ 8688.",
-                  "heading": "Warranty requirements for shipbuilding contracts",
+                  "numText": "[§ 8688.",
+                  "heading": "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(8), Dec. 18, 2025, 139 Stat. 948]",
                   "identifier": "/us/usc/t10/s8688"
                 },
                 {
@@ -21761,6 +23033,12 @@
                   "numText": "§ 8697.",
                   "heading": "Battle force ship employment, maintenance, and manning baseline plans",
                   "identifier": "/us/usc/t10/s8697"
+                },
+                {
+                  "number": "8698",
+                  "numText": "§ 8698.",
+                  "heading": "Roles and responsibilities relating to sustainment and readiness of certain naval surface vessels",
+                  "identifier": "/us/usc/t10/s8698"
                 }
               ]
             },
@@ -22836,7 +24114,7 @@
                 {
                   "number": "9062a",
                   "numText": "§ 9062a.",
-                  "heading": "Annual report on Air Force tactical fighter aircraft force structure.11 So in original. The period probably should not appear.",
+                  "heading": "Annual report on Air Force tactical fighter aircraft force structure",
                   "identifier": "/us/usc/t10/s9062a"
                 },
                 {
@@ -22868,6 +24146,12 @@
                   "numText": "§ 9067.",
                   "heading": "Assistant Surgeon General for Dental Services",
                   "identifier": "/us/usc/t10/s9067"
+                },
+                {
+                  "number": "9068",
+                  "numText": "§ 9068.",
+                  "heading": "Air Force Global Strike Command",
+                  "identifier": "/us/usc/t10/s9068"
                 }
               ]
             },
@@ -22918,6 +24202,18 @@
                   "numText": "§ 9087.",
                   "heading": "Space Development Agency",
                   "identifier": "/us/usc/t10/s9087"
+                },
+                {
+                  "number": "9088",
+                  "numText": "§ 9088.",
+                  "heading": "Duty assignments after officer training course",
+                  "identifier": "/us/usc/t10/s9088"
+                },
+                {
+                  "number": "9089",
+                  "numText": "§ 9089.",
+                  "heading": "Program Executive Officer for Assured Access to Space",
+                  "identifier": "/us/usc/t10/s9089"
                 }
               ]
             }
@@ -23490,7 +24786,7 @@
                 {
                   "number": "9414",
                   "numText": "§ 9414.",
-                  "heading": "Degree granting authority for United States Air Force Institute of Technology",
+                  "heading": "United States Air Force Institute of Technology: degree granting authority; faculty, reimbursement and tuition; acceptance of research grants",
                   "identifier": "/us/usc/t10/s9414"
                 },
                 {
@@ -23528,6 +24824,12 @@
                   "numText": "§ 9420.",
                   "heading": "Recruit basic training: privacy",
                   "identifier": "/us/usc/t10/s9420"
+                },
+                {
+                  "number": "9421",
+                  "numText": "§ 9421.",
+                  "heading": "Space Force officer training course requirements",
+                  "identifier": "/us/usc/t10/s9421"
                 }
               ]
             },
@@ -23880,7 +25182,7 @@
                 {
                   "number": "9531",
                   "numText": "§ 9531.",
-                  "heading": "Commercial Augmentation Space Reserve.11 So in original. The period probably should not appear.",
+                  "heading": "Commercial Augmentation Space Reserve",
                   "identifier": "/us/usc/t10/s9531"
                 },
                 {
@@ -24282,6 +25584,12 @@
                   "numText": "§ 9783.",
                   "heading": "Johnston Atoll: reimbursement for support provided to civil air carriers",
                   "identifier": "/us/usc/t10/s9783"
+                },
+                {
+                  "number": "9784",
+                  "numText": "§ 9784.",
+                  "heading": "Air Force and Space Force Museum System",
+                  "identifier": "/us/usc/t10/s9784"
                 }
               ]
             },
@@ -26756,6 +28064,12 @@
                   "numText": "§ 20109.",
                   "heading": "Policy for order to active duty based upon determination by Congress",
                   "identifier": "/us/usc/t10/s20109"
+                },
+                {
+                  "number": "20110",
+                  "numText": "§ 20110.",
+                  "heading": "Strength in grade: Space Force general officers in a Space Force active status, not on sustained duty",
+                  "identifier": "/us/usc/t10/s20110"
                 }
               ]
             },
@@ -26924,6 +28238,12 @@
                       "numText": "§ 20243.",
                       "heading": "General officers ceasing to occupy positions commensurate with grade",
                       "identifier": "/us/usc/t10/s20243"
+                    },
+                    {
+                      "number": "20244",
+                      "numText": "§ 20244.",
+                      "heading": "Eligibility for consideration for promotion: duty assignments",
+                      "identifier": "/us/usc/t10/s20244"
                     }
                   ]
                 },
@@ -27136,6 +28456,26 @@
                   "numText": "§ 20605.",
                   "heading": "Applicability of other provisions of law relating to retirement",
                   "identifier": "/us/usc/t10/s20605"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "2015",
+              "heading": "REPORTS",
+              "identifier": "/us/usc/t10/stF/ptI/ch2015",
+              "children": [
+                {
+                  "number": "20701",
+                  "numText": "§ 20701.",
+                  "heading": "Promotion rates",
+                  "identifier": "/us/usc/t10/s20701"
+                },
+                {
+                  "number": "20702",
+                  "numText": "§ 20702.",
+                  "heading": "Modifications to career fields and codes",
+                  "identifier": "/us/usc/t10/s20702"
                 }
               ]
             }

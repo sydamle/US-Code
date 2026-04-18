@@ -2,8 +2,8 @@
   "number": "37",
   "name": "Pay And Allowances Of The Uniformed Services",
   "identifier": "/us/usc/t37",
-  "version": "Online@119-73not60",
-  "updated": "2025-03-03",
+  "version": "Online@119-83",
+  "updated": "2026-03-26",
   "children": [
     {
       "type": "chapter",
@@ -58,7 +58,7 @@
         {
           "number": "206",
           "numText": "§ 206.",
-          "heading": "Reserves; members of National Guard: inactive-duty training",
+          "heading": "Reserves; members of National Guard; members of the Space Force: inactive-duty training",
           "identifier": "/us/usc/t37/s206"
         },
         {
@@ -1444,7 +1444,7 @@
         {
           "number": "910",
           "numText": "§ 910.",
-          "heading": "Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service",
+          "heading": "Replacement of lost income: involuntarily mobilized reserve component members and members of the Space Force subject to extended and frequent active duty service",
           "identifier": "/us/usc/t37/s910"
         }
       ]
@@ -1464,7 +1464,7 @@
         {
           "number": "1002",
           "numText": "§ 1002.",
-          "heading": "Additional training or duty without pay: Reserves and members of National Guard",
+          "heading": "Additional training or duty without pay: Reserves; members of the National Guard; members of the Space Force",
           "identifier": "/us/usc/t37/s1002"
         },
         {
@@ -1544,6 +1544,12 @@
           "numText": "§ 1015.",
           "heading": "Recordation of installment payment obligations for incentive pays and similar benefits",
           "identifier": "/us/usc/t37/s1015"
+        },
+        {
+          "number": "1016",
+          "numText": "§ 1016.",
+          "heading": "Pay statements: descriptions of types of pay",
+          "identifier": "/us/usc/t37/s1016"
         }
       ]
     }

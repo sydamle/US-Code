@@ -2,8 +2,8 @@
   "number": "49",
   "name": "Transportation",
   "identifier": "/us/usc/t49",
-  "version": "Online@119-73not60",
-  "updated": "2025-12-03",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "subtitle",
@@ -696,7 +696,7 @@
                 {
                   "number": "1140",
                   "numText": "§ 1140.",
-                  "heading": "Information 11 So in original. Probably should be followed by “for”. individuals involved in accidents and families of such individuals",
+                  "heading": "Information individuals 11 So in original. Probably should be preceded by “for”. involved in accidents and families of such individuals",
                   "identifier": "/us/usc/t49/s1140"
                 }
               ]

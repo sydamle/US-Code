@@ -2,8 +2,8 @@
   "number": "14",
   "name": "Coast Guard",
   "identifier": "/us/usc/t14",
-  "version": "Online@119-73not60",
-  "updated": "2025-08-11",
+  "version": "Online@119-83",
+  "updated": "2026-03-26",
   "children": [
     {
       "type": "subtitle",
@@ -52,6 +52,12 @@
               "numText": "§ 106.",
               "heading": "Commandant defined",
               "identifier": "/us/usc/t14/s106"
+            },
+            {
+              "number": "107",
+              "numText": "§ 107.",
+              "heading": "Automatic execution of conforming changes",
+              "identifier": "/us/usc/t14/s107"
             }
           ]
         },
@@ -62,142 +68,190 @@
           "identifier": "/us/usc/t14/stI/ch3",
           "children": [
             {
-              "number": "301",
-              "numText": "§ 301.",
-              "heading": "Grades and ratings",
-              "identifier": "/us/usc/t14/s301"
+              "type": "subchapter",
+              "number": "I",
+              "heading": "ORGANIZATION",
+              "identifier": "/us/usc/t14/stI/ch3/schI",
+              "children": [
+                {
+                  "number": "301",
+                  "numText": "§ 301.",
+                  "heading": "Grades and ratings",
+                  "identifier": "/us/usc/t14/s301"
+                }
+              ]
             },
             {
-              "number": "302",
-              "numText": "§ 302.",
-              "heading": "Commandant; appointment",
-              "identifier": "/us/usc/t14/s302"
+              "type": "subchapter",
+              "number": "II",
+              "heading": "POSITIONS",
+              "identifier": "/us/usc/t14/stI/ch3/schII",
+              "children": [
+                {
+                  "number": "302",
+                  "numText": "§ 302.",
+                  "heading": "Commandant; appointment",
+                  "identifier": "/us/usc/t14/s302"
+                },
+                {
+                  "number": "303",
+                  "numText": "§ 303.",
+                  "heading": "Vice Commandant; appointment",
+                  "identifier": "/us/usc/t14/s303"
+                },
+                {
+                  "number": "304",
+                  "numText": "§ 304.",
+                  "heading": "Retirement of Commandant or Vice Commandant",
+                  "identifier": "/us/usc/t14/s304"
+                },
+                {
+                  "number": "305",
+                  "numText": "§ 305.",
+                  "heading": "Vice admirals",
+                  "identifier": "/us/usc/t14/s305"
+                },
+                {
+                  "number": "306",
+                  "numText": "§ 306.",
+                  "heading": "Retirement",
+                  "identifier": "/us/usc/t14/s306"
+                },
+                {
+                  "number": "307",
+                  "numText": "§ 307.",
+                  "heading": "Vice admirals and admirals, continuity of grade",
+                  "identifier": "/us/usc/t14/s307"
+                },
+                {
+                  "number": "308",
+                  "numText": "§ 308.",
+                  "heading": "Chief Acquisition Officer",
+                  "identifier": "/us/usc/t14/s308"
+                },
+                {
+                  "number": "309",
+                  "numText": "§ 309.",
+                  "heading": "Office of the Coast Guard Reserve; Director",
+                  "identifier": "/us/usc/t14/s309"
+                },
+                {
+                  "number": "310",
+                  "numText": "§ 310.",
+                  "heading": "Director of Coast Guard Investigative Service",
+                  "identifier": "/us/usc/t14/s310"
+                },
+                {
+                  "number": "311",
+                  "numText": "§ 311.",
+                  "heading": "United States Coast Guard Band; composition; director",
+                  "identifier": "/us/usc/t14/s311"
+                },
+                {
+                  "number": "312",
+                  "numText": "§ 312.",
+                  "heading": "Western Alaska Oil Spill Planning Criteria Program",
+                  "identifier": "/us/usc/t14/s312"
+                },
+                {
+                  "number": "313",
+                  "numText": "§ 313.",
+                  "heading": "Chief of Staff to President: appointment",
+                  "identifier": "/us/usc/t14/s313"
+                },
+                {
+                  "number": "314",
+                  "numText": "§ 314.",
+                  "heading": "Captains of the port",
+                  "identifier": "/us/usc/t14/s314"
+                },
+                {
+                  "number": "315",
+                  "numText": "§ 315.",
+                  "heading": "Congressional affairs; Director",
+                  "identifier": "/us/usc/t14/s315"
+                },
+                {
+                  "number": "316",
+                  "numText": "§ 316.",
+                  "heading": "Commandant Advisory Judge Advocate",
+                  "identifier": "/us/usc/t14/s316"
+                },
+                {
+                  "number": "317",
+                  "numText": "§ 317.",
+                  "heading": "Special Advisor to Commandant for Tribal and Native Hawaiian Affairs",
+                  "identifier": "/us/usc/t14/s317"
+                },
+                {
+                  "number": "318",
+                  "numText": "§ 318.",
+                  "heading": "Judge Advocate General; Deputy Judge Advocate General: appointment; duties",
+                  "identifier": "/us/usc/t14/s318"
+                }
+              ]
             },
             {
-              "number": "303",
-              "numText": "§ 303.",
-              "heading": "Retirement of Commandant or Vice Commandant",
-              "identifier": "/us/usc/t14/s303"
-            },
-            {
-              "number": "304",
-              "numText": "§ 304.",
-              "heading": "Vice Commandant; appointment",
-              "identifier": "/us/usc/t14/s304"
-            },
-            {
-              "number": "305",
-              "numText": "§ 305.",
-              "heading": "Vice admirals",
-              "identifier": "/us/usc/t14/s305"
-            },
-            {
-              "number": "306",
-              "numText": "§ 306.",
-              "heading": "Retirement",
-              "identifier": "/us/usc/t14/s306"
-            },
-            {
-              "number": "307",
-              "numText": "§ 307.",
-              "heading": "Vice admirals and admiral, continuity of grade",
-              "identifier": "/us/usc/t14/s307"
-            },
-            {
-              "number": "308",
-              "numText": "§ 308.",
-              "heading": "Chief Acquisition Officer",
-              "identifier": "/us/usc/t14/s308"
-            },
-            {
-              "number": "309",
-              "numText": "§ 309.",
-              "heading": "Office of the Coast Guard Reserve; Director",
-              "identifier": "/us/usc/t14/s309"
-            },
-            {
-              "number": "310",
-              "numText": "§ 310.",
-              "heading": "Chief of Staff to President: appointment",
-              "identifier": "/us/usc/t14/s310"
-            },
-            {
-              "number": "311",
-              "numText": "§ 311.",
-              "heading": "Captains of the port",
-              "identifier": "/us/usc/t14/s311"
-            },
-            {
-              "number": "312",
-              "numText": "§ 312.",
-              "heading": "Prevention and response workforces",
-              "identifier": "/us/usc/t14/s312"
-            },
-            {
-              "number": "313",
-              "numText": "§ 313.",
-              "heading": "Centers of expertise for Coast Guard prevention and response",
-              "identifier": "/us/usc/t14/s313"
-            },
-            {
-              "number": "314",
-              "numText": "§ 314.",
-              "heading": "Marine industry training program",
-              "identifier": "/us/usc/t14/s314"
-            },
-            {
-              "number": "315",
-              "numText": "§ 315.",
-              "heading": "Training for congressional affairs personnel",
-              "identifier": "/us/usc/t14/s315"
-            },
-            {
-              "number": "316",
-              "numText": "§ 316.",
-              "heading": "National Coast Guard Museum",
-              "identifier": "/us/usc/t14/s316"
-            },
-            {
-              "number": "317",
-              "numText": "§ 317.",
-              "heading": "United States Coast Guard Band; composition; director",
-              "identifier": "/us/usc/t14/s317"
-            },
-            {
-              "number": "318",
-              "numText": "§ 318.",
-              "heading": "Environmental Compliance and Restoration Program",
-              "identifier": "/us/usc/t14/s318"
-            },
-            {
-              "number": "319",
-              "numText": "§ 319.",
-              "heading": "Unmanned system program and autonomous control and computer vision technology project",
-              "identifier": "/us/usc/t14/s319"
-            },
-            {
-              "number": "320",
-              "numText": "§ 320.",
-              "heading": "Coast Guard Junior Reserve Officers’ Training Corps",
-              "identifier": "/us/usc/t14/s320"
-            },
-            {
-              "number": "321",
-              "numText": "§ 321.",
-              "heading": "Congressional affairs; Director",
-              "identifier": "/us/usc/t14/s321"
-            },
-            {
-              "number": "322",
-              "numText": "§ 322.",
-              "heading": "Redistricting notification requirement",
-              "identifier": "/us/usc/t14/s322"
-            },
-            {
-              "number": "323",
-              "numText": "§ 323.",
-              "heading": "Western Alaska Oil Spill Planning Criteria Program",
-              "identifier": "/us/usc/t14/s323"
+              "type": "subchapter",
+              "number": "III",
+              "heading": "PROGRAMS",
+              "identifier": "/us/usc/t14/stI/ch3/schIII",
+              "children": [
+                {
+                  "number": "331",
+                  "numText": "§ 331.",
+                  "heading": "Centers of expertise for Coast Guard prevention and response",
+                  "identifier": "/us/usc/t14/s331"
+                },
+                {
+                  "number": "332",
+                  "numText": "§ 332.",
+                  "heading": "Marine industry training program",
+                  "identifier": "/us/usc/t14/s332"
+                },
+                {
+                  "number": "333",
+                  "numText": "§ 333.",
+                  "heading": "Training courses on workings of Congress",
+                  "identifier": "/us/usc/t14/s333"
+                },
+                {
+                  "number": "334",
+                  "numText": "§ 334.",
+                  "heading": "National Coast Guard Museum",
+                  "identifier": "/us/usc/t14/s334"
+                },
+                {
+                  "number": "335",
+                  "numText": "§ 335.",
+                  "heading": "Environmental Compliance and Restoration Program",
+                  "identifier": "/us/usc/t14/s335"
+                },
+                {
+                  "number": "336",
+                  "numText": "§ 336.",
+                  "heading": "Unmanned system program and autonomous control and computer vision technology project",
+                  "identifier": "/us/usc/t14/s336"
+                },
+                {
+                  "number": "337",
+                  "numText": "§ 337.",
+                  "heading": "Coast Guard Junior Reserve Officers’ Training Corps",
+                  "identifier": "/us/usc/t14/s337"
+                },
+                {
+                  "number": "338",
+                  "numText": "§ 338.",
+                  "heading": "Redistricting notification requirement",
+                  "identifier": "/us/usc/t14/s338"
+                },
+                {
+                  "number": "339",
+                  "numText": "§ 339.",
+                  "heading": "Prevention and response workforces",
+                  "identifier": "/us/usc/t14/s339"
+                }
+              ]
             }
           ]
         },
@@ -227,8 +281,8 @@
                 },
                 {
                   "number": "503",
-                  "numText": "§ 503.",
-                  "heading": "Regulations",
+                  "numText": "[§ 503.",
+                  "heading": "Transferred]",
                   "identifier": "/us/usc/t14/s503"
                 },
                 {
@@ -272,6 +326,12 @@
                   "numText": "§ 510.",
                   "heading": "Conveyance of Coast Guard vessels for public purposes",
                   "identifier": "/us/usc/t14/s510"
+                },
+                {
+                  "number": "511",
+                  "numText": "§ 511.",
+                  "heading": "Retention of certain records",
+                  "identifier": "/us/usc/t14/s511"
                 }
               ]
             },
@@ -328,6 +388,12 @@
                   "numText": "§ 528.",
                   "heading": "Protecting against unmanned aircraft",
                   "identifier": "/us/usc/t14/s528"
+                },
+                {
+                  "number": "529",
+                  "numText": "§ 529.",
+                  "heading": "Public availability of information",
+                  "identifier": "/us/usc/t14/s529"
                 }
               ]
             },
@@ -398,10 +464,16 @@
                   "identifier": "/us/usc/t14/s550"
                 },
                 {
-                  "number": "548",
-                  "numText": "§ 548.",
+                  "number": "551",
+                  "numText": "§ 551.",
                   "heading": "Marking anchorage grounds by Commandant of the Coast Guard",
-                  "identifier": "/us/usc/t14/s548"
+                  "identifier": "/us/usc/t14/s551"
+                },
+                {
+                  "number": "552",
+                  "numText": "§ 552.",
+                  "heading": "Discontinuance of aid to navigation",
+                  "identifier": "/us/usc/t14/s552"
                 }
               ]
             },
@@ -434,6 +506,12 @@
                   "numText": "§ 564.",
                   "heading": "Administration of sexual assault forensic examination kits",
                   "identifier": "/us/usc/t14/s564"
+                },
+                {
+                  "number": "565",
+                  "numText": "§ 565.",
+                  "heading": "Use of unmanned aircraft systems",
+                  "identifier": "/us/usc/t14/s565"
                 }
               ]
             }
@@ -570,6 +648,12 @@
               "numText": "§ 721.",
               "heading": "Responses to safety recommendations",
               "identifier": "/us/usc/t14/s721"
+            },
+            {
+              "number": "722",
+              "numText": "§ 722.",
+              "heading": "Cooperation with eligible entities",
+              "identifier": "/us/usc/t14/s722"
             }
           ]
         },
@@ -952,6 +1036,24 @@
                   "numText": "§ 1137.",
                   "heading": "Contracting for major acquisitions programs",
                   "identifier": "/us/usc/t14/s1137"
+                },
+                {
+                  "number": "1138",
+                  "numText": "§ 1138.",
+                  "heading": "Service life extension programs",
+                  "identifier": "/us/usc/t14/s1138"
+                },
+                {
+                  "number": "1139",
+                  "numText": "§ 1139.",
+                  "heading": "Consideration of life-cycle cost estimates for acquisition and procurement",
+                  "identifier": "/us/usc/t14/s1139"
+                },
+                {
+                  "number": "1140",
+                  "numText": "§ 1140.",
+                  "heading": "Contracts that provide best value for taxpayer",
+                  "identifier": "/us/usc/t14/s1140"
                 }
               ]
             },
@@ -964,7 +1066,7 @@
                 {
                   "number": "1151",
                   "numText": "§ 1151.",
-                  "heading": "Restriction on construction of vessels in foreign shipyards",
+                  "heading": "Restriction on acquisition, procurement, or construction of vessels in foreign shipyards",
                   "identifier": "/us/usc/t14/s1151"
                 },
                 {
@@ -1008,6 +1110,12 @@
                   "numText": "§ 1158.",
                   "heading": "Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs",
                   "identifier": "/us/usc/t14/s1158"
+                },
+                {
+                  "number": "1159",
+                  "numText": "§ 1159.",
+                  "heading": "Floating drydock for United States Coast Guard Yard",
+                  "identifier": "/us/usc/t14/s1159"
                 }
               ]
             },
@@ -1070,7 +1178,7 @@
                 {
                   "number": "1902",
                   "numText": "§ 1902.",
-                  "heading": "Policy on sexual harassment and sexual violence",
+                  "heading": "Academy policy and report on covered misconduct",
                   "identifier": "/us/usc/t14/s1902"
                 },
                 {
@@ -1096,6 +1204,30 @@
                   "numText": "§ 1906.",
                   "heading": "Participation in Federal, State, or other educational research grants",
                   "identifier": "/us/usc/t14/s1906"
+                },
+                {
+                  "number": "1907",
+                  "numText": "§ 1907.",
+                  "heading": "Coast Guard Academy Cadet Advisory Board",
+                  "identifier": "/us/usc/t14/s1907"
+                },
+                {
+                  "number": "1908",
+                  "numText": "§ 1908.",
+                  "heading": "Authorization for use of Coast Guard Academy facilities and equipment by covered foundations",
+                  "identifier": "/us/usc/t14/s1908"
+                },
+                {
+                  "number": "1909",
+                  "numText": "§ 1909.",
+                  "heading": "Policy on hazing",
+                  "identifier": "/us/usc/t14/s1909"
+                },
+                {
+                  "number": "1910",
+                  "numText": "§ 1910.",
+                  "heading": "Concurrent jurisdiction at Coast Guard Academy",
+                  "identifier": "/us/usc/t14/s1910"
                 }
               ]
             },
@@ -1428,6 +1560,12 @@
                   "numText": "§ 2131.",
                   "heading": "College student pre-commissioning initiative",
                   "identifier": "/us/usc/t14/s2131"
+                },
+                {
+                  "number": "2132",
+                  "numText": "§ 2132.",
+                  "heading": "Designation of officers with particular expertise in military justice or healthcare",
+                  "identifier": "/us/usc/t14/s2132"
                 }
               ]
             },
@@ -1553,8 +1691,8 @@
                 },
                 {
                   "number": "2160",
-                  "numText": "§ 2160.",
-                  "heading": "Boards of review",
+                  "numText": "[§ 2160.",
+                  "heading": "Repealed. Pub. L. 119–60, div. G, title LXXII, § 7223(c), Dec. 18, 2025, 139 Stat. 1702]",
                   "identifier": "/us/usc/t14/s2160"
                 },
                 {
@@ -1820,7 +1958,7 @@
                 {
                   "number": "2512",
                   "numText": "§ 2512.",
-                  "heading": "Leave policies for the Coast Guard",
+                  "heading": "Family leave policies for the Coast Guard",
                   "identifier": "/us/usc/t14/s2512"
                 },
                 {
@@ -1846,6 +1984,24 @@
                   "numText": "§ 2516.",
                   "heading": "Members asserting post-traumatic stress disorder or traumatic brain injury",
                   "identifier": "/us/usc/t14/s2516"
+                },
+                {
+                  "number": "2517",
+                  "numText": "§ 2517.",
+                  "heading": "Authority for certain personnel",
+                  "identifier": "/us/usc/t14/s2517"
+                },
+                {
+                  "number": "2518",
+                  "numText": "§ 2518.",
+                  "heading": "Command sponsorship",
+                  "identifier": "/us/usc/t14/s2518"
+                },
+                {
+                  "number": "2519",
+                  "numText": "§ 2519.",
+                  "heading": "Prevention of and response to hazing and bullying",
+                  "identifier": "/us/usc/t14/s2519"
                 }
               ]
             },
@@ -1866,14 +2022,62 @@
             {
               "type": "subchapter",
               "number": "III",
-              "heading": "REPEALED]",
+              "heading": "COVERED MISCONDUCT",
               "identifier": "/us/usc/t14/stII/ch25/schIII",
               "children": [
                 {
-                  "number": "2531 to 2534",
-                  "numText": "[§§ 2531 to 2534.",
-                  "heading": "Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166]",
-                  "identifier": "/us/usc/t14/s2531...2534"
+                  "number": "2531",
+                  "numText": "§ 2531.",
+                  "heading": "Comprehensive policy and procedures on retention and access to evidence and records relating to sexual misconduct and other misconduct",
+                  "identifier": "/us/usc/t14/s2531"
+                },
+                {
+                  "number": "2532",
+                  "numText": "§ 2532.",
+                  "heading": "Requirement to maintain certain records",
+                  "identifier": "/us/usc/t14/s2532"
+                },
+                {
+                  "number": "2533",
+                  "numText": "§ 2533.",
+                  "heading": "Covered misconduct in Coast Guard",
+                  "identifier": "/us/usc/t14/s2533"
+                },
+                {
+                  "number": "2534",
+                  "numText": "§ 2534.",
+                  "heading": "Review of discharge characterization",
+                  "identifier": "/us/usc/t14/s2534"
+                },
+                {
+                  "number": "2535",
+                  "numText": "§ 2535.",
+                  "heading": "Safe-to-Report policy for Coast Guard",
+                  "identifier": "/us/usc/t14/s2535"
+                },
+                {
+                  "number": "2536",
+                  "numText": "§ 2536.",
+                  "heading": "Notification of changes to Uniform Code of Military Justice or Manual for Courts 11 So in original. Probably should be followed by a hyphen. Martial relating to covered misconduct",
+                  "identifier": "/us/usc/t14/s2536"
+                },
+                {
+                  "number": "2537",
+                  "numText": "§ 2537.",
+                  "heading": "Accountability and transparency relating to allegations of misconduct against senior leaders",
+                  "identifier": "/us/usc/t14/s2537"
+                },
+                {
+                  "number": "2538",
+                  "numText": "§ 2538.",
+                  "heading": "Inclusion and command review of information on covered misconduct in personnel service records",
+                  "identifier": "/us/usc/t14/s2538"
+                },
+                {
+                  "number": "2539",
+                  "numText": "§ 2539.",
+                  "heading": "Covered misconduct defined",
+                  "identifier": "/us/usc/t14/s2539"
                 }
               ]
             }
@@ -2850,7 +3054,7 @@
             {
               "number": "5107",
               "numText": "§ 5107.",
-              "heading": "Major acquisition program risk assessment",
+              "heading": "Quarterly acquisition reports and major acquisition program risk assessment",
               "identifier": "/us/usc/t14/s5107"
             },
             {
@@ -2900,6 +3104,12 @@
               "numText": "§ 5115.",
               "heading": "Major grants, contracts, or other transactions",
               "identifier": "/us/usc/t14/s5115"
+            },
+            {
+              "number": "5116",
+              "numText": "§ 5116.",
+              "heading": "Status of overdue reports",
+              "identifier": "/us/usc/t14/s5116"
             }
           ]
         }

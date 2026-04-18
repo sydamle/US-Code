@@ -2,8 +2,8 @@
   "number": "34",
   "name": "Crime Control And Law Enforcement",
   "identifier": "/us/usc/t34",
-  "version": "Online@119-73not60",
-  "updated": "2026-01-28",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "subtitle",
@@ -4686,7 +4686,7 @@
                 {
                   "number": "21131",
                   "numText": "§ 21131.",
-                  "heading": "Additional regional computer forensic labs",
+                  "heading": "Repealed. Pub. L. 119–60, div. H, title LXXXII, § 8202(h), Dec. 18, 2025, 139 Stat. 1844",
                   "identifier": "/us/usc/t34/s21131"
                 }
               ]

@@ -2,8 +2,8 @@
   "number": "39",
   "name": "Postal Service",
   "identifier": "/us/usc/t39",
-  "version": "Online@119-73not60",
-  "updated": "2024-04-08",
+  "version": "Online@119-83",
+  "updated": "2026-03-26",
   "children": [
     {
       "type": "part",

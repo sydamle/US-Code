@@ -2,8 +2,8 @@
   "number": "54",
   "name": "National Park Service And Related Programs",
   "identifier": "/us/usc/t54",
-  "version": "Online@119-73not60",
-  "updated": "2025-12-03",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "subtitle",
@@ -2317,6 +2317,26 @@
                           "numText": "§ 306131.",
                           "heading": "Standards and guidelines",
                           "identifier": "/us/usc/t54/s306131"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "subchapter",
+                      "number": "IV",
+                      "heading": "APPLICATION OF AUTHORITIES AND STANDARDS TO HISTORIC MILITARY HOUSING AND ASSOCIATED PROPERTIES",
+                      "identifier": "/us/usc/t54/stIII/dA/sd5/ch3061/schIV",
+                      "children": [
+                        {
+                          "number": "306141",
+                          "numText": "§ 306141.",
+                          "heading": "Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army",
+                          "identifier": "/us/usc/t54/s306141"
+                        },
+                        {
+                          "number": "306142",
+                          "numText": "§ 306142.",
+                          "heading": "Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Navy and the Department of the Air Force",
+                          "identifier": "/us/usc/t54/s306142"
                         }
                       ]
                     }

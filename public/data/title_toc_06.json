@@ -2,8 +2,8 @@
   "number": "6",
   "name": "Domestic Security",
   "identifier": "/us/usc/t6",
-  "version": "Online@119-73not60",
-  "updated": "2025-03-25",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "chapter",
@@ -228,6 +228,12 @@
                   "numText": "§ 124n.",
                   "heading": "Protection of certain facilities and assets from unmanned aircraft",
                   "identifier": "/us/usc/t6/s124n"
+                },
+                {
+                  "number": "124n–1",
+                  "numText": "§ 124n–1.",
+                  "heading": "Penalties",
+                  "identifier": "/us/usc/t6/s124n–1"
                 },
                 {
                   "number": "125",

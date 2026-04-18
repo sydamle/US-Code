@@ -2,8 +2,8 @@
   "number": "33",
   "name": "Navigation And Navigable Waters",
   "identifier": "/us/usc/t33",
-  "version": "Online@119-73not60",
-  "updated": "2026-01-12",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "chapter",
@@ -4854,7 +4854,7 @@
             {
               "number": "891a",
               "numText": "§ 891a.",
-              "heading": "Fleet replacement and modernization program",
+              "heading": "Operation and maintenance of NOAA fleet",
               "identifier": "/us/usc/t33/s891a"
             },
             {
@@ -9322,7 +9322,7 @@
             {
               "number": "3008",
               "numText": "§ 3008.",
-              "heading": "Aviation accession training programs",
+              "heading": "Cooperative aviation centers",
               "identifier": "/us/usc/t33/s3008"
             },
             {
@@ -9600,7 +9600,7 @@
             {
               "number": "3079–1",
               "numText": "§ 3079–1.",
-              "heading": "Limitation on educational assistance",
+              "heading": "Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8408(a), Dec. 18, 2025, 139 Stat. 1913",
               "identifier": "/us/usc/t33/s3079–1"
             },
             {
@@ -9614,6 +9614,12 @@
               "numText": "§ 3079b.",
               "heading": "Shore leave for professional mariners",
               "identifier": "/us/usc/t33/s3079b"
+            },
+            {
+              "number": "3079c",
+              "numText": "§ 3079c.",
+              "heading": "Eligibility of former officers to compete for certain positions",
+              "identifier": "/us/usc/t33/s3079c"
             }
           ]
         }

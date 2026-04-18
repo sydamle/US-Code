@@ -2,8 +2,8 @@
   "number": "5",
   "name": "Government Organization And Employees",
   "identifier": "/us/usc/t5",
-  "version": "Online@119-73not60",
-  "updated": "2025-12-03",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "part",
@@ -1903,20 +1903,20 @@
                     },
                     {
                       "number": "3317",
-                      "numText": "§ 3317.",
-                      "heading": "Competitive service; certification from registers",
+                      "numText": "§ 3317 .",
+                      "heading": "Competitive service; certification using numerical ratings",
                       "identifier": "/us/usc/t5/s3317"
                     },
                     {
                       "number": "3318",
                       "numText": "§ 3318.",
-                      "heading": "Competitive service; selection from certificates",
+                      "heading": "Competitive service; selections using numerical ratings",
                       "identifier": "/us/usc/t5/s3318"
                     },
                     {
                       "number": "3319",
                       "numText": "§ 3319.",
-                      "heading": "Alternative ranking and selection procedures",
+                      "heading": "Competitive service; selection using category rating",
                       "identifier": "/us/usc/t5/s3319"
                     },
                     {
@@ -2020,6 +2020,12 @@
                       "numText": "§ 3330f.",
                       "heading": "Government policy and supporting position data",
                       "identifier": "/us/usc/t5/s3330f"
+                    },
+                    {
+                      "number": "3330g",
+                      "numText": "§ 3330g.",
+                      "heading": "DOD use of shared talent pools and structured assessments",
+                      "identifier": "/us/usc/t5/s3330g"
                     }
                   ]
                 },

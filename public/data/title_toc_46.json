@@ -2,8 +2,8 @@
   "number": "46",
   "name": "Shipping",
   "identifier": "/us/usc/t46",
-  "version": "Online@119-73not60",
-  "updated": "2025-03-03",
+  "version": "Online@119-83",
+  "updated": "2026-03-26",
   "children": [
     {
       "type": "subtitle",
@@ -118,14 +118,20 @@
         {
           "type": "chapter",
           "number": "3",
-          "heading": "TRANSFERRED]",
+          "heading": "AUTOMATIC EXECUTION OF CONFORMING CHANGES",
           "identifier": "/us/usc/t46/stI/ch3",
           "children": [
             {
-              "number": "301 to 308",
-              "numText": "[§§ 301 to 308.",
-              "heading": "Renumbered §§ 46101 to 46108]",
-              "identifier": "/us/usc/t46/s301...308"
+              "number": "301",
+              "numText": "§ 301.",
+              "heading": "Automatic execution of conforming changes",
+              "identifier": "/us/usc/t46/s301"
+            },
+            {
+              "number": "302 to 308",
+              "numText": "[§§ 302 to 308.",
+              "heading": "Renumbered §§ 46102 to 46108]",
+              "identifier": "/us/usc/t46/s302...308"
             }
           ]
         },
@@ -958,38 +964,72 @@
             {
               "type": "chapter",
               "number": "47",
-              "heading": "ABANDONMENT OF BARGES",
+              "heading": "ABANDONMENT OF VESSELS",
               "identifier": "/us/usc/t46/stII/ptB/ch47",
               "children": [
                 {
-                  "number": "4701",
-                  "numText": "§ 4701.",
-                  "heading": "Definitions",
-                  "identifier": "/us/usc/t46/s4701"
+                  "type": "subchapter",
+                  "number": "I",
+                  "heading": "BARGES",
+                  "identifier": "/us/usc/t46/stII/ptB/ch47/schI",
+                  "children": [
+                    {
+                      "number": "4701",
+                      "numText": "§ 4701.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t46/s4701"
+                    },
+                    {
+                      "number": "4702",
+                      "numText": "§ 4702.",
+                      "heading": "Abandonment of barge prohibited",
+                      "identifier": "/us/usc/t46/s4702"
+                    },
+                    {
+                      "number": "4703",
+                      "numText": "§ 4703.",
+                      "heading": "Penalty for unlawful abandonment of barge",
+                      "identifier": "/us/usc/t46/s4703"
+                    },
+                    {
+                      "number": "4704",
+                      "numText": "§ 4704.",
+                      "heading": "Removal of abandoned barges",
+                      "identifier": "/us/usc/t46/s4704"
+                    },
+                    {
+                      "number": "4705",
+                      "numText": "§ 4705.",
+                      "heading": "Liability of barge removal contractors",
+                      "identifier": "/us/usc/t46/s4705"
+                    }
+                  ]
                 },
                 {
-                  "number": "4702",
-                  "numText": "§ 4702.",
-                  "heading": "Abandonment of barge prohibited",
-                  "identifier": "/us/usc/t46/s4702"
-                },
-                {
-                  "number": "4703",
-                  "numText": "§ 4703.",
-                  "heading": "Penalty for unlawful abandonment of barge",
-                  "identifier": "/us/usc/t46/s4703"
-                },
-                {
-                  "number": "4704",
-                  "numText": "§ 4704.",
-                  "heading": "Removal of abandoned barges",
-                  "identifier": "/us/usc/t46/s4704"
-                },
-                {
-                  "number": "4705",
-                  "numText": "§ 4705.",
-                  "heading": "Liability of barge removal contractors",
-                  "identifier": "/us/usc/t46/s4705"
+                  "type": "subchapter",
+                  "number": "II",
+                  "heading": "NON-BARGE VESSELS",
+                  "identifier": "/us/usc/t46/stII/ptB/ch47/schII",
+                  "children": [
+                    {
+                      "number": "4710",
+                      "numText": "§ 4710.",
+                      "heading": "Definitions",
+                      "identifier": "/us/usc/t46/s4710"
+                    },
+                    {
+                      "number": "4711",
+                      "numText": "§ 4711.",
+                      "heading": "Abandonment of vessels prohibited",
+                      "identifier": "/us/usc/t46/s4711"
+                    },
+                    {
+                      "number": "4712",
+                      "numText": "§ 4712.",
+                      "heading": "Inventory of abandoned vessels",
+                      "identifier": "/us/usc/t46/s4712"
+                    }
+                  ]
                 }
               ]
             },
@@ -1244,7 +1284,7 @@
                 {
                   "number": "7102",
                   "numText": "§ 7102.",
-                  "heading": "Citizenship",
+                  "heading": "Citizenship or noncitizen nationality",
                   "identifier": "/us/usc/t46/s7102"
                 },
                 {
@@ -1360,7 +1400,7 @@
                 {
                   "number": "7304",
                   "numText": "§ 7304.",
-                  "heading": "Citizenship notation on merchant mariners’ documents",
+                  "heading": "Citizenship or noncitizen nationality notation on merchant mariners’ documents",
                   "identifier": "/us/usc/t46/s7304"
                 },
                 {
@@ -1372,7 +1412,7 @@
                 {
                   "number": "7306",
                   "numText": "§ 7306.",
-                  "heading": "General requirements and classifications for able seamen",
+                  "heading": "General requirements and classifications for members of deck departments",
                   "identifier": "/us/usc/t46/s7306"
                 },
                 {
@@ -1425,8 +1465,8 @@
                 },
                 {
                   "number": "7314",
-                  "numText": "§ 7314.",
-                  "heading": "Service requirements for qualified members of engine departments",
+                  "numText": "[§ 7314.",
+                  "heading": "Repealed. Pub. L. 119–60, div. G, title LXXIII, § 7301(f), Dec. 18, 2025, 139 Stat. 1755]",
                   "identifier": "/us/usc/t46/s7314"
                 },
                 {
@@ -1532,6 +1572,12 @@
                   "numText": "§ 7511.",
                   "heading": "Convicted sex offender as grounds for denial",
                   "identifier": "/us/usc/t46/s7511"
+                },
+                {
+                  "number": "7512",
+                  "numText": "§ 7512.",
+                  "heading": "Requirements of electronic merchant mariner credentialing system",
+                  "identifier": "/us/usc/t46/s7512"
                 }
               ]
             },
@@ -1614,7 +1660,7 @@
                 {
                   "number": "8103",
                   "numText": "§ 8103.",
-                  "heading": "Citizenship and Navy Reserve requirements",
+                  "heading": "Citizenship or noncitizen nationality and Navy Reserve requirements",
                   "identifier": "/us/usc/t46/s8103"
                 },
                 {
@@ -6974,7 +7020,7 @@
                 {
                   "number": "70032",
                   "numText": "§ 70032.",
-                  "heading": "Saint Lawrence Seaway",
+                  "heading": "Delegation of ports and waterways authorities in Saint Lawrence Seaway",
                   "identifier": "/us/usc/t46/s70032"
                 },
                 {

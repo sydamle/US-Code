@@ -2,8 +2,8 @@
   "number": "42",
   "name": "The Public Health And Welfare",
   "identifier": "/us/usc/t42",
-  "version": "Online@119-73not60",
-  "updated": "2026-01-22",
+  "version": "Online@119-83",
+  "updated": "2026-04-17",
   "children": [
     {
       "type": "chapter",
@@ -3308,6 +3308,12 @@
                   "identifier": "/us/usc/t42/s283a–4"
                 },
                 {
+                  "number": "283a–5",
+                  "numText": "§ 283a–5.",
+                  "heading": "Grant recipient requirements regarding harassment investigation and reporting",
+                  "identifier": "/us/usc/t42/s283a–5"
+                },
+                {
                   "number": "283b",
                   "numText": "§ 283b.",
                   "heading": "Repealed. Pub. L. 106–525, title I, § 101(b)(2), Nov. 22, 2000, 114 Stat. 2501",
@@ -6462,6 +6468,12 @@
                       "numText": "§ 294t.",
                       "heading": "Programs to promote mental health among the health professional workforce",
                       "identifier": "/us/usc/t42/s294t"
+                    },
+                    {
+                      "number": "294u",
+                      "numText": "§ 294u.",
+                      "heading": "Education and awareness initiative encouraging use of mental health and substance use disorder services by health care professionals",
+                      "identifier": "/us/usc/t42/s294u"
                     }
                   ]
                 },
@@ -10930,6 +10942,12 @@
                   "numText": "§ 300gg–120.",
                   "heading": "Reporting on pharmacy benefits and drug costs",
                   "identifier": "/us/usc/t42/s300gg–120"
+                },
+                {
+                  "number": "300gg–121",
+                  "numText": "§ 300gg–121.",
+                  "heading": "Oversight of entities that provide pharmacy benefit management services",
+                  "identifier": "/us/usc/t42/s300gg–121"
                 }
               ]
             },
@@ -15492,6 +15510,12 @@
               "numText": "§ 1396w–8.",
               "heading": "Collection and reporting of comprehensive data for specified populations",
               "identifier": "/us/usc/t42/s1396w–8"
+            },
+            {
+              "number": "1396w–9",
+              "numText": "§ 1396w–9.",
+              "heading": "State studies and HHS report on costs of providing maternity, labor, and delivery services",
+              "identifier": "/us/usc/t42/s1396w–9"
             }
           ]
         },
@@ -57508,6 +57532,12 @@
                   "numText": "§ 16282.",
                   "heading": "U.S. nuclear fuel security initiative",
                   "identifier": "/us/usc/t42/s16282"
+                },
+                {
+                  "number": "16283",
+                  "numText": "§ 16283.",
+                  "heading": "International nuclear energy",
+                  "identifier": "/us/usc/t42/s16283"
                 }
               ]
             },
