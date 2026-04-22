@@ -2,8 +2,8 @@
   "number": "38",
   "name": "Veterans’ Benefits",
   "identifier": "/us/usc/t38",
-  "version": "Online@119-83",
-  "updated": "2026-04-17",
+  "version": "Online@119-84",
+  "updated": "2026-04-21",
   "children": [
     {
       "type": "part",

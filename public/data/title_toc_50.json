@@ -2,8 +2,8 @@
   "number": "50",
   "name": "War And National Defense",
   "identifier": "/us/usc/t50",
-  "version": "Online@119-83",
-  "updated": "2026-04-17",
+  "version": "Online@119-84",
+  "updated": "2026-04-21",
   "children": [
     {
       "type": "chapter",
