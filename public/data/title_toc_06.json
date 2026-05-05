@@ -2,8 +2,8 @@
   "number": "6",
   "name": "Domestic Security",
   "identifier": "/us/usc/t6",
-  "version": "Online@119-84",
-  "updated": "2026-04-17",
+  "version": "Online@119-87",
+  "updated": "2026-05-04",
   "children": [
     {
       "type": "chapter",
