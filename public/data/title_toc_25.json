@@ -2,8 +2,8 @@
   "number": "25",
   "name": "Indians",
   "identifier": "/us/usc/t25",
-  "version": "Online@119-87",
-  "updated": "2025-07-14",
+  "version": "Online@119-88",
+  "updated": "2026-05-06",
   "children": [
     {
       "type": "chapter",
@@ -16477,6 +16477,32 @@
           "numText": "§ 5807.",
           "heading": "Authorizations of appropriations",
           "identifier": "/us/usc/t25/s5807"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "51",
+      "heading": "TRIBAL TRUST LAND HOMEOWNERSHIP",
+      "identifier": "/us/usc/t25/ch51",
+      "children": [
+        {
+          "number": "5901",
+          "numText": "§ 5901.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t25/s5901"
+        },
+        {
+          "number": "5902",
+          "numText": "§ 5902.",
+          "heading": "Mortgage review and processing",
+          "identifier": "/us/usc/t25/s5902"
+        },
+        {
+          "number": "5903",
+          "numText": "§ 5903.",
+          "heading": "Establishment of Realty Ombudsman position",
+          "identifier": "/us/usc/t25/s5903"
         }
       ]
     }
