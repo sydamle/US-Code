@@ -1,6 +1,6 @@
 {
-  "releasePoint": "119-93",
-  "updated": "2026-05-21",
+  "releasePoint": "119-94",
+  "updated": "2026-06-01",
   "titles": [
     {
       "number": "1",
@@ -289928,6 +289928,20 @@
                   "numText": "§ 50902.",
                   "heading": "Best practices and support",
                   "identifier": "/us/usc/t34/s50902"
+                }
+              ]
+            },
+            {
+              "type": "chapter",
+              "number": "511",
+              "heading": "MEDAL OF SACRIFICE",
+              "identifier": "/us/usc/t34/stV/ch511",
+              "children": [
+                {
+                  "number": "51101",
+                  "numText": "§ 51101.",
+                  "heading": "Medal of sacrifice for law enforcement officers and first responders",
+                  "identifier": "/us/usc/t34/s51101"
                 }
               ]
             }
