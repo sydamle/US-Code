@@ -2,8 +2,8 @@
   "number": "47",
   "name": "Telecommunications",
   "identifier": "/us/usc/t47",
-  "version": "Online@119-99",
-  "updated": "2026-05-13",
+  "version": "Online@119-100",
+  "updated": "2026-07-01",
   "children": [
     {
       "type": "chapter",
