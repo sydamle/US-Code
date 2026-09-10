@@ -2,8 +2,8 @@
   "number": "22",
   "name": "Foreign Relations And Intercourse",
   "identifier": "/us/usc/t22",
-  "version": "Online@119-102not101",
-  "updated": "2026-04-17",
+  "version": "Online@119-103",
+  "updated": "2026-09-09",
   "children": [
     {
       "type": "chapter",
@@ -15016,64 +15016,10 @@
       "identifier": "/us/usc/t22/ch50",
       "children": [
         {
-          "number": "3501",
-          "numText": "§ 3501.",
-          "heading": "Congressional statement of policy",
-          "identifier": "/us/usc/t22/s3501"
-        },
-        {
-          "number": "3502",
-          "numText": "§ 3502.",
-          "heading": "Purposes and establishment; policy guidelines and objectives",
-          "identifier": "/us/usc/t22/s3502"
-        },
-        {
-          "number": "3503",
-          "numText": "§ 3503.",
-          "heading": "Functions",
-          "identifier": "/us/usc/t22/s3503"
-        },
-        {
-          "number": "3504",
-          "numText": "§ 3504.",
-          "heading": "General authorities; fiscal requirement for authorities",
-          "identifier": "/us/usc/t22/s3504"
-        },
-        {
-          "number": "3505",
-          "numText": "§ 3505.",
-          "heading": "Director",
-          "identifier": "/us/usc/t22/s3505"
-        },
-        {
-          "number": "3506",
-          "numText": "§ 3506.",
-          "heading": "Deputy Director",
-          "identifier": "/us/usc/t22/s3506"
-        },
-        {
-          "number": "3507",
-          "numText": "§ 3507.",
-          "heading": "Council on International Scientific and Technological Cooperation",
-          "identifier": "/us/usc/t22/s3507"
-        },
-        {
-          "number": "3508",
-          "numText": "§ 3508.",
-          "heading": "Fellowships",
-          "identifier": "/us/usc/t22/s3508"
-        },
-        {
-          "number": "3509",
-          "numText": "§ 3509.",
-          "heading": "Conflict of interest; personnel and activities covered",
-          "identifier": "/us/usc/t22/s3509"
-        },
-        {
-          "number": "3510",
-          "numText": "§ 3510.",
-          "heading": "Authorization of appropriations",
-          "identifier": "/us/usc/t22/s3510"
+          "number": "3501 to 3513",
+          "numText": "§§ 3501 to 3513.",
+          "heading": "Omitted or Repealed.",
+          "identifier": "/us/usc/t22/s3501...3513"
         },
         {
           "number": "3511",
@@ -15086,12 +15032,6 @@
           "numText": "§ 3512.",
           "heading": "Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(5), Oct. 21, 1998, 112 Stat. 2681–793",
           "identifier": "/us/usc/t22/s3512"
-        },
-        {
-          "number": "3513",
-          "numText": "§ 3513.",
-          "heading": "Expiration of statutory authorities",
-          "identifier": "/us/usc/t22/s3513"
         }
       ]
     },

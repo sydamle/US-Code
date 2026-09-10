@@ -2,8 +2,8 @@
   "number": "7",
   "name": "Agriculture",
   "identifier": "/us/usc/t7",
-  "version": "Online@119-102not101",
-  "updated": "2026-04-17",
+  "version": "Online@119-103",
+  "updated": "2026-09-09",
   "children": [
     {
       "type": "chapter",
@@ -9956,7 +9956,7 @@
             {
               "number": "2009n",
               "numText": "§ 2009n.",
-              "heading": "Repealed. Pub. L. 107–171, title VI, § 6026(b), May 13, 2002, 116 Stat. 372",
+              "heading": "Rural Community Development Initiative",
               "identifier": "/us/usc/t7/s2009n"
             }
           ]

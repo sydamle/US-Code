@@ -1,6 +1,6 @@
 {
-  "releasePoint": "119-102not101",
-  "updated": "2026-07-16",
+  "releasePoint": "119-103",
+  "updated": "2026-09-09",
   "titles": [
     {
       "number": "1",
@@ -34756,7 +34756,7 @@
                 {
                   "number": "2009n",
                   "numText": "§ 2009n.",
-                  "heading": "Repealed. Pub. L. 107–171, title VI, § 6026(b), May 13, 2002, 116 Stat. 372",
+                  "heading": "Rural Community Development Initiative",
                   "identifier": "/us/usc/t7/s2009n"
                 }
               ]
@@ -80753,6 +80753,12 @@
                   "numText": "§ 422.",
                   "heading": "Omitted",
                   "identifier": "/us/usc/t12/s422"
+                },
+                {
+                  "number": "423",
+                  "numText": "§ 423.",
+                  "heading": "Central bank digital currency",
+                  "identifier": "/us/usc/t12/s423"
                 }
               ]
             },
@@ -84218,7 +84224,7 @@
                 {
                   "number": "1761b",
                   "numText": "§ 1761b.",
-                  "heading": "Board of directors; meetings; powers and duties; executive committee; membership officers; membership application",
+                  "heading": "Board of directors; meetings; powers and duties; executive committee; membership officers; membership applications",
                   "identifier": "/us/usc/t12/s1761b"
                 },
                 {
@@ -87806,7 +87812,7 @@
             {
               "number": "3338",
               "numText": "§ 3338.",
-              "heading": "Roster of State certified or licensed appraisers; authority to collect and transmit fees",
+              "heading": "Roster of State, certified, licensed, and credentialed trainee appraisers; authority to collect and transmit fees",
               "identifier": "/us/usc/t12/s3338"
             },
             {
@@ -89360,6 +89366,18 @@
                           "numText": "§ 4548.",
                           "heading": "Regulations for use of credit scores",
                           "identifier": "/us/usc/t12/s4548"
+                        },
+                        {
+                          "number": "4549",
+                          "numText": "§ 4549.",
+                          "heading": "Uniform residential loan application",
+                          "identifier": "/us/usc/t12/s4549"
+                        },
+                        {
+                          "number": "4550",
+                          "numText": "§ 4550.",
+                          "heading": "Uniform residential loan application",
+                          "identifier": "/us/usc/t12/s4550"
                         }
                       ]
                     },
@@ -205704,64 +205722,10 @@
           "identifier": "/us/usc/t22/ch50",
           "children": [
             {
-              "number": "3501",
-              "numText": "§ 3501.",
-              "heading": "Congressional statement of policy",
-              "identifier": "/us/usc/t22/s3501"
-            },
-            {
-              "number": "3502",
-              "numText": "§ 3502.",
-              "heading": "Purposes and establishment; policy guidelines and objectives",
-              "identifier": "/us/usc/t22/s3502"
-            },
-            {
-              "number": "3503",
-              "numText": "§ 3503.",
-              "heading": "Functions",
-              "identifier": "/us/usc/t22/s3503"
-            },
-            {
-              "number": "3504",
-              "numText": "§ 3504.",
-              "heading": "General authorities; fiscal requirement for authorities",
-              "identifier": "/us/usc/t22/s3504"
-            },
-            {
-              "number": "3505",
-              "numText": "§ 3505.",
-              "heading": "Director",
-              "identifier": "/us/usc/t22/s3505"
-            },
-            {
-              "number": "3506",
-              "numText": "§ 3506.",
-              "heading": "Deputy Director",
-              "identifier": "/us/usc/t22/s3506"
-            },
-            {
-              "number": "3507",
-              "numText": "§ 3507.",
-              "heading": "Council on International Scientific and Technological Cooperation",
-              "identifier": "/us/usc/t22/s3507"
-            },
-            {
-              "number": "3508",
-              "numText": "§ 3508.",
-              "heading": "Fellowships",
-              "identifier": "/us/usc/t22/s3508"
-            },
-            {
-              "number": "3509",
-              "numText": "§ 3509.",
-              "heading": "Conflict of interest; personnel and activities covered",
-              "identifier": "/us/usc/t22/s3509"
-            },
-            {
-              "number": "3510",
-              "numText": "§ 3510.",
-              "heading": "Authorization of appropriations",
-              "identifier": "/us/usc/t22/s3510"
+              "number": "3501 to 3513",
+              "numText": "§§ 3501 to 3513.",
+              "heading": "Omitted or Repealed.",
+              "identifier": "/us/usc/t22/s3501...3513"
             },
             {
               "number": "3511",
@@ -205774,12 +205738,6 @@
               "numText": "§ 3512.",
               "heading": "Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(5), Oct. 21, 1998, 112 Stat. 2681–793",
               "identifier": "/us/usc/t22/s3512"
-            },
-            {
-              "number": "3513",
-              "numText": "§ 3513.",
-              "heading": "Expiration of statutory authorities",
-              "identifier": "/us/usc/t22/s3513"
             }
           ]
         },
@@ -333364,6 +333322,12 @@
                   "identifier": "/us/usc/t42/s1471"
                 },
                 {
+                  "number": "1471a",
+                  "numText": "§ 1471a.",
+                  "heading": "Exemption on construction or modification of residential housing located on an infill site",
+                  "identifier": "/us/usc/t42/s1471a"
+                },
+                {
                   "number": "1472",
                   "numText": "§ 1472.",
                   "heading": "Loans for housing and buildings on adequate farms",
@@ -333614,6 +333578,18 @@
                   "numText": "§ 1490t.",
                   "heading": "Indian tribes",
                   "identifier": "/us/usc/t42/s1490t"
+                },
+                {
+                  "number": "1490u",
+                  "numText": "§ 1490u.",
+                  "heading": "Housing preservation and revitalization program",
+                  "identifier": "/us/usc/t42/s1490u"
+                },
+                {
+                  "number": "1490v",
+                  "numText": "§ 1490v.",
+                  "heading": "Annual report",
+                  "identifier": "/us/usc/t42/s1490v"
                 }
               ]
             }
@@ -344016,7 +343992,7 @@
             {
               "number": "3537b",
               "numText": "§ 3537b.",
-              "heading": "Repealed. Pub. L. 104–65, § 11(b)(1), Dec. 19, 1995, 109 Stat. 701",
+              "heading": "Designation of environmental review procedure",
               "identifier": "/us/usc/t42/s3537b"
             },
             {
@@ -350546,6 +350522,18 @@
               "numText": "§ 5322.",
               "heading": "Funds made available for administrative costs without regard to particular disaster appropriation",
               "identifier": "/us/usc/t42/s5322"
+            },
+            {
+              "number": "5323",
+              "numText": "§ 5323.",
+              "heading": "Preservation and reinvestment for community enhancement",
+              "identifier": "/us/usc/t42/s5323"
+            },
+            {
+              "number": "5324",
+              "numText": "§ 5324.",
+              "heading": "Community development block grant disaster recovery program",
+              "identifier": "/us/usc/t42/s5324"
             }
           ]
         },
@@ -366766,7 +366754,7 @@
                 {
                   "number": "12705d",
                   "numText": "§ 12705d.",
-                  "heading": "Regulatory barriers clearinghouse",
+                  "heading": "Repealed. Pub. L. 119–101, title I, § 107(c)(2), July 11, 2026, 140 Stat. 859",
                   "identifier": "/us/usc/t42/s12705d"
                 },
                 {
@@ -366852,7 +366840,7 @@
                 {
                   "number": "12724",
                   "numText": "§ 12724.",
-                  "heading": "Authorization",
+                  "heading": "Authorization of program",
                   "identifier": "/us/usc/t42/s12724"
                 },
                 {
@@ -366942,7 +366930,7 @@
                     {
                       "number": "12753",
                       "numText": "§ 12753.",
-                      "heading": "Penalties for misuse of funds",
+                      "heading": "Program enforcement and penalties for noncompliance",
                       "identifier": "/us/usc/t42/s12753"
                     },
                     {
@@ -366962,6 +366950,12 @@
                       "numText": "§ 12756.",
                       "heading": "Monitoring of compliance",
                       "identifier": "/us/usc/t42/s12756"
+                    },
+                    {
+                      "number": "12757",
+                      "numText": "§ 12757.",
+                      "heading": "Revitalizing empty structures into desirable environments",
+                      "identifier": "/us/usc/t42/s12757"
                     }
                   ]
                 },
@@ -367182,6 +367176,12 @@
                       "numText": "§ 12840.",
                       "heading": "Suspension of requirements for disaster areas",
                       "identifier": "/us/usc/t42/s12840"
+                    },
+                    {
+                      "number": "12841",
+                      "numText": "§ 12841.",
+                      "heading": "Nonapplicability of certain requirements for small projects",
+                      "identifier": "/us/usc/t42/s12841"
                     }
                   ]
                 }
@@ -380260,6 +380260,92 @@
               "numText": "§ 19404.",
               "heading": "Applicability",
               "identifier": "/us/usc/t42/s19404"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "number": "165",
+          "heading": "INCREASING HOUSING SUPPLY",
+          "identifier": "/us/usc/t42/ch165",
+          "children": [
+            {
+              "type": "subchapter",
+              "number": "I",
+              "heading": "BUILDING MORE IN AMERICA",
+              "identifier": "/us/usc/t42/ch165/schI",
+              "children": [
+                {
+                  "number": "19501",
+                  "numText": "§ 19501.",
+                  "heading": "Increasing housing in opportunity zones",
+                  "identifier": "/us/usc/t42/s19501"
+                },
+                {
+                  "number": "19502",
+                  "numText": "§ 19502.",
+                  "heading": "Whole-Home Repairs Act",
+                  "identifier": "/us/usc/t42/s19502"
+                },
+                {
+                  "number": "19503",
+                  "numText": "§ 19503.",
+                  "heading": "Unlocking Housing Supply Through Streamlined and Modernized Reviews Act",
+                  "identifier": "/us/usc/t42/s19503"
+                },
+                {
+                  "number": "19504",
+                  "numText": "§ 19504.",
+                  "heading": "Grants for planning and implementation associated with affordable housing",
+                  "identifier": "/us/usc/t42/s19504"
+                },
+                {
+                  "number": "19505",
+                  "numText": "§ 19505.",
+                  "heading": "Innovation fund",
+                  "identifier": "/us/usc/t42/s19505"
+                },
+                {
+                  "number": "19506",
+                  "numText": "§ 19506.",
+                  "heading": "Accelerating Home Building Act",
+                  "identifier": "/us/usc/t42/s19506"
+                },
+                {
+                  "number": "19507",
+                  "numText": "§ 19507.",
+                  "heading": "Build Now Act",
+                  "identifier": "/us/usc/t42/s19507"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "II",
+              "heading": "HOME-OWNERSHIP FOR MAIN STREET AMERICA",
+              "identifier": "/us/usc/t42/ch165/schII",
+              "children": [
+                {
+                  "number": "19521",
+                  "numText": "§ 19521.",
+                  "heading": "Homes are for people, not corporations",
+                  "identifier": "/us/usc/t42/s19521"
+                }
+              ]
+            },
+            {
+              "type": "subchapter",
+              "number": "III",
+              "heading": "MISCELLANEOUS",
+              "identifier": "/us/usc/t42/ch165/schIII",
+              "children": [
+                {
+                  "number": "19531",
+                  "numText": "§ 19531.",
+                  "heading": "Severability",
+                  "identifier": "/us/usc/t42/s19531"
+                }
+              ]
             }
           ]
         }

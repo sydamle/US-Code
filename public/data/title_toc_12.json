@@ -2,8 +2,8 @@
   "number": "12",
   "name": "Banks And Banking",
   "identifier": "/us/usc/t12",
-  "version": "Online@119-102not101",
-  "updated": "2026-04-17",
+  "version": "Online@119-103",
+  "updated": "2026-07-23",
   "children": [
     {
       "type": "chapter",
@@ -2056,6 +2056,12 @@
               "numText": "§ 422.",
               "heading": "Omitted",
               "identifier": "/us/usc/t12/s422"
+            },
+            {
+              "number": "423",
+              "numText": "§ 423.",
+              "heading": "Central bank digital currency",
+              "identifier": "/us/usc/t12/s423"
             }
           ]
         },
@@ -5521,7 +5527,7 @@
             {
               "number": "1761b",
               "numText": "§ 1761b.",
-              "heading": "Board of directors; meetings; powers and duties; executive committee; membership officers; membership application",
+              "heading": "Board of directors; meetings; powers and duties; executive committee; membership officers; membership applications",
               "identifier": "/us/usc/t12/s1761b"
             },
             {
@@ -9109,7 +9115,7 @@
         {
           "number": "3338",
           "numText": "§ 3338.",
-          "heading": "Roster of State certified or licensed appraisers; authority to collect and transmit fees",
+          "heading": "Roster of State, certified, licensed, and credentialed trainee appraisers; authority to collect and transmit fees",
           "identifier": "/us/usc/t12/s3338"
         },
         {
@@ -10663,6 +10669,18 @@
                       "numText": "§ 4548.",
                       "heading": "Regulations for use of credit scores",
                       "identifier": "/us/usc/t12/s4548"
+                    },
+                    {
+                      "number": "4549",
+                      "numText": "§ 4549.",
+                      "heading": "Uniform residential loan application",
+                      "identifier": "/us/usc/t12/s4549"
+                    },
+                    {
+                      "number": "4550",
+                      "numText": "§ 4550.",
+                      "heading": "Uniform residential loan application",
+                      "identifier": "/us/usc/t12/s4550"
                     }
                   ]
                 },
