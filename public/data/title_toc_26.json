@@ -2,8 +2,8 @@
   "number": "26",
   "name": "Internal Revenue Code",
   "identifier": "/us/usc/t26",
-  "version": "Online@119-103",
-  "updated": "2026-09-09",
+  "version": "Online@119-108",
+  "updated": "2026-09-16",
   "children": [
     {
       "type": "subtitle",
@@ -1335,6 +1335,12 @@
                       "numText": "§ 139L.",
                       "heading": "Interest on loans secured by rural or agricultural real property",
                       "identifier": "/us/usc/t26/s139L"
+                    },
+                    {
+                      "number": "139M",
+                      "numText": "§ 139M.",
+                      "heading": "Compensation for losses or damages resulting from certain wildfires",
+                      "identifier": "/us/usc/t26/s139M"
                     },
                     {
                       "number": "140",

@@ -1,6 +1,6 @@
 {
-  "releasePoint": "119-103",
-  "updated": "2026-09-09",
+  "releasePoint": "119-108",
+  "updated": "2026-09-16",
   "titles": [
     {
       "number": "1",
@@ -236368,6 +236368,12 @@
                           "numText": "§ 139L.",
                           "heading": "Interest on loans secured by rural or agricultural real property",
                           "identifier": "/us/usc/t26/s139L"
+                        },
+                        {
+                          "number": "139M",
+                          "numText": "§ 139M.",
+                          "heading": "Compensation for losses or damages resulting from certain wildfires",
+                          "identifier": "/us/usc/t26/s139M"
                         },
                         {
                           "number": "140",
