@@ -2,8 +2,8 @@
   "number": "42",
   "name": "The Public Health And Welfare",
   "identifier": "/us/usc/t42",
-  "version": "Online@119-110",
-  "updated": "2026-09-09",
+  "version": "Online@119-111",
+  "updated": "2026-09-24",
   "children": [
     {
       "type": "chapter",

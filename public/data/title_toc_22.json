@@ -2,8 +2,8 @@
   "number": "22",
   "name": "Foreign Relations And Intercourse",
   "identifier": "/us/usc/t22",
-  "version": "Online@119-110",
-  "updated": "2026-09-09",
+  "version": "Online@119-111",
+  "updated": "2026-09-24",
   "children": [
     {
       "type": "chapter",
@@ -25572,6 +25572,116 @@
           "numText": "§ 10710.",
           "heading": "Reports on Russian and Chinese malign influence operations and campaigns in the Western Balkans",
           "identifier": "/us/usc/t22/s10710"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "115",
+      "heading": "SANCTIONS WITH RESPECT TO THE RUSSIAN FEDERATION",
+      "identifier": "/us/usc/t22/ch115",
+      "children": [
+        {
+          "number": "10801",
+          "numText": "§ 10801.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t22/s10801"
+        },
+        {
+          "number": "10802",
+          "numText": "§ 10802.",
+          "heading": "Imposition of sanctions on certain persons affiliated with or supporting the Government of the Russian Federation",
+          "identifier": "/us/usc/t22/s10802"
+        },
+        {
+          "number": "10803",
+          "numText": "§ 10803.",
+          "heading": "Imposition of sanctions with respect to financial institutions affiliated with the Government of the Russian Federation",
+          "identifier": "/us/usc/t22/s10803"
+        },
+        {
+          "number": "10804",
+          "numText": "§ 10804.",
+          "heading": "Imposition of sanctions with respect to other entities owned or controlled by the Government of the Russian Federation",
+          "identifier": "/us/usc/t22/s10804"
+        },
+        {
+          "number": "10805",
+          "numText": "§ 10805.",
+          "heading": "Prohibition on transfers of funds involving the Russian Federation",
+          "identifier": "/us/usc/t22/s10805"
+        },
+        {
+          "number": "10806",
+          "numText": "§ 10806.",
+          "heading": "Prohibition on listing or trading of Russian entities on United States securities exchanges",
+          "identifier": "/us/usc/t22/s10806"
+        },
+        {
+          "number": "10807",
+          "numText": "§ 10807.",
+          "heading": "Prohibition on investment by United States persons in the Russian Federation",
+          "identifier": "/us/usc/t22/s10807"
+        },
+        {
+          "number": "10808",
+          "numText": "§ 10808.",
+          "heading": "Prohibition on energy exports to, and investment in energy sector of, the Russian Federation",
+          "identifier": "/us/usc/t22/s10808"
+        },
+        {
+          "number": "10809",
+          "numText": "§ 10809.",
+          "heading": "Prohibition on purchase of sovereign debt of the Russian Federation by United States persons",
+          "identifier": "/us/usc/t22/s10809"
+        },
+        {
+          "number": "10810",
+          "numText": "§ 10810.",
+          "heading": "Prohibition on provision of services to sanctioned financial institutions by international financial messaging systems",
+          "identifier": "/us/usc/t22/s10810"
+        },
+        {
+          "number": "10811",
+          "numText": "§ 10811.",
+          "heading": "Prohibition on importing, and sanctions with respect to, uranium from the Russian Federation",
+          "identifier": "/us/usc/t22/s10811"
+        },
+        {
+          "number": "10812",
+          "numText": "§ 10812.",
+          "heading": "Increase in duties on goods imported from the Russian Federation",
+          "identifier": "/us/usc/t22/s10812"
+        },
+        {
+          "number": "10813",
+          "numText": "§ 10813.",
+          "heading": "Duties on countries that purchase Russian-origin crude oil or natural gas or facilitate sanctions evasion",
+          "identifier": "/us/usc/t22/s10813"
+        },
+        {
+          "number": "10814",
+          "numText": "§ 10814.",
+          "heading": "Exceptions",
+          "identifier": "/us/usc/t22/s10814"
+        },
+        {
+          "number": "10815",
+          "numText": "§ 10815.",
+          "heading": "Waiver",
+          "identifier": "/us/usc/t22/s10815"
+        },
+        {
+          "number": "10816",
+          "numText": "§ 10816.",
+          "heading": "Sanctions implementation and penalties",
+          "identifier": "/us/usc/t22/s10816"
+        },
+        {
+          "number": "10817",
+          "numText": "§ 10817.",
+          "heading": "Termination",
+          "identifier": "/us/usc/t22/s10817"
         }
       ]
     }
