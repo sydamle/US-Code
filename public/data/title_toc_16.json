@@ -2,8 +2,8 @@
   "number": "16",
   "name": "Conservation",
   "identifier": "/us/usc/t16",
-  "version": "Online@119-111",
-  "updated": "2026-07-16",
+  "version": "Online@119-120",
+  "updated": "2026-09-30",
   "children": [
     {
       "type": "chapter",
@@ -22815,6 +22815,12 @@
               "numText": "§ 823g.",
               "heading": "Considerations for relicensing terms",
               "identifier": "/us/usc/t16/s823g"
+            },
+            {
+              "number": "823h",
+              "numText": "§ 823h.",
+              "heading": "Annual licensing status report",
+              "identifier": "/us/usc/t16/s823h"
             }
           ]
         },
@@ -33629,6 +33635,44 @@
           "numText": "§ 6876.",
           "heading": "Effect",
           "identifier": "/us/usc/t16/s6876"
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "number": "87C",
+      "heading": "MODERNIZING ACCESS TO PUBLIC OCEANS",
+      "identifier": "/us/usc/t16/ch87C",
+      "children": [
+        {
+          "number": "6881",
+          "numText": "§ 6881.",
+          "heading": "Definitions",
+          "identifier": "/us/usc/t16/s6881"
+        },
+        {
+          "number": "6882",
+          "numText": "§ 6882.",
+          "heading": "Data standardization",
+          "identifier": "/us/usc/t16/s6882"
+        },
+        {
+          "number": "6883",
+          "numText": "§ 6883.",
+          "heading": "Data publication and accessibility",
+          "identifier": "/us/usc/t16/s6883"
+        },
+        {
+          "number": "6884",
+          "numText": "§ 6884.",
+          "heading": "Cooperation and coordination",
+          "identifier": "/us/usc/t16/s6884"
+        },
+        {
+          "number": "6885",
+          "numText": "§ 6885.",
+          "heading": "Rule of construction",
+          "identifier": "/us/usc/t16/s6885"
         }
       ]
     },
